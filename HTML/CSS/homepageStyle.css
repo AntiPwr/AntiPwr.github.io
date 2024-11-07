@@ -1,0 +1,172 @@
+/* styles.css */
+
+/* Global Styles */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Header */
+header {
+    background-image: url('header-background.jpg'); /* Replace with your image */
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    padding: 100px 0;
+    text-align: center;
+}
+
+    header h1 {
+        font-size: 3.5em;
+        margin-bottom: 10px;
+        text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+        text-align: center;
+    }
+
+    header p {
+        font-size: 1.5em;
+    }
+
+/* Navigation */
+nav {
+    background-color: #333;
+}
+
+    nav ul {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        list-style-type: none;
+    }
+
+    nav li {
+        margin: 0;
+    }
+
+    nav a {
+        display: block;
+        padding: 15px 20px;
+        color: #fff;
+        text-decoration: none;
+        font-weight: bold;
+        transition: background-color 0.3s ease;
+    }
+
+        nav a:hover {
+            background-color: #555;
+        }
+
+/* Main Content */
+main {
+    max-width: 1200px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+    main h2 {
+        font-size: 2.5em;
+        margin-bottom: 20px;
+        color: #333;
+    }
+
+#introduction p {
+    font-size: 1.2em;
+    margin-bottom: 30px;
+    line-height: 1.8;
+}
+
+/* News Section */
+#news {
+    margin-top: 60px;
+}
+
+.news-slider {
+    position: relative;
+    overflow: hidden;
+    height: 250px; /* Adjust as needed */
+}
+
+.news-item {
+    position: absolute;
+    width: 100%;
+    opacity: 0;
+    padding: 20px;
+    background-color: #fff;
+    transition: opacity 1s ease-in-out;
+}
+
+    .news-item.active {
+        opacity: 1;
+    }
+
+    .news-item h3 {
+        font-size: 1.8em;
+        margin-bottom: 15px;
+    }
+
+    .news-item p {
+        font-size: 1.1em;
+        line-height: 1.6;
+    }
+
+/* Footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 60px;
+}
+
+/* Media Queries for Responsive Design */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 2.5em;
+    }
+
+    header p {
+        font-size: 1.2em;
+    }
+
+    nav ul {
+        flex-direction: column;
+    }
+
+    nav a {
+        text-align: center;
+        padding: 10px;
+    }
+
+    main {
+        margin: 20px auto;
+    }
+
+    #news {
+        margin-top: 40px;
+    }
+}
+
+@media (max-width: 480px) {
+    header {
+        padding: 80px 0;
+    }
+
+        header h1 {
+            font-size: 2em;
+        }
+
+        header p {
+            font-size: 1em;
+        }
+}
+
+/* Optional: Add any additional styles as needed */
+ 
