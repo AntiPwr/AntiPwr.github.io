@@ -3,111 +3,112 @@
 <head>
     <meta charset="UTF-8">
     <title>Sea Level</title>
-    <link rel="stylesheet" href="root/CSS/homepageStyle.css"> <!-- Link to your CSS file -->
-    <!-- Include the CSS styles for the overlay -->
-    <style>
-        /* Overlay styles */
-        #overlay {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background-color: #373854; 
-            display: flex;
-            flex-direction: column; /* Stack items vertically */
-            justify-content: center;
-            align-items: center;
-            z-index: 9999; /* Ensure it stays on top */
-        }
-
-        /* Keyhole image styles */
-        #keyhole {
-            cursor: pointer;
-            width: 250px; /* Adjust size as needed */
-            max-width: 80%; /* Ensure it doesn't exceed viewport width */
-            height: auto;
-        }
-
-        /* Hide the main content initially */
-        #content {
-            display: none;
-        }
-
-        /* Optional: Style for the overlay heading */
-        #overlay h1 {
-            color: #fff;
-            margin-bottom: 150px;
-            text-align: center;
-            font-size: 80px;
-            color: #ffb715;
-            text-shadow: 0px 0px 40px;
-            
-            font-family: 'Bodoni MT'
-            
-        }
-
-        
-    </style>
+    <link rel="stylesheet" href="https://use.typekit.net/hpo3tdq.css">
+    <link rel="stylesheet" href="root/CSS/indexStyle.css">
 </head>
 <body>
-    <!-- Overlay -->
-    <div id="overlay">
-        <!--Should be made visible only on startup (DF)-->
-        <h1>Welcome to <br />
-        the Scape</h1>
-        
-        <img id="keyhole" src="root/Images/SeaLevelLogo.png" alt="Click to enter">
+
+
+
+
+
+    <!-- Top Navigation Bar -->
+    <div class="top-nav">
+        <div class="nav-left">
+            <a href="scape_book.html">Book</a>
+            <a href="scape_comics.html">Comics</a>
+        </div>
+        <div class="nav-center">
+            <img src="root/images/top_beak_logo.png" alt="Top Beak Logo">
+        </div>
+        <div class="nav-right">
+            <a href="scape_world_map.html">World Map</a>
+            <a href="scape_wiki.html">Wiki</a>
+        </div>
     </div>
 
-    <!-- Main Content -->
-    <div id="content">
-        <header>
-            <h1>Welcome to the Scape</h1>
-            <p>
-                Sea Level is a source website that encompasses all the works of the Scape, a worldbuilding project. The main focus of this site is the Scape, a fantasy world
-                in which these works and projects exist. Scroll down to read more, or click on one of the links below to explore the space in a way that you would like.
-            </p>
-        </header>
-        <nav>
-            <ul>
-                <li><a href="world_map.html">World Map</a></li>
-                <li><a href="encyclopedia.html">Encyclopedia</a></li>
-                <li><a href="comics.html">Comics</a></li>
-                <li><a href="book.html">Book</a></li>
-                <li><a href="poetry.html">Poetry</a></li>
-                <li><a href="short_stories.html">Short Stories</a></li>
-            </ul>
-        </nav>
-        <section id="question_1">
-            <h2>Question 1?</h2>
-            <p>
-                Answer 1
-            </p>
-        </section>
-        <section id="question_2">
-            <h2>Question 2?</h2>
-            <p>Answer 2</p>
-        </section>
-    </div> <!-- End of content div -->
-    <!-- Include the JavaScript code -->
+
+
+    <h1>
+        Sea
+    </h1>
+
+
+
+
+    <!-- Background Video -->
+    <div class="video-background">
+        <video autoplay loop muted>
+            <source src="background_video.mp4" type="video/mp4">
+            <!-- Include other video formats if necessary -->
+            Your browser does not support the video tag.
+        </video>
+    </div>
+
+
+
+
+
+
+
+
+
+    <!-- Centered Logo -->
+    <div class="center-logo">
+        <img src="root/images/plane_logo.png" alt="Plane Logo">
+    </div>
+
+    <h1>
+        Level
+    </h1>
+
+
+
+
+    <!-- Bottom Navigation Bar -->
+    <div class="bottom-nav">
+        <div class="nav-left">
+            <a href="video_games.html">Video Games</a>
+            <a href="short_stories.html">Short Stories</a>
+        </div>
+
+        <div class="nav-center">
+            <img src="root/images/bottom_beak_logo.png" alt="Bottom Beak Logo">
+        </div>
+        <div class="nav-right">
+            <a href="poetry.html">Poetry</a>
+            <a href="photography.html">Photography</a>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+    <!-- Script: Opens website at center, as opposed to top of page.-->
     <script>
-        document.addEventListener('DOMContentLoaded', function () {
-            const overlay = document.getElementById('overlay');
-            const keyhole = document.getElementById('keyhole');
-            const content = document.getElementById('content');
+        window.onload = function () {
+            // Calculate the total height of the document
+            var totalHeight = Math.max(
+                document.body.scrollHeight,
+                document.documentElement.scrollHeight,
+                document.body.offsetHeight,
+                document.documentElement.offsetHeight,
+                document.body.clientHeight,
+                document.documentElement.clientHeight
+            );
 
-            // Always show the overlay and hide the content on page load
-            overlay.style.display = 'flex';
-            content.style.display = 'none';
+            // Calculate the middle position
+            var middlePosition = (totalHeight - window.innerHeight) / 2;
 
-            // Add click event listener to the keyhole image
-            keyhole.addEventListener('click', function () {
-                // Hide the overlay and show the content
-                overlay.style.display = 'none';
-                content.style.display = 'block';
-            });
-        });
-    </script>
+            // Scroll to the middle position
+            window.scrollTo(0, middlePosition);
+        };</script>
+
 </body>
 </html>
