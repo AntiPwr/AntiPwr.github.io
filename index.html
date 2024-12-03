@@ -18,8 +18,9 @@
 
     <!-- Top Navigation Bar -->
     <div class="top-nav">
+        
         <div class="nav-left">
-            <a href="scape_book.html">Book</a>
+            <a href="scape_book.html">Corvi</a>
             <a href="scape_comics.html">Comics</a>
         </div>
         <div class="nav-center">
@@ -27,44 +28,41 @@
         </div>
         <div class="nav-right">
             <a href="scape_world_map.html">World Map</a>
-            <a href="scape_wiki.html">Wiki</a>
+            <a href="root/scape_wiki.html">Wiki</a>
         </div>
     </div>
 
+    
 
 
-    <h1>
-        Sea
-    </h1>
+    
 
 
 
 
-    <!-- Background Video -->
-    <div class="video-background">
-        <video autoplay loop muted>
-            <source src="background_video.mp4" type="video/mp4">
-            <!-- Include other video formats if necessary -->
-            Your browser does not support the video tag.
-        </video>
+   
+
+
+
+
+
+
+
+
+
+    <!-- backgrounds -->
+    <div class="background-1">
+        <img src="root/images/index_background_1.png" alt="Plane Logo">
     </div>
-
-
-
-
-
-
-
-
-
-    <!-- Centered Logo -->
-    <div class="center-logo">
-        <img src="root/images/plane_logo.png" alt="Plane Logo">
+    <div class="background-0">
+        <img src="root/images/index_background_0.png" alt="Plane Logo">
     </div>
-
-    <h1>
-        Level
-    </h1>
+    <div class="background--1">
+        <img src="root/images/index_background_-1.png" alt="Plane Logo">
+    </div>
+    
+    
+    
 
 
 
@@ -81,7 +79,7 @@
         </div>
         <div class="nav-right">
             <a href="poetry.html">Poetry</a>
-            <a href="photography.html">Photography</a>
+            <a href="photography.html">Michael</a>
         </div>
     </div>
 
@@ -89,30 +87,58 @@
 
 
 
-
-
-
-
-
-    <!-- Script: Opens website at center, as opposed to top of page.-->
     <script>
-        window.onload = function () {
-            // Calculate the total height of the document
-            var totalHeight = Math.max(
-                document.body.scrollHeight,
-                document.documentElement.scrollHeight,
-                document.body.offsetHeight,
-                document.documentElement.offsetHeight,
-                document.body.clientHeight,
-                document.documentElement.clientHeight
-            );
+        document.addEventListener('DOMContentLoaded', function() {
+            var targetElement = document.querySelector('.background-0');
+            if (targetElement) {
+                targetElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            }
+        });
+    </script>
 
-            // Calculate the middle position
-            var middlePosition = (totalHeight - window.innerHeight) / 2;
 
-            // Scroll to the middle position
-            window.scrollTo(0, middlePosition);
-        };</script>
+
+ 
+    
+<script>
+    var lastScrollY = window.scrollY || window.pageYOffset;
+
+    window.addEventListener('scroll', function() {
+        var scrollY = window.scrollY || window.pageYOffset;
+        var windowHeight = window.innerHeight;
+        var documentHeight = document.body.scrollHeight;
+
+        var scrollPercentage = scrollY / (documentHeight - windowHeight);
+
+        if (scrollPercentage > 0.55) { // Adjust the percentage threshold as needed
+            // Scroll up
+            document.querySelector('.top-nav').style.top = '0'; // Show top nav bar
+            document.querySelector('.bottom-nav').style.bottom = '-100px'; // Hide bottom nav bar
+            
+        } else {
+            // keep bottom nav bar showing
+            
+            document.querySelector('.bottom-nav').style.bottom = '0';
+        }
+
+        if (scrollPercentage < 0.45) { // Adjust the percentage threshold as needed
+            // Scroll down
+            document.querySelector('.top-nav').style.top = '-160px'; // Hide top nav bar
+            document.querySelector('.bottom-nav').style.bottom = '0'; // Show bottom nav bar
+
+        } else {
+            // keep top nav bar showing
+            document.querySelector('.top-nav').style.top = '0';
+            
+        }
+
+
+        lastScrollY = scrollY;
+    });
+</script>
+    
+    
+    
 
 </body>
 </html>

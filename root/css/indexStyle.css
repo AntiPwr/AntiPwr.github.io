@@ -2,7 +2,7 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+    
     
 }
 
@@ -24,45 +24,35 @@ body, html {
 
 /* Top Navigation Bar */
 .top-nav {
-    position: relative;
-    top: 0px;
+    position: fixed;
+    height: auto;
     width: 100%;
-    background-color: #1e1e1e;
+    background-image: url('../images/top_nav.png'); /* Replace with your image path */
+    background-size: cover; /* Ensures the image covers the navbar */
+    background-position:center;
     display: inline-grid;
     grid-template-rows: auto;
     grid-template-columns: max-content auto max-content;
     align-items: center;
-    padding: 25px;
-    z-index: 0;
+    padding: 25px 0px 25px 0px;
+    transition: top 0.3s ease;
+    z-index: 1000;
 }
 
 
-    .top-nav .nav-left,
-    .top-nav .nav-right {
-        
-    }
+    
 
     /*Hyperlinks top left*/
-        .top-nav .nav-left a {
-            font-family: Vendetta, sans-serif;
-            color: white;
-            text-decoration: none;
-            margin: 20px 125px 20px 125px;
-            font-size: 2.0em;
-            grid-column-start: 1;
-            grid-column-end: 2;
-            
-        }
-
-        /*Hyperlinks top right*/
+        .top-nav .nav-left a,
         .top-nav .nav-right a {
             font-family: Vendetta, sans-serif;
             color: white;
             text-decoration: none;
             margin: 20px 125px 20px 125px;
             font-size: 2.0em;
-            
         }
+
+        
 
 
 
@@ -75,7 +65,7 @@ body, html {
             height: 200px; 
             width: auto;
             z-index: 1;
-            top: 135%;
+            top: 95%;
             left: 50%;
             transform: translate(-50%, -50%);
         }
@@ -86,27 +76,6 @@ body, html {
 
 
 
-/* Background Video */
-.video-background {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    overflow: hidden;
-    z-index: -1;
-}
-
-    .video-background video {
-        min-width: 100%;
-        min-height: 100%;
-        width: auto;
-        height: auto;
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-    }
 
 
 
@@ -117,18 +86,6 @@ body, html {
 
 
 
-/* Centered Logo */
-.center-logo {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-
-    .center-logo img {
-        height: 150px;
-        width: auto;
-    }
 
 
 
@@ -141,21 +98,20 @@ body, html {
 /* Bottom Navigation Bar */
 .bottom-nav {
     position: fixed;
-    bottom: 0;
     width: 100%;
-    background-color: #1e1e1e;
+    background-image: url('../images/bottom_nav.png'); /* Replace with your image path */
+    background-size: cover; /* Ensures the image covers the navbar */
+    background-position:center;
     display: inline-grid;
     grid-template-rows: auto;
     grid-template-columns: max-content auto max-content;
     align-items: center;
-    padding: 25px;
-    z-index: 0;
+    padding: 25px 0px 25px 0px;
+    transition: bottom 0.3s ease;
+    z-index: 1000;
 }
 
-    .bottom-nav .nav-left,
-    .bottom-nav .nav-right {
-        
-    }
+    
 
         .bottom-nav .nav-left a,
         .bottom-nav .nav-right a {
@@ -170,16 +126,27 @@ body, html {
 
     .bottom-nav .nav-center {
         display:flex;
-    }
+        }
 
         .bottom-nav .nav-center img {
             position: absolute;
             height: 200px; 
             width: auto;
             z-index: 1;
-            top: -15%;
+            top: 13%;
             left: 50%;
             transform: translate(-50%, -50%);
         }
+
+
+
+
+        
+        .background-1 img, .background-0 img, .background--1 img {
+            width: 100%;
+            height: auto;
+            display: block; /* Removes extra space below images */
+        }
+        
 
 

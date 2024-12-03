@@ -2,8 +2,67 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Scape Encyclopedia</title>
-    <link rel="stylesheet" href="root/CSS/encyclopediaStyle.css"> <!-- Link to your CSS file -->
-    
+    <title>Scape Wiki</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Link to external CSS -->
+    <link rel="stylesheet" href="css/scape_wiki_style.css">
+    <!-- Google Fonts (optional) -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+</head>
+<body>
 
-    <!--Include a reference to spoilers in Encyclopedia pages.-->
+    <!-- Navigation Bar -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="#" class="logo">Scape Wiki</a>
+            <ul class="nav-links">
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="scape_wiki.html">Wiki</a></li>
+                <li><a href="about.html">About</a></li>
+            </ul>
+            <div class="nav-search">
+                <input type="text" placeholder="Search...">
+            </div>
+        </div>
+    </nav>
+
+    <!-- Sidebar -->
+    <aside class="sidebar" id="sidebar">
+        <button class="close-btn" id="close-btn">&times;</button>
+        <ul class="sidebar-links">
+            <li><a href="#article1">Introduction</a></li>
+            <li><a href="#article2">History</a></li>
+            
+        </ul>
+    </aside>
+
+    <!-- Main Content -->
+    <main class="content">
+        <button class="open-btn" id="open-btn">&#9776; Menu</button>
+
+        <!-- Example Articles -->
+        <section id="article1">
+            <h1>Introduction</h1>
+            <p>Welcome to the Scape Wiki.</p>
+        </section>
+
+        <section id="article2">
+            <h1>Campaign 1: Character Creation</h1>
+            <p>
+                Starting information regarding lore, character creation, and rules
+                can be found in the links below.
+            </p>
+        </section>
+
+        
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <p>&copy; 2024 Sea Level. All rights reserved.</p>
+    </footer>
+
+    <!-- JavaScript -->
+    <script src="js/scape_wiki_script.js"></script>
+</body>
+</html>
