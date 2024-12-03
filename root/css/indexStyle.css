@@ -66,7 +66,7 @@ body, html {
             width: auto;
             z-index: 1;
             top: 95%;
-            left: 50%;
+            left: 49.975%;
             transform: translate(-50%, -50%);
         }
 
@@ -134,7 +134,7 @@ body, html {
             width: auto;
             z-index: 1;
             top: 13%;
-            left: 50%;
+            left: 49.975%;
             transform: translate(-50%, -50%);
         }
 
