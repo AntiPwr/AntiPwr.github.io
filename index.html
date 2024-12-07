@@ -1,103 +1,89 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-  <meta charset="UTF-8">
-  <title>Sea Level</title>
-  <link rel="stylesheet" href="https://use.typekit.net/hpo3tdq.css">
-  <link rel="stylesheet" href="root/css/index_style.css">
+    <meta charset="UTF-8">
+    <title>Sea Level</title>
+    <link rel="stylesheet" href="https://use.typekit.net/hpo3tdq.css">
+    <link rel="stylesheet" href="root/css/index_style.css">
 </head>
+
 <body>
 
-  <div id="loading-overlay">
-    <!-- Some loading icon here -->
-  </div>
+    <div id="loading-overlay"></div>
 
-  <div class="top-nav">
-    <div class="nav-left">
-      <a href="root/scape_wiki.html">Wiki</a>
-      <a href="root/scape_world_map.html">World Map</a>
+    <div class="top-nav">
+        <div class="nav-left">
+            <a href="root/scape_wiki.html">Wiki</a>
+            <a href="root/scape_world_map.html">World Map</a>
+        </div>
+        <div class="nav-right">
+            <a href="root/scape_comics.html">Comics</a>
+            <a href="root/corvi.html">Corvi</a>
+        </div>
     </div>
-    <div class="nav-right">
-      <a href="root/scape_comics.html">Comics</a>
-      <a href="root/corvi.html">Corvi</a>
+
+    <div class="background-1"></div>
+
+    <!-- This background will change based on orientation and screen size -->
+    <div class="background-0"></div>
+
+    <div class="background--1"></div>
+
+    <div class="bottom-nav">
+        <div class="nav-left">
+            <a href="root/games.html">Games</a>
+            <a href="root/poetry.html">Poetry</a>
+        </div>
+        <div class="nav-right">
+            <a href="root/contact.html">Contact</a>
+            <a href="root/author.html">Author</a>
+        </div>
     </div>
-  </div>
 
-  <div class="background-1">
-    <img src="root/images/index_background_1.png" alt="background 1">
-  </div>
-
-  <div class="background-0">
-    <picture>
-      <source srcset="root/images/index_background_0_cropped.png" media="(max-width: 600px) and (orientation: portrait)">
-      <source srcset="root/images/index_background_0.png" media="(max-width: 600px) and (orientation: landscape)">
-      <img src="root/images/index_background_0.png" alt="background 0">
-    </picture>
-  </div>
-
-  <div class="background--1">
-    <img src="root/images/index_background_-1.png" alt="background -1">
-  </div>
-
-  <div class="bottom-nav">
-    <div class="nav-left">
-      <a href="root/games.html">Games</a>
-      <a href="root/poetry.html">Poetry</a>
-    </div>
-    <div class="nav-right">
-      <a href="root/contact.html">Contact</a>
-      <a href="root/author.html">Author</a>
-    </div>
-  </div>
-
-  <script>
-    window.addEventListener('load', function() {
-      var targetElement = document.querySelector('.background-0');
-      if (targetElement) {
-        var rect = targetElement.getBoundingClientRect();
-        var elementTop = rect.top + window.pageYOffset;
-
-        var viewportHeight = window.innerHeight;
-        var focalOffset = 410; 
-        var desiredScrollPosition = elementTop - (viewportHeight / 2) + focalOffset;
-
-        window.scrollTo({
-          top: desiredScrollPosition,
-          left: 0,
-          behavior: 'auto'
+    <!-- Your scripts remain the same -->
+    <script>
+        window.addEventListener('load', function () {
+            var targetElement = document.querySelector('.background-0');
+            if (targetElement) {
+                var rect = targetElement.getBoundingClientRect();
+                var elementTop = rect.top + window.pageYOffset;
+                var viewportHeight = window.innerHeight;
+                var focalOffset = 370;
+                var desiredScrollPosition = elementTop - (viewportHeight / 2) + focalOffset;
+                window.scrollTo({ top: desiredScrollPosition, left: 0, behavior: 'auto' });
+            }
+            document.getElementById('loading-overlay').style.display = 'none';
         });
-      }
-      // Hide the loading overlay after scrolling is done
-      document.getElementById('loading-overlay').style.display = 'none';
-    });
-  </script>
+    </script>
 
-  <script>
-    var lastScrollY = window.scrollY || window.pageYOffset;
+    <script>
+        var lastScrollY = window.scrollY || window.pageYOffset;
 
-    window.addEventListener('scroll', function() {
-      var scrollY = window.scrollY || window.pageYOffset;
-      var windowHeight = window.innerHeight;
-      var documentHeight = document.body.scrollHeight;
-      var scrollPercentage = scrollY / (documentHeight - windowHeight);
+        window.addEventListener('scroll', function () {
+            var scrollY = window.scrollY || window.pageYOffset;
+            var windowHeight = window.innerHeight;
+            var documentHeight = document.body.scrollHeight;
+            var scrollPercentage = scrollY / (documentHeight - windowHeight);
 
-      if (scrollPercentage > 0.60) {
-        document.querySelector('.top-nav').style.top = '0';
-        document.querySelector('.bottom-nav').style.bottom = '-200px';
-      } else {
-        document.querySelector('.bottom-nav').style.bottom = '0';
-      }
+            if (scrollPercentage > 0.60) {
+                document.querySelector('.top-nav').style.top = '0';
+                document.querySelector('.bottom-nav').style.bottom = '-200px';
+            } else {
+                document.querySelector('.bottom-nav').style.bottom = '0';
+            }
 
-      if (scrollPercentage < 0.4) {
-        document.querySelector('.top-nav').style.top = '-200px';
-        document.querySelector('.bottom-nav').style.bottom = '0';
-      } else {
-        document.querySelector('.top-nav').style.top = '0';
-      }
+            if (scrollPercentage < 0.4) {
+                document.querySelector('.top-nav').style.top = '-200px';
+                document.querySelector('.bottom-nav').style.bottom = '0';
+            } else {
+                document.querySelector('.top-nav').style.top = '0';
+            }
 
-      lastScrollY = scrollY;
-    });
-  </script>
+            lastScrollY = scrollY;
+        });
+    </script>
 
 </body>
+
 </html>
