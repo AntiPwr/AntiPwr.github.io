@@ -1,158 +1,103 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Sea Level</title>
-    <link rel="stylesheet" href="https://use.typekit.net/hpo3tdq.css">
-
-    <link rel="stylesheet" href="root/css/index_style.css">
-
-    
-
+  <meta charset="UTF-8">
+  <title>Sea Level</title>
+  <link rel="stylesheet" href="https://use.typekit.net/hpo3tdq.css">
+  <link rel="stylesheet" href="root/css/index_style.css">
 </head>
 <body>
 
-    <div id="loading-overlay">
-        <!-- Some loading icon here -->
-      </div>
+  <div id="loading-overlay">
+    <!-- Some loading icon here -->
+  </div>
 
-
-
-    <!-- Top Navigation Bar -->
-    <div class="top-nav">
-        
-        <div class="nav-left">
-            <a href="root/scape_wiki.html">Wiki</a>
-            <a href="root/scape_world_map.html">World Map</a>
-        </div>
-        
-        <div class="nav-right">
-            <a href="root/scape_comics.html">Comics</a>
-            <a href="root/corvi.html">Corvi</a>
-        </div>
+  <div class="top-nav">
+    <div class="nav-left">
+      <a href="root/scape_wiki.html">Wiki</a>
+      <a href="root/scape_world_map.html">World Map</a>
     </div>
-
-    
-
-
-    
-
-
-
-
-   
-
-
-
-
-
-
-
-
-
-    <!-- backgrounds -->
-    <div class="background-1">
-        <img src="root/images/index_background_1.png" alt="background 1">
+    <div class="nav-right">
+      <a href="root/scape_comics.html">Comics</a>
+      <a href="root/corvi.html">Corvi</a>
     </div>
-    <div class="background-0">
-        <img src="root/images/index_background_0.png" alt="background 0">
+  </div>
+
+  <div class="background-1">
+    <img src="root/images/index_background_1.png" alt="background 1">
+  </div>
+
+  <div class="background-0">
+    <picture>
+      <source srcset="root/images/index_background_0_cropped.png" media="(max-width: 600px) and (orientation: portrait)">
+      <source srcset="root/images/index_background_0.png" media="(max-width: 600px) and (orientation: landscape)">
+      <img src="root/images/index_background_0.png" alt="background 0">
+    </picture>
+  </div>
+
+  <div class="background--1">
+    <img src="root/images/index_background_-1.png" alt="background -1">
+  </div>
+
+  <div class="bottom-nav">
+    <div class="nav-left">
+      <a href="root/games.html">Games</a>
+      <a href="root/poetry.html">Poetry</a>
     </div>
-
-
-
-    <div class="background--1">
-        <img src="root/images/index_background_-1.png" alt="background -1">
+    <div class="nav-right">
+      <a href="root/contact.html">Contact</a>
+      <a href="root/author.html">Author</a>
     </div>
-    
-    
-    
+  </div>
 
-
-
-
-    <!-- Bottom Navigation Bar -->
-    <div class="bottom-nav">
-        <div class="nav-left">
-            <a href="root/games.html">Games</a>
-            <a href="root/poetry.html">Poetry</a>
-        </div>
-
-        
-        <div class="nav-right">
-            <a href="root/contact.html">Contact</a>
-            <a href="root/author.html">Author</a>
-        </div>
-    </div>
-
-
-
-
-
-    <script>
+  <script>
     window.addEventListener('load', function() {
-    var targetElement = document.querySelector('.background-0');
-    if (targetElement) {
-      var rect = targetElement.getBoundingClientRect();
-      var elementTop = rect.top + window.pageYOffset;
+      var targetElement = document.querySelector('.background-0');
+      if (targetElement) {
+        var rect = targetElement.getBoundingClientRect();
+        var elementTop = rect.top + window.pageYOffset;
 
-      var viewportHeight = window.innerHeight;
-      var focalOffset = 410; 
-      var desiredScrollPosition = elementTop - (viewportHeight / 2) + focalOffset;
+        var viewportHeight = window.innerHeight;
+        var focalOffset = 410; 
+        var desiredScrollPosition = elementTop - (viewportHeight / 2) + focalOffset;
 
-      window.scrollTo({
-        top: desiredScrollPosition,
-        left: 0,
-        behavior: 'auto'
-      });
-    }
-    // Hide the loading overlay after scrolling is done
-    document.getElementById('loading-overlay').style.display = 'none';
-  });
-    </script>
+        window.scrollTo({
+          top: desiredScrollPosition,
+          left: 0,
+          behavior: 'auto'
+        });
+      }
+      // Hide the loading overlay after scrolling is done
+      document.getElementById('loading-overlay').style.display = 'none';
+    });
+  </script>
 
-
-
- 
-    
-<script>
+  <script>
     var lastScrollY = window.scrollY || window.pageYOffset;
 
     window.addEventListener('scroll', function() {
-        var scrollY = window.scrollY || window.pageYOffset;
-        var windowHeight = window.innerHeight;
-        var documentHeight = document.body.scrollHeight;
+      var scrollY = window.scrollY || window.pageYOffset;
+      var windowHeight = window.innerHeight;
+      var documentHeight = document.body.scrollHeight;
+      var scrollPercentage = scrollY / (documentHeight - windowHeight);
 
-        var scrollPercentage = scrollY / (documentHeight - windowHeight);
+      if (scrollPercentage > 0.60) {
+        document.querySelector('.top-nav').style.top = '0';
+        document.querySelector('.bottom-nav').style.bottom = '-200px';
+      } else {
+        document.querySelector('.bottom-nav').style.bottom = '0';
+      }
 
-        if (scrollPercentage > 0.60) { // Adjust the percentage threshold as needed
-            // Scroll up
-            document.querySelector('.top-nav').style.top = '0'; // Show top nav bar
-            document.querySelector('.bottom-nav').style.bottom = '-200px'; // Hide bottom nav bar
-            
-        } else {
-            // keep bottom nav bar showing
-            
-            document.querySelector('.bottom-nav').style.bottom = '0';
-        }
+      if (scrollPercentage < 0.4) {
+        document.querySelector('.top-nav').style.top = '-200px';
+        document.querySelector('.bottom-nav').style.bottom = '0';
+      } else {
+        document.querySelector('.top-nav').style.top = '0';
+      }
 
-        if (scrollPercentage < 0.4) { // Adjust the percentage threshold as needed
-            // Scroll down
-            document.querySelector('.top-nav').style.top = '-200px'; // Hide top nav bar
-            document.querySelector('.bottom-nav').style.bottom = '0'; // Show bottom nav bar
-
-        } else {
-            // keep top nav bar showing
-            document.querySelector('.top-nav').style.top = '0';
-            
-        }
-
-
-        lastScrollY = scrollY;
+      lastScrollY = scrollY;
     });
-</script>
-    
-    
-    
+  </script>
 
 </body>
 </html>

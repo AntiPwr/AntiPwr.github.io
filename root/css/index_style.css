@@ -101,30 +101,26 @@ body, html {
 }
   
 
-    @media (max-width: 600px) {
+@media (max-width: 600px) {
     .top-nav {
-      height: 20vw; /* Increase height for mobile to make nav more prominent */
+      height: 12vh; /* using vh might scale better with phone screens */
+      
     }
     .bottom-nav {
-      height: 15vw; /* Similarly increase bottom nav size */
-    }
-  
-    /* Adjust link styling for mobile */
-    .top-nav .nav-left a,
-    .top-nav .nav-right a,
-    .bottom-nav .nav-left a,
-    .bottom-nav .nav-right a {
-      font-size: 1.5em; /* slightly smaller text on mobile */
-      padding: 0 20px; /* reduce padding so more links fit horizontally */
-    }
-  
-    /* If still cutting off, consider even smaller padding/font or using flex-wrap */
-    .nav-left, .nav-right {
-      gap: 1em; /* reduce gap on mobile */
-      flex-wrap: wrap; /* allow links to break onto multiple lines if needed */
+      height: 8vh;
+      
     }
   }
-
+  
+  
+  @media (max-width: 600px) {
+    .top-nav {
+      height: 12vh; 
+    }
+    .bottom-nav {
+      height: 8vh;
+    }
+}
         
         .background-1 img, .background-0 img, .background--1 img {
             width: 100%;
