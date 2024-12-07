@@ -73,7 +73,7 @@ body, html {
 
 /* The top-nav and bottom-nav background images should remain as previously set */
 .top-nav {
-    height: 11.35vw;
+    height: 11.2vw;
     background-image: url('../images/top_nav.png');
     background-repeat: no-repeat;
     background-position: center;
@@ -81,7 +81,7 @@ body, html {
 }
 
 .bottom-nav {
-    height: 6.83vw;
+    height: 6.8vw;
     background-image: url('../images/bottom_nav.png');
     background-repeat: no-repeat;
     background-position: center;

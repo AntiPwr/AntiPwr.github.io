@@ -87,12 +87,24 @@
 
 
     <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            var targetElement = document.querySelector('.background-0');
-            if (targetElement) {
-                targetElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
-            }
-        });
+    window.addEventListener('load', function() {
+  var targetElement = document.querySelector('.background-0');
+  if (targetElement) {
+    var rect = targetElement.getBoundingClientRect();
+    var elementTop = rect.top + window.pageYOffset;
+
+    // Adjust these values until you get the perfect focal point placement
+    var viewportHeight = window.innerHeight;
+    var focalOffset = 410; 
+    var desiredScrollPosition = elementTop - (viewportHeight / 2) + focalOffset;
+
+    window.scrollTo({
+      top: desiredScrollPosition,
+      left: 0,
+      behavior: 'auto'
+    });
+  }
+});
     </script>
 
 
@@ -109,10 +121,10 @@
 
         var scrollPercentage = scrollY / (documentHeight - windowHeight);
 
-        if (scrollPercentage > 0.55) { // Adjust the percentage threshold as needed
+        if (scrollPercentage > 0.60) { // Adjust the percentage threshold as needed
             // Scroll up
             document.querySelector('.top-nav').style.top = '0'; // Show top nav bar
-            document.querySelector('.bottom-nav').style.bottom = '-100px'; // Hide bottom nav bar
+            document.querySelector('.bottom-nav').style.bottom = '-200px'; // Hide bottom nav bar
             
         } else {
             // keep bottom nav bar showing
@@ -120,9 +132,9 @@
             document.querySelector('.bottom-nav').style.bottom = '0';
         }
 
-        if (scrollPercentage < 0.45) { // Adjust the percentage threshold as needed
+        if (scrollPercentage < 0.4) { // Adjust the percentage threshold as needed
             // Scroll down
-            document.querySelector('.top-nav').style.top = '-160px'; // Hide top nav bar
+            document.querySelector('.top-nav').style.top = '-200px'; // Hide top nav bar
             document.querySelector('.bottom-nav').style.bottom = '0'; // Show bottom nav bar
 
         } else {
