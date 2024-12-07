@@ -20,124 +20,83 @@ body, html {
 
 
 
-/* Top Navigation Bar */
-.top-nav {
-    position: fixed;
-    height: auto;
-    width: 100%;
-    background-image: url('../images/top_nav.png'); /* Replace with your image path */
-    background-size: cover; /* Ensures the image covers the navbar */
-    background-position:center;
-    display: inline-grid;
-    grid-template-rows: auto;
-    grid-template-columns: max-content auto max-content;
-    align-items: center;
-    padding: 25px 0px 25px 0px;
-    transition: top 0.3s ease;
-    z-index: 1000;
-}
-
-
-    
-
-    /*Hyperlinks top left*/
-        .top-nav .nav-left a,
-        .top-nav .nav-right a {
-            font-family: Vendetta, sans-serif;
-            color: white;
-            text-decoration: none;
-            margin: 20px 125px 20px 125px;
-            font-size: 2.0em;
-        }
-
-        
-
-
-
-.top-nav .nav-center {
-    display: flex;
-}
-
-        .top-nav .nav-center img {
-            position: absolute;
-            height: 200px; 
-            width: auto;
-            z-index: 1;
-            top: 95%;
-            left: 49.975%;
-            transform: translate(-50%, -50%);
-        }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* Bottom Navigation Bar */
+/* Adjust the top-nav and bottom-nav layout */
+.top-nav,
 .bottom-nav {
     position: fixed;
     width: 100%;
-    background-image: url('../images/bottom_nav.png'); /* Replace with your image path */
-    background-size: cover; /* Ensures the image covers the navbar */
-    background-position:center;
-    display: inline-grid;
-    grid-template-rows: auto;
-    grid-template-columns: max-content auto max-content;
+    display: grid;
+    /* Three columns: left for nav-left, middle for empty space/logo background, right for nav-right */
+    grid-template-columns: max-content 1fr max-content;
     align-items: center;
-    padding: 25px 0px 25px 0px;
-    transition: bottom 0.3s ease;
     z-index: 1000;
+    transition: top 0.3s ease, bottom 0.3s ease;
 }
 
+.top-nav a {
+    position: relative;
+    top: -2.4vw; /* Adjust this value until the text looks centered visually */
+}
+
+/* Remove large margins from the links and rely on gap & padding instead */
+.top-nav .nav-left a,
+.top-nav .nav-right a,
+.bottom-nav .nav-left a,
+.bottom-nav .nav-right a {
+    font-family: Vendetta, sans-serif;
+    color: white;
+    text-decoration: none;
+    font-size: 2.0em;
+    padding: 0 100px 0 100px;
+    margin: 0; /* Remove the large margins */
     
+}
 
-        .bottom-nav .nav-left a,
-        .bottom-nav .nav-right a {
-            font-family: Vendetta, sans-serif;
-            color: white;
-            text-decoration: none;
-            margin: 20px 100px 20px 100px;
-            font-size: 2.0em;
+/* Make nav-left and nav-right containers flex containers for easy spacing */
+.nav-left,
+.nav-right {
+    display: flex;
+    align-items: center;
+    /* gap creates space between links without adding margins to each link individually */
+    gap: 2em; 
+    
+}
 
-            
-        }
+/* If you want the left links anchored to the left column and the right links to the right column: */
+.nav-left {
+    justify-content: flex-start;
+}
 
-    .bottom-nav .nav-center {
-        display:flex;
-        }
+.nav-right {
+    justify-content: flex-end;
+}
 
-        .bottom-nav .nav-center img {
-            position: absolute;
-            height: 200px; 
-            width: auto;
-            z-index: 1;
-            top: 13%;
-            left: 49.975%;
-            transform: translate(-50%, -50%);
-        }
+/* The top-nav and bottom-nav background images should remain as previously set */
+.top-nav {
+    height: 11.35vw;
+    background-image: url('../images/top_nav.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
 
+.bottom-nav {
+    height: 6.83vw;
+    background-image: url('../images/bottom_nav.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+  
 
-
+        @media (max-width: 600px) {
+            .top-nav {
+              height: 15vw; /* slightly larger for mobile if needed */
+            }
+            .bottom-nav {
+              height: 9vw; 
+            }
+          }
 
         
         .background-1 img, .background-0 img, .background--1 img {
