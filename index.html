@@ -12,7 +12,9 @@
 </head>
 <body>
 
-
+    <div id="loading-overlay">
+        <!-- Some loading icon here -->
+      </div>
 
 
 
@@ -88,23 +90,24 @@
 
     <script>
     window.addEventListener('load', function() {
-  var targetElement = document.querySelector('.background-0');
-  if (targetElement) {
-    var rect = targetElement.getBoundingClientRect();
-    var elementTop = rect.top + window.pageYOffset;
+    var targetElement = document.querySelector('.background-0');
+    if (targetElement) {
+      var rect = targetElement.getBoundingClientRect();
+      var elementTop = rect.top + window.pageYOffset;
 
-    // Adjust these values until you get the perfect focal point placement
-    var viewportHeight = window.innerHeight;
-    var focalOffset = 410; 
-    var desiredScrollPosition = elementTop - (viewportHeight / 2) + focalOffset;
+      var viewportHeight = window.innerHeight;
+      var focalOffset = 410; 
+      var desiredScrollPosition = elementTop - (viewportHeight / 2) + focalOffset;
 
-    window.scrollTo({
-      top: desiredScrollPosition,
-      left: 0,
-      behavior: 'auto'
-    });
-  }
-});
+      window.scrollTo({
+        top: desiredScrollPosition,
+        left: 0,
+        behavior: 'auto'
+      });
+    }
+    // Hide the loading overlay after scrolling is done
+    document.getElementById('loading-overlay').style.display = 'none';
+  });
     </script>
 
 
