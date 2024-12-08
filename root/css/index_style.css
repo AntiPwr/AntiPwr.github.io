@@ -1,13 +1,38 @@
+html {
+    box-sizing: border-box;
+    border: 0.5vw solid #1e1e1e;
+}
+
+@media (max-width: 768px) and (orientation: portrait) {
+    html {
+        box-sizing: border-box;
+    border: 1vw solid #1e1e1e;
+    }
+}
+
+@media (max-width: 768px) and (orientation: landscape) {
+    html {
+        box-sizing: border-box;
+        border: 1vw solid #1e1e1e;
+        
+    }
+}
+
 html,
 body {
     margin: 0;
     padding: 0;
     overflow-x: hidden;
-    /* Prevents horizontal scrollbars if content overflows */
 }
 
 
-/* Loading overlay style */
+
+
+
+
+
+
+
 #loading-overlay {
     position: fixed;
     top: 0;
@@ -21,6 +46,12 @@ body {
     justify-content: center;
 }
 
+
+
+
+
+
+
 /* Default background for desktops and non-mobile orientations */
 .background-1 {
     background: url('../images/index_background_1.png') no-repeat center center;
@@ -28,12 +59,14 @@ body {
     width: 100%;
     height: 100vh;
     display: block;
+    
 }
 
 /* Mobile Portrait: under 768px wide and portrait orientation, show cropped image */
 @media (max-width: 768px) and (orientation: portrait) {
     .background-1 {
         background-image: url('../images/index_background_1_cropped.png');
+        
     }
 }
 
@@ -51,12 +84,16 @@ body {
     width: 100%;
     height: 100vh;
     display: block;
+    
+    
 }
 
 /* Mobile Portrait: under 768px wide and portrait orientation, show cropped image */
 @media (max-width: 768px) and (orientation: portrait) {
     .background-0 {
         background-image: url('../images/index_background_0_cropped.png');
+        
+        
     }
 }
 
@@ -69,17 +106,20 @@ body {
 
 /* Default background for desktops and non-mobile orientations */
 .background--1 {
-    background: url('../images/index_background_-1.png') no-repeat center center;
+    background: url('../images/index_background_-1.png') no-repeat top center;
     background-size: cover;
     width: 100%;
     height: 100vh;
     display: block;
+    
+    
 }
 
 /* Mobile Portrait: under 768px wide and portrait orientation, show cropped image */
 @media (max-width: 768px) and (orientation: portrait) {
     .background--1 {
         background-image: url('../images/index_background_-1_cropped.png');
+        
     }
 }
 
@@ -90,13 +130,25 @@ body {
     }
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
 /* Nav bars and other styles remain unchanged */
 .top-nav,
 .bottom-nav {
     position: fixed;
-    width: 100%;
+    width: calc(100% - 0.86vw);
     display: grid;
-    grid-template-columns: max-content 1fr max-content;
+    grid-template-columns: max-content auto max-content;
     align-items: center;
     z-index: 1000;
     transition: top 0.3s ease, bottom 0.3s ease;
@@ -108,6 +160,8 @@ body {
     top: -2.4vw;
 }
 
+
+
 .top-nav .nav-left a,
 .top-nav .nav-right a,
 .bottom-nav .nav-left a,
@@ -116,7 +170,7 @@ body {
     color: white;
     text-decoration: none;
     font-size: 2.0em;
-    padding: 0 100px;
+    padding: 0 6vw;
     margin: 0;
 }
 
@@ -136,49 +190,69 @@ body {
 }
 
 .top-nav {
-    height: 11.2vw;
+    height: 11.3vw;
     background-image: url('../images/top_nav.png');
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: top center;
     background-size: contain;
 }
 
 .bottom-nav {
-    height: 6.8vw;
+    height: 6.9vw;
     background-image: url('../images/bottom_nav.png');
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: bottom center;
     background-size: contain;
 }
 
 @media (max-width: 768px) and (orientation: portrait) {
     .top-nav {
-        height: 10vh;
-        width: 100%;
+        height: 11.5vh;
+        width: calc(100% - 1.989vw);
+        background-size: cover;
+        
     }
 
     .bottom-nav {
-        height: 10vh;
-        width: 100%;
+        height: 6.5vh;
+        width: calc(100% - 1.989vw);
+        background-size: cover;
+        
     }
+
+    .top-nav .nav-left a,
+    .top-nav .nav-right a,
+    .bottom-nav .nav-left a,
+    .bottom-nav .nav-right a {
+    font-family: Vendetta, sans-serif;
+    color: white;
+    text-decoration: none;
+    font-size: 0.8em;
+    padding: 0 5px;
+}
+    
 }
 
 @media (max-width: 768px) and (orientation: landscape) {
     .top-nav {
-        height: 50vh;
-        width: 100%;
+        height: 20vh;
+        width: calc(100% - 1.989vw);
     }
 
     .bottom-nav {
-        height: 25vh;
-        width: 100%;
+        height: 13vh;
+        width: calc(100% - 1.989vw);
+    }
+    
+    .top-nav .nav-left a,
+    .top-nav .nav-right a,
+    .bottom-nav .nav-left a,
+    .bottom-nav .nav-right a {
+    font-family: Vendetta, sans-serif;
+    color: white;
+    text-decoration: none;
+    font-size: 1em;
+    padding: 0 10px;
     }
 }
 
-/* background images for background-1 and background--1 remain unchanged */
-.background-1 img,
-.background--1 img {
-    width: 100%;
-    height: auto;
-    display: block;
-}

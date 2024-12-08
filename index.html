@@ -6,6 +6,7 @@
     <title>Sea Level</title>
     <link rel="stylesheet" href="https://use.typekit.net/hpo3tdq.css">
     <link rel="stylesheet" href="root/css/index_style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
 <body>
@@ -18,8 +19,8 @@
             <a href="root/scape_world_map.html">World Map</a>
         </div>
         <div class="nav-right">
-            <a href="root/scape_comics.html">Comics</a>
-            <a href="root/corvi.html">Corvi</a>
+            <a href="root/games.html">Games</a>
+            <a href="root/shop.html">Shop</a>
         </div>
     </div>
 
@@ -32,12 +33,12 @@
 
     <div class="bottom-nav">
         <div class="nav-left">
-            <a href="root/games.html">Games</a>
+            <a href="root/comics.html">Comics</a>
             <a href="root/poetry.html">Poetry</a>
         </div>
         <div class="nav-right">
             <a href="root/contact.html">Contact</a>
-            <a href="root/author.html">Author</a>
+            <a href="root/author.html">About</a>
         </div>
     </div>
 
@@ -49,7 +50,7 @@
                 var rect = targetElement.getBoundingClientRect();
                 var elementTop = rect.top + window.pageYOffset;
                 var viewportHeight = window.innerHeight;
-                var focalOffset = 370;
+                var focalOffset = 380;
                 var desiredScrollPosition = elementTop - (viewportHeight / 2) + focalOffset;
                 window.scrollTo({ top: desiredScrollPosition, left: 0, behavior: 'auto' });
             }
@@ -74,7 +75,7 @@
             }
 
             if (scrollPercentage < 0.4) {
-                document.querySelector('.top-nav').style.top = '-200px';
+                document.querySelector('.top-nav').style.top = '-250px';
                 document.querySelector('.bottom-nav').style.bottom = '0';
             } else {
                 document.querySelector('.top-nav').style.top = '0';
