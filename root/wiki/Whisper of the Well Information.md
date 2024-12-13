@@ -93,17 +93,25 @@ Toma’s timeline is divided into Lines, each concluding with a rotation shift o
 <details open>
 <summary><h3>Scender, Sol Unita, Asceptim, Asath</h3></summary>
 
-Your journey begins in the capital order of <a href="Sol Unita.md">Sol Unita</a>, <a href="Scender.md">Scender</a>. This government spreads the <a href="Asceptim.md">Asceptim</a> ideology across <a href="Toma.md">Toma</a>.
+<img src="wiki_images/Sol Unita Insignia (PS Final).jpg"><i>Sol Unita Insignia</i></img>
+
 
 **Eco**: <a href="Toma.md">Toma</a> of <a href="Toman Ecoss.md">Toman Ecoss</a>  
 **Kingdom**: <a href="Huma.md">Huma</a>  
 **Phylum**: <a href="Asceptim.md">Asceptim</a>
+**Class**: <a href="Sol Unita.md">Sol Unita</a>
+**Order**: <a href="Scender">Scender</a>
 
-<img src="wiki_images/Asath (Fractal).png"></img>
 
-**Asath**, the Eye, is a worshipped Nesa-sun guiding Asceptim culture. Its historical significance led to the creation of the <a href="Rites of Huma.md">Rites of Huma</a>, contained in <a href="Ester Slate.md">Ester Slates</a>. These rites inform policies and spiritual practices in Sol Unita.
+Your journey begins in the capital order of the <a href="Sol Unita.md">Sol Unita</a> <a href="Scender.md">Scender</a>. This government spreads <a href="Asceptim.md">Asceptim</a> across <a href="Toma.md">Toma</a>.
 
-**The Rites of Huma**:  
+
+
+
+
+<a href="Asath.md">Asath</a>., the Eye, is a worshipped Nesa, or god, that guides Asceptim and his followers. Asath's rise of influence began alongside the <a href="Line from Few">Line from Few</a>, causing the development of the <a href="Rites of Huma.md">Rites of Huma</a>, contained in <a href="Ester Slate.md">Ester Slates</a>. These rites are religious governing documents that influence policy and spiritual practices in Sol Unita.
+
+**Example: a few Rites of Huma**:  
 - *Rite of Passage*: The foundational journey from ignorance to enlightenment.  
 - *Rite of Decomposition*: Acceptance of impermanence and understanding life’s cyclical nature.  
 - *Rite of Rule*: Guidance for leaders, channeling ancestral wisdom for just governance.
@@ -111,11 +119,27 @@ Your journey begins in the capital order of <a href="Sol Unita.md">Sol Unita</a>
 <details open>
 <summary><h4>Ophelia Necesse</h4></summary>
 
-Ophelia Necesse, the Fallen Apostle, rules Scender in the 8th Current Line. She blends faith with cybernetic augmentation, striving to reduce suffering through technology. Balancing strict Therium regulation and merciful policies, she walks among her people in disguise, guided by Asceptim’s ideals and the Rites of Huma. Her leadership, though controversial, is marked by empathy, introspection, and the delicate interplay between progress and tradition.
+<img src="wiki_images/Ophelia Necesse.png"><i>Ophelia Necesse</i></a>
+
+Ophelia Necesse, the Fallen Apostle, rules Scender in the current line and is 
+
+
+
+<details open>
+<summary><h4> Scender Sneak Peeks<h4></summary>
+<img src="wiki_images/Scender (Viv's Market).png"><i>Viv's Market</i></a>
+<img src="wiki_images/Scender (Boy and Mother 1).png"><i>Boy and Mother 1</i></a>
+<img src="wiki_images/Scender (Boy and Mother 2).png"><i>Boy and Mother 2</i></a>
+<img src="wiki_images/Scender (Preacher's Vassal).png"><i>Preacher's Vassal</i></a>
+<img src="wiki_images/Scender (Tugaloo's Tinder).png"><i>Tugaloo's Tinder</i></a>
+<img src="wiki_images/Scender (Quarus Vineyard).png"><i>Quarus Vineyard</i></a>
 
 </details>
 
 </details>
+
+
+
 
 <details open>
 <summary><h3>Hollow Resources</h3></summary>
@@ -125,7 +149,7 @@ Hollow Resources are vital materials formed from the transformative breakdown of
 **Examples**:  
 - **Photometal**: Stores and imprints beliefs under light exposure.   
 - **Primma**: From Celia’s decomposition process, purity reflecting ascension proximity. Hardens with moisture, maintaining property pride and stewardship.  
-- **Aprima**: Pure form of Primma revered in Sol Unita culture.
+- **Aprima**: Pure form of Primma used in most of the infrastructure, revered in Sol Unita culture.
 
 These resources underlie societal advancements, often causing power struggles. Throughout the game you will learn of more resources than those shown here.
 
@@ -134,20 +158,23 @@ These resources underlie societal advancements, often causing power struggles. T
 <details open>
 <summary><h3>Resonance</h3></summary>
 
-**Resonance** refers to beings that exist in two or more kingdoms, integrating their traits and functions. Resonants exists due to  entities that influence ecological and spiritual balance.
+<img src="wiki_images/Shark Goblin.png"><i>Shark Goblin, a Monstra-Ferra (Goblin-Manger Shark) Resonant, also known as a Varmid.</i></a>
 
-Resonants often hold unique powers as conduits or guardians, enabling cultural exchange and adaptation. Subresonants, like Anthros and Zothros, exemplify the blending of diverse characteristics, ensuring life’s ongoing complexity and evolution within Toma.
+**Resonance** refers to the natural evolution of living creatures existing in two or more kingdoms, integrating their traits and functions. Huma populations have coined many names for resonants based on their kingdom composition and characteristics. 
+
+
 
 </details>
 
 <details open>
 <summary><h3>Concordia and the Branches of Concordia</h3></summary>
 
-**Concordia** is a continent governed by the **Branches of Concordia**, a hereditary meritocracy with multiple branches each embodying different societal functions (workforce, administration, intellect, diplomacy, and arts). Emerging after the fall of Esterik during the Taxotheir and Cel Blindbirth Lines, the Branches forged a society valuing unity, cultural heritage, and economic resilience.
+<a href="Concordia">Concordia</a> is a continent governed by the <a href="Branches of Concordia">Branches of Concordia</a>, a government formed around hereditary meritocracy and strict cultural values. Emerging after the fall of Esterik during the Taxotheir and Cel Blindbirth Lines, the Branches forged new roots of governance in the values of unity, cultural heritage, and economic resilience at the start of the line.
 
-Two polarized factions, the **Seos Ofshut** and the **Leiflan Ofshut**, shape Concordia’s political climate. Seos push for foreign trade and expansion, while Leiflan favor isolationism and cultural conservation. Resources like Lichen Pearls and Corlin Trees support both economic and spiritual life, with cities like Kaina and Be’him holding strategic or cultural significance. The Sedl Continental Army exemplifies Concordia’s collective defense and regional pride.
+Two polarized factions, the <a href="Seos Ofshut">Seos Ofshut</a> and the <a href="Leiflan Ofshut">Leiflan Ofshut</a>, shape Concordia’s political climate. Seos push for foreign trade and expansion, while Leiflan favor isolationism and cultural conservation. Resources like Lichen Pearls and Corlin Trees support both economic and spiritual life, with cities like the capital order of Kaina and the military port city of Be'him holding strategic and historical significance. The Sedl Continental Army exemplifies Concordia’s collective defense and regional pride.
 
-Concordia’s legacy stands as a testament to survival, adaptation, and the intricate interplay between tradition, progress, and the natural world.
+The polarization and political turmoil was a result of the years following the War of Conclusions, with the era being remembered in Concordian culture as the "<a href="Driftwood Nightmare">Driftwood Nightmare</a>". This war was between the Scepitath (now Sol Unita) and the Branches of Concordia, started on the 267th year of the Line from Few and lasting 37 years. You will learn more about these events in game.
+
 
 </details>
 
@@ -156,19 +183,19 @@ Concordia’s legacy stands as a testament to survival, adaptation, and the intr
 <details open>
 <summary><h2>Character Creation Information</h2></summary>
 
-Character creation is flexible and player-driven. Push beyond traditional limits and collaborate with the DM to create unique concepts, items, spells, or features.
+Character creation is flexible and player-driven. If you have a unique idea that goes against the rules or is homebrew, then let me know and we can probably make it work.
 
 <details open>
 <summary><h3>Level</h3></summary>
 
-All characters begin at level 3, though leveling may occur asymmetrically to foster unique narrative tension. Discuss alternative starts with the DM.
+All characters begin at level 3, though leveling may occur asymmetrically. If you wish for an alternate start due to a unique character concept, let me know.
 
 </details>
 
 <details open>
 <summary><h3>Starting Equipment and Wealth</h3></summary>
 
-You start with standard equipment plus 0–180g, reflecting personal background. Negotiation with the DM is encouraged for creative builds.
+You start with standard equipment plus 0–180g, reflecting personal background. Converse with the DM for creative builds and to determine gold amounts.
 
 </details>
 
@@ -176,33 +203,35 @@ You start with standard equipment plus 0–180g, reflecting personal background.
 <summary><h3>Stat Allocation</h3></summary>
 
 Use point-buy for balanced growth. For guidance:  
-[https://chicken-dinner.com/5e/5e-point-buy.html](https://chicken-dinner.com/5e/5e-point-buy.html)
+[https://chicken-dinner.com/5e/5e-point-buy.html](Point Buy)
 
 </details>
 
 <details open>
 <summary><h3>Feats</h3></summary>
 
-All official feats allowed except Lucky, encouraging more thoughtful character development.
+All official feats allowed except Lucky.
 
 </details>
 
 <details open>
 <summary><h3>Spells</h3></summary>
 
-All official spells allowed except Astral Projection and Silvery Barbs. Removing these maintains narrative and mechanical cohesion.
+All official spells allowed except Astral Projection and Silvery Barbs, as well as a few other spells not listed here. Upon leveling, I will make sure the spells work before you play with them.
 
 </details>
 
 <details open>
 <summary><h3>Playable Races</h3></summary>
 
-A full list of official and homebrew races will be provided, each with roleplay notes, cultural backgrounds, and mechanical traits for immersive experiences.
+A list of the official and currently unlocked homebrew races will be provided soon, each with roleplay notes, cultural backgrounds, and mechanical traits.
 
 </details>
 
 <details open>
 <summary><h3>Classes and Subclasses</h3></summary>
+
+<i>Homebrew information will be added soon.</i>
 
 - **Artificer**: Official subclasses  
 - **Barbarian**: Official subclasses; (Homebrew) Path of Natura  

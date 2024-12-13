@@ -4,18 +4,13 @@ document.addEventListener('DOMContentLoaded', () => {
     let sidebarOpen = false;
 
     openBtn.addEventListener('click', () => {
-        if (!sidebarOpen) {
-            // Show the sidebar
-            sidebar.style.display = 'block';
-            // Change button text/icon to close
-            openBtn.innerHTML = '&times;';
-            sidebarOpen = true;
+        sidebarOpen = !sidebarOpen;
+        if (sidebarOpen) {
+            sidebar.classList.add('sidebar-open');
+            openBtn.innerHTML = '&times;'; // Change icon if desired
         } else {
-            // Hide the sidebar
-            sidebar.style.display = 'none';
-            // Change button text/icon back to open
-            openBtn.innerHTML = '&#9776;';
-            sidebarOpen = false;
+            sidebar.classList.remove('sidebar-open');
+            openBtn.innerHTML = '&#9776;'; // Return to menu icon
         }
     });
 });
