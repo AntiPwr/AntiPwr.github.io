@@ -49,9 +49,7 @@ A unique, soul-attuned spell or ability—highly personal and reflective of the 
 <details open>
 <summary><h3>Anim and Belief Sickness System</h3></summary>
 
-**Anim and Belief Conditions** includes supplemental homebrew sicknesses that affect the player in very different ways as well as a new addition to the character sheet. You will now have a Will statistic which will be a combination of Constitution + Intelligence.
-
- However Belief Conditions are those that  Overuse or reckless application of Anim-based abilities can lead to conditions that affect a character’s mental and physical well-being. These conditions range from mild fatigue and sensory distortions to more severe ailments that limit a character’s capabilities until properly treated or rested. Discuss specifics with the DM for scenario-based applications.
+**Anim and Belief Conditions** WIP
 
 </details>
 
@@ -121,7 +119,7 @@ Your journey begins in the capital order of the <a href="Sol Unita.md">Sol Unita
 
 <img src="wiki_images/Ophelia Necesse.png"><i>Ophelia Necesse</i></a>
 
-Ophelia Necesse, the Fallen Apostle, rules Scender in the current line and is 
+Ophelia Necesse, the Fallen Apostle, rules Scender in the current line.
 
 
 

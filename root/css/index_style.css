@@ -88,6 +88,14 @@ body {
     
 }
 
+/* Footer */
+.footer {
+    background-color: #1e1e1e;
+    color: #ecf0f1;
+    text-align: center;
+    padding: 15px 0;
+}
+
 /* Mobile Portrait Background 0 Responsiveness*/
 @media (max-width: 768px) and (orientation: portrait) {
     .background-0 {
@@ -116,7 +124,8 @@ body {
 /* Mobile Portrait Background -1 Responsiveness */
 @media (max-width: 768px) and (orientation: portrait) {
     .background--1 {
-        background-image: url('../images/index_background_-1_cropped.png');  
+        background-image: url('../images/index_background_-1_cropped.png'); 
+        background-size: contain; 
     }
 }
 
