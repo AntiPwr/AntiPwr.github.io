@@ -138,6 +138,14 @@ body {
     box-sizing: border-box;
 }
 
+/* Footer */
+.footer {
+    background-color: #1e1e1e;
+    color: #ecf0f1;
+    text-align: center;
+    padding: 15px 0;
+}
+
 /* Responsive Design */
 /* Remove rules that hide nav-links and nav-search on mobile */
 @media screen and (max-width: 768px) {
