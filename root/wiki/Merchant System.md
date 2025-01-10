@@ -1,0 +1,5 @@
+# Merchant System
+
+The <a href="Merchant System.html">Merchant System</a> encompasses a grouping of belief-based magic frameworks within the Toman Ecoss, including <a href="Source Surge.html">Source Surges</a>, <a href="Discovery Inspiration.html">Discovery Inspiration</a>, and <a href="Sea Level Spell.html">Sea Level Spells</a>. Its purpose is to let characters harness the power of their beliefs, translating them into tangible abilities that enhance both roleplay and narrative immersion.
+
+

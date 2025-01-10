@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', async () => {
             const name = displayName.trim() !== '' ? displayName : fileName;
             // Optional: remove leading underscore from fileName if that's your convention
             const cleanFileName = fileName.replace(/^_/, '');
-            return `<a href="${cleanFileName}.md">${name}</a>`;
+            return `<a href="${cleanFileName}.html">${name}</a>`;
         }
     }];
 
