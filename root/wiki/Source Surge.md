@@ -1,8 +1,8 @@
 # Source Surge
 
-A source surge, or belief event, occurs when a creature's belief sphere is tampered with. There are two types of surges:
+A source surge, or belief event, may occur throughout the game. There are two types of surges:
 
-- **Passive Surges**: Natural events triggered by overlapping belief spheres, often influenced by powerful entities or religious Orders. Examples include spontaneous growth of roots from a druid’s grief, or a fighter feeling sudden renewed vigor.
+- **Passive Surges**: Natural events used to guide roleplay. Examples include spontaneous growth of roots from a druid’s grief, or a fighter feeling sudden renewed vigor.
 - **Controlled Surges**: Intentional activations of belief by channeling on personal "Claims"—aspects of a character’s faith, virtues, purpose, oaths, and connections.
 
 **Claims**:  
