@@ -2,7 +2,9 @@
 <i>Eco of Kingdoms, Plane of Kingdoms, Palud ([[Asceptim]]), Lau ([[Branches of Concordia]])</i> 
 
 
-<img src="wiki_images/Wyldere Taiga Environment.png"> <i>A taiga in southeast Vokar, a region of Toma's northern continent, Wyldere.</i></img>
+<img src="wiki_images/Toma Map(Outline).png"> <i>A taiga in southeast Vokar, a region of Toma's northern continent, Wyldere.</i></img>
+
+
 
 
 <br>

@@ -9,33 +9,7 @@
     <link rel="stylesheet" href="https://use.typekit.net/hpo3tdq.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Optional: Add a description meta tag for professionalism -->
-    <meta name="description" content="Wiki page for Lavinho (PC).">                                                     <!--TEMPLATE EDIT 1 HERE-->
-
-    <script>
-        function passwordProtect() {
-          // Change this password to something else for each page
-          const correctPassword = "Badaba";                                                                     //PASSWORDTEMPLATE EDIT 1 HERE
-          
-          // Check if the user has already entered the password before
-          const hasAccess = localStorage.getItem("Lavinho_Access");                                         //PASSWORDTEMPLATE EDIT 2 HERE
-          if (hasAccess === "granted") {
-            // They have already entered the correct password before, so do nothing
-            return;
-          }
-    
-          // Otherwise, prompt for the password
-          const userInput = prompt("Enter the password to access to the Lavinho page:");                       //PASSWORDTEMPLATE EDIT 3 HERE
-          if (userInput !== correctPassword) {
-            alert("Wrong password. You will be redirected.");
-            window.location.href = "../scape_wiki_homepage.html";
-          } else {
-            // If the password is correct, store a flag so we don't ask again
-            localStorage.setItem("Lavinho_Access", "granted");                                          //PASSWORDTEMPLATE EDIT 4 HERE
-          }
-        }
-    
-        window.onload = passwordProtect;
-      </script>
+    <meta name="description" content="Wiki page for Scender.">                                                     <!--TEMPLATE EDIT 1 HERE-->
 </head>
 <body>
     <nav class="navbar">
@@ -57,15 +31,23 @@
 
     <aside class="sidebar" id="sidebar">
         <ul class="sidebar-links">
-            <li><a href="#Lavinho">Lavinho</a></li>                                                                   
+            <li><a href="#Scender">Scender</a></li>                                                                   <!--TEMPLATE EDIT 2 HERE-->
+            <li><a href="#City Structure">City Structure</a></li>
+            <li><a href="#Jetti Sound and South Catch">Jetti Sound and South Catch</a></li>
+            <li><a href="#Economy and Governance">Economy and Governance</a></li>
+            <li><a href="#Transportation">Transportation</a></li>
+            <li><a href="#Banking System">Banking System</a></li>
+            <li><a href="#Hills of Scender">Hills of Scender</a></li>
+            <li><a href="#Strategic Entrances">Strategic Entrances</a></li>
+            <li><a href="#List of Notable Locations">List of Notable Locations</a></li>
             
-            <!-- automatically determined by mdparse.js -->
+            <!-- Add more links as relevant once you know the structure of the markdown content -->
         </ul>
     </aside>
 
     <main class="content">
         <!-- Insert a container for the Markdown content -->
-        <div id="markdown-content" class="wiki-content" data-md-file="Lavinho.md"></div>                                       <!--TEMPLATE EDIT 2 HERE-->
+        <div id="markdown-content" class="wiki-content" data-md-file="Scender.md"></div>                                       <!--TEMPLATE EDIT 3 HERE-->
     </main>
 
     <footer class="footer">
