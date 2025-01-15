@@ -84,4 +84,17 @@ details[open] summary {
 }
 
 
-/* Additional styling for headings, links, etc. */
+
+/* Wiki Content Links */
+.wiki-content a:link {
+    color: #5D3FD3; /* Purple (unread link) */
+}
+
+.wiki-content a:visited {
+    color: #51414F; /* Dark Purple (visited link) */
+}
+
+.wiki-content a:hover {
+    color: #d7bde2; /* Light Purple (hover) */
+    text-decoration: underline; /* Optional extra styling */
+}

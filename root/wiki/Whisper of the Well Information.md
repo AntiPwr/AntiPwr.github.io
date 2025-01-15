@@ -4,13 +4,23 @@
 <summary><h2>Introduction</h2></summary>
 
 Welcome to the Campaign 1 Information Guide. This resource, similar to the rest of the wiki, reflects the collective knowledge of the party. The world and its mechanics will evolve alongside player growth and feedback through iterative updates to this site following in-person sessions. Below, the contents of this page are divided into three sections: Campaign Information, World Information, and Character Creation Information.
+<br>
+<br>
+Individual character information can be found in the sections below. It would be best if you only look at your own character's webpage so that nothing is spoiled about the other characters before the game.
+<br>
+
+<a href="Laika Acker.html">Laika Acker (Adrian)</a>
+<br>
+<a href="Lavinho.html">Lavinho Last Name (Ben)</a>
+<br>
+<a href="Mellifera.html">Mellifera (Karly)</a>
 
 </details>
 
 <details closed>
 <summary><h2>Campaign Information</h2></summary>
 
-The campaign will be called, <a href="Whispers of the Well.html">Whispers of the Well</a>, taking place within the plane of <a href="Toma.html">Toma</a>. Although, as seen with the name of the wiki, the <a href="Scape.html">Scape</a> is the name of the universe. Currently, the significance of the Scape remains undiscovered. For more background information on the world, see <a href="#World Information">World Information</a>.
+The campaign will be called, <a href="Whisper of the Well.html">Whisper of the Well</a>, taking place within the eco/plane of <a href="Toma.html">Toma</a>. Although, as seen with the name of the wiki, the <a href="Scape.html">Scape</a> is the name of the universe. Currently, the significance of the Scape remains undiscovered. For more background information on the world, see <a href="#World Information">World Information</a>.
 
 <details open>
 <summary><h3>Unlock System</h3></summary>
@@ -24,7 +34,7 @@ The <a href="Unlock System.html">Unlock System</a> slowly introduces new homebre
 
 
 
-**<a href="Will.html">Will</a>**  (**WIL**) represents the intangible reserve of self-determination, mental fortitude, and spiritual vitality that shields a creature’s identity from external corruption—especially psychic parasites, fungal hive-minds, and masterful manipulation. It measures how well a being can maintain its own thought patterns, beliefs, knowledge, and loyalties in the face of subtle or forceful mental intrusion. This number will be higher than your other main stats, but that is because it does not reflect rolls, but rather a mental health pool that protects you from permanent belief changes such as mindlessness or ideological subversion. Certain kingdoms have evolved to influence will, as seen with [[Inoculation]] and [[Celia Resonance]].
+<a href="Will.html">Will</a>  (**WIL**) represents the intangible reserve of self-determination, mental fortitude, and spiritual vitality that shields a creature’s identity from external corruption—especially psychic parasites, fungal hive-minds, and masterful manipulation. It measures how well a being can maintain its own thought patterns, beliefs, knowledge, and loyalties in the face of subtle or forceful mental intrusion. This number will be higher than your other main stats, but that is because it does not reflect rolls, but rather a mental health pool that protects you from permanent belief changes such as mindlessness or ideological subversion. Certain kingdoms have evolved to influence will, as seen with [[Inoculation]] and [[Celia Resonance]].
 
 **Maximum WIL = CON + STR + DEX + WIS + INT + CHA + PB** 
 
@@ -46,8 +56,8 @@ Represent core aspects of a character (Faith, Virtue, Purpose, Oath, Connection)
 After using a controlled surge, a character must rest for a week or meditate to restore their abilities. Daily meditative practices speed recovery, each hour of meditation reduces downtime by a day.
 
 **Flow State & Stagnant State**:  
-- *Flow State*: A meditative state representing perfect alignment of focus.
-- *Stagnant State*: A contrasting meditative approach with different narrative implications.
+- *Flow State*: A meditative state representing peak alignment of focus. In this state, you gain +1 to any stat but CON. You have advantage on any check with the stat you chose for the duration of flow state.
+- *Stagnant State*: A contrasting meditative approach of non-judgement and void. In this state, you gain +1 WIS while in this state. Creatures have advantage to hit you in this state. 
 
 **Discovery Inspiration**:  
 Replaces traditional DMG Inspiration. By achieving personal milestones, uncovering truths, or fulfilling goals, players earn dice of varying sizes (D4 to D20). Lesser dice (D4–D12) resemble Bardic Inspiration and must be used quickly, while a D20 represents a major milestone and can be saved between sessions.
@@ -130,7 +140,7 @@ Toma has six major continents including:
 <details open>
 <summary><h3>Kingdoms</h3></summary>
 
-Each kingdom's planar functions are explored further in their respective notes. Listed below are the kingdoms of creation within [[Toma]]:
+Each kingdom's eco functions are explored further in their respective notes. Listed below are the kingdoms of creation within [[Toma]]:
 
 - [[Nesa]] (Deity)
 - [[Automata]] (Construct)
@@ -146,9 +156,9 @@ Each kingdom's planar functions are explored further in their respective notes. 
 
 The **Proto** kingdom, also known as Protista, served as the foundation for the evolution of the Bluma and Decara kingdoms.
 
-Kingdoms are distinguished by planar function, which may influence character creation and the organization of their belief systems. For example, Ferra and Bluma are considered low-minded creatures, whereas others may be classified as middle-minded or high-minded. Resonance with Ferra or Bluma, in this case, would result in stat adjustments.
+Kingdoms are distinguished by their eco/planar/empire function, which may influence character creation and the organization of their belief systems. For example, Ferra and Bluma are considered low-minded creatures, whereas others may be classified as middle-minded or high-minded. This distinction refers to purpose taxonomy and will influence character creation through resonance.
 
-Kingdoms may have subkingdoms, which translate to races and subraces, that achieve similar characteristic functions. The term "sub" is used to denote populations within a greater kingdom.
+Kingdoms may have subkingdoms, which translate to races and subraces, that pinpoint the same empire function but from a different angle. The term "sub" is used to denote populations within a greater kingdom.
 
 </details>
 
@@ -196,10 +206,10 @@ Your journey begins in the capital order of the <a href="Sol Unita.html">Sol Uni
 
 <a href="Asath.html">Asath</a>., the Eye, is a worshipped Nesa, or god, that guides Asceptim and followers. Asath's rise of influence began alongside the <a href="Line from Few">Line from Few</a>, causing the development of the <a href="Rites of Huma.html">Rites of Huma</a>, a series of religious rites contained in <a href="Ester Slate.html">Ester Slates</a>. These rites are governing documents that influence policy and spiritual practices in Sol Unita.
 
-**Example: a few Rites of Huma**:  
-- *Rite of Passage*: The foundational journey from ignorance to enlightenment.  
-- *Rite of Decomposition*: Acceptance of impermanence and understanding life’s cyclical nature.  
-- *Rite of Rule*: Guidance for leaders, channeling ancestral wisdom for just governance.
+**Example: the Rite of Rule**:  
+*"If you do not understand that which you rule, you do not rule anything at all."*
+
+- *Rite of Rule*: Guidance for leaders, channeling ancestral wisdom for just governance. 
 <details open>
 <summary><h4>Ophelia Necesse</h4></summary>
 
@@ -227,10 +237,10 @@ Ophelia Necesse, the Fallen Apostle, rules Scender in the current line.
 <details open>
 <summary><h3>Hollow Resources</h3></summary>
 
-Hollow Resources are vital materials formed from the transformative breakdown of matter, leaving behind potent substances. These resources fuel technology, spiritual practices, and entire economies.
+Hollow Resources are vital materials formed from the transformative breakdown of anim-infused organic matter, leaving behind potent substances that are aligned with the belief sphere of the creature involved. These resources fuel technology, spiritual practices, and sometimes, entire economies.
 
 **Examples**:  
-- **Photometal**: Stores and imprints beliefs under light exposure.   
+- **Photometal**: Stores and imprints beliefs under preferential light exposure.   
 - **Primma**: From Celia’s decomposition process. Hardens with moisture.  
 - **Aprima**: Purer, light-reflective, form of Primma used in most infrastructure, revered in Sol Unita culture.
 
@@ -245,7 +255,7 @@ These resources underlie societal advancements, often causing power struggles. T
 
 <a href="Concordia">Concordia</a> is a continent governed by the <a href="Branches of Concordia">Branches of Concordia</a>, a government formed around hereditary meritocracy, nationalism, and strict cultural values. Emerging from the ashes of the slow fire that was the Esteran Leredith's decline during the previous Taxotheir and Cel Blindbirth Lines, the Branches forged new roots of governance in the values of unity, cultural heritage, and economic growth at the start of the Line from Few.
 
-In the Current Line, two polarized factions, the <a href="Seos Ofshut">Seos Ofshut</a> and the <a href="Leiflan Ofshut">Leiflan Ofshut</a>, shape the political climate of the Branches. Seos push for foreign trade and expansion, while Leiflan favor isolationism and cultural conservation. Resources like Lichen Pearls and Corlin Trees support both economic and spiritual life, with cities like the capital order of Kaina and the military port city of Be'him holding strategic and historical significance on the continent. The Sedl Continental Army, a mobile governing body and militia, occupies the entire continent except the far mountain reaches to the northeast.
+In the Current Line, two polarized factions, the <a href="Seos Ofshut">Seos Ofshut</a> and the <a href="Leiflan Ofshut">Leiflan Ofshut</a>, shape the political climate of the Branches. Seos push for foreign trade and expansion, while Leiflan favor isolationism and cultural conservation. Resources like Lichen Pearls and Corlin Trees support both economic and spiritual life, with cities like the capital order of Kaina and the military port city of Be'him holding strategic and historical significance on the continent. The Sedl Continental Army, a mobile governing body and militia, occupies the entire continent except the far, icy reaches to the northeast.
 
 The current state of polarization and political turmoil was a result of the years following the War of Conclusions, with the era being remembered in Concordian culture as the "<a href="Driftwood Nightmare">Driftwood Nightmare</a>". This war was between the Scepitath (now Sol Unita) and the Branches of Concordia, started on the 467th year of the Line from Few and lasted 37 years. You will learn more about the following events soon.
 
@@ -278,7 +288,7 @@ You start with standard equipment plus 0–180g, reflecting personal background.
 <summary><h3>Stat Allocation and Will</h3></summary>
 
 Use point-buy for balanced power level growth. For guidance:  
-[https://chicken-dinner.com/5e/5e-point-buy.html](Point Buy)
+!(Point Buy)[https://chicken-dinner.com/5e/5e-point-buy.html]
 
 Additionally, you must add a new stat to your character sheet called **Will**. 
 
@@ -287,7 +297,7 @@ Additionally, you must add a new stat to your character sheet called **Will**.
 <details open>
 <summary><h3>Claim Boxes</h3></summary>
 
-On your character sheet, there should be five claim boxes to be used by the [[Merchant System]] 
+On your character sheet, there should be five claim boxes to be used by the [[Merchant System]].
 
 </details>
 
@@ -301,17 +311,14 @@ All official feats allowed except Lucky. This is subject to change, as I have no
 <details open>
 <summary><h3>Spells</h3></summary>
 
-All official spells allowed except Astral Projection and Silvery Barbs, as well as a few other spells not listed here. Upon leveling, I will make sure the spells work before you play with them.
+Most official spells allowed except Astral Projection and Silvery Barbs. Upon leveling, I will make sure the spells work before you play with them.
 
 </details>
 
 <details open>
 <summary><h3>Playable Races</h3></summary>
 
-A list of the official and currently unlocked homebrew races will be provided soon, each with roleplay notes, cultural backgrounds, and mechanical traits.
-
-Ferra Resonance
-
+I would list playable races here, but everybody already has their character figured out.
 
 </details>
 

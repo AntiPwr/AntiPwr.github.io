@@ -9,7 +9,33 @@
     <link rel="stylesheet" href="https://use.typekit.net/hpo3tdq.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Optional: Add a description meta tag for professionalism -->
-    <meta name="description" content="Wiki page for the Deck of the Naive.">
+    <meta name="description" content="Wiki page for Laika Acker (PC).">                                                     <!--TEMPLATE EDIT 1 HERE-->
+
+    <script>
+        function passwordProtect() {
+          // Change this password to something else for each page
+          const correctPassword = "Kalina";                                                                     //PASSWORDTEMPLATE EDIT 1 HERE
+          
+          // Check if the user has already entered the password before
+          const hasAccess = localStorage.getItem("Laika_Acker_Access");                                         //PASSWORDTEMPLATE EDIT 2 HERE
+          if (hasAccess === "granted") {
+            // They have already entered the correct password before, so do nothing
+            return;
+          }
+    
+          // Otherwise, prompt for the password
+          const userInput = prompt("Enter the password to access to the Laika Acker page:");                       //PASSWORDTEMPLATE EDIT 3 HERE
+          if (userInput !== correctPassword) {
+            alert("Wrong password. You will be redirected.");
+            window.location.href = "../scape_wiki_homepage.html";
+          } else {
+            // If the password is correct, store a flag so we don't ask again
+            localStorage.setItem("Laika_Acker_Access", "granted");                                          //PASSWORDTEMPLATE EDIT 4 HERE
+          }
+        }
+    
+        window.onload = passwordProtect;
+      </script>
 </head>
 <body>
     <nav class="navbar">
@@ -17,7 +43,7 @@
             <div class="left-nav">
                 <!-- The same button used to open/close sidebar -->
                 <button class="open-btn" id="open-btn">&#9776;</button>
-                <a href="../scape_wiki_homepage.html" class="title">Scape Wiki</a>                                        
+                <a href="../scape_wiki_homepage.html" class="title">Scape Wiki</a>                                       
             </div>
             <ul class="nav-links">
                 <li><a href="../../index.html">Sea Level</a></li>
@@ -31,8 +57,7 @@
 
     <aside class="sidebar" id="sidebar">
         <ul class="sidebar-links">
-            <li><a href="#Deck of the Naive">Deck of the Naive</a></li>  
-                                                                             
+            <li><a href="#Laika Acker">Laika Acker</a></li>                                                                   <!--TEMPLATE EDIT 2 HERE-->
             
             <!-- Add more links as relevant once you know the structure of the markdown content -->
         </ul>
@@ -40,7 +65,7 @@
 
     <main class="content">
         <!-- Insert a container for the Markdown content -->
-        <div id="markdown-content" class="wiki-content" data-md-file="Deck of the Naive.md"></div>                                       
+        <div id="markdown-content" class="wiki-content" data-md-file="Laika Acker.md"></div>                                       <!--TEMPLATE EDIT 3 HERE-->
     </main>
 
     <footer class="footer">
