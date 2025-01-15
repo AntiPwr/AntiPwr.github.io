@@ -55,46 +55,63 @@ You hail from [[New Badaba]], a coastal city built on the flooded ruins of [[Old
 
 The ruling class of New Badaba is the [[Hacienda Band]]—a group of landowners and merchants who present themselves as legitimate stewards of the city’s agriculture but covertly profit from black-market activities. They broker deals involving rare beasts, leverage the region’s piracy networks, and maintain a delicate balance between ordinary citizens and unsanctioned trade. Their grip on local governance keeps New Badaba independent from external powers and fosters a deep-seated mistrust of the Tayim Trade Republic.
 
-The Tayim Trade Republic itself is an expansive empire that once imposed its cultural and economic influence across Babadoo Slim. Their destruction of Old Badaba was a harsh response to rebellion and perceived threats to their colonial power. The lingering resentment in New Badaba comes not only from the lives lost and the city razed but also from the oppressive ideologies the Republic enforced—namely, the push toward **Advancism**. This history fuels the enduring determination of the Hacienda Band—and many others on the isle—to remain free from the Republic’s grasp, even as whispers of more primal beliefs continue to shape the city’s cultural and spiritual backbone.
+The Tayim Trade Republic itself was once an expansive empire that imposed its cultural and economic influence across Babadoo Slim. Their destruction of Old Badaba was a harsh response to rebellion and perceived threats to their colonial power. The lingering resentment in New Badaba comes not only from the lives lost and the city razed but also from the perceived ideological suppression they felt. This history fuels the enduring determination of the Hacienda Band—and many others on the isle—to remain free from the Republic’s grasp, even as whispers of more primal beliefs continue to shape the city’s cultural and spiritual backbone.
 
 
 
-## Phylums of the Southwest
+## Ideologies of the Southwest
 
-*The section below is going to be quite complex, but it is here if you want. Your character could know the basic information about these things depending on your preference. Of course, history checks will be quite common in this campaign, so I don't expect you to know any of this.*
+*The section below is going to be quite complex, but I decided to add it anyways. Your character 'could' know the basic information about these things depending on your preference. Of course, history checks will be quite common in this campaign, so I don't expect you to know any of this. Two faiths, Pria and Gludestit*
 
 ### Primalism and Advancism
 
-**Primalism** and **Advancism** are two political and cultural ideologies that arose during an early evolutionary phase of [[Huma]], upon [[First Contact]]. As Huma and [[Ferra]] gradually evolved into [[Anthros]] (Ferra with Huma-like traits) and [[Zothros]] (Huma with Ferra-like traits), these ideologies reflected the new consciousness that emerged.
+**Primalism and Advancism are two contrasting beliefs.**<br>
+**Anthros, Ferra with Huma mutations, want to advance.** <br>
+**Zothros, Huma with Ferra mutations, want to return to nature.**<br>
+
+[[Primalism]] and [[Advancism]] are two political and cultural ideologies that arose during an early evolutionary phase of [[Huma]], upon [[First Contact]]. As Huma and [[Ferra]] gradually evolved into [[Anthros]] (Ferra with Huma-like traits) and [[Zothros]] (Huma with Ferra-like traits), these ideologies reflected the new consciousness that emerged.
 
 - **Primalism**: Emphasizes a return to primal ways, mostly held by Zothros species. Believers seek to reconnect with nature, viewing it as the only path to true harmony.  
 - **Advancism**: Focuses on the progression of intelligence and society, typically held by Anthros species. Believers seek to limit nature’s suffering by expanding civilization thoughtfully, though this can lead to a clash with Primalism’s more nature-centered ethos.
 
 ### Innerdualism
 
-**Innerdualism** is a meditative belief devoted to worship of the [[In-between]] and the creator-figure called **Albumaiyhet**. Followers strive for absolute neutrality of mind, believing that by attaining an inner stillness, they can pass between reality and the **Soul Fields** to commune with higher beings known as **Spira** and **Nesa**. The faithful, referred to as “The Walkers of Duality,” refer to Albumaiyhet as “The Mean,” symbolizing a perfect balance without extremism.
+**Innerdualism is an nomadic belief system from the early days of the Line from Few.**
+
+[[Innerdualism]] is a meditative belief devoted to worship of the [[In-between]] and the creator-figure called [[Albumaiyhet]]. Followers strive for absolute neutrality of mind, believing that by attaining an inner stillness, they can pass between reality and the [[Soul Fields]] to commune with higher beings known as [[Spira]] and [[Nesa]]. The faithful, referred to as [[Walkers of Duality]], refer to Albumaiyhet as “The Mean,” symbolizing a perfect balance without extremism.
 
 ### Asceptim
 
-**Asceptim** is a religious [[Phylum]] within **[[Sol Unita]]**, centering on the pursuit of **Sol Proscima**: a state of ultimate enlightenment and fulfillment. Using the metaphor of sunlight evaporating water, Asceptim teaches that creatures (the water) can ascend (evaporate) toward a divine realm (the sun). This notion of ascension coincidentally mirrors Advancism’s push for expansion—where both see a future of transcendence, albeit in different ways: one spiritual and one societal.
+**Asceptim is a sanctan Huma faith that has been explored previously.**
+
+[[Asceptim]] is the faith of [[Sol Unita]], centering on the pursuit of [[Sol Proscima]]: a state of ultimate enlightenment and fulfillment. Using the metaphor of sunlight evaporating water, Asceptim teaches that creatures (the water) can ascend (evaporate) toward a divine realm (the sun). This notion of ascension coincidentally mirrors Advancism’s push for expansion—where both see a future of transcendence, albeit in different ways: one spiritual and one societal.
 
 ### Ashprahm and Anosdi
 
-**Ashprahm** is a belief system rooted in Primalism and **Innerdualism**, emphasizing harmony with nature’s core essence through ritual and spiritual cleansing. It rejects technological progress in favor of a more primal existence guided by balance. On [[Babadoo Slim]], **Oshe** is the only surviving subphylum of Ashprahm, blending occult practices with naturalistic reverence.  
+**Ashprahm and Anosdi are contrasting belief systems sprouting from Primalism and Advancism beliefs**
 
-**Anosdi**, in contrast, is a subphylum of Advancism and **Asceptim**. It venerates **Asath**, the Eye, as the sole creator, and actively promotes expansion, believing that all progress is deserved for those who seek it. Where Ashprahm implores a return to balanced primal forces, Anosdi encourages the forward march of society under the banner of Asath.
+[[Ashprahm]] is a belief system rooted in Primalism and [[Innerdualism]], emphasizing harmony with nature’s core essence through ritual and spiritual cleansing. It rejects technological progress in favor of a more primal existence guided by balance. On [[Babadoo Slim]], [[Oshe]] is the only surviving subphylum of Ashprahm, blending occult practices with naturalistic reverence.  
 
-### Gludestit
+[[Anosdi]], in contrast, is a subphylum of Advancism and Asceptim. It venerates [[Asath]], the Eye, as the sole creator, and actively promotes expansion, believing that all progress is deserved for those who seek it. Where Ashprahm implores a return to balanced primal forces, Anosdi encourages the forward march of society under the banner of Asath.
 
-**Gludestit** was once a powerful phylum led by the Nesa **[[Hidraal]]**, centering on the hoarding of resources and power. Gludestit taught that survival depended on controlling both natural and spiritual wealth, leading to cannibalistic practices and a culture of absorption. Although in decline, Gludestit’s philosophy of accumulation still echoes in certain pockets of pirates and Primordials who recall Hidraal’s promise of rising again.
+### Gludestit and Onend
 
-### Pria and Oshe
+**Gludestit is a dying Ferra phylum and Onend is replacing it.**
 
-**Pria** is a subphylum of Gludestit that arose in direct opposition to the Tayim Trade Republic’s advancist tendencies. Pria’s followers work alongside nature rather than trying to dominate it, believing life and death to be two sides of the same coin. The tension between Primalism and Advancism helped spark the **Battle of the Banquet**, during which Old Badaba fell. For many in **New Badaba**, Pria stands as both a rebellious outcry against oppressive rule and a guiding spiritual presence that helped them rebuild.
+[[Gludestit]] was once a powerful phylum of the [[Ferra]] belief in [[Hidraal]], centering on the inconsiderate hoarding of resources and power. Gludestit taught that survival depended on controlling both natural and spiritual wealth, leading to cannibalistic practices and a culture of absorption. Although in decline, Gludestit’s philosophy of accumulation still echoes in certain pockets of pirates and Primordials who recall Hidraal’s promise of rising again.
 
-**Oshe**, meanwhile, is a mystical subphylum of **Ashprahm** practiced in secrecy on Babadoo Slim—particularly in New Badaba. Focusing on ritual invocation and interaction with spirits, Oshe’s followers preserve a more occult aspect of Toma’s primal spirituality. While Pria rebels against external domination, Oshe delves into hidden rites, harnessing the energies of both nature and the supernatural.
+It is important to know that Ferra, as low-minded creatures, tend to follow simpler belief systems. Belief in Hidraal under Gludestit was an example of this during the [[Line from Few]]. Consequently, the strongest primordials linger from the times of her reign, laying claim to land as biological remnants. In the current line, all true Ferra follow two gods, [[Apex and Praeda]]. This belief system is referred to as [[Onend]] by Huma and resonant scholars.
 
-The **Simi**, a subkingdom of simian [[Anthros]], often find themselves caught between these ideologies. New World Simi, with their intelligence and structured communities, might lean toward advancist or expansionist cultures, while Old World Simi embody more primal instincts. Both, however, reflect the broader struggles of Babadoo Slim—where nature and civilization clash and coalesce in a complex dance of survival and power.
+### Pria, Oshe, and the Simi
+
+**Pria and Oshe are subphylums are found in Babadoo Slim.** <br>
+**Simi are Huma-Ferra Resonants.**
+
+[[Pria]] is a subphylum of Gludestit that arose in direct opposition to the Tayim Trade Republic’s advancist tendencies. Pria’s followers work alongside nature rather than trying to dominate it, believing life and death to be two sides of the same coin. The tension between Primalism and Advancism helped spark the [[Battle of the Banquet]], during which Old Badaba fell. For many in [[New Badaba]], Pria stands as both a rebellious outcry against oppressive rule and a guiding spiritual presence that helped them rebuild. 
+
+[[Oshe]], meanwhile, is a mystical subphylum of Ashprahm practiced in secrecy on Babadoo Slim—particularly in New Badaba. Focusing on ritual invocation and interaction with spirits, Oshe’s followers preserve a more occult aspect of Toma’s primal spirituality. While Pria rebels against external domination, Oshe delves into hidden rites, harnessing the energies of both nature and the supernatural.
+
+The [[Simi]], a subkingdom of simian [[Anthros]], often find themselves caught between these ideologies. New World Simi, with their intelligence and structured communities, tend to lean toward advancist or expansionist cultures, while Old World Simi embody more primal instincts. Both, however, reflect the broader struggles of Babadoo Slim.
 
 
 
@@ -110,4 +127,5 @@ Arkon, at the center of the Swirling Sea, is a staple question of life in Toma. 
 
 - You may wield a cutlass, which is a rapier but with slashing damage instead of piercing damage.
 - Deus ex machina faith (Possible Development)
-- Return of Malgasta to Hacienda Band Contact (Possible Reward)
+- Return of Malgasta to Hacienda Band Contact (Possible reward of about 3000g)
+- 
