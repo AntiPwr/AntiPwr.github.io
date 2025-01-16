@@ -127,14 +127,7 @@ This section highlights key historical periods, locations, belief systems, and m
 <summary><h3>Toma</h3></summary>
 <img src="wiki_images/Jetti Sound.png"><i>An image of the Jetti Sound, a coastal region of Sancta.</i></img>
 
-
-Toma has six major continents including:
-- [[Wyldere]]
-- [[Usaka]]
-- [[Concordia]]
-- [[Theologia]]
-- [[Sancta]] (This is where the game takes place.)
-- [[Kro'Tan]]
+Toma is the eco, or plane of existence, for this game. Although, I have heard a few popular scientific theories for an "Ecoss" floating around. You will be starting the game in [[Sancta]], Toma's warmer southern continent.
 </details>
 
 <details open>
