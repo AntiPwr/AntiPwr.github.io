@@ -11,9 +11,9 @@ Individual character information can be found in the sections below. It would be
 
 <a href="Laika Acker.html">Laika Acker (Adrian)</a>
 <br>
-<a href="Lavinho.html">Lavinho Last Name (Ben)</a>
+<a href="Lavinho Shourn.html">Lavinho Shourn (Ben)</a>
 <br>
-<a href="Mellifera.html">Mellifera (Karly)</a>
+<a href="Mellifera Tulscip.html">Mellifera Tulscip (Karly)</a>
 
 </details>
 
