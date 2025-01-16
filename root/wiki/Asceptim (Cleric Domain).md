@@ -1,4 +1,6 @@
-# Asceptim Domain
+# Asceptim (Cleric Domain)
+
+<img src="Asceptim (Cleric Domain).png"><i></i></img>
 
 You are worthy of Ascension. Clerics of the **Asceptim Domain** harness the power of believing in Asath—Sol Proscima—and the values imbued in the Rites of Huma. Whether that means venerating technological advancement, augmenting body and mind, blending nature with technology, or chasing mental acuity and enhanced willpower, the power resides in faith-attuned beliefs. The rampant growth the religion has achieved, alongside its societal accomplishments, were all given to the Eye and His glory.
 

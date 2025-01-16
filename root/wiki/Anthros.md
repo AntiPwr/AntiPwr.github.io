@@ -1,3 +1,3 @@
 # Anthros
-<!-- This file was auto-generated. 
-     Add your content here. -->
+
+<img src="Anthros.png"><i></i></img>

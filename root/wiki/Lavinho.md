@@ -65,14 +65,17 @@ The Tayim Trade Republic itself was once an expansive empire that imposed its cu
 
 ### Primalism and Advancism
 
-**Primalism and Advancism are two contrasting beliefs.**<br>
+**Simi are Huma-Ferra Resonants.**<br>
+**Primalism and Advancism are two contrasting beliefs sprouting from Huma-Ferra Resonance.**<br>
 **Anthros, Ferra with Huma mutations, want to advance.** <br>
 **Zothros, Huma with Ferra mutations, want to return to nature.**<br>
 
-[[Primalism]] and [[Advancism]] are two political and cultural ideologies that arose during an early evolutionary phase of [[Huma]], upon [[First Contact]]. As Huma and [[Ferra]] gradually evolved into [[Anthros]] (Ferra with Huma-like traits) and [[Zothros]] (Huma with Ferra-like traits), these ideologies reflected the new consciousness that emerged.
+[[Primalism]] and [[Advancism]] are two political and cultural ideologies that arose during an early evolutionary phase of [[Huma]]. As Huma and [[Ferra]] gradually evolved into [[Anthros]] (Ferra with Huma-like traits) and [[Zothros]] (Huma with Ferra-like traits), these ideologies reflected the new consciousness that emerged.
 
 - **Primalism**: Emphasizes a return to primal ways, mostly held by Zothros species. Believers seek to reconnect with nature, viewing it as the only path to true harmony.  
 - **Advancism**: Focuses on the progression of intelligence and society, typically held by Anthros species. Believers seek to limit nature’s suffering by expanding civilization thoughtfully, though this can lead to a clash with Primalism’s more nature-centered ethos.
+
+The [[Simi]], a subkingdom of simian [[Anthros]], often find themselves caught between these ideologies. New World Simi, with their intelligence and structured communities, tend to lean toward advancist or expansionist cultures, while Old World Simi embody more primal instincts. Both, however, reflect the broader struggles of Babadoo Slim.
 
 ### Innerdualism
 
@@ -98,20 +101,19 @@ The Tayim Trade Republic itself was once an expansive empire that imposed its cu
 
 **Gludestit is a dying Ferra phylum and Onend is replacing it.**
 
-[[Gludestit]] was once a powerful phylum of the [[Ferra]] belief in [[Hidraal]], centering on the inconsiderate hoarding of resources and power. Gludestit taught that survival depended on controlling both natural and spiritual wealth, leading to cannibalistic practices and a culture of absorption. Although in decline, Gludestit’s philosophy of accumulation still echoes in certain pockets of pirates and Primordials who recall Hidraal’s promise of rising again.
+[[Gludestit]] was once a powerful phylum of [[Ferra]] belief in [[Hidraal]], an ancient prophetic hydra, centering on the inconsiderate hoarding of resources and power. Gludestit taught that survival depended on controlling both natural and spiritual wealth, leading to cannibalistic practices and a culture of absorption. Although in decline, Gludestit’s philosophy of accumulation still echoes in certain pockets of pirates and Primordials who recall Hidraal’s promise of rising again.
 
 It is important to know that Ferra, as low-minded creatures, tend to follow simpler belief systems. Belief in Hidraal under Gludestit was an example of this during the [[Line from Few]]. Consequently, the strongest primordials linger from the times of her reign, laying claim to land as biological remnants. In the current line, all true Ferra follow two gods, [[Apex and Praeda]]. This belief system is referred to as [[Onend]] by Huma and resonant scholars.
 
 ### Pria, Oshe, and the Simi
 
 **Pria and Oshe are subphylums are found in Babadoo Slim.** <br>
-**Simi are Huma-Ferra Resonants.**
 
 [[Pria]] is a subphylum of Gludestit that arose in direct opposition to the Tayim Trade Republic’s advancist tendencies. Pria’s followers work alongside nature rather than trying to dominate it, believing life and death to be two sides of the same coin. The tension between Primalism and Advancism helped spark the [[Battle of the Banquet]], during which Old Badaba fell. For many in [[New Badaba]], Pria stands as both a rebellious outcry against oppressive rule and a guiding spiritual presence that helped them rebuild. 
 
 [[Oshe]], meanwhile, is a mystical subphylum of Ashprahm practiced in secrecy on Babadoo Slim—particularly in New Badaba. Focusing on ritual invocation and interaction with spirits, Oshe’s followers preserve a more occult aspect of Toma’s primal spirituality. While Pria rebels against external domination, Oshe delves into hidden rites, harnessing the energies of both nature and the supernatural.
 
-The [[Simi]], a subkingdom of simian [[Anthros]], often find themselves caught between these ideologies. New World Simi, with their intelligence and structured communities, tend to lean toward advancist or expansionist cultures, while Old World Simi embody more primal instincts. Both, however, reflect the broader struggles of Babadoo Slim.
+
 
 
 
@@ -128,4 +130,4 @@ Arkon, at the center of the Swirling Sea, is a staple question of life in Toma. 
 - You may wield a cutlass, which is a rapier but with slashing damage instead of piercing damage.
 - Deus ex machina faith (Possible Development)
 - Return of Malgasta to Hacienda Band Contact (Possible reward of about 3000g)
-- 
+

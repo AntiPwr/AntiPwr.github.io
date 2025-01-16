@@ -185,7 +185,7 @@ Toma’s timeline is divided into Lines, each concluding with a rotation shift o
   
 - <a href="Line from Few.html">Line from Few</a>: Societies slowly began to emerge from their age-long refuge in Endem as Celia’s dominance reached its climax come the World Gyre's shift. Societies like the Scepitath (now Sol Unita) and the Branches of Concordia (from Esterik/Esteran Leredith) formed, establishing new balances of faith, trade, and governance. However, it should be known that many other Huma civilizations exist other than the two mentioned here. 
 
-- <a href="Current Line.html">Current Line</a>: We are currently in the 40th year of the Current Line. The most notable event so far has been the expansion of the Airship Pact, a pact made between classes regarding individual demands and expectations of innerplanar travel by airship. This meeting, held in Hypri, hostedgave a powerful speech to the Chain of Delta, a historically isolated class from the western steppes of Wyldere.
+- <a href="Current Line.html">Current Line</a>: We are currently in the 40th year of the Current Line. The most notable event so far has been the expansion of the Airship Pact, a pact made between classes regarding individual demands and expectations of innerplanar travel by airship. This meeting, held in Hypri, hosted powerful speeches to the Chain of Delta, a historically isolated class from the western steppes of Wyldere.
 
 </details>
 
