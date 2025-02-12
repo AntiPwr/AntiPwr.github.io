@@ -12,7 +12,8 @@
 **Subclass:** Swashbuckler <br>
 **Starting Level**: 3 <br>
 
-**Starting Age:** 
+**Starting Age:** 20
+**Height:** 5'11
 
 
 <br>

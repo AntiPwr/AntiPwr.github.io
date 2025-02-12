@@ -10,7 +10,8 @@
 **Subclass:** [[Belief Gambit (Sorcerer Origin)|Belief Gambit]] <br>
 **Starting Level**: 3 <br>
 
-**Starting Age:** 
+**Starting Age:** 20
+**Height**: 6'2
 
 
 <br>

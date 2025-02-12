@@ -78,7 +78,7 @@ A unique, soul-attuned spell or ability—highly personal and reflective of the 
 2. Animus (Internalized, or Inputted Anim)
 3. [[Belief]] (Untapped State)
 
-Although belief is actually a potential state of Anim, its differences to the other states grant it emphasis and a unique name in fields of study.
+Although belief is actually a potential state of Anim, its differences to the other states grant it emphasis and a unique name in arcane fields of study.
 
 <details open>
 <summary><h4>Anim Illnesses, Belief Afflicts</h3></summary>
