@@ -62,3 +62,8 @@ Concordia’s economy relies heavily on **Lichen Pearls**, vital for crafting po
 **It has been five years since your mother's death**  
 
 Though recorded as deceased, the circumstances around Kalina Acker’s final dive remain unresolved. The echoes of that tragedy still color your personal journey, embodying the broader tension within Concordian society as it recovers from war, faces the unpredictable sea, and grapples with its own political divide.
+
+### Decks
+
+- [[Deck of the Naive]]
+- (Insert Future Deck Name Here)
