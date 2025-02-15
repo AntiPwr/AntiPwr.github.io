@@ -9,7 +9,7 @@
 
 The **Rites of Huma** are foundational doctrines within [[Asceptim]] faith and [[Sol Unita]] law, outlining the philosophical, spiritual, and political expectations of Huma under the guidance of [[Asath]]. These rites serve as a framework for governance, social conduct, and ascension, influencing the cultural and legal structure of [[Scender]] and the greater Sol Unita dominion.
 
-Each rite is housed within the [[Ester Slate|Ester Slates]], sacred artifacts said to contain divine instruction. Among them, the [[Rite of Passage]] is believed to predate all others, originating from an era before the subterrain, a time some claim existed before time itself.
+Each rite is housed within an [[Ester Slate]], sacred artifacts said to contain divine instruction. Among them, the [[Rite of Passage]] is believed to predate all others, originating from an era before the [[Cel Blindbirth Line]], a time some claim to have existed before time itself.
 
 ## Rites of Huma
 

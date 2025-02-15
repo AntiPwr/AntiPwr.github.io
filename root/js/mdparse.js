@@ -17,7 +17,6 @@ document.addEventListener('DOMContentLoaded', async () => {
         regex: /\[\[([^|\]]+)\|?([^\]]*)\]\]/g,
         replace: (match, fileName, displayName) => {
             const name = displayName.trim() !== '' ? displayName : fileName;
-            // Optional: remove leading underscore from fileName if that's your convention
             const cleanFileName = fileName.replace(/^_/, '');
             return `<a href="${cleanFileName}.html">${name}</a>`;
         }
@@ -43,21 +42,19 @@ document.addEventListener('DOMContentLoaded', async () => {
         const headingTags = tempDiv.querySelectorAll('h1, h2, h3, h4, h5, h6');
         headingTags.forEach((heading) => {
             if (!heading.id) {
-                // Create an ID based on heading text (cleaned up)
-                // Remove special characters, replace spaces with dashes, etc.
                 const textContent = heading.textContent.trim();
                 const slug = textContent
                   .toLowerCase()
-                  .replace(/[^\w]+/g, '-') // Non-word => dash
-                  .replace(/^-+|-+$/g, ''); // Remove leading/trailing dashes
+                  .replace(/[^\w]+/g, '-')
+                  .replace(/^-+|-+$/g, '');
                 heading.id = slug;
             }
         });
 
-        // 2) Now that headings have IDs, put the final HTML back into a string
+        // 2) Now that headings have IDs, get final HTML
         html = tempDiv.innerHTML;
 
-        // 3) Insert into the container
+        // 3) Insert into container
         container.innerHTML = html;
 
         // 4) Build the sidebar links by scanning these headings
@@ -69,15 +66,10 @@ document.addEventListener('DOMContentLoaded', async () => {
     }
 });
 
-/**
- * Builds a table of contents in the sidebar by scanning the heading tags.
- */
 function buildSidebarTOC(headingElements) {
-    // Find your sidebar container
     const sidebar = document.getElementById('sidebar');
     if (!sidebar) return;
 
-    // If the sidebar contains an <ul> for links, or create one if needed
     let sidebarLinks = sidebar.querySelector('ul.sidebar-links');
     if (!sidebarLinks) {
         sidebarLinks = document.createElement('ul');
@@ -85,15 +77,12 @@ function buildSidebarTOC(headingElements) {
         sidebar.appendChild(sidebarLinks);
     }
 
-    // Clear existing links if you want to refresh each time
     sidebarLinks.innerHTML = '';
 
     headingElements.forEach((heading) => {
-        // Use the heading ID to create a link
         const headingText = heading.textContent.trim();
         const headingId = heading.id;
         
-        // Create a <li> and <a>
         const li = document.createElement('li');
         const a = document.createElement('a');
         a.href = '#' + headingId;

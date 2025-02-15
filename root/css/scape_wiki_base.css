@@ -71,9 +71,15 @@ body {
     text-decoration: underline;
 }
 
+.nav-search {
+    position: relative;
+    flex-shrink: 0; /* so it doesn't collapse if nav container is flex */
+}
+
 .nav-search input {
     padding: 5px;
     font-size: 16px;
+    width: 200px; /* you can adjust to your taste */
 }
 
 /* Sidebar as an overlay */
@@ -149,7 +155,6 @@ body {
 /* Responsive Design */
 /* Remove rules that hide nav-links and nav-search on mobile */
 @media screen and (max-width: 768px) {
-    /* Keep nav visible and stable */
     .nav-links {
         display: flex; /* Ensure links remain visible */
     }
@@ -163,86 +168,60 @@ body {
     }
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* Example basic styling for the search dropdown */
-.nav-search {
-    position: relative;
-  }
-  
-  .search-dropdown {
+/* The search dropdown styling */
+.search-dropdown {
     position: absolute;
-    top: 40px; /* Just below the input */
-    left: 0;
+    top: 40px;
+    /* left: 0;  remove this */
+    right: 0; /* align to the right edge instead */
     width: 250px;
     max-height: 300px;
     overflow-y: auto;
     background: #fff;
     border: 1px solid #ccc;
-    display: none; /* Shown when user clicks / types in searchInput */
+    display: none;
     z-index: 9999;
     padding: 5px;
   }
-  
-  .search-dropdown h4 {
-    margin: 5px 0;
-    font-size: 14px;
-  }
-  
-  .search-dropdown ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-  }
-  
-  .search-dropdown li {
-    padding: 5px;
-    cursor: pointer;
+
+.search-dropdown h4 {
+  margin: 5px 0;
+  font-size: 14px;
+}
+
+.search-dropdown ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.search-dropdown li {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-between;  /* text on left, pin circle on right */
+    padding: 5px;
+    cursor: pointer;
+    color: #333; 
+    background: #fff;
   }
   
   .search-dropdown li:hover {
     background: #eee;
   }
   
-  .pin-btn {
-    background: none;
-    border: none;
-    cursor: pointer;
-    margin-left: 10px;
+  /* For pinned items too, re-using the same style */
+  .search-dropdown li span {
+    flex: 1; /* ensures the text spans the available space */
   }
-  
-  .pinned-section {
-    margin-bottom: 10px;
-    display: none; /* only displayed if pinned items exist */
-  }
+
+.pin-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.pinned-section {
+  margin-bottom: 10px;
+  display: none; /* only displayed if pinned items exist */
+}

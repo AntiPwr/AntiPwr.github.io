@@ -1,5 +1,7 @@
 # Asceptim
 
+<img src="wiki_images/Asceptim.png"><i></i></img>
+
 **Bin**: [[Scape]]  
 **Basin**: [[Sacrus]]  
 **Eco**: [[Toma]] of [[Toman Ecoss]]  
@@ -10,10 +12,10 @@
 
 ## Key Concepts and Beliefs
 
-- **Sol Proscima** is the ultimate goal of Asceptim. It represents a state where all desires have been fulfilled, and no further action is required. The term is derived from the **Presceptist noun "prosc,"** meaning the elation of total accomplishment. Asceptim followers believe that through enlightenment and ascension, they will transcend into this state of being and exist in a location of eternal satisfaction.
+- **Sol Proscima** is the ultimate goal of Asceptim. It represents a state where all desires have been fulfilled, and no further action is required. The term is derived from the **Presceptist prefix "prosc,"** meaning the elation of total accomplishment. Asceptim followers believe that through enlightenment and ascension, they will transcend into this state of being and exist in a location of eternal satisfaction.
 - **[[Rites of Huma]]** are spiritual maxims that guide followers on their path toward ascension. These rites form the foundation of Asceptim doctrine, detailing how individuals should live, govern, and interact with others. The most revered of these is the **[[Rite of Passage]]**, the original doctrine that sets the precedent for all spiritual and societal progress.
 
-## Asath: The False Nesa
+## Asath
 
 **Asath**, also known as **The Eye**, is a **[[Nesa]]**. Followers of Asceptim perceive Asath, the sun, as the ultimate force of creation and ascension, believing that its light provides the energy necessary for growth and transcendence.
 

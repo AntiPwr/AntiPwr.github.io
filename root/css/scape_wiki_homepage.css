@@ -11,22 +11,16 @@ section p {
     line-height: 1.6;
 }
 
-
-
 /* This targets all links inside main.content, but will NOT affect navbar links */
 .content a:link {
     color: #5D3FD3; /* Unread (purple) */
 }
 
 .content a:visited {
-    color: #51414F; /* Visited (darker purple) */
+    color: #51414F; /* Darker purple when visited */
 }
 
 .content a:hover {
-    color: #d7bde2; /* Hover (light purple) */
+    color: #d7bde2; 
     text-decoration: underline;
 }
-
-
-
-

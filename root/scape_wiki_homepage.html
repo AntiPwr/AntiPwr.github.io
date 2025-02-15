@@ -6,7 +6,6 @@
     <!-- Base + homepage-specific CSS -->
     <link rel="stylesheet" href="css/scape_wiki_base.css">
     <link rel="stylesheet" href="css/scape_wiki_homepage.css">
-    <!-- Font references -->
     <link rel="stylesheet" href="https://use.typekit.net/hpo3tdq.css">
     <link rel="stylesheet" href="https://use.typekit.net/hpo3tdq.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -24,7 +23,7 @@
                 <li><a href="../index.html">Sea Level</a></li>
                 <li><a href="scape_about.html">About</a></li>
             </ul>
-            <!-- The search bar: your new dropdown logic from Step 2 will attach here -->
+            <!-- The search bar -->
             <div class="nav-search">
                 <input type="text" placeholder="Search...">
             </div>
@@ -34,21 +33,18 @@
     <!-- Sidebar as an overlay -->
     <aside class="sidebar" id="sidebar">
         <ul class="sidebar-links">
-            <!-- These anchor links jump to sections on this page -->
             <li><a href="#Welcome to the Scape Wiki">Welcome to the Scape Wiki</a></li>
             <li><a href="#Index of Major Topics">Index of Major Topics</a></li>
             <li><a href="#Campaign 1: Player Character Information">Campaign 1 Info</a></li>
         </ul>
     </aside>
 
-    <!-- Main content area -->
     <main class="content">
         <section id="Welcome to the Scape Wiki">
             <h1>Welcome to the Scape Wiki</h1>
             <p>A wikipedia for the Scape, a TTRPG-inspired worldbuilding project.</p>
         </section>
 
-        <!-- Newly added "Index of Major Topics" section -->
         <section id="Index of Major Topics">
             <h2>Index of Major Topics</h2>
             <p>Explore key areas of the Scape Wiki:</p>
@@ -59,7 +55,7 @@
                 <li><a href="wiki/Ideologies.html">Ideologies</a></li>
                 <li><a href="wiki/Economics.html">Economics</a></li>
                 <li><a href="wiki/Geopolitics.html">Geopolitics</a></li>
-                <!-- Add more categories or sub-pages as your wiki grows -->
+                <li><a href="wiki/Toman Timeline.html">Toman Timeline</a></li>
             </ul>
         </section>
 
@@ -82,9 +78,8 @@
         <p>&copy; 2024 Sea Level. All rights reserved.</p>
     </footer>
 
-    <!-- Your JS scripts -->
-    <script src="js/sidebar.js"></script>
-    <!-- Add search.js or incorporate your advanced search logic here -->
-    <!-- e.g. <script src="js/search.js"></script> -->
+    <!-- Scripts: First your sidebar logic, then the search bar logic -->
+    <script src="js/scape_wiki_script.js"></script>
+    <script src="js/search.js"></script>
 </body>
 </html>

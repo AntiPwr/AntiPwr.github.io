@@ -1,9 +1,0 @@
-1. When the user first opens the site, the user is automatically directed to the center of the website. Here, the Sea Level Logo and Text is shown. The user can then scroll up, to see works and information from the real world, or down to see works and information from the Scape. When the user scrolls up, the bottom nav bar rises. When the user scrolls down, the top nav bar falls into place.
-     When the user reaches the very top of the page, the top nav bar will be found at the top of the page. When the user reaches the bottom, the bottom nav bar appear. These nav bar variations will exist without hyperlinks, or perhaps a different set of hyperlinks specifically for the corresponding universe.
-
-2. The nav bars should be dark, juxtaposing the light webpage. Using a crow theme for the nav bars, such as feathers, would match the top and bottom beak logo.
-
-3. Use large full-page (or near) sections to display information, such as announcements, current projects, etc. 
-
-4. Information should be visual, art-inspired, and involve strong clean color palettes.
-
