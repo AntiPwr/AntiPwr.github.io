@@ -164,3 +164,85 @@ body {
 }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Example basic styling for the search dropdown */
+.nav-search {
+    position: relative;
+  }
+  
+  .search-dropdown {
+    position: absolute;
+    top: 40px; /* Just below the input */
+    left: 0;
+    width: 250px;
+    max-height: 300px;
+    overflow-y: auto;
+    background: #fff;
+    border: 1px solid #ccc;
+    display: none; /* Shown when user clicks / types in searchInput */
+    z-index: 9999;
+    padding: 5px;
+  }
+  
+  .search-dropdown h4 {
+    margin: 5px 0;
+    font-size: 14px;
+  }
+  
+  .search-dropdown ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .search-dropdown li {
+    padding: 5px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .search-dropdown li:hover {
+    background: #eee;
+  }
+  
+  .pin-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    margin-left: 10px;
+  }
+  
+  .pinned-section {
+    margin-bottom: 10px;
+    display: none; /* only displayed if pinned items exist */
+  }
