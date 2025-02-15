@@ -22,6 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // 1) Determine correct path to wiki_pages.json based on current page location
   let basePath = 'json/wiki_pages.json';
   if (window.location.pathname.includes('/wiki/')) {
+    // If we are in /wiki/, then the JSON is one level up
     basePath = '../json/wiki_pages.json';
   }
 
@@ -31,7 +32,7 @@ document.addEventListener('DOMContentLoaded', () => {
     .then(data => {
       allPages = data; 
       displayPinnedPages();
-      // Initially hide if no pins and no typed text
+      // Hide the dropdown if no pinned pages and no query yet
       updateDropdownVisibility('');
     })
     .catch(err => console.error('Error loading wiki_pages.json:', err));
@@ -43,14 +44,11 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   // 3) Hide or show dropdown on document click
-  //    If clicking outside, hide the dropdown. If clicking the input, decide 
-  //    based on pinned items or typed query.
   document.addEventListener('click', (e) => {
     if (!dropdown.contains(e.target) && e.target !== searchInput) {
-      // Clicked outside the dropdown or input => hide
       dropdown.style.display = 'none';
     } else {
-      // Clicked on the input or inside the dropdown => show only if pinned or typed
+      // If pinned or typed query => show
       const query = searchInput.value.trim().toLowerCase();
       if (pinnedPages.length > 0 || query) {
         dropdown.style.display = 'block';
@@ -62,27 +60,38 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // ### Helper Functions ###
 
+  /**
+   * Creates suggestion list items for any pages that start with the typed query.
+   */
   function updateSuggestions(query) {
     suggestionList.innerHTML = '';
     if (!query) {
-      // No letters => no suggestions
+      // If no query typed, no suggestions
       updateDropdownVisibility(query);
       return;
     }
 
-    // STARTS-WITH matching (optional: change to includes if you prefer substring match)
+    // STARTS-WITH matching
     const results = allPages.filter(pageFile => {
       const lowerFile = pageFile.toLowerCase().replace('.html', '');
       return lowerFile.startsWith(query);
     });
 
+    // If zero results => hide the entire dropdown
+    if (results.length === 0) {
+      dropdown.style.display = 'none';
+      return;
+    }
+
+    // Otherwise, build the suggestions
     results.forEach(pageFile => {
       const li = document.createElement('li');
 
-      // The page's display name on the left
+      // The page name on the left
       const pageNameSpan = document.createElement('span');
       pageNameSpan.textContent = pageFile.replace('.html', '');
 
+      // Clicking the <li> navigates
       li.addEventListener('click', () => {
         if (window.location.pathname.includes('/wiki/')) {
           window.location.href = encodeURIComponent(pageFile);
@@ -91,7 +100,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
       });
 
-      // Pin icon on the right
+      // Pin / unpin circle on the right
       const isPinned = pinnedPages.includes(pageFile);
       const pinBtn = document.createElement('button');
       pinBtn.classList.add('pin-btn');
@@ -103,7 +112,7 @@ document.addEventListener('DOMContentLoaded', () => {
         } else {
           unpinPage(pageFile);
         }
-        updateSuggestions(query); // re-render suggestions to update icon
+        updateSuggestions(query); // update icon state
       });
 
       li.appendChild(pageNameSpan);
@@ -114,6 +123,9 @@ document.addEventListener('DOMContentLoaded', () => {
     updateDropdownVisibility(query);
   }
 
+  /**
+   * Pin the pageFile and refresh pinned section
+   */
   function pinPage(pageFile) {
     if (!pinnedPages.includes(pageFile)) {
       pinnedPages.push(pageFile);
@@ -122,12 +134,18 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   }
 
+  /**
+   * Unpin the pageFile and refresh pinned section
+   */
   function unpinPage(pageFile) {
     pinnedPages = pinnedPages.filter(file => file !== pageFile);
     localStorage.setItem('pinnedPages', JSON.stringify(pinnedPages));
     displayPinnedPages();
   }
 
+  /**
+   * Show pinned items if any
+   */
   function displayPinnedPages() {
     pinnedSection.innerHTML = '';
     if (!pinnedPages.length) {
@@ -173,9 +191,8 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   /**
-   * Shows or hides the dropdown based on pinned items and query:
-   * - If no pinned pages and query is empty => hide
-   * - Otherwise => show
+   * If there are pinned items or a typed query, show the dropdown.
+   * Otherwise, hide it.
    */
   function updateDropdownVisibility(query) {
     if (pinnedPages.length === 0 && !query) {

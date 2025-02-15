@@ -76,6 +76,8 @@ const DEFAULT_HTML_TEMPLATE = (fileName, displayName) =>
     <script src="../js/mdparse.js"></script>
     <!-- Include sidebar.js or similar logic to toggle sidebar with #open-btn -->
     <script src="../js/sidebar.js"></script>
+
+    <script src="../js/search.js"></script>
 </body>
 </html>`;
 

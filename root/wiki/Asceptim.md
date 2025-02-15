@@ -29,7 +29,7 @@ The **[[Rites of Huma]]** were formalized collectively during the **[[Line from 
 
 The religious hierarchy of Asceptim is led by **Guides**, spiritual leaders who interpret and lobby the growth of the **Rites of Huma**. Their primary role is to assist followers in navigating their journey toward **Sol Proscima** by ensuring adherence to the faith’s principles. These guides act as both theologians and political figures of academic merit, influencing governance, education, and cultural institutions.
 
-Unlike many hierarchical religious structures, Asceptim does not have a single ultimate leader. Instead, it follows a **distributed religious authority**, where multiple royal families uphold doctrine, with leadership shifting in accordance with the **[[Rite of Transference]]**—ensuring that those with superior insight into faith and governance take precedence. Although, there is a Queen of Scender, but her job is as interadvocate of progress, or as means to Sol Proscima.
+Unlike many hierarchical religious structures, Asceptim does not have a single ultimate leader. Instead, it follows a **distributed religious authority**, where multiple royal families uphold doctrine, with leadership shifting in accordance with the **[[Rite of Transference]]**—ensuring that those with superior insight into faith and governance take precedence. Although, there is a Queen of Scender, but her job is as interadvocate of progress, or as uniting means to Sol Proscima.
 
 ## Symbolism of Sunlight and Water
 
