@@ -188,11 +188,11 @@ Toma’s timeline is divided into Lines, each concluding with a rotation shift o
 <img src="wiki_images/Sol Unita Insignia (PS Final).jpg"><i>Sol Unita Insignia</i></img>
 
 
-**Eco**: <a href="Toma.html">Toma</a> of <a href="Toman Ecoss.html">Toman Ecoss</a>  
-**Kingdom**: <a href="Huma.html">Huma</a>  
-**Phylum**: <a href="Asceptim.html">Asceptim</a>
-**Class**: <a href="Sol Unita.html">Sol Unita</a>
-**Order**: <a href="Scender">Scender</a>
+**Eco**: <a href="Toma.html">Toma</a> of <a href="Toman Ecoss.html">Toman Ecoss</a>  <br>
+**Kingdom**: <a href="Huma.html">Huma</a>  <br>
+**Phylum**: <a href="Asceptim.html">Asceptim</a><br>
+**Class**: <a href="Sol Unita.html">Sol Unita</a><br>
+**Order**: <a href="Scender">Scender</a><br>
 
 
 Your journey begins in the capital order of the <a href="Sol Unita.html">Sol Unita</a> <a href="Scender.html">Scender</a>. This government spreads <a href="Asceptim.html">Asceptim</a> across <a href="Toma.html">Toma</a>.

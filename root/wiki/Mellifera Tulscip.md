@@ -1,5 +1,5 @@
 # Mellifera  
-Queen Mellifera  
+_Queen Mellifera, Yevhi, Efvi_  
 
 <img src="wiki_images/Mellifera Tulscip.png"></a>  
 
@@ -39,7 +39,7 @@ She rises, her gelatinous form shifting, adjusting, **her swarm stirring within 
 
 Her next step takes her towards the **Asath Sanctuary**, where the game truly begins.  
 
-<img src="wiki_images/Asath_Sanctuary.png">*The Asath Sanctuary on the island of Gaudis, found between Kyre and Luin's Point in Southcatch, Scender.*</a>  
+<img src="wiki_images/Asath Sanctuary.png">*The Asath Sanctuary on the island of Gaudis, found between Kyre and Luin's Point in Southcatch, Scender.*</a>  
 
 
 

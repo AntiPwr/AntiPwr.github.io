@@ -1,3 +1,3 @@
 # Malgasta
-<!-- This file was auto-generated. 
-     Add your content here. -->
+
+<img src="wiki_images/Malgasta.png"></a>
