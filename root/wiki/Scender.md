@@ -19,9 +19,37 @@ Scender is the capital city of [[Sol Unita]], a place where faith, science, and 
 
 ## Geography and Structure
 
-Scender’s design aims to blend with the natural hilly terrain of **Scender Proper**, the large, uniquely shaped cliffs of [[Kyre's Point|Kyre]] and [[Luin’s Point]], and the [[Access]], which flows around [[Gaudis]] before narrowing into a single stream through the city. The southern entrance to Scender Proper features a vast ravine-like divide in the natural **Aprimma wall**, separating it from [[Southcatch]]. This **[[Great Ripple Wall]]**, built concentrically around the [[Solscept]], marks the boundary between [[Contribution Band]] and [[Acceptance Band]]. Due to the city's hilly terrain, the height of the wall appears lower atop the three major hills but rises dramatically in the valleys between them. Military-exclusive access points exist atop each hill.
+Scender’s design aims to blend with the natural hilly terrain of **Scender Proper**, the large, uniquely shaped cliffs of [[Kyre's Point|Kyre]] and [[Luin’s Point]], and the [[Access]], which flows around [[Gaudis]] before narrowing into a river through the city. The southern entrance to Scender Proper features a vast ravine-like divide in the natural **Aprimma wall**, separating it from [[Southcatch]]. This **[[Great Ripple Wall]]**, built concentrically around the [[Solscept]], marks the boundary between [[Contribution Band]] and [[Acceptance Band]]. Due to the city's hilly terrain, the height of the wall appears lower atop the three major hills (Cless, Plume, and Riees) but rises dramatically in the valleys between them. Military-exclusive access points exist atop each hill.
 
-Naval defenses of Scender operate beneath [[Cress]], as the Access flows into [[Endem]] through a massive waterfall. The [[Swirling Sea]] drives water inland toward [[Sancta]], creating a fast-moving current that naturally filters through the city. [[Ferra]], [[Bluma]], and [[Natura]] symbiotically aid citizens, contributing to infrastructure, education, policing, and agriculture.
+Naval defenses of Scender operate beneath Cless, as the Access flows into [[Endem]] through a subterranean break, forming the Egress Waterfall. The [[Swirling Sea]] drives water inland toward [[Sancta]], creating a fast-moving current that naturally filters through the city. [[Ferra]], [[Bluma]], and [[Natura]] symbiotically aid citizens, contributing to infrastructure, education, policing, and agriculture.
+
+
+#### Cless Hill
+_Hill of Light_
+
+[[Cless Hill]], located on the eastern side of Scender, is home to Necesse Sanct and the estate of Ophelia Necesse. It is the political and philosophical heart of the city, housing government offices, strategic viewpoints, and places of reflection.
+
+As the highest of the three hills, Cless Hill offers a commanding view of Scender Proper, Southcatch, and the Swirling Sea. It serves as a beacon for Sol Unita’s ideals, reflecting the city’s commitment to faith and kingdom liberty. The hill’s design naturally enhances sunlight exposure, aligning with Asceptim beliefs on enlightenment and the divine significance of Asath.
+
+#### Plume Hill
+_Hill of Growth_
+
+[[Plume Hill]], in the northwest, is the renaissance center of Scender, where artists, philosophers, and scholars gather to create, debate, and innovate. This district fosters the city’s intellectual and cultural development, attracting individuals who explore both the spiritual and material realms through art, literature, and discourse.
+
+Monasteries, galleries, and amphitheaters are scattered across the hill, with open-air spaces designed for collaborative discussion and artistic showcases. Many who reside here live in communal residences, dedicated to creative and academic pursuits rather than commercial enterprise.
+
+Plume Hill represents the evolving nature of Asceptim faith, where interpretations of the Rites of Huma are debated and reinterpreted. It is home to independent sects, alternative spiritual movements, and those who challenge conventional doctrine.
+
+  
+
+#### Riees Hill
+_Hill of Water_
+
+[[Riees Hill]], positioned in the southwest, is a residential hub primarily housing government officials, monopolistic business leaders, and their employees. This district is characterized by high-end housing, corporate estates, and exclusive social institutions, reflecting the city’s economic hierarchy.
+
+While not as culturally vibrant as Plume Hill, Riees plays a crucial role in maintaining Scender’s economic stability. Many of its residents oversee operations within The Sunstream, ensuring the city’s financial and bureaucratic systems function efficiently.
+
+Despite its exclusivity, Riees Hill is not entirely detached from the rest of the city. Public transport and access points connect it to Cress Hill and the Contribution Band, reinforcing its role as a link between governance and commerce.
 
 ## Royal Sancts and Their Properties
 

@@ -23,7 +23,6 @@ Lavinho Shourn is a player character in [[Whisper of the Well]], the first campa
 - [[Mellifera Tulscip]]
 
 
-
 ## Introduction to the Campaign
 
 You will start the game pulling into the [[Lauderdocks]], the largest open dock of [[Scender|Scender's]] [[Southcatch|Southcatch Bay]], just north of the eco-renowned [[Asath Sanctuary]]. You will arrive on a sloop jointly-owned by you and [[Vankner]], a finely-dressed merchant that is incredibly skilled in [[Monstra]] negotiation. Vankner often finds himself in very dangerous situations, primarily amongst [[Goblin|Goblins]] and [[Orc|Orcs]], but the tongue remains his most powerful weapon as he facilitates the trade of exotic goods between even the most unlikely of business associates. Although an independent merchant, he also works in brokerage which incentivizes his partnership with the Hacienda Band. Vankner tends to take his job very seriously and only truly laughs on rare occasion, not including the times where he feigns laughter in an attempt to situate himself within reach of a new job offer. 

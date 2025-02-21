@@ -25,14 +25,14 @@ Purpose Taxonomy comprises nine hierarchical ranks:
 ### Creation and Evolution
 
 - **Creation:**  
-    Estimated to be conceived during the [[Taxotheir Line|Taxotheir Line]] by the Huma of Toma, Purpose Taxonomy was developed to interpret the complex interplay of [[Evolution]], [[Belief]], and [[Anim]] in the Toman Ecoss. Although, it should be known that some argue that the system was initially designed as a common (in relation to interspecies unification), albeit lightweight, language describing one's connection to their environment. This theory posits that the hierarchy was constructed to allow creatures of different types to communicate simple ideas to one another without having to learn a complex language.
+    Estimated to be conceived during the [[Taxotheir Line|Taxotheir Line]] by the Huma of Toma, Purpose Taxonomy was developed to interpret the complex interplay of [[Evolution]], [[Belief]], and [[Anim]] in the Toman Ecoss. Although, it should be known that some argue that the system was initially designed as a common (in relation to interspecies unification), albeit lightweight, language describing one's connection to their environment. This theory posits that the hierarchy was constructed to allow creatures of different types to communicate simple ideas to one another without having to engage in each other's complex languages.
     
 - **Social Taxonomy:**  
-    Revised during the [[Line from Few|Line from Few]] after the [[Cel Blindbirth Line|Cel Blindbirth Line]], Social Taxonomy now exists in three forms:
+    Revised during the [[Line from Few]] after the [[Cel Blindbirth Line|Cel Blindbirth Line]], Purpose Taxonomy now exists in two forms:
     
-    1. **Taxotheir Taxonomy** – pre-Blindbirth understanding
-    2. **Current Taxonomy** – reflective of the contemporary timeline
-    3. **Complete Taxonomy** – linking to a broader comprehension of the Scape (macrocosm understanding)
+    1. **Taxotheir or T.L. Taxonomy** – pre-Blindbirth understanding
+    2. **Current or C.L. Taxonomy** – reflective of the contemporary timeline
+    
 
 ### Classification Template
 
@@ -52,6 +52,6 @@ When recording a note, only the necessary taxons are included. The left-hand lab
 
 ### Exception-Branching
 
-When a creature does not neatly fit a taxon category, its classification is marked as "EB" (Exception-Branching). For example, a human fighter following a unique religious philosophy might be designated "EB" until further evidence supports a more standard categorization.
+When a creature does not neatly fit a taxon category, its classification is marked as "EB" (Exception-Branching). For example, a human fighter following a unique religious philosophy might be designated "EB" until further evidence supports a more standard categorization, or it branches into its own categorization. This could also be understood with the idea of a forming government, which may or may not develop into a state of uniqueness.
 
 

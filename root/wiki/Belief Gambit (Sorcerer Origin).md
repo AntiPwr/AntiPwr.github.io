@@ -56,6 +56,11 @@ As a bonus action, you can expend 3 sorcery points to recall any card from your 
 Additionally, once per long rest, you can initiate a Grand Gambit, a ritual that takes 1 minute to perform and requires the expenditure of 7 sorcery points. Upon completion, you draw the top five cards from your deck and lay them out in front of you. These cards, through your intense magical focus and the powers granted by your subclass, combine their essences to create a singular, monumental effect.
 
 
+# Playtesting Notes
+
+- Likely need to place a hard limit on the amount of cards that can be within a deck. It is likely going to be around 40-50 cards. May be an optional rule.
+
+- (Prediction Optional Rule) Utilize ways to alter luck and drawing power. Examples: One card pulls a card to the top three of the deck.
 
 
 
