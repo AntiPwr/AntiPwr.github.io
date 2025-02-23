@@ -4,8 +4,8 @@
 
 _Forged by Laika Acker, this deck burns with the essence of Fire subnatura, embodying the chaotic beauty of combustion._
 
-**Deck Theme:** Combustion, Fire, Natura
-**Mechanics:** Stacking, Fire & Force Damage, Summoning
+**Deck Theme:** Combustion, Fire, Natura <br>
+**Mechanics:** Stacking, Fire & Force Damage, Summoning<br>
 
 ---
 

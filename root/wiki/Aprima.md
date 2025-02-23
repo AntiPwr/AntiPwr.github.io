@@ -6,7 +6,7 @@
 **Kingdom**: [[Primordial]] ([[Celia]], [[Huma]], [[Natura]], [[Bluma]], [[Spira]])  
 **Resource**: [[Hollow Resource]], [[Primma]] ([[Aprima]])
 
-![[Aprima.png]]
+<img src="wiki_images/Aprima.png"><i>Aprima</i></img>
 
 Aprima is the purest form of [[Primma]], a rare and highly revered [[Hollow Resource]] believed to be derived from the remains of the [[Primordial]], [[Alwa]]. It is distinguished by its brilliant white color. In [[Sol Unita]], aprima is regarded as the most sacred building material, used almost exclusively for religious and governmental structures, reinforcing its significance as a representation of divine connection.
 

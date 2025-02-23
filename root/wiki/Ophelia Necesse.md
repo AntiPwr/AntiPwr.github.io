@@ -1,11 +1,11 @@
 # Ophelia Necesse
-_Queen of Scender, Cyberqueen, Guide to Asath, Fallen Apostle, Pure Messiah_
+>_Queen of Scender, Cyberqueen, Guide to Asath, Fallen Apostle, Pure Messiah_
 
-![[Ophelia Necesse.png]]
+<img src="wiki_images/Ophelia Necesse.png"></img>
 
-*"If you are a gifted person, it doesn’t mean that you gained something. It means you have something to give back."* - **Carl Jung**
+> *"If you are a gifted person, it doesn’t mean that you gained something. It means you have something to give back."* - **Carl Jung**
 
-*"Tread carefully, hatred is tectonic."* - **Ophelia Necesse**
+> *"Tread carefully, hatred is tectonic."* - **Ophelia Necesse**
 
 
 **Eco**: [[Toma]] of [[Toman Ecoss]]
@@ -16,7 +16,7 @@ _Queen of Scender, Cyberqueen, Guide to Asath, Fallen Apostle, Pure Messiah_
 **Family**: [[Necesse Sanct]]  
 **Essa**: [[Ophelia's Soul]]
 
-Ophelia Necesse, also known as the Fallen Apostle, is the reigning queen of [[Scender]] in the [[Current Line]]. As the  of [[Sol Unita]], she balances the royal sancts in their development of faith, technological advancement, and governance. Her rule is defined by her desire to reduce human suffering through technology, specifically noted for her devisive takes on implantation, a vision that has earned her both devotion from her people, criticism from political adversaries, and economic growth bound to be acknowledged globally.
+**Ophelia Necesse**, also known as the Fallen Apostle, is the reigning queen of [[Scender]] in the [[Current Line]]. As the  of [[Sol Unita]], she balances the royal sancts in their development of faith, technological advancement, and governance. Her rule is defined by her desire to reduce human suffering through technology, specifically noted for her devisive takes on implantation, a vision that has earned her both devotion from her people, criticism from political adversaries, and economic growth bound to be acknowledged globally.
 
 
 ## Cyberqueen

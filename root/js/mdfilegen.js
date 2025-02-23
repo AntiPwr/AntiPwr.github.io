@@ -16,8 +16,19 @@ const obsidianLinkRegex = /\[\[([^|\]]+)\|?([^\]]*)\]\]/g;
 // Template for new .md content
 const DEFAULT_MD_CONTENT = (fileName) =>
 `# ${fileName}
-<!-- This file was auto-generated. 
-     Add your content here. -->
+__
+
+**Bin:**  
+**Basin:**
+**Eco:** 
+**Kingdom:**  
+**Phylum:**
+**Class:**
+**Order:**
+**Family:**
+**Essa:**
+
+<img src="wiki_images/.png"><i></i></img>
 `;
 
 // Template for new .html content

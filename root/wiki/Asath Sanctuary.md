@@ -1,8 +1,7 @@
 # Asath Sanctuary
+>_Allcatch, House of the Sitting Sun_
 
-_Allcatch, House of the Sitting Sun_
-
-![[Asath Sanctuary.png]]
+<img src="wiki_images/Asath Sanctuary.png"><i></i></img>
 
 **Bin**: [[Scape]]  
 **Basin**: [[Sacrus]]  
