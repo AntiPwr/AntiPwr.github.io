@@ -39,6 +39,8 @@ A creature can remove 2 stacks by either dropping prone and rolling on the groun
 ### **Ignition**
 _The first spark of the Allflame. The fire’s hunger begins here._
 
+**Cost:** 1/2 of a small vial worth of [[Ritual Ash]]
+
 - **Effect:** Target takes **1d6 fire damage** and gains **1 stack**.
 - **Art Effect:** A small ember glows on the card’s surface, bursting briefly into a dancing flame before fading.
 
@@ -47,6 +49,8 @@ _The first spark of the Allflame. The fire’s hunger begins here._
 ### **Burn**
 _Fire spreads where there is fuel to consume._
 
+**Cost:** 1/2 of a small vial worth of [[Ritual Ash]]
+
 - **Effect:** Target a creature that already has at least 1 stack. The flame leaps from that creature to **(1/2/3/4/5/6/7)** additional nearby creatures—each within **(10/15/20/25/30/35/40)** feet (depending on the number of stacks involved). Each affected creature gains **1 stack**.
 - **Art Effect:** A single flame splits into multiple burning trails that extend outward before dissolving into sparks.
 
@@ -54,6 +58,8 @@ _Fire spreads where there is fuel to consume._
 
 ### **Fire Vortex (Concentration)**
 _The spiral of combustion twists outward, seeking new life to consume._
+
+**Cost:** 1 small vial worth of [[Ritual Ash|Crimson Ritual Ash]]
 
 - **Effect:**
     - Create a 10×10-foot vortex of flame extending in a straight 10-foot line from the caster. The vortex persists for 2 rounds.
@@ -67,6 +73,8 @@ _The spiral of combustion twists outward, seeking new life to consume._
 ### **Fire Shield (Concentration)**
 _Envelop yourself in a protective, searing barrier._
 
+**Cost:** 1/2 of a small vial worth of [[Ritual Ash]]
+
 - **Effect:**
     - While you concentrate for up to 1 minute, you take **half fire damage**.
     - The next time you take fire damage, your next instance deals an extra **1d8 fire damage** and grants you **1 additional stack**.
@@ -79,6 +87,8 @@ _Envelop yourself in a protective, searing barrier._
 ### **Ember Servants**
 _Call forth the living embers of the Allflame to do your bidding._
 
+**Cost:** 1 small vial worth of [[Ritual Ash|Crimson Ritual Ash]]
+
 - **Effect:**
     - For each creature within 60 feet (up to a maximum of **9 creatures**, corresponding to each 5-foot space around you arranged in a circle), summon a **Tiny Fire Elemental** (see stat block below).
     - As each servant appears, it removes any stacks from that creature.
@@ -90,6 +100,8 @@ _Call forth the living embers of the Allflame to do your bidding._
 ### **Blazing Speed**
 _Harness the Allflame’s urgency to outpace your foes._
 
+**Cost:** 1 small vial worth of [[Ritual Ash|Crimson Ritual Ash]]
+
 - **Effect:**
     - Consume up to **5 stacks** from yourself. Based on the number consumed, you gain extra movement equal to (5/10/15/20/25/30/35) feet.
     - In addition, you gain the benefits of the **Disengage action** for that turn.
@@ -99,6 +111,8 @@ _Harness the Allflame’s urgency to outpace your foes._
 
 ### **Vulnerable**
 _Expose your enemy’s weakness to the burning inferno._
+
+**Cost:** 1/2 of a small vial worth of [[Ritual Ash]]
 
 - **Effect:**
     - Choose one creature and consume **2 stacks** from it. That creature becomes **vulnerable to fire damage** for the next 2 turns.
@@ -110,9 +124,11 @@ _Expose your enemy’s weakness to the burning inferno._
 ### **Flameshatter**
 _Unleash a devastating burst of force and flame._
 
+**Cost:** 1 small vial worth of [[Ritual Ash|Crimson Ritual Ash]]
+
 - **Effect:**
     - Consume **4 burn stacks** from the target.
-    - The target suffers **2d8 force damage** plus **(4d6)** fire damage.  
+    - The target suffers **2d8 force damage** plus **(1d6/2d6/3d6/4d6/5d6/6d6/7d6)** fire damage.  
         _(Here, the (4d6) is fixed based on consuming exactly 4 stacks.)_
 - **Art Effect:** Shards of burning energy erupt in a fractal pattern, shattering opposition with explosive force.
 
@@ -120,6 +136,8 @@ _Unleash a devastating burst of force and flame._
 
 ### **Implode**
 _Force the flame to collapse inward, devastating its target._
+
+**Cost:** 1/2 of a small vial worth of [[Ritual Ash]]
 
 - **Effect:**
     - The target takes **1d10 force damage** plus an additional (1d4/2d4/3d4/4d4/5d4/6d4/7d4) fire damage that scales with the number of stacks consumed. 
@@ -129,6 +147,8 @@ _Force the flame to collapse inward, devastating its target._
 
 ### **Chaos Inferno**
 _The Allflame’s chaos erupts in unpredictable forms._
+
+**Cost:** Unknown
 
 - **Effect:**
     - Consume **(5/6/7)** stacks—the value chosen here is based on the number of stacks you decide to use.
@@ -146,14 +166,30 @@ _The Allflame’s chaos erupts in unpredictable forms._
 #### **Xathres, Prince of Fire**
 _A burning specter, herald of the eternal blaze._
 
+**Cost:** Unknown
+
 - **Effect:**
     - Consume **4 stacks** from creatures within 60 feet to summon **Xathres**.
 - **Art Effect:** A cloaked figure of living flame appears briefly before bursting into a cascade of embers.
 
 ---
+#### **Blakos, Elemental Grapple**
+_Fire binds as much as it destroys._
+
+**Cost:** Unknown
+
+- **Effect:**
+    - Summon a fire elemental that rushes in a straight 20-foot line.
+    - It grapples the first creature in its path. That creature must succeed on a Strength saving throw at the start of its turn or remain restrained.
+    - Each turn the creature remains grappled, it gains **1 stack**.
+- **Art Effect:** Flaming hands extend from the card, wrapping around an unseen target in a searing grip.
+
+---
 
 #### **Xerxes, Allfather of Flame**
 _The flames of the cosmos burn within him, reducing all to ash._
+
+**Cost:** Unknown
 
 - **Effect:**
     - **Summoning:** Consume 7 stacks, Xathres, **or** Blakos to summon **Xerxes, Allfather of Flame**. Consume 7 stacks, Xathres, **and** Blakos to summon **Xerxes, Manifestation of the True Flame.**
@@ -165,17 +201,6 @@ _The flames of the cosmos burn within him, reducing all to ash._
         - Xerxes can consume up to 7 stacks to heal for **(1d4/2d4/3d4/4d4/5d4/6d4/7d4)** hit points.
         - **On Hit:** Consumes all stacks, dealing additional scaling fire damage as above.
 - **Art Effect:** Shifting, monstrous flames coalesce into a towering figure whose form is ever-changing in the heat.
-
----
-
-#### **Blakos, Elemental Grapple**
-_Fire binds as much as it destroys._
-
-- **Effect:**
-    - Summon a fire elemental that rushes in a straight 20-foot line.
-    - It grapples the first creature in its path. That creature must succeed on a Strength saving throw at the start of its turn or remain restrained.
-    - Each turn the creature remains grappled, it gains **1 stack**.
-- **Art Effect:** Flaming hands extend from the card, wrapping around an unseen target in a searing grip.
 
 ---
 
