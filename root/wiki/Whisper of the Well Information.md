@@ -34,7 +34,7 @@ The <a href="Unlock System.html">Unlock System</a> slowly introduces new homebre
 
 
 
-<a href="Will.html">Will</a>  (**WIL**) represents the intangible reserve of self-determination, mental fortitude, and spiritual vitality that shields a creature’s identity from external corruption—especially psychic parasites, fungal hive-minds, and masterful manipulation. It measures how well a being can maintain its own thought patterns, beliefs, knowledge, and loyalties in the face of subtle or forceful mental intrusion. This number will be higher than your other main stats, but that is because it does not reflect rolls, but rather a mental health pool that protects you from permanent belief changes such as mindlessness or ideological subversion. Certain kingdoms have evolved to influence will, as seen with [[Inoculation]] and [[Celia Resonance]].
+[[Will]] (**WIL**) represents the intangible reserve of self-determination, mental fortitude, and spiritual vitality that shields a creature’s identity from external corruption—especially psychic parasites, fungal hive-minds, and masterful manipulation. It measures how well a being can maintain its own thought patterns, beliefs, knowledge, and loyalties in the face of subtle or forceful mental intrusion. This number will be higher than your other main stats, but that is because it does not reflect rolls, but rather a mental health pool that protects you from permanent belief changes such as mindlessness or ideological subversion. Certain kingdoms have evolved to influence will, as seen with [[Inoculation]] and [[Celia Resonance]].
 
 **Maximum WIL = CON + STR + DEX + WIS + INT + CHA + PB** 
 

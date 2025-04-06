@@ -17,17 +17,17 @@ const obsidianLinkRegex = /\[\[([^|\]]+)\|?([^\]]*)\]\]/g;
 const DEFAULT_MD_CONTENT = (fileName) =>
 `# ${fileName}
 __
-
-**Bin:**  
-**Basin:**
-**Eco:** 
-**Kingdom:**  
-**Phylum:**
-**Class:**
-**Order:**
-**Family:**
-**Essa:**
-
+<br>
+**Bin:** <br>
+**Basin:** <br>
+**Eco:** <br>
+**Kingdom:**  <br> 
+**Phylum:** <br>
+**Class:** <br>
+**Order:** <br>
+**Family:** <br>
+**Essa:** <br>
+<br>
 <img src="wiki_images/.png"><i></i></img>
 `;
 

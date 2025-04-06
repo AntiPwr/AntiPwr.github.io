@@ -4,7 +4,7 @@ _Queen Mellifera, Yevhi, Efvi_
 <img src="wiki_images/Mellifera Tulscip.png"></a>  
 
 **Eco:** [[Toma]] <br>  
-**Kingdom:** [[Monstra]], [[Huma]], [[Celia]] ([[Hallid]])  
+**Kingdom:** [[Monstra]], [[Celia]] ([[Hallid]])  
 
 **Race:** [[Slimefolk]] <br>  
 **Class:** Ranger <br>  

@@ -15,6 +15,37 @@ As an example of a Deck of the Naive, below I have provided one based in the [[T
 
 • The DM should feel free to adjust the flavor and specifics of each card to best suit the campaign, backstory, or setting.
 
+<!--## Nesa -->
+
+<!--### Prayer’s Relief
+
+Card Art: A priestess lying injured on the ground, reaching toward a luminous horizon. A glowing ray of light stretches back toward her in response.
+
+Effect (1 Action):
+
+You touch one creature and grant it a sudden burst of resolve. That creature gains advantage on its next attack roll, ability check, or saving throw it makes within the next minute. Once it uses this benefit, the effect ends.
+
+Balancing Note: This is effectively granting “Inspiration” on demand. At low levels it’s still quite strong, but only applies to one roll.
+-->
+
+  
+
+<!--### Daichot
+
+Card Art: A glass-like humanoid figure stares out at the viewer, while an entity of shadow or void massages its shoulders from behind.
+
+Effect (1 Action):
+
+Choose one creature you can see within 30 feet of you. The target must make a Charisma saving throw. On a failure, you and the target swap your current hit points for up to 1 minute.
+
+• Tracking Damage: While swapped, if either you or the target takes damage, reduce the current hit points of whichever “pool” is currently assigned to that body.
+
+• Ending the Effect: If either of you drops to 0 hit points, or when 1 minute passes, the effect ends immediately. Both of you revert to the same current hit point totals you had before the swap (ignoring any changes made in the interim).
+
+Balancing Note: This can be very powerful if used on a higher-HP ally or enemy. Reverting at the end prevents permanent exploitation and reduces weird edge cases (e.g., “immortality”). You might require the user to concentrate on this effect so it ends if they lose focus.
+-->
+  
+
 ## Spira
 
 ### Dance of Pigs
@@ -22,6 +53,16 @@ As an example of a Deck of the Naive, below I have provided one based in the [[T
   **The mechanical details of this card are unknown, as it was traded to [[Corvi]].**
 
 Card Art: A pen of dancing, spectral pigs. One pig teleports from one side of the fence to the other, kicking up mud.
+
+<!-- 
+Effect (1 Action, Concentration, up to 1 Minute):
+
+Choose up to five creatures you can see within 30 feet of you. Each target must make a Wisdom saving throw. On a failed save, a target is influenced by the swirling, whimsical energy of Spira’s pigs for the duration:
+
+• Restriction: If an affected creature ever attempts to move more than 60 feet away from you, it must first succeed on a Wisdom saving throw or immediately use its movement (if available) to move closer to you (essentially staying within 60 feet).
+
+At the end of each of its turns, an affected creature can repeat the saving throw, ending this effect on itself with a success.
+ -->
 
 ### Possession
 
@@ -71,6 +112,14 @@ Effect (1 Action):
 
 Choose one creature within 100 feet that you can see. Until the end of your next turn, the first time you hit that creature with an attack while you have advantage, the attack becomes a critical hit. Once this critical hit occurs (or if your next turn ends), the effect ends.
 
+### Tunnel
+
+Card Art: A miner stands transfixed by a glittering blue ore vein. A lanky Decaran climbs the wall behind him, eyes fixed on the same vein.
+
+Effect (1 Action):
+
+You rapidly burrow up to 30 feet through loose, earthen material (dirt, sand, clay, etc.) and emerge in an unoccupied space you can see at the end of this tunnel. The tunnel remains for 1 round, during which any willing creature can follow you through. After 1 round, the tunnel collapses.
+
 ## Ferra
 
 ### Apex, Praeda I.
@@ -107,6 +156,30 @@ Effect (1 Action):
 
 Choose one creature within 30 feet of you. It must succeed on a Constitution saving throw or take 1d4 poison damage and have disadvantage on its next attack roll before the end of its next turn.
 
+### Reborn
+
+Card Art: A wilted figure stands up from the dead, animated by fungal growth and luminescent spores.
+
+Effect (1 Action, Concentration, up to 1 Hour):
+
+**Option 1:** Spores of Rebirth (Mark a Living Creature)
+
+Choose one Medium or smaller creature within 60 feet that you can see. That creature becomes Spore-Marked for 1 hour or until your concentration ends. If the creature dies while marked:
+
+- It is instantly resurrected as a [[Reborn Locelia]], taking on a fungal mimicry of its original form (a dog becomes a fungal dog, a humanoid becomes a fungal husk, etc.).
+- The Reborn Locelia rolls its own initiative and is under your control for 10 minutes or until your concentration ends.
+- After the duration, the Reborn Locelia collapses into inert spores.
+
+**Option 2:** Raise from Spores (Resurrect a Dead Creature)
+Choose the corpse of a Medium or smaller creature that died within the past 7 days. As long as enough of the body remains to house a fungal core, it is resurrected as a Reborn Locelia with half its original hit points.
+
+- The creature retains no memories but obeys your simple verbal commands.
+- It survives for 10 minutes or until your concentration ends.
+- After the duration, it collapses and can no longer be resurrected using this method.
+
+The reanimated creature is not hostile toward you unless you or your allies harm it, but it will defend itself if threatened. Depending on your reputation, shared [[Will]], or [[Inoculation]] through the [[Celia]] [[Kingdom]], the creature may be friendly.
+
+
 ## Huma
 
 ### Concordian Council
@@ -121,6 +194,24 @@ Choose one creature within 30 feet of you. The target must succeed on a Wisdom s
 
 • Maintaining the Debate: On each of your turns, you must use your action to sustain the Council. If you do anything else, or if your concentration is broken, the effect ends immediately.
 
+<!-- ### Lichen Pearl
+
+Card Art: A gleaming opalescent pearl surrounded by dark green lichens and vine-like tendrils.
+
+Effect (1 Action):
+
+You plant a small seed in fertile ground (or suitable soil) within 5 feet of you. A glowing flower blooms there, radiating healing energy in a 5-foot radius for up to 4 rounds:
+
+• At the start of each of your turns, each ally (including you) within 5 feet of the flower regains 1d4 hit points.
+
+• The flower withers after 4 rounds or if it is uprooted/destroyed.
+
+-->
+
+  
+
+
+
 ## Monstra
 
 ### Fearful Presence
@@ -132,6 +223,18 @@ Effect (1 Action):
 Choose one creature within 15 feet of you. That creature must make a Wisdom saving throw. On a failed save, it becomes Frightened of you for up to 1 minute.
 
 • At the end of each of its turns, the creature can repeat the saving throw, ending the effect on a success.
+
+<!-- ### Scam
+
+Card Art: A sly goblin with a crooked grin, clutching a small pouch of coins.
+
+Effect (1 Action):
+
+For the next 1 minute, you have advantage on all Charisma (Persuasion) and Charisma (Deception) checks.
+
+-->
+
+
 
 
   
