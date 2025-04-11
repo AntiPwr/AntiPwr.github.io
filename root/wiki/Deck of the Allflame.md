@@ -49,7 +49,7 @@ _The first spark of the Allflame. The fire’s hunger begins here._
 ### **Burn**
 _Fire spreads where there is fuel to consume._
 
-**Cost:** 1/2 of a small vial worth of [[Ritual Ash]]
+**Cost:** 1/2 of a small vial worth of Ritual Ash
 
 - **Effect:** Target a creature that already has at least 1 stack. The flame leaps from that creature to **(1/2/3/4/5/6/7)** additional nearby creatures—each within **(10/15/20/25/30/35/40)** feet (depending on the number of stacks involved). Each affected creature gains **1 stack**.
 - **Art Effect:** A single flame splits into multiple burning trails that extend outward before dissolving into sparks.
@@ -73,7 +73,7 @@ _The spiral of combustion twists outward, seeking new life to consume._
 ### **Fire Shield (Concentration)**
 _Envelop yourself in a protective, searing barrier._
 
-**Cost:** 1/2 of a small vial worth of [[Ritual Ash]]
+**Cost:** 1/2 of a small vial worth of Ritual Ash
 
 - **Effect:**
     - While you concentrate for up to 1 minute, you take **half fire damage**.
@@ -87,7 +87,7 @@ _Envelop yourself in a protective, searing barrier._
 ### **Ember Servants**
 _Call forth the living embers of the Allflame to do your bidding._
 
-**Cost:** 1 small vial worth of [[Ritual Ash|Crimson Ritual Ash]]
+**Cost:** 1 small vial worth of Crimson Ritual Ash
 
 - **Effect:**
     - For each creature within 60 feet (up to a maximum of **9 creatures**, corresponding to each 5-foot space around you arranged in a circle), summon a **Tiny Fire Elemental** (see stat block below).
@@ -100,7 +100,7 @@ _Call forth the living embers of the Allflame to do your bidding._
 ### **Blazing Speed**
 _Harness the Allflame’s urgency to outpace your foes._
 
-**Cost:** 1 small vial worth of [[Ritual Ash|Crimson Ritual Ash]]
+**Cost:** 1 small vial worth of Crimson Ritual Ash
 
 - **Effect:**
     - Consume up to **5 stacks** from yourself. Based on the number consumed, you gain extra movement equal to (5/10/15/20/25/30/35) feet.
@@ -112,7 +112,7 @@ _Harness the Allflame’s urgency to outpace your foes._
 ### **Vulnerable**
 _Expose your enemy’s weakness to the burning inferno._
 
-**Cost:** 1/2 of a small vial worth of [[Ritual Ash]]
+**Cost:** 1/2 of a small vial worth of Ritual Ash
 
 - **Effect:**
     - Choose one creature and consume **2 stacks** from it. That creature becomes **vulnerable to fire damage** for the next 2 turns.
@@ -124,7 +124,7 @@ _Expose your enemy’s weakness to the burning inferno._
 ### **Flameshatter**
 _Unleash a devastating burst of force and flame._
 
-**Cost:** 1 small vial worth of [[Ritual Ash|Crimson Ritual Ash]]
+**Cost:** 1 small vial worth of Crimson Ritual Ash
 
 - **Effect:**
     - Consume **4 burn stacks** from the target.
@@ -137,7 +137,7 @@ _Unleash a devastating burst of force and flame._
 ### **Implode**
 _Force the flame to collapse inward, devastating its target._
 
-**Cost:** 1/2 of a small vial worth of [[Ritual Ash]]
+**Cost:** 1/2 of a small vial worth of Ritual Ash
 
 - **Effect:**
     - The target takes **1d10 force damage** plus an additional (1d4/2d4/3d4/4d4/5d4/6d4/7d4) fire damage that scales with the number of stacks consumed. 

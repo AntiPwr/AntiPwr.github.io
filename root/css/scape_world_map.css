@@ -1,0 +1,57 @@
+/* Base styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    font-family: "proxima-nova", Arial, sans-serif;
+}
+
+/* Map container */
+#map-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #f0f8ff;
+    overflow: hidden;
+}
+
+#world-map {
+    width: 100%;
+    height: 100%;
+    cursor: grab;
+}
+
+#world-map:active {
+    cursor: grabbing;
+}
+
+/* For areas on the map that can be clicked */
+.clickable-area {
+    fill-opacity: 0.6;
+    transition: fill-opacity 0.3s;
+}
+
+.clickable-area:hover {
+    fill-opacity: 0.8;
+    cursor: pointer;
+}
+
+/* Add a tooltip/info display */
+.map-tooltip {
+    position: absolute;
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    padding: 10px;
+    border-radius: 4px;
+    pointer-events: none;
+    display: none;
+    z-index: 1001;
+}
