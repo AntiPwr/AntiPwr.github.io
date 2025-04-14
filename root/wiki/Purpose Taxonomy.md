@@ -2,7 +2,7 @@
 
 **Purpose Taxonomy** is a classification system designed to organize life by its connected belief structures and destinies across the universe. It arranges existence into a vertical hierarchy of taxons—ranging from the grand scale of the universe down to the singular soul’s purpose—that define everything from geography and government to faith and dimension. 
 
-At the core of this system is the recognition that every soul possesses a unique, quantized vision for the future—its intrinsic signature, termed **Kind (K or >)**. This vision is static until it is set into motion. The dynamic aspect—the rate at which that vision is realized in the world—is called **Degree (D or ^)**. In short:
+At the core of this system is the recognition that every soul possesses a unique, quantized vision for the future—its intrinsic signature, termed **Kind (K or >)**. This vision is considered static until it is set into motion. The dynamic aspect—the rate at which that vision is realized in the world—is called **Degree (D or ^)**. In short:
 
 > **Degree = Kind’s Rate of Actualization**
 
@@ -12,15 +12,15 @@ This interplay between the fixed vision and its actualization ultimately defines
 
 Purpose Taxonomy comprises nine hierarchical ranks:
 
-1. **Bin**: Universe
-2. **Basin**: Dimension
-3. **Eco**: Plane
-4. **Kingdom**: Inhabitant (by Empire Function)
-5. **Phylum**: Ideology
-6. **Class**: Government
-7. **Order**: Civilization
-8. **Family**: Community
-9. **Essa**: Soul’s Purpose (the realized destiny, influenced by the rate of actualization)
+1. **Bin:** Universe
+2. **Basin:** Dimension
+3. **Eco:** Plane
+4. **Kingdom:** Inhabitant (by Empire Function)
+5. **Phylum:** Ideology
+6. **Class:** Government
+7. **Order:** Civilization
+8. **Family:** Community
+9. **Essa:** Soul’s Purpose
 
 ### Creation and Evolution
 
@@ -33,6 +33,7 @@ Purpose Taxonomy comprises nine hierarchical ranks:
     1. **Taxotheir or T.L. Taxonomy** – pre-Blindbirth understanding
     2. **Current or C.L. Taxonomy** – reflective of the contemporary timeline
     
+    
 
 ### Classification Template
 
@@ -40,15 +41,15 @@ When recording a note, only the necessary taxons are included. The left-hand lab
 
 **Classification Template**
 
-- **Bin**: [[Ex. Bin]]
-- **Basin**: [[Ex. Basin]]
-- **Eco**: [[Ex. Eco]] ([[Ex. Location]], [[Ex. Region]], [[Ex. Continent]]) of [[Ex. Ecoss]]
-- **Kingdom**: [[Ex. Kingdom 1]] and [[Ex. Kingdom 2]]
-- **Phylum**: [[Ex. Phylum]]
-- **Class**: [[Ex. Class]]
-- **Order**: [[Ex. Order]]
-- **Family**: [[Ex. Family]]
-- **Essa**: [[Ex. Essa]]
+- **Bin:** [[Ex. Bin]]
+- **Basin:** [[Ex. Basin]]
+- **Eco:** [[Ex. Eco]] ([[Ex. Location]], [[Ex. Region]], [[Ex. Continent]]) of [[Ex. Ecoss]]
+- **Kingdom:** [[Ex. Kingdom 1]] and [[Ex. Kingdom 2]]
+- **Phylum:** [[Ex. Phylum]]
+- **Class:** [[Ex. Class]]
+- **Order:** [[Ex. Order]]
+- **Family:** [[Ex. Family]]
+- **Essa:** [[Ex. Essa]]
 
 ### Exception-Branching
 

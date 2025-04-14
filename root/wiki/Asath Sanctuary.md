@@ -3,12 +3,12 @@
 
 <img src="wiki_images/Asath Sanctuary.png"><i></i></img>
 
-**Bin**: [[Scape]]  
-**Basin**: [[Sacrus]]  
-**Eco**: [[Toma]] ([[Sancta]], [[Jeti Sound]]) of [[Toman Ecoss]]  
-**Kingdom**: [[Huma]]  
-**Phylum**: [[Asceptim]]  
-**Class**: [[Sol Unita]]  
+**Bin:** [[Scape]]  
+**Basin:** [[Sacrus]]  
+**Eco:** [[Toma]] ([[Sancta]], [[Jeti Sound]]) of [[Toman Ecoss]]  
+**Kingdom:** [[Huma]]  
+**Phylum:** [[Asceptim]]  
+**Class:** [[Sol Unita]]  
 **Order:** [[Scender]] ([[Southcatch]], [[Gaudis]], **Asath Sanctuary**)
 
 The Asath Sanctuary is the largest place of worship dedicated to [[Asath]], the central deity of the [[Asceptim]] phylum. Located on the island of [[Gaudis]] in [[Southcatch]], it serves as a major spiritual and cultural landmark in [[Sol Unita]]. The sanctuary plays a crucial role in religious rites, conversion processes, and the ceremonial practices of [[Scender]].

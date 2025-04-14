@@ -2,11 +2,11 @@
 
 <img src="wiki_images/Asceptim.png"><i></i></img>
 
-**Bin**: [[Scape]]  
-**Basin**: [[Sacrus]]  
-**Eco**: [[Toma]] of [[Toman Ecoss]]  
-**Kingdom**: [[Huma]]  
-**Phylum**: [[Asceptim]]
+**Bin:** [[Scape]]  
+**Basin:** [[Sacrus]]  
+**Eco:** [[Toma]] of [[Toman Ecoss]]  
+**Kingdom:** [[Huma]]  
+**Phylum:** [[Asceptim]]
 
 **Asceptim** is a religious [[Phylum]] most notably governed and advanced by [[Sol Unita]], centered on the pursuit of **[[Sol Proscima]]**, the state of ultimate fulfillment and enlightenment thought to exist in an unseen celestial geography. Its teachings are based on the metaphor of sunlight evaporating water—where the people are the water, and their actions propagate life until they ascend beyond the material world into Sol Proscima. This belief is foundational to the societal and spiritual structures of **Sol Unita**, where Asceptim serves as both a faith and a guiding philosophy for governance.
 

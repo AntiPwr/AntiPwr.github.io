@@ -1,8 +1,8 @@
 # Primalism
  
-**Eco**: [[Toma]] of [[Toman Ecoss]]  <br>
-**Kingdom**: [[Anthros]] (Min.) and [[Zothros]] (Maj.) (or [[Huma]]-[[Ferra]])  <br>
-**Phylum**: **Primalism** <br>
+**Eco:** [[Toma]] of [[Toman Ecoss]]  <br>
+**Kingdom:** [[Anthros]] (Min.) and [[Zothros]] (Maj.) (or [[Huma]]-[[Ferra]])  <br>
+**Phylum:** **Primalism** <br>
 
 <img src="Primalism.png"><i></i></img>
 

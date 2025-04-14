@@ -2,10 +2,12 @@
 
 ![[Sol Unita Insignia.jpg]]
 
-**Eco**: [[Toma]] ([[Sancta]]) of [[Toman Ecoss]]  
-**Kingdom**: [[Huma]]  
-**Phylum**: [[Asceptim]]  
-**Class**: **Sol Unita**
+**Bin:** [[Scape]] <br>
+**Basin:** [[Sacrus]] <br>
+**Eco:** [[Toma]] ([[Sancta]]) of [[Toman Ecoss]]   <br>
+**Kingdom:** [[Huma]]  <br>
+**Phylum:** [[Asceptim]]  <br>
+**Class:** **Sol Unita** <br>
 
 **Population**: 2.2 million HR
 

@@ -1,3 +1,11 @@
 # Zothros
-<!-- This file was auto-generated. 
-     Add your content here. -->
+
+<img src="Zothros.png"><i></i></img>
+
+**Bin:** [[Scape]]
+**Basin:** [[Sacrus]]
+**Eco:** [[Toman Ecoss]]
+**Kingdom:** [[Ferra]]-[[Huma]] [[Resonant]]
+
+An Zothros is a [[Huma]] with [[Ferra]]-like traits.
+

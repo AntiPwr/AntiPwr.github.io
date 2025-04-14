@@ -8,13 +8,13 @@
 > *"Tread carefully, hatred is tectonic."* - **Ophelia Necesse**
 
 
-**Eco**: [[Toma]] of [[Toman Ecoss]]
-**Kingdom**: [[Huma]]  
-**Phylum**: [[Asceptim]]  
-**Class**: [[Sol Unita]]  
-**Order**: [[Scender]]
-**Family**: [[Necesse Sanct]]  
-**Essa**: [[Ophelia's Soul]]
+**Eco:** [[Toma]] of [[Toman Ecoss]]
+**Kingdom:** [[Huma]]  
+**Phylum:** [[Asceptim]]  
+**Class:** [[Sol Unita]]  
+**Order:** [[Scender]]
+**Family:** [[Necesse Sanct]]  
+**Essa:** [[Ophelia's Soul]]
 
 **Ophelia Necesse**, also known as the Fallen Apostle, is the reigning queen of [[Scender]] in the [[Current Line]]. As the  of [[Sol Unita]], she balances the royal sancts in their development of faith, technological advancement, and governance. Her rule is defined by her desire to reduce human suffering through technology, specifically noted for her devisive takes on implantation, a vision that has earned her both devotion from her people, criticism from political adversaries, and economic growth bound to be acknowledged globally.
 

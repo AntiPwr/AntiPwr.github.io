@@ -1,11 +1,11 @@
 # Rite of Egress
 
-**Bin**: [[Scape]]  
-**Basin**: [[Sacrus]]  
-**Eco**: [[Toma]] of [[Toman Ecoss]]  
-**Kingdom**: [[Huma]]  
-**Phylum**: [[Asceptim]]  
-**Class**: [[Sol Unita]]
+**Bin:** [[Scape]]  
+**Basin:** [[Sacrus]]  
+**Eco:** [[Toma]] of [[Toman Ecoss]]  
+**Kingdom:** [[Huma]]  
+**Phylum:** [[Asceptim]]  
+**Class:** [[Sol Unita]]
 
 **Artifact**
 

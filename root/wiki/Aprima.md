@@ -1,9 +1,9 @@
 # Aprima
 
-**Bin**: [[Scape]]  
-**Basin**: [[Sacrus]]  
-**Eco**: [[Toma]] of [[Toman Ecoss]]  
-**Kingdom**: [[Primordial]] ([[Celia]], [[Huma]], [[Natura]], [[Bluma]], [[Spira]])  
+**Bin:** [[Scape]]  
+**Basin:** [[Sacrus]]  
+**Eco:** [[Toma]] of [[Toman Ecoss]]  
+**Kingdom:** [[Primordial]] ([[Celia]], [[Huma]], [[Natura]], [[Bluma]], [[Spira]])  
 **Resource**: [[Hollow Resource]], [[Primma]] ([[Aprima]])
 
 <img src="wiki_images/Aprima.png"><i>Aprima</i></img>

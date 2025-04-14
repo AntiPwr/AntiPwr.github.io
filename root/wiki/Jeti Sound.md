@@ -1,8 +1,8 @@
 # Jeti Sound
 
-**Bin**: [[Scape]]  
-**Basin**: [[Sacrus]]  
-**Eco**: [[Toma]] ([[Sancta]], [[Jeti Sound]]) of [[Toman Ecoss]]
+**Bin:** [[Scape]]  
+**Basin:** [[Sacrus]]  
+**Eco:** [[Toma]] ([[Sancta]], [[Jeti Sound]]) of [[Toman Ecoss]]
 
 ![[Jeti Sound.png]]
 

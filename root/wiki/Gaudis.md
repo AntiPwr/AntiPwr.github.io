@@ -1,9 +1,9 @@
 _Isle of Reflection_
  
-**Eco**: [[Toma]] ([[Sancta]], [[Jetti Sound]]) of [[Toman Ecoss]]  
-**Kingdom**: [[Huma]]  
-**Phylum**: [[Asceptim]]  
-**Class**: [[Sol Unita]]
+**Eco:** [[Toma]] ([[Sancta]], [[Jetti Sound]]) of [[Toman Ecoss]]  
+**Kingdom:** [[Huma]]  
+**Phylum:** [[Asceptim]]  
+**Class:** [[Sol Unita]]
 **Order:** [[Scender]] ([[South Catch]], **Gaudis**)
 
 

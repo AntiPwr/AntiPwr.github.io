@@ -3,13 +3,13 @@ _Catch, Big Ripple, Rip_
 
 <img src="wiki_images/Scender.png"><i></i></img>
 
-**Bin**: [[Scape]]  
-**Basin**: [[Sacrus]]  
-**Eco**: [[Toma]] ([[Sancta]], [[Jetti Sound]] and [[Nesil Grassland]], ) of [[Toman Ecoss]]  
-**Kingdom**: [[Huma]], [[Ferra]], [[Anthros]] and [[Zothros]], [[Natura]], [[Bluma]] 
-**Phylum**: [[Asceptim]]  
-**Class**: [[Sol Unita]]  
-**Order**: [[Scender]]
+**Bin:** [[Scape]]  
+**Basin:** [[Sacrus]]  
+**Eco:** [[Toma]] ([[Sancta]], [[Jetti Sound]] and [[Nesil Grassland]], ) of [[Toman Ecoss]]  
+**Kingdom:** [[Huma]], [[Ferra]], [[Anthros]] and [[Zothros]], [[Natura]], [[Bluma]] 
+**Phylum:** [[Asceptim]]  
+**Class:** [[Sol Unita]]  
+**Order:** [[Scender]]
 
 
 
