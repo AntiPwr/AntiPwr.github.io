@@ -48,44 +48,77 @@
 
     <!-- Your scripts remain the same -->
     <script>
-        window.addEventListener('load', function () {
+        // Function to center on background-0
+        function centerOnBackground0() {
             var targetElement = document.querySelector('.background-0');
             if (targetElement) {
                 var rect = targetElement.getBoundingClientRect();
-                var elementTop = rect.top + window.pageYOffset;
+                var elementTop = rect.top + window.scrollY;
                 var viewportHeight = window.innerHeight;
                 var focalOffset = 380;
                 var desiredScrollPosition = elementTop - (viewportHeight / 2) + focalOffset;
+                
+                // Store this position in session storage for consistency
+                sessionStorage.setItem('centerPosition', desiredScrollPosition);
+                
                 window.scrollTo({ top: desiredScrollPosition, left: 0, behavior: 'auto' });
             }
-            document.getElementById('loading-overlay').style.display = 'none';
+        }
+
+        // Make sure centering happens after everything is loaded
+        window.addEventListener('load', function() {
+            // Use a small timeout to ensure all rendering is complete
+            setTimeout(function() {
+                // Check if we're coming from a reload
+                if (performance.navigation.type === 1 || !sessionStorage.getItem('pageVisited')) {
+                    centerOnBackground0();
+                    sessionStorage.setItem('pageVisited', 'true');
+                } else {
+                    // If not a reload but we have a stored position, use it
+                    var storedPosition = sessionStorage.getItem('centerPosition');
+                    if (storedPosition) {
+                        window.scrollTo({ top: parseInt(storedPosition), left: 0, behavior: 'auto' });
+                    } else {
+                        centerOnBackground0();
+                    }
+                }
+                
+                // Hide loading overlay once positioning is complete
+                document.getElementById('loading-overlay').style.display = 'none';
+            }, 100);
+        });
+
+        // If user manually reloads with F5 or browser refresh
+        window.addEventListener('beforeunload', function() {
+            sessionStorage.setItem('wasReloaded', 'true');
         });
     </script>
 
     <script>
-        var lastScrollY = window.scrollY || window.pageYOffset;
-
+        // Improved scroll detection for nav bars
         window.addEventListener('scroll', function () {
-            var scrollY = window.scrollY || window.pageYOffset;
+            var scrollY = window.scrollY;
             var windowHeight = window.innerHeight;
             var documentHeight = document.body.scrollHeight;
             var scrollPercentage = scrollY / (documentHeight - windowHeight);
+            var topNav = document.querySelector('.top-nav');
+            var bottomNav = document.querySelector('.bottom-nav');
 
+            // Show top nav, hide bottom nav when scrolling down past 60%
             if (scrollPercentage > 0.60) {
-                document.querySelector('.top-nav').style.top = '0';
-                document.querySelector('.bottom-nav').style.bottom = '-200px';
+                topNav.style.top = '0';
+                bottomNav.style.bottom = '-200px';
             } else {
-                document.querySelector('.bottom-nav').style.bottom = '0';
+                bottomNav.style.bottom = '0';
             }
 
+            // Hide top nav when scrolling up past 40%
             if (scrollPercentage < 0.4) {
-                document.querySelector('.top-nav').style.top = '-250px';
-                document.querySelector('.bottom-nav').style.bottom = '0';
+                topNav.style.top = '-250px';
+                bottomNav.style.bottom = '0';
             } else {
-                document.querySelector('.top-nav').style.top = '0';
+                topNav.style.top = '0';
             }
-
-            lastScrollY = scrollY;
         });
     </script>
 

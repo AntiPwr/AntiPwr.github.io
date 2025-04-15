@@ -1,0 +1,542 @@
+/* Base styles */
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Vendetta", serif;
+    background-color: #f7f5f0;
+    color: #1e1e1e;
+    overflow-x: hidden;
+}
+
+/* Border overlay that sits above content, consistent with main site */
+body::after {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border: 0.5vw solid #1e1e1e;
+    pointer-events: none;
+    z-index: 1002;
+    box-sizing: border-box;
+}
+
+@media (max-width: 768px) {
+    body::after {
+        border-width: 1vw;
+    }
+}
+
+.page-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    padding-top: 40px;
+}
+
+/* Header and Navigation */
+.top-nav {
+    display: grid;
+    grid-template-columns: 1fr auto 1fr; /* Changed from flex to grid with equal side columns */
+    align-items: center;
+    padding: 20px 0;
+    border-bottom: 1px solid #1e1e1e;
+    margin-bottom: 40px;
+    z-index: 1003;
+}
+
+.nav-title h1 {
+    margin: 0;
+    font-size: 2.5rem;
+    text-align: center;
+    color: #1e1e1e;
+    white-space: nowrap; /* Prevent wrapping */
+}
+
+.nav-left {
+    justify-self: start; /* Align to left */
+}
+
+.nav-right {
+    justify-self: end; /* Align to right */
+}
+
+.nav-left a, .nav-right a {
+    color: #1e1e1e;
+    text-decoration: none;
+    font-size: 1.2rem;
+    transition: color 0.3s ease;
+}
+
+.nav-left a:hover, .nav-right a:hover {
+    color: #666;
+}
+
+/* Featured poem section */
+.featured-poem-section {
+    margin-bottom: 60px;
+}
+
+.featured-poem-section h2 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 30px;
+    color: #1e1e1e;
+}
+
+.poem-display {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.poem-container {
+    width: 100%;
+    max-width: 600px; /* Reduced from 800px */
+    height: auto;
+    min-height: 450px; /* Reduced from 600px */
+    background-color: #fff;
+    border: 1px solid #ddd;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+
+.poem-image {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    cursor: pointer; /* Indicate it's clickable */
+    transition: transform 0.2s ease;
+}
+
+.poem-image:hover {
+    transform: scale(1.02);
+}
+
+/* Controls for poem display */
+.poem-controls {
+    display: flex;
+    gap: 40px; /* Increased gap with removed button */
+    margin-top: 20px;
+}
+
+/* Archive section */
+.poem-archive {
+    margin-top: 80px;
+}
+
+.poem-archive h2 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 30px;
+    color: #1e1e1e;
+}
+
+/* Alphabet index */
+.alphabet-index {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 8px;
+    margin-bottom: 40px;
+    padding: 15px;
+    background-color: #f0efe9;
+    border-radius: 4px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.alphabet-index a {
+    display: inline-block;
+    width: 36px;
+    height: 36px;
+    text-align: center;
+    line-height: 36px;
+    background-color: #1e1e1e;
+    color: #ffffd2;
+    text-decoration: none;
+    border-radius: 50%;
+    font-weight: bold;
+    transition: all 0.2s ease;
+}
+
+.alphabet-index a:hover {
+    background-color: #333;
+    transform: scale(1.1);
+}
+
+/* Letter sections in archive */
+.letter-section {
+    margin-bottom: 50px;
+}
+
+.letter-section h3 {
+    font-size: 2rem;
+    color: #1e1e1e;
+    border-bottom: 2px solid #1e1e1e;
+    padding-bottom: 10px;
+    margin-bottom: 25px;
+}
+
+.poem-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 20px;
+}
+
+.poem-item {
+    padding: 15px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    transition: all 0.2s ease;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+.poem-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.15);
+}
+
+.poem-item a {
+    color: #1e1e1e;
+    text-decoration: none;
+    display: block;
+    font-size: 1.1rem;
+    padding: 8px;
+    text-align: center;
+}
+
+/* Poem date display */
+.poem-date {
+    font-size: 0.9rem;
+    color: #666;
+    margin-top: 5px;
+    display: block;
+}
+
+/* Hide dates in featured poem section */
+.poem-container .poem-date {
+    display: none;
+}
+
+/* Lightbox styles */
+.lightbox {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.9);
+    z-index: 1010;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.lightbox-content {
+    position: relative;
+    max-width: 90%;
+    max-height: 90%;
+}
+
+#lightbox-image {
+    max-width: 100%;
+    max-height: 90vh;
+    object-fit: contain;
+    border: 2px solid #fff;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.5);
+}
+
+.close-lightbox {
+    position: absolute;
+    top: -40px;
+    right: -40px;
+    color: #fff;
+    font-size: 35px;
+    font-weight: bold;
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background: rgba(0,0,0,0.5);
+    transition: background 0.2s;
+}
+
+.close-lightbox:hover {
+    background: rgba(255,255,255,0.2);
+}
+
+/* Sorting Controls */
+.sort-controls {
+    margin: 20px 0 40px; /* Reduced top margin */
+    padding: 20px;
+    background-color: #f0efe9;
+    border-radius: 4px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.sort-controls h3 {
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-size: 1.5rem;
+    color: #1e1e1e;
+}
+
+/* Add proper styling for the dropdown */
+.sort-dropdown {
+    width: 250px;
+    padding: 10px 15px;
+    border: 2px solid #1e1e1e;
+    border-radius: 4px;
+    background-color: white;
+    color: #1e1e1e;
+    font-family: inherit;
+    font-size: 1rem;
+    cursor: pointer;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' fill='%231e1e1e' viewBox='0 0 16 16'%3E%3Cpath d='M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: calc(100% - 15px) center;
+    padding-right: 35px;
+}
+
+.sort-dropdown:focus {
+    outline: none;
+    border-color: #444;
+    box-shadow: 0 0 0 2px rgba(30,30,30,0.2);
+}
+
+/* When alphabet-index is visible, add spacing above sort controls */
+.alphabet-index + .sort-controls {
+    margin-top: 40px;
+}
+
+/* Hide old sort buttons */
+.sort-buttons {
+    display: none;
+}
+
+/* Text poem styles */
+.poem-text-preview {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    padding: 20px;
+    text-align: center;
+    background-color: #f8f8f2;
+    transition: background-color 0.2s ease;
+}
+
+.poem-text-preview:hover {
+    background-color: #f0f0e8;
+}
+
+.poem-text-preview h3 {
+    font-size: 1.8rem;
+    margin-bottom: 15px;
+}
+
+.poem-preview-message {
+    font-style: italic;
+    color: #666;
+    margin-bottom: 20px;
+}
+
+.lightbox-text {
+    display: none;
+    max-width: 800px;
+    min-width: 600px; /* Added minimum width for better text display */
+    max-height: 80vh;
+    overflow-y: auto;
+    background-color: #fff;
+    padding: 30px 40px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.5);
+    border-radius: 4px;
+    text-align: left;
+    line-height: 1.6;
+    width: 65%; /* Added width as percentage of viewport */
+}
+
+.lightbox-text h2 {
+    text-align: center;
+    margin-bottom: 25px;
+    font-size: 2rem;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+}
+
+.poem-content {
+    font-size: 1.1rem;
+    white-space: pre-wrap;
+    margin-bottom: 20px;
+}
+
+.poem-metadata {
+    text-align: right;
+    font-style: italic;
+    border-top: 1px solid #eee;
+    padding-top: 10px;
+    margin-top: 20px;
+}
+
+/* Text poem indicator in archive */
+.text-poem-icon {
+    margin-right: 8px;
+    font-size: 0.9em;
+}
+
+.text-poem {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Responsive adjustments for text poems */
+@media (max-width: 768px) {
+    .lightbox-text {
+        padding: 20px;
+        max-width: 90%;
+        min-width: 300px; /* Smaller minimum width on mobile */
+        width: 85%; /* Wider percentage on mobile */
+        font-size: 0.95rem;
+    }
+    
+    .lightbox-text h2 {
+        font-size: 1.6rem;
+    }
+    
+    .poem-content {
+        font-size: 1rem;
+    }
+}
+
+/* Responsive design */
+@media (max-width: 992px) {
+    .poem-container {
+        max-width: 500px;
+        min-height: 400px;
+    }
+    
+    .poem-list {
+        grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    }
+}
+
+@media (max-width: 768px) {
+    .page-container {
+        padding: 15px;
+        padding-top: 30px;
+    }
+    
+    .nav-title h1 {
+        font-size: 2rem;
+    }
+    
+    .poem-container {
+        max-width: 450px;
+        min-height: 350px;
+    }
+    
+    .poem-list {
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    }
+    
+    .control-btn {
+        width: 40px;
+        height: 40px;
+        font-size: 1rem;
+    }
+    
+    .close-lightbox {
+        top: -30px;
+        right: -10px;
+    }
+    
+    .sort-buttons {
+        flex-direction: column;
+        width: 100%;
+        max-width: 300px;
+    }
+    
+    .sort-btn {
+        width: 100%;
+    }
+    
+    .sort-dropdown {
+        width: 100%;
+        max-width: 300px;
+    }
+}
+
+@media (max-width: 480px) {
+    .page-container {
+        padding: 10px;
+        padding-top: 20px;
+    }
+    
+    .nav-title h1 {
+        font-size: 1.8rem;
+    }
+    
+    .poem-container {
+        max-width: 100%;
+        min-height: 300px;
+    }
+    
+    .poem-list {
+        grid-template-columns: 1fr;
+    }
+    
+    .alphabet-index {
+        gap: 5px;
+    }
+    
+    .alphabet-index a {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        font-size: 0.9rem;
+    }
+    
+    .poem-controls {
+        gap: 15px;
+    }
+    
+    .lightbox-text {
+        min-width: 280px; /* Even smaller minimum width on very small screens */
+        width: 95%; /* Almost full width on very small screens */
+    }
+}
+
+.error-details {
+    color: #d32f2f;
+    font-size: 0.9rem;
+    margin-top: 10px;
+    font-style: italic;
+}

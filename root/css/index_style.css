@@ -1,23 +1,9 @@
 html {
     box-sizing: border-box;
-    border: 0.5vw solid #1e1e1e;
+    /* Remove border from HTML as we'll create an overlay */
 }
 
-@media (max-width: 768px) and (orientation: portrait) {
-    html {
-        box-sizing: border-box;
-    border: 1vw solid #1e1e1e;
-    }
-}
-
-@media (max-width: 768px) and (orientation: landscape) {
-    html {
-        box-sizing: border-box;
-        border: 1vw solid #1e1e1e;
-        
-    }
-}
-
+/* Common styles for html and body */
 html,
 body {
     margin: 0;
@@ -25,12 +11,26 @@ body {
     overflow-x: hidden;
 }
 
+/* Border overlay that sits above content */
+body::after {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border: 0.5vw solid #1e1e1e;
+    pointer-events: none; /* Allow clicking through the border */
+    z-index: 1002; /* Above everything else */
+    box-sizing: border-box;
+}
 
-
-
-
-
-
+/* Responsive border adjustments */
+@media (max-width: 768px) {
+    body::after {
+        border-width: 1vw;
+    }
+}
 
 /* loading overlay, interplay with JS*/
 #loading-overlay {
@@ -46,46 +46,48 @@ body {
     justify-content: center;
 }
 
-
-
-
-
-
-
-/* Default Background 1 Responsiveness */
-.background-1 {
-    background: url('../images/index_background_1.png') no-repeat center center;
-    background-size: cover;
+/* Standard background styling for all background elements */
+.background-1, .background-0, .background--1 {
     width: 100%;
     height: 100vh;
-    display: block;
-    
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
 }
 
-/* Mobile Portrait Background 1 Responsiveness*/
+/* Individual background settings */
+.background-1 {
+    background-image: url('../images/index_background_1.png');
+}
+
+.background-0 {
+    background-image: url('../images/index_background_0.png');
+}
+
+.background--1 {
+    background-image: url('../images/index_background_-1.png');
+    background-position: top center;
+}
+
+/* Mobile Portrait Background Responsiveness */
 @media (max-width: 768px) and (orientation: portrait) {
     .background-1 {
         background-image: url('../images/index_background_1_cropped.png');
-        
+    }
+    
+    .background-0 {
+        background-image: url('../images/index_background_0_cropped.png');
+    }
+    
+    .background--1 {
+        background-image: url('../images/index_background_-1_cropped.png');
+        background-size: contain;
     }
 }
 
-/* Mobile Landscape Background 1 Responsiveness*/
+/* Mobile Landscape Background Responsiveness */
 @media (max-width: 768px) and (orientation: landscape) {
-    .background-1 {
-        background-image: url('../images/index_background_1.png');
-    }
-}
-
-/* Default Background 0 Responsiveness */
-.background-0 {
-    background: url('../images/index_background_0.png') no-repeat center center;
-    background-size: cover;
-    width: 100%;
-    height: 100vh;
-    display: block;
-    
-    
+    /* Background images remain the same as desktop */
 }
 
 /* Footer */
@@ -96,69 +98,20 @@ body {
     padding: 15px 0;
 }
 
-/* Mobile Portrait Background 0 Responsiveness*/
-@media (max-width: 768px) and (orientation: portrait) {
-    .background-0 {
-        background-image: url('../images/index_background_0_cropped.png');
-        
-        
-    }
-}
-
-/* Mobile Landscape Background 0 Responsiveness*/
-@media (max-width: 768px) and (orientation: landscape) {
-    .background-0 {
-        background-image: url('../images/index_background_0.png');
-    }
-}
-
-/* Default Background -1 Responsiveness */
-.background--1 {
-    background: url('../images/index_background_-1.png') no-repeat top center;
-    background-size: cover;
-    width: 100%;
-    height: 100vh;
-    display: block;
-}
-
-/* Mobile Portrait Background -1 Responsiveness */
-@media (max-width: 768px) and (orientation: portrait) {
-    .background--1 {
-        background-image: url('../images/index_background_-1_cropped.png'); 
-        background-size: contain; 
-    }
-}
-
-/* Mobile Landscape Background -1 Responsiveness*/
-@media (max-width: 768px) and (orientation: landscape) {
-    .background--1 {
-        background-image: url('../images/index_background_-1.png');
-    }
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* Nav bars*/
 .top-nav,
 .bottom-nav {
     position: fixed;
-    width: calc(100% - 0.86vw);
+    width: 100%; /* Changed from calc(100% - 0.86vw) for full width */
+    left: 0; /* Explicitly set left position */
     display: grid;
     grid-template-columns: max-content auto max-content;
     align-items: center;
-    z-index: 1000;
+    z-index: 1003; /* Increased from 1000 to be higher than the border overlay (1002) */
     transition: top 0.3s ease, bottom 0.3s ease;
     overflow: visible;
+    padding: 0 0.5vw; /* Add padding to account for the border */
+    box-sizing: border-box; /* Ensure padding is included in width calculation */
 }
 
 .top-nav a {
@@ -209,28 +162,20 @@ body {
     background-size: contain;
 }
 
-
-
-
-
-
-
-
-
 /* Mobile Portrait Nav Responsiveness*/
 @media (max-width: 768px) and (orientation: portrait) {
     .top-nav {
         height: 11.5vh;
-        width: calc(100% - 1.989vw);
+        width: 100%; /* Changed to full width */
         background-size: cover;
-        
+        padding: 0 1vw; /* Adjust padding for mobile */
     }
 
     .bottom-nav {
         height: 6.5vh;
-        width: calc(100% - 1.989vw);
+        width: 100%; /* Changed to full width */
         background-size: cover;
-        
+        padding: 0 1vw; /* Adjust padding for mobile */
     }
 
     .top-nav .nav-left a,
@@ -246,17 +191,18 @@ body {
     
 }
 
-
 /* Mobile Landscape Nav Responsiveness*/
 @media (max-width: 768px) and (orientation: landscape) {
     .top-nav {
         height: 20vh;
-        width: calc(100% - 1.989vw);
+        width: 100%; /* Changed to full width */
+        padding: 0 1vw; /* Adjust padding for mobile */
     }
 
     .bottom-nav {
         height: 13vh;
-        width: calc(100% - 1.989vw);
+        width: 100%; /* Changed to full width */
+        padding: 0 1vw; /* Adjust padding for mobile */
     }
     
     .top-nav .nav-left a,
