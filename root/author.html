@@ -15,38 +15,58 @@
     </header>
 
     <main class="author-container">
-        <section class="author-profile">
-            <div class="author-image">
-                <!-- Replace with your actual image -->
-                <div class="placeholder-image"></div>
-            </div>
-            <div class="author-info">
-                <h1>Author Name</h1>
-                <p class="author-title">Creator of Sea Level</p>
-                <div class="author-bio">
-                    <p>This is where you would write about yourself, your background, inspiration, and artistic vision for Sea Level.</p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia, nunc in placerat euismod, ipsum erat facilisis arcu, vel venenatis risus mi non lorem. Donec viverra, orci quis ultrices vestibulum.</p>
-                    <p>Nullam semper augue at purus faucibus, eu feugiat justo efficitur. Cras vel lacinia magna. Fusce placerat quis nulla eget interdum.</p>
+        <section class="author-profile" id="author-card">
+            <div class="card-inner">
+                <!-- Front side - Michael McCallum (now the default) -->
+                <div class="card-front">
+                    <div class="author-image">
+                        <div class="placeholder-image front-image"></div>
+                    </div>
+                    <div class="author-info">
+                        <h1>Michael McCallum</h1>
+                        <p class="author-title">Writer & Game Developer</p>
+                        <div class="author-bio">
+                            <p>The person behind the pseudonym, Michael combines literary passion with software development to create immersive narrative experiences.</p>
+                            <p>With a background in both creative writing and programming, he bridges technical and artistic disciplines in his work.</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Back side - Corvi -->
+                <div class="card-back">
+                    <div class="author-image">
+                        <div class="placeholder-image back-image"></div>
+                    </div>
+                    <div class="author-info">
+                        <h1>Corvi</h1>
+                        <p class="author-title">Poet & Creative Director</p>
+                        <div class="author-bio">
+                            <p>Creator of the Sea Level project, exploring themes of depth and transcendence through various artistic mediums.</p>
+                            <p>Corvi is the creative persona behind the poetry and conceptual direction of Sea Level's works.</p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>
+        
+        <div class="flip-instruction">Click the card to flip</div>
         
         <section class="author-projects">
             <h2>Projects</h2>
             <div class="projects-grid">
                 <div class="project-card">
                     <h3>Comics</h3>
-                    <p>Stories told through sequential art</p>
+                    <p><!--TBD--></p>
                     <a href="comics.html" class="project-link">View Comics</a>
                 </div>
                 <div class="project-card">
                     <h3>Poetry</h3>
-                    <p>Written expressions and reflections</p>
+                    <p><!--TBD--></p>
                     <a href="poetry.html" class="project-link">Read Poetry</a>
                 </div>
                 <div class="project-card">
                     <h3>Games</h3>
-                    <p>Interactive experiences</p>
+                    <p><!--TBD--></p>
                     <a href="games.html" class="project-link">Play Games</a>
                 </div>
             </div>
@@ -56,5 +76,33 @@
     <footer>
         <p>&copy; 2025 Sea Level</p>
     </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const authorCard = document.getElementById('author-card');
+            const body = document.body;
+            const cardInner = authorCard.querySelector('.card-inner');
+            
+            authorCard.addEventListener('click', function() {
+                // Add a temporary class for the text fade-out effect
+                authorCard.classList.add('flipping');
+                
+                // Toggle the flipped class on the card
+                setTimeout(() => {
+                    authorCard.classList.toggle('flipped');
+                    
+                    // Toggle body class for background/text color inversion
+                    body.classList.toggle('flipped');
+                    
+                    // Remove the flipping class after a delay to fade text back in
+                    // Increased delay to match longer animation
+                    setTimeout(() => {
+                        authorCard.classList.remove('flipping');
+                    }, 500); // Increased from 400ms
+                    
+                }, 250); // Increased delay before flip starts
+            });
+        });
+    </script>
 </body>
 </html>

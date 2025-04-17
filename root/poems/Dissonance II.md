@@ -1,20 +1,24 @@
-And so, 
-he shot a breath from the abyss; 
+[align=center]
+And so, <br>
+he shot a breath from the abyss;
 an ambitious taste of horror, 
 presence-seeking, but a miss.
 
-That is all I am?  
+[align=right]
+That is all I am?  <br>
 A shot in the dark!  
 Miss me, 
 won't you?
 
-Miss?
+[align=left]
+Miss?<br>
 Won't you let me give you everything? 
-I gift my passion, starless voids, 
+I gift my passion, starless voids,  
 silence in a world fraught with noise.
 
-But I do not want any of your toys
-lest willpower be material. 
+[align=right]
+But I do not want any of your toys <br>
+lest willpower be material. <br>
 Love is not an object, 
 it's your nature that's imperial. 
 Nor are emotions dead, property, 
@@ -22,7 +26,8 @@ so speak with peace, properly,
 or, by God, nothing's stopping me
 from leaving this all here!
 
-Stop you? 
+[align=left]
+Stop you? <br>
 Nothing ever does, 
 it's on and on, 
 infinity and beyond. 
@@ -31,7 +36,8 @@ south and north,
 your voice is like 
 a mountain's worth.
 
-A mountain is all you value me?
+[align=right]
+A mountain is all you value me? <br>
 I have walked the roads of radiant suns.
 I have dreamt within a dream, 
 and in that dreamscape, 
@@ -46,9 +52,11 @@ So, yes, you will remember me
 from above the mean 
 while I forget all but your story's theme.
 
-Never will you see balance.
+[align=left]
+Never will you see balance. <br>
 
-And you…
+[align=right]
+And you… <br>
 you will only see malice, 
 unless our powers are forever tied, I deem. 
 So, must I beg the question... 
@@ -63,7 +71,8 @@ and you hid it;
 surreptitious. 
 It is of you I am clean.
 
-I come from cold erasure, 
+[align=left]
+I come from cold erasure, <br>
 I take what fuels I lack!
 I deserve to burn brighter than night; 
 not one more moment shall I slack!
@@ -78,10 +87,11 @@ I am what gives a lion his mane,
 the bear, the song nobody sings you. 
 I am an introspective glare, the maim, 
 a puppetmaster, masking every truth. 
-I am he who dare claim the dragon’s lair. 
-My name? Ego’s lack of shame, 
-Title, Truthsayer.
-So, Ill stay busy, 
+I am he who dare claim the dragon's lair. 
+My name? 
+Ego's lack of shame, 
+title, Truthsayer.
+So, I'll stay busy, 
 obsessed with more. 
 As in the end, 
 I'll be the player 
@@ -91,5 +101,6 @@ leading people to death's door.
 Oh, this desire... 
 it desires for more!
 
-It is a black game, 
+[align=center]
+It is a black game, <br>
 that much I am sure.

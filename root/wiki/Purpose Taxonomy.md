@@ -2,11 +2,11 @@
 
 **Purpose Taxonomy** is a classification system designed to organize life by its connected belief structures and destinies across the universe. It arranges existence into a vertical hierarchy of taxons—ranging from the grand scale of the universe down to the singular soul’s purpose—that define everything from geography and government to faith and dimension. 
 
-At the core of this system is the recognition that every soul possesses a unique, quantized vision for the future—its intrinsic signature, termed **Kind (K or >)**. This vision is considered static until it is set into motion. The dynamic aspect—the rate at which that vision is realized in the world—is called **Degree (D or ^)**. In short:
+At the core of this system is the recognition that every soul possesses a unique, quantized vision for the future—its intrinsic signature, termed **Kind (K, <, or >)**. This vision is considered static until it is set into motion. The dynamic aspect—the rate at which that vision is realized in the world—is called **Degree (D or ^)**. In short:
 
 > **Degree = Kind’s Rate of Actualization**
 
-This interplay between the fixed vision and its actualization ultimately defines the soul’s realized destiny, or **Essa**.
+This interplay between the fixed vision and its actualization ultimately defines the soul’s realized destiny, or **Essa**. 
 
 ### Taxonomic Ranks
 
@@ -28,9 +28,9 @@ Purpose Taxonomy comprises nine hierarchical ranks:
     Estimated to be conceived during the [[Taxotheir Line|Taxotheir Line]] by the Huma of Toma, Purpose Taxonomy was developed to interpret the complex interplay of [[Evolution]], [[Belief]], and [[Anim]] in the Toman Ecoss. Although, it should be known that some argue that the system was initially designed as a common (in relation to interspecies unification), albeit lightweight, language describing one's connection to their environment. This theory posits that the hierarchy was constructed to allow creatures of different types to communicate simple ideas to one another without having to engage in each other's complex languages.
     
 - **Social Taxonomy:**  
-    Revised during the [[Line from Few]] after the [[Cel Blindbirth Line|Cel Blindbirth Line]], Purpose Taxonomy now exists in two forms:
+    Revised during the [[Line from Few]] after the [[Cel Blindbirth Line]], Purpose Taxonomy now exists in two forms:
     
-    1. **Taxotheir or T.L. Taxonomy** – pre-Blindbirth understanding
+    1. **Taxotheir, T.L., or Social Taxonomy** – pre-Blindbirth understanding
     2. **Current or C.L. Taxonomy** – reflective of the contemporary timeline
     
     
@@ -43,13 +43,14 @@ When recording a note, only the necessary taxons are included. The left-hand lab
 
 - **Bin:** [[Ex. Bin]]
 - **Basin:** [[Ex. Basin]]
-- **Eco:** [[Ex. Eco]] ([[Ex. Location]], [[Ex. Region]], [[Ex. Continent]]) of [[Ex. Ecoss]]
+- **Eco:** [[Ex. Eco]] ([[Ex. Continent]], [[Ex. Region]], [[Ex. Continent]]) of [[Ex. Ecoss]]
 - **Kingdom:** [[Ex. Kingdom 1]] and [[Ex. Kingdom 2]]
 - **Phylum:** [[Ex. Phylum]]
 - **Class:** [[Ex. Class]]
 - **Order:** [[Ex. Order]]
 - **Family:** [[Ex. Family]]
 - **Essa:** [[Ex. Essa]]
+
 
 ### Exception-Branching
 

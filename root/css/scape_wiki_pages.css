@@ -5,6 +5,13 @@ h1 {
     text-align: center;
 }
 
+/* Center nicknames (the italic text right below page titles) */
+h1 + p em {
+    display: block;
+    text-align: center;
+    font-style: italic;
+    margin-bottom: 1.5rem;
+}
 
 .wiki-content {
     max-width: 800px;

@@ -20,3 +20,14 @@
 - node "C:\Users\broki\OneDrive\Desktop\Sea Level Website\AntiPwr.github.io\root\js\genWikiJson.js" "C:\Users\broki\OneDrive\Desktop\Sea Level Website\AntiPwr.github.io\root\wiki" "C:\Users\broki\OneDrive\Desktop\Sea Level Website\AntiPwr.github.io\root\json\wiki_pages.json"
 
 
+
+
+
+# Needs to be completed before session
+Sibannac
+Hypri
+Hypri Highcourt
+Sisters
+Trash Towns
+Subjective belief systems
+Meeting

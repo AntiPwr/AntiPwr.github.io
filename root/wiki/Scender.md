@@ -3,18 +3,16 @@ _Catch, Big Ripple, Rip_
 
 <img src="wiki_images/Scender.png"><i></i></img>
 
+> _"Faith, science, and kingdom liberty ripple outward, but all will return to the center on the final day."_  
+> **—Ophelia Necesse**
+
 **Bin:** [[Scape]]  
 **Basin:** [[Sacrus]]  
-**Eco:** [[Toma]] ([[Sancta]], [[Jetti Sound]] and [[Nesil Grassland]], ) of [[Toman Ecoss]]  
+**Eco:** [[Toma]] ([[Sancta]], [[Jetti Sound]] and [[Nesil Grassland]]) of [[Toman Ecoss]]  
 **Kingdom:** [[Huma]], [[Ferra]], [[Anthros]] and [[Zothros]], [[Natura]], [[Bluma]] 
 **Phylum:** [[Asceptim]]  
 **Class:** [[Sol Unita]]  
 **Order:** [[Scender]]
-
-
-
-> _"Faith, science, and kingdom liberty ripple outward, but all will return to the center on the final day."_  
-> **—Ophelia Necesse**
 
 Scender is the capital city of [[Sol Unita]], a place where faith, science, and kingdom liberty are deeply intertwined. With a population of approximately 840,000 [[Huma]]-resonance, the city’s concentric layout is built in a ripple pattern, symbolizing the spiritual journey of its people—rising from the material world to enlightenment. Each ring of Scender serves a distinct function, shaping the daily lives of its inhabitants.
 

@@ -93,10 +93,13 @@ body::after {
     color: #1e1e1e;
 }
 
+/* Fixed poem display and control layout */
 .poem-display {
     display: flex;
     flex-direction: column;
     align-items: center;
+    position: relative;
+    min-height: 500px; /* Ensure consistent height to prevent jumping */
 }
 
 .poem-container {
@@ -112,6 +115,7 @@ body::after {
     align-items: center;
     margin-bottom: 20px;
     overflow: hidden;
+    flex-grow: 1; /* Allow it to grow within the display container */
 }
 
 .poem-image {
@@ -126,11 +130,16 @@ body::after {
     transform: scale(1.02);
 }
 
-/* Controls for poem display */
+/* Fixed Controls positioning for poem display */
 .poem-controls {
     display: flex;
     gap: 40px; /* Increased gap with removed button */
     margin-top: 20px;
+    position: absolute; /* Position absolutely */
+    bottom: -5px; /* Position at the bottom */
+    left: 50%; /* Center horizontally */
+    transform: translateX(-50%); /* Center adjustment */
+    z-index: 5; /* Ensure it's above other content */
 }
 
 /* Archive section */
@@ -251,6 +260,7 @@ body::after {
     position: relative;
     max-width: 90%;
     max-height: 90%;
+    padding-bottom: 40px; /* Reduced from 60px to 40px since we moved the button up */
 }
 
 #lightbox-image {
@@ -368,6 +378,7 @@ body::after {
     margin-bottom: 20px;
 }
 
+/* Center the text poem in lightbox */
 .lightbox-text {
     display: none;
     max-width: 800px;
@@ -381,6 +392,7 @@ body::after {
     text-align: left;
     line-height: 1.6;
     width: 65%; /* Added width as percentage of viewport */
+    margin: 0 auto; /* Center horizontally */
 }
 
 .lightbox-text h2 {
@@ -396,6 +408,15 @@ body::after {
     white-space: pre-wrap;
     margin-bottom: 20px;
 }
+
+/* Poem content stanza styling */
+.poem-content p.stanza {
+    margin-bottom: 1.8em; /* Increase space between stanzas */
+    margin-top: 0;
+}
+
+
+
 
 .poem-metadata {
     text-align: right;
@@ -415,6 +436,113 @@ body::after {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+/* Style poem rotation buttons */
+.control-btn {
+    background-color: #1e1e1e;
+    color: #ffffd2;
+    width: 50px;
+    height: 50px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+}
+
+.control-btn:hover {
+    background-color: #333;
+    transform: scale(1.1);
+}
+
+.control-btn:active {
+    transform: scale(0.95);
+}
+
+/* Sticky notes styling - UPDATED POSITION */
+.sticky-notes {
+    position: absolute; 
+    bottom: -30px; /* Changed from -50px to -30px to move it up */
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1020;
+    width: auto;
+    max-width: 600px;
+    background: transparent;
+}
+
+.notes-toggle-btn {
+    background-color: #1e1e1e;
+    color: #ffffd2;
+    border: none;
+    padding: 8px 20px; /* Slightly reduced padding */
+    border-radius: 20px;
+    cursor: pointer;
+    font-family: inherit;
+    font-size: 0.9rem; /* Slightly smaller font */
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Center text and icon */
+    margin: 0 auto;
+    transition: all 0.2s ease;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.3);
+}
+
+.notes-toggle-btn:hover {
+    background-color: #333;
+    transform: translateY(-2px);
+}
+
+.notes-toggle-btn .toggle-icon {
+    margin-left: 8px;
+    transition: transform 0.3s ease;
+}
+
+.notes-toggle-btn.open .toggle-icon {
+    transform: rotate(180deg);
+}
+
+.poem-notes {
+    position: absolute;
+    bottom: 45px; /* Position above the button */
+    left: 0;
+    right: 0;
+    background-color: #f8f8f2;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    font-size: 1rem;
+    line-height: 1.4; /* Reduced line height in notes too */
+    overflow: hidden;
+    max-height: 0;
+    opacity: 0;
+    transition: max-height 0.5s ease, opacity 0.3s ease;
+    box-shadow: 0 -4px 15px rgba(0,0,0,0.15);
+}
+
+.poem-notes.open {
+    max-height: 400px; /* Limited height with scrolling */
+    opacity: 1;
+    overflow-y: auto;
+}
+
+.poem-notes a {
+    color: #0066cc;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.2s;
+}
+
+.poem-notes a:hover {
+    color: #004080;
+    text-decoration: underline;
 }
 
 /* Responsive adjustments for text poems */
@@ -492,6 +620,14 @@ body::after {
         width: 100%;
         max-width: 300px;
     }
+
+    .poem-display {
+        min-height: 400px; /* Slightly smaller minimum height on mobile */
+    }
+
+    .poem-controls {
+        bottom: 10px; /* Adjust position on mobile */
+    }
 }
 
 @media (max-width: 480px) {
@@ -526,11 +662,92 @@ body::after {
     
     .poem-controls {
         gap: 15px;
+        bottom: 5px; /* Further adjust for small devices */
     }
     
     .lightbox-text {
         min-width: 280px; /* Even smaller minimum width on very small screens */
         width: 95%; /* Almost full width on very small screens */
+    }
+
+    .poem-display {
+        min-height: 350px; /* Even smaller minimum height on small devices */
+    }
+}
+
+/* Notes panel styling */
+.poem-notes-container {
+    margin-top: 20px;
+    width: 100%;
+}
+
+.notes-toggle-btn {
+    background-color: #1e1e1e;
+    color: #ffffd2;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: inherit;
+    font-size: 0.9rem;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    transition: background-color 0.2s ease;
+}
+
+.notes-toggle-btn:hover {
+    background-color: #333;
+}
+
+.notes-toggle-btn .toggle-icon {
+    margin-left: 8px;
+    transition: transform 0.3s ease;
+}
+
+.notes-toggle-btn.open .toggle-icon {
+    transform: rotate(180deg);
+}
+
+.poem-notes {
+    background-color: #f8f8f2;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 20px;
+    margin-top: 15px;
+    font-size: 1rem;
+    line-height: 1.6;
+    overflow: hidden;
+    max-height: 0;
+    opacity: 0;
+    transition: max-height 0.5s ease, opacity 0.3s ease, margin-top 0.3s ease;
+}
+
+.poem-notes.open {
+    max-height: 1000px; /* Large enough to contain content */
+    opacity: 1;
+    margin-top: 15px;
+}
+
+.poem-notes h4 {
+    margin-top: 0;
+    font-size: 1.2rem;
+    color: #1e1e1e;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .poem-notes {
+        padding: 15px;
+        font-size: 0.9rem;
+    }
+    
+    .notes-toggle-btn {
+        font-size: 0.8rem;
+        padding: 8px 12px;
     }
 }
 
@@ -540,3 +757,197 @@ body::after {
     margin-top: 10px;
     font-style: italic;
 }
+
+/*
+ * =======================================================
+ * FUTURE IMPLEMENTATION: PRIMROSE POETRY THEME
+ * =======================================================
+ * 
+ * The Primrose Poetry collection would transform this page into a serene,
+ * greenhouse-inspired environment where poems bloom like exotic flora.
+ * 
+ * Key design elements would include:
+ * 
+ * 1. Background featuring a Victorian-style greenhouse with soft, diffused light
+ *    filtering through glass panes and lush vegetation
+ * 
+ * 2. Poem containers styled as botanical display cases or specimen frames
+ *    with brass or copper borders and aged parchment backgrounds
+ * 
+ * 3. Navigation using garden pathways that lead viewers through different
+ *    "garden sections" organized by theme or chronology
+ * 
+ * 4. Text poems displayed on unfurling scrolls or pages that "bloom" open
+ *    when selected, with elegant botanical illustrations in margins
+ * 
+ * 5. Ambient sounds of gentle rainfall, distant bird calls, and occasional
+ *    wind through leaves for immersive atmosphere (toggleable)
+ * 
+ * 6. Notes sections designed as herbarium tags or botanical information cards
+ *    that provide context for each poem "specimen"
+ *
+ * 7. Seasonal variations in background elements based on the current season
+ *    or the composition date of featured poems
+ *
+ * 8. Poem categories organized by "garden beds" - contemplative pieces in the
+ *    shade garden, vibrant imagery in the tropical section, etc.
+ * 
+ * This ecosystem approach would create a cohesive, immersive experience that
+ * presents poetry as living art that grows and evolves within its own plane
+ * of existence, bridging natural beauty with literary expression.
+ */
+
+/* Special poem styling */
+.special-poem {
+    line-height: 1.3;
+}
+
+.special-poem .stanza {
+    margin-bottom: 2.5em;
+    position: relative;
+}
+
+/* Different alignments for stanzas */
+.special-poem .align-left {
+    text-align: left;
+    padding-right: 25%;
+}
+
+.special-poem .align-right {
+    text-align: right;
+    padding-left: 25%;
+}
+
+.special-poem .align-center {
+    text-align: center;
+}
+
+/* Visual indicators for different speakers */
+.special-poem .align-left::before {
+    content: '';
+    position: absolute;
+    left: -15px;
+    top: 0;
+    height: 100%;
+    width: 3px;
+    background-color: #3498db; /* Blue for left speaker */
+    opacity: 0.7;
+}
+
+.special-poem .align-right::before {
+    content: '';
+    position: absolute;
+    right: -15px;
+    top: 0;
+    height: 100%;
+    width: 3px;
+    background-color: #e74c3c; /* Red for right speaker */
+    opacity: 0.7;
+}
+
+/* Special poem icon in archive list */
+.special-poem-link {
+    color: #8e44ad !important; /* Purple for special poems */
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .special-poem .align-left {
+        padding-right: 10%;
+    }
+    
+    .special-poem .align-right {
+        padding-left: 10%;
+    }
+}
+
+/* Special poem styling - updated with fixes for line spacing */
+.special-poem {
+    line-height: 1.3;
+}
+
+.special-poem .stanza {
+    margin-bottom: 2.5em;
+    position: relative;
+}
+
+/* Add specific style to prevent unwanted line gaps */
+.special-poem .no-line-gap br {
+    line-height: 1.3; /* Match the parent exactly */
+    display: inline-block; /* Helps maintain consistent spacing */
+    margin-bottom: 0; /* Remove any bottom margin */
+}
+
+/* Ensure consistent spacing by setting specific line heights */
+.special-poem .stanza {
+    line-height: 1.3;
+}
+
+/* Different alignments for stanzas */
+.special-poem .align-left {
+    text-align: left;
+    padding-right: 25%;
+}
+
+.special-poem .align-right {
+    text-align: right;
+    padding-left: 25%;
+}
+
+.special-poem .align-center {
+    text-align: center;
+}
+
+/* Update Special poem styling - fix line spacing issues */
+.special-poem {
+    line-height: 1.3;
+}
+
+.special-poem .stanza {
+    margin-bottom: 2.5em;
+    position: relative;
+    white-space: pre-line; /* Preserve original linebreaks */
+}
+
+/* Use spans for line breaks to maintain proper spacing */
+.special-poem .original-spacing .line-break {
+    display: block;
+    height: 1.3em; /* Match the line height */
+}
+
+/* First line break should be minimized to avoid the gap */
+.special-poem .original-spacing .line-break:first-child {
+    display: inline;
+    height: auto;
+}
+
+/* Remove redundant classes that might be causing issues */
+.special-poem .no-line-gap br {
+    display: none; /* Remove the <br> styling */
+}
+
+/* Visual indicators for different speakers remain the same */
+.special-poem .align-left::before {
+    content: '';
+    position: absolute;
+    left: -15px;
+    top: 0;
+    height: 100%;
+    width: 3px;
+    background-color: #3498db;
+    opacity: 0.7;
+}
+
+.special-poem .align-right::before {
+    content: '';
+    position: absolute;
+    right: -15px;
+    top: 0;
+    height: 100%;
+    width: 3px;
+    background-color: #e74c3c;
+    opacity: 0.7;
+}
+
+
+

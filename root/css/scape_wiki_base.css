@@ -225,3 +225,150 @@ body {
   margin-bottom: 10px;
   display: none; /* only displayed if pinned items exist */
 }
+
+/* Feathermark Styling */
+.feathermark {
+  margin: 2rem 0;
+  padding: 1.5rem;
+  background: linear-gradient(145deg, #1a1a1a 0%, #2d2d2d 50%, #333333 100%);
+  border-radius: 8px;
+  color: #ffffd2; /* Same yellow as navbar text */
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+  border-left: 5px solid #444;
+  position: relative;
+  overflow: hidden;
+  font-family: "vendetta", "Vendetta OT Light", serif;
+  font-weight: 300; /* Light weight */
+}
+
+/* Add subtle iridescence effect */
+.feathermark::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(45deg, 
+    rgba(100, 100, 130, 0.1) 0%, 
+    rgba(70, 70, 100, 0.05) 25%, 
+    rgba(50, 90, 100, 0.05) 50%, 
+    rgba(100, 70, 90, 0.05) 75%, 
+    rgba(130, 100, 120, 0.1) 100%);
+  z-index: 1;
+  pointer-events: none;
+}
+
+.feathermark * {
+  position: relative;
+  z-index: 2;
+}
+
+.feathermark-attribution {
+  font-family: "vendetta", "Vendetta OT Medium", serif;
+  font-weight: 500; /* Medium weight */
+  font-size: 2em;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-style: italic;
+  border-bottom: 1px solid rgba(255, 255, 210, 0.3);
+  padding-bottom: 0.5rem;
+}
+
+.feathermark a {
+  color: #a6a68c; /* Lighter version of the yellow for links */
+  text-decoration: underline;
+}
+
+.feathermark a:hover {
+  color: #ffffd2;
+}
+
+/* Responsive adjustments for Feathermarks */
+@media screen and (max-width: 768px) {
+  .feathermark {
+    padding: 1rem;
+    margin: 1.5rem 0;
+  }
+  
+  .feathermark-attribution {
+    font-size: 2em;
+  }
+}
+
+/* Purpose Taxonomy Table Styling */
+.taxonomy-table {
+  margin: 1.5rem 0;
+  background-color: #f8f8f8;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid #e0e0e0;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  font-family: 'Kallisto', Verdana, sans-serif;
+}
+
+.taxonomy-table table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+
+.taxonomy-table th {
+  background-color: #1e1e1e;
+  color: #ffffd2;
+  text-align: left;
+  padding: 10px 15px;
+  font-weight: bold;
+  font-size: 1.1em;
+}
+
+.taxonomy-table td {
+  padding: 8px 15px;
+  border-top: 1px solid #e0e0e0;
+  vertical-align: middle;
+}
+
+.taxonomy-table tr:nth-child(even) {
+  background-color: #f0f0f0;
+}
+
+.taxon-icon {
+  width: 24px;
+  height: 24px;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
+.taxon-label {
+  width: 80px;
+  font-weight: bold;
+  color: #444;
+}
+
+.taxon-content a {
+  color: #5D3FD3;
+  text-decoration: none;
+}
+
+.taxon-content a:hover {
+  text-decoration: underline;
+  color: #7b68ee;
+}
+
+/* Responsive adjustments for taxonomy table */
+@media screen and (max-width: 768px) {
+  .taxonomy-table td {
+    padding: 6px 10px;
+  }
+  
+  .taxon-icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 6px;
+  }
+  
+  .taxon-label {
+    width: 60px;
+    font-size: 0.9em;
+  }
+}

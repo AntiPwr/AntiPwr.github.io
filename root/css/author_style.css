@@ -11,6 +11,18 @@ html {
     border: 0.5vw solid #1e1e1e;
 }
 
+/* Variables for color inversion and animation */
+:root {
+    --background-color: #f7f5f0; /* Off white */
+    --text-color: #1e1e1e; /* Dark color */
+    --accent-color: #ffffd2; /* Yellow */
+    --inverted-background: #1e1e1e; /* Inverted background */
+    --inverted-text: #f7f5f0; /* Inverted text */
+    --inverted-accent: #6b2c90; /* Deep purple */
+    --transition-time: 1.2s; /* Increased from 0.8s for slower animation */
+    --translation-distance: 150px; /* Distance to translate horizontally */
+}
+
 body {
     font-family: "freight-text-pro", serif;
     line-height: 1.6;
@@ -19,12 +31,20 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+    background-color: var(--inverted-background); /* Start with dark background */
+    color: var(--inverted-text); /* Start with light text */
+    transition: background-color var(--transition-time), color var(--transition-time);
+    margin: 0;
+    padding: 20px;
+    font-family: "Vendetta", serif;
 }
 
 /* Navigation */
 header {
     padding: 1.5rem 0;
     background-color: #1e1e1e;
+    padding: 20px 0;
+    margin-bottom: 40px;
 }
 
 .main-nav {
@@ -39,6 +59,24 @@ header {
     text-decoration: none;
     font-size: 1.2rem;
     transition: color 0.3s ease;
+    color: var(--inverted-accent); /* Start with purple */
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-weight: bold;
+    transition: color var(--transition-time), background-color var(--transition-time);
+    padding: 8px 15px;
+    border-radius: 4px;
+    background-color: transparent;
+}
+
+body.flipped .main-nav a {
+    color: var(--text-color);
+    background-color: var(--background-color);
+}
+
+body:not(.flipped) .main-nav a {
+    color: var(--inverted-text);
+    background-color: transparent;
 }
 
 .main-nav a:hover {
@@ -51,6 +89,7 @@ header {
     margin: 3rem auto;
     padding: 0 2rem;
     flex: 1;
+    padding: 20px;
 }
 
 /* Author Profile */
@@ -59,11 +98,97 @@ header {
     flex-wrap: wrap;
     gap: 3rem;
     margin-bottom: 4rem;
+    perspective: 1000px; /* Create 3D space for the flip effect */
+    cursor: pointer;
+    width: 100%;
+    height: 400px; /* Set fixed height for consistent flipping */
+    margin-bottom: 40px;
+    perspective: 1000px;
+    cursor: pointer;
+    width: 100%;
+    height: 400px;
+    margin-bottom: 40px;
+    overflow: hidden; /* Ensure overflow is hidden during translation */
+}
+
+.card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transition: transform var(--transition-time), translate var(--transition-time);
+    transform-style: preserve-3d;
+    will-change: transform, translate; /* Optimize for animation performance */
+}
+
+/* Flipped state */
+.author-profile.flipped .card-inner {
+    transform: rotateY(180deg) translateX(var(--translation-distance));
+}
+
+.author-profile:not(.flipped) .card-inner {
+    transform: rotateY(0deg) translateX(0);
+}
+
+/* Style for both sides */
+.card-front, .card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    display: flex;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    backface-visibility: hidden;
+    display: flex;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+}
+
+/* Fixed animation for front and back sides */
+.card-front {
+    transform-origin: center left; /* Set origin to left edge for better movement */
+    background-color: var(--inverted-background);
+    color: var(--inverted-text);
+}
+
+/* Back side is rotated by default */
+.card-back {
+    transform-origin: center right; /* Set origin to right edge */
+    transform: rotateY(180deg) translateX(calc(-1 * var(--translation-distance))); /* Initial position shifted left */
+    background-color: var(--background-color);
+    color: var(--text-color);
+}
+
+/* Different styling for front and back images */
+.front-image {
+    background-color: #3498db; /* Placeholder color for Corvi */
+    background-color: #333; /* Darker background for Michael */
+}
+
+.back-image {
+    background-color: #2ecc71; /* Placeholder color for Michael */
+    background-color: #e6e6e6; /* Lighter background for Corvi */
+}
+
+.placeholder-image {
+    width: 250px;
+    height: 300px;
+    border-radius: 8px;
+    margin-right: 30px;
+    transition: background-color var(--transition-time);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
 
 .author-image {
     flex: 1;
     min-width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 30px;
 }
 
 .placeholder-image {
@@ -76,6 +201,15 @@ header {
 .author-info {
     flex: 2;
     min-width: 300px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    transition: opacity 0.5s ease; /* Increased from 0.4s */
 }
 
 .author-info h1 {
@@ -89,6 +223,21 @@ header {
     font-size: 1.2rem;
     color: #555;
     margin-bottom: 1.5rem;
+    color: #777;
+    font-style: italic;
+    margin-bottom: 20px;
+    font-style: italic;
+    margin-bottom: 20px;
+}
+
+/* Front side (Michael) title */
+.card-front .author-title {
+    color: #aaa; /* Lighter gray for dark theme */
+}
+
+/* Back side (Corvi) title */
+.card-back .author-title {
+    color: #777; /* Darker gray for light theme */
 }
 
 .author-bio p {
@@ -101,12 +250,17 @@ header {
     font-size: 2rem;
     margin-bottom: 2rem;
     color: #1e1e1e;
+    text-align: center;
+    margin-bottom: 30px;
 }
 
 .projects-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     gap: 2rem;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
 }
 
 .project-card {
@@ -116,6 +270,13 @@ header {
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
+    background-color: rgba(255, 255, 255, 0.05); /* Slightly lighter than background */
+    padding: 20px;
+    border-radius: 8px;
+    transition: background-color var(--transition-time);
+    flex: 1;
+    display: flex;
+    flex-direction: column;
 }
 
 .project-card:hover {
@@ -126,6 +287,8 @@ header {
 .project-card h3 {
     font-family: Vendetta, sans-serif;
     margin-bottom: 0.5rem;
+    margin-top: 0;
+    margin-bottom: 15px;
 }
 
 .project-card p {
@@ -141,6 +304,16 @@ header {
     padding: 0.5rem 1rem;
     border-radius: 3px;
     transition: background-color 0.3s ease;
+    display: inline-block;
+    margin-top: 15px;
+    padding: 8px 15px;
+    background-color: var(--inverted-accent);
+    color: var(--inverted-text);
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color var(--transition-time), color var(--transition-time);
+    margin-top: auto; /* Push links to bottom of cards */
+    text-align: center;
 }
 
 .project-link:hover {
@@ -154,19 +327,122 @@ footer {
     background-color: #1e1e1e;
     color: #ffffd2;
     margin-top: auto;
+    text-align: center;
+    padding: 20px 0;
+    color: var(--inverted-text);
+    transition: color var(--transition-time);
 }
 
 /* Responsive Design */
 @media (max-width: 768px) {
+    :root {
+        --translation-distance: 80px; /* Reduce translation distance on mobile */
+    }
+    
     html {
         border: 1vw solid #1e1e1e;
     }
     
     .author-profile {
         flex-direction: column;
+        height: auto;
+        min-height: 500px;
+        height: auto;
+        min-height: 500px;
     }
     
     .placeholder-image {
         height: 250px;
+        margin-right: 0;
+        margin-bottom: 20px;
+        width: 200px;
+        height: 250px;
+        margin-right: 0;
+        margin-bottom: 20px;
+        width: 200px;
+        height: 250px;
     }
+
+    .card-front, .card-back {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        overflow-y: auto;
+        padding-bottom: 30px;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        overflow-y: auto;
+        padding-bottom: 30px;
+    }
+
+    .card-back {
+        flex-direction: column; /* Override row-reverse for mobile */
+    }
+
+    .author-image {
+        margin-right: 0;
+        margin-bottom: 20px;
+        margin: 0 0 20px 0;
+    }
+
+    .projects-grid {
+        flex-direction: column;
+    }
+}
+
+/* Flip instruction text */
+.flip-instruction {
+    text-align: center;
+    color: #777;
+    font-style: italic;
+    margin-bottom: 30px;
+    font-size: 0.9rem;
+    text-align: center;
+    color: var(--inverted-text);
+    font-style: italic;
+    margin-bottom: 30px;
+    font-size: 0.9rem;
+    transition: color var(--transition-time);
+}
+
+/* Color inversion when card is flipped */
+body.flipped {
+    background-color: var(--background-color);
+    color: var(--text-color);
+}
+
+body.flipped .main-nav a {
+    color: var(--accent-color);
+}
+
+body.flipped .flip-instruction {
+    color: var(--text-color);
+}
+
+body.flipped .author-projects {
+    background-color: var(--background-color);
+    color: var(--text-color);
+}
+
+body.flipped .project-card {
+    background-color: rgba(0, 0, 0, 0.05); /* Slightly darker than background */
+}
+
+body.flipped .project-link {
+    background-color: var(--accent-color);
+    color: var(--text-color);
+}
+
+body.flipped footer {
+    color: var(--text-color);
+}
+
+/* Text fading effect during flip */
+.author-profile .author-info {
+    transition: opacity 0.5s ease; /* Increased from 0.4s */
+}
+
+.author-profile.flipping .author-info {
+    opacity: 0;
 }
