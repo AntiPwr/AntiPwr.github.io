@@ -90,7 +90,6 @@ Continue with more sections as needed.
 `;
 
 // Template for new .html content
-// We replace the placeholders with the correct references
 const DEFAULT_HTML_TEMPLATE = (fileName, displayName) =>
 `<!DOCTYPE html>
 <html lang="en">
@@ -141,6 +140,8 @@ const DEFAULT_HTML_TEMPLATE = (fileName, displayName) =>
 
     <!-- Include Showdown.js for markdown parsing -->
     <script src="https://cdn.jsdelivr.net/npm/showdown/dist/showdown.min.js"></script>
+    <!-- Include Fuse.js for fuzzy search -->
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2/dist/fuse.min.js"></script>
     <!-- Include your mdparse.js which fetches markdown and inserts into #markdown-content -->
     <script src="../js/mdparse.js"></script>
     <!-- Include sidebar.js or similar logic to toggle sidebar with #open-btn -->
@@ -149,7 +150,6 @@ const DEFAULT_HTML_TEMPLATE = (fileName, displayName) =>
     <script src="../js/search.js"></script>
 </body>
 </html>`;
-
 
 // Main function to parse an .md file and create missing references
 function processMarkdownFile(mdFilePath) {
@@ -164,26 +164,17 @@ function processMarkdownFile(mdFilePath) {
 
         // Clean leading underscores or do other transformations:
         const fileNameNoUnderscore = rawFileName.replace(/^_/, '').trim();
-        // If no display name is provided, use fileName
         const displayName = rawDisplayName.trim() !== '' ? rawDisplayName.trim() : fileNameNoUnderscore;
+        const safeFileName = fileNameNoUnderscore;
 
-        // Slug or sanitize to create an HTML-safe filename
-        // e.g. "Sol Unita" => "Sol Unita"
-        // If you need to remove spaces, do so:
-        // const safeFileName = fileNameNoUnderscore.replace(/\s+/g, '-');
-        const safeFileName = fileNameNoUnderscore; // leaving spaces if you prefer
-
-        // Construct the .md and .html path
         const newMdPath = path.join(path.dirname(mdFilePath), `${safeFileName}.md`);
         const newHtmlPath = path.join(path.dirname(mdFilePath), `${safeFileName}.html`);
 
-        // Create the .md if missing
         if (!fs.existsSync(newMdPath)) {
             fs.writeFileSync(newMdPath, DEFAULT_MD_CONTENT(safeFileName));
             console.log(`Created new MD file: ${newMdPath}`);
         }
 
-        // Create the .html if missing
         if (!fs.existsSync(newHtmlPath)) {
             const templateContent = DEFAULT_HTML_TEMPLATE(safeFileName, displayName);
             fs.writeFileSync(newHtmlPath, templateContent);

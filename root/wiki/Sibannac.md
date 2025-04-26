@@ -1,25 +1,33 @@
 # Sibannac
-_The Grass Sea, Consuming Carpet, The Green Veil_
+_The Grass Sea, Consuming Carpet, The Green Veil, The Avatar of the Grove_
 
 <img src="wiki_images/Sibannac.png"><i>Aerial view of Sibannac's Carpet surrounding Hypri's spires at dusk</i></img>
 
-> _"Run, wait, hide... you will not win. Wind is all your asking when the life before you withers—thin, thin, thin. Like the blade, am afraid, I am everywhere, soon to be your everywhen."_  
+> _"Run, wait, hide... you will not win. Wind is all your asking when the life before you withers—thin, thin, thin. Like the blade, am afraid, I am everywhere, soon to be your everywhen."_
 > **—Sibannac's Whisper, as reported by Usakan explorers**
 
-> _"The horror of vegetation is comparable to no other. A mobile animal that devours is comprehensible—a plant that consumes while appearing passive is an existential terror."_  
+> _"The horror of vegetation is comparable to no other. A mobile animal that devours is comprehensible—a plant that consumes while appearing passive is an existential terror."_
 > **—John Wyndham**
 
-**Bin:** [[Scape]]  
+**Bin:** [[Bluma]] + [[Nesa]]  
 **Basin:** [[Sacrus]]  
 **Eco:** [[Toma]] ([[Usaka]]) of [[Toman Ecoss]]  
-**Kingdom:** [[Natura]]  
-**Phylum:** [[Natura Nesa]]  
-**Class:** [[Sentient Ecology]]  
-**Order:** [[Consciousness Ecosystem]]  
+**Kingdom:** [[Bluma]] + [[Nesa]]  
+**Phylum:** [[Leiqua]]  
+**Class:** [[Usakan Growth]]  
+**Order:** [[Cilladril]]  
 
-Sibannac is a vast, sentient grassland entity that covers approximately 55% of the continent of [[Usaka]], most notably surrounding the spire city of [[Hypri]]. Unlike conventional flora, Sibannac exists as a single consciousness controlling countless individual grass blades across hundreds of square kilometers. This entity serves multiple roles in the Usakan ecosystem: natural defense system, deity figure, and recycler of organic matter.
+Sibannac is a vast, sentient grassland entity that covers approximately 55% of the continent of [[Usaka]], most notably surrounding the spire city of [[Hypri]]. Unlike conventional flora, Sibannac exists as a single consciousness controlling countless individual grass blades across hundreds of square kilometers. This entity serves multiple roles in the Usakan ecosystem: natural defense system, deity figure, recycler of organic matter, and the central Growthmind of the region.
 
-The relationship between Sibannac and the inhabitants of Hypri is complex—while the entity protects the city from unwanted intrusion, it also demands regular tribute in the form of deceased bodies and occasionally claims the lives of those who become lost within its expanse. Travelers describe the sensation of moving through Sibannac's domain as disorienting and dreamlike, with the grass seeming to grow and move deliberately around them.
+## The Avatar of Sibannac
+
+Sibannac possesses the ability to manifest a flowy, alluring female form known as her **Avatar**. This Avatar appears to travelers—especially those who linger or become lost within the grass—offering companionship, games, or conversation tailored to the individual's deepest interests and desires.
+
+- For men, Sibannac's Avatar may invite them to play addictive games (such as cards or tag), drawing them into a cycle of return visits and growing obsession.
+- For women, the Avatar may engage in intimate gossip or philosophical discussions about life, creating a sense of kinship and trust.
+- Through these interactions, Sibannac subtly hijacks the will of her visitors, enticing them to return again and again until they become part of her Growthmind.
+
+This process is not overtly predatory; rather, it is a gradual seduction of the mind and spirit, leveraging the individual's own interests and desires to draw them deeper into Sibannac's influence.
 
 ## Nature and Characteristics
 
@@ -63,6 +71,20 @@ Sibannac is functionally carnivorous, though its consumption method differs dram
 4. **Absorption** – Nutrients are transferred through the root system to nourish the entity's growth
 
 This process typically leaves no remains, with bodies fully absorbed within 24-36 hours. Sibannac appears to prioritize consumption of the deceased, only targeting living beings who intrude deeply into its territory or remain there for extended periods.
+
+## The Usakan Growth and Growthmind
+
+Sibannac is the central consciousness of the **Usakan Growth**, a government and social structure organized as a **Growthmind**—a plant-based hivemind achieved through the consumption of Sibannac's growth (grass, fruit, leaves, etc.). Those who partake in Sibannac's bounty, or who fall under her Avatar's influence, become part of this collective consciousness, contributing to and drawing from the shared knowledge and will of the Growthmind.
+
+The Usakan Growth governs the region through this network, with Sibannac as its core intelligence.
+
+## Cilladril: The City of Grass and Waste
+
+**Cilladril** is a unique city built within a grove of low grass, soil, and the accumulated trash and waste ejected from Hypri and its sister cities. The waste system of Hypri shoots refuse into the surrounding grasslands, where it is gradually incorporated into the living structure of Cilladril. Here, the boundaries between plant, person, and city blur, as the Growthmind of Sibannac repurposes all matter—organic and inorganic—into her domain.
+
+## Leiqua: The Phylum of Interest
+
+**Leiqua** is the phylum (religious and biological) centered on Sibannac's ability to appeal to and manipulate the interests of sentient beings. As a Growthmind phylum within the Bluma kingdom, Leiqua describes the process by which Sibannac (and similar entities) use psychological and social engagement to draw individuals into the collective, often through pleasure, curiosity, or obsession.
 
 ## Cultural Significance
 
@@ -181,3 +203,7 @@ Sibannac draws inspiration from various sources, including:
 - [[Ahdom Few]]
 - [[Natura Nesa]]
 - [[Sentient Ecology]]
+- [[Growthmind]]
+- [[Cilladril]]
+- [[Leiqua]]
+- [[Usakan Growth]]

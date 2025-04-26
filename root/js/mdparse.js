@@ -76,19 +76,75 @@ function buildSidebarTOC(headingElements) {
         sidebarLinks.classList.add('sidebar-links');
         sidebar.appendChild(sidebarLinks);
     }
-
     sidebarLinks.innerHTML = '';
 
-    headingElements.forEach((heading) => {
-        const headingText = heading.textContent.trim();
-        const headingId = heading.id;
-        
-        const li = document.createElement('li');
-        const a = document.createElement('a');
-        a.href = '#' + headingId;
-        a.textContent = headingText;
+    // Build a flat array of heading objects
+    const headings = Array.from(headingElements).map(h => ({
+        text: h.textContent.trim(),
+        id: h.id,
+        level: parseInt(h.tagName[1], 10)
+    }));
 
-        li.appendChild(a);
-        sidebarLinks.appendChild(li);
-    });
+    // Build a nested tree from the flat array
+    function buildTree(flat) {
+        const root = [];
+        const stack = [];
+        flat.forEach(h => {
+            const node = { ...h, children: [] };
+            while (stack.length && stack[stack.length - 1].level >= node.level) {
+                stack.pop();
+            }
+            if (stack.length === 0) {
+                root.push(node);
+            } else {
+                stack[stack.length - 1].children.push(node);
+            }
+            stack.push(node);
+        });
+        return root;
+    }
+
+    // Render the tree recursively
+    function renderTree(nodes, parentUl) {
+        nodes.forEach(node => {
+            const li = document.createElement('li');
+            li.className = `toc-level-${node.level}`;
+            // Arrow for collapsible if has children
+            if (node.children.length) {
+                const arrow = document.createElement('span');
+                arrow.className = 'toc-arrow';
+                arrow.innerHTML = '▾';
+                arrow.style.cursor = 'pointer';
+                arrow.onclick = (e) => {
+                    e.stopPropagation();
+                    li.classList.toggle('collapsed');
+                    arrow.innerHTML = li.classList.contains('collapsed') ? '▸' : '▾';
+                };
+                li.appendChild(arrow);
+            } else {
+                // For alignment, add a placeholder span
+                const arrow = document.createElement('span');
+                arrow.className = 'toc-arrow';
+                arrow.innerHTML = '';
+                arrow.style.display = 'inline-block';
+                arrow.style.width = '1em';
+                li.appendChild(arrow);
+            }
+
+            const a = document.createElement('a');
+            a.href = '#' + node.id;
+            a.textContent = node.text;
+            li.appendChild(a);
+
+            if (node.children.length) {
+                const ul = document.createElement('ul');
+                renderTree(node.children, ul);
+                li.appendChild(ul);
+            }
+            parentUl.appendChild(li);
+        });
+    }
+
+    const tree = buildTree(headings);
+    renderTree(tree, sidebarLinks);
 }

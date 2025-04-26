@@ -1,7 +1,7 @@
 # Hypri
-_Impartial Order_
+_Pillar City, Skyward Crown, The Spire Court_
 
-<img src="wiki_images/Hypri.png"><i>The main spires of Hypri rising above the sea of Sibannac's grass at dawn</i></img>
+<img src="wiki_images/Hypri.png"><i>The main spire of Hypri rising above the sea of Sibannac's grass at dawn</i></img>
 
 > _"Three powers balance on stone that defies nature; such is the way of Hypri, where belief itself shapes gravity's pull."_  
 > **—Ahdom Few Proclamation, 27th year of the Current Line**
@@ -45,39 +45,52 @@ _Impartial Order_
     </table>
 </div>
 
+Hypri is a remarkable city-state built upon and within a single colossal spire that rises dramatically from the vast grasslands of South [[Usaka]]. This massive natural stone formation, reaching between 7,000 to 8,600 meters (23,000 to 28,200 feet) in height with an additional 500 meters (1,640 feet) of uninhabited peak above, stands as one of the most extraordinary geological features of [[Toma]]. Home to approximately 230,000 permanent residents and a fluctuating population of over 1 million traders, diplomats, and visitors, Hypri's architectural marvel comes not just from its striking silhouette against the sky but from its apparent defiance of natural laws. The gravitational fields surrounding the spire—believed locally to emanate from special ore within the stone—create a unique environment where buildings can be constructed at seemingly impossible angles, and single-person airships navigate around the towering structure along invisible currents.
 
-Hypri is a remarkable city-state built upon and within a series of natural stone spires that rise dramatically from the vast grasslands of South [[Usaka]]. Home to approximately 230,000 permanent residents and a fluctuating population of over 1 million traders, diplomats, and visitors, Hypri's architectural marvel comes not just from its striking silhouette against the sky but from its apparent defiance of natural laws. The gravitational fields surrounding its spires—believed locally to emanate from special ore within the stone—create a unique environment where buildings can be constructed at seemingly impossible angles, and single-person airships navigate between towering structures along invisible currents.
-
-As the seat of the [[Hypri Highcourt]] and home to the enigmatic [[Ahdom Few]], Hypri serves as both cultural melting pot and power nexus in western Usaka, with influence extending across the continent and beyond.
+As the seat of the [[Hypri Highcourt]] and home to the enigmatic [[Ahdom Few]], Hypri serves as both cultural melting pot and power nexus in western Usaka, with influence extending across the continent and beyond. While other spires exist across the southern half of Usaka, none approach the scale, complexity, or cultural significance of Hypri.
 
 ## Geography and Structure
 
-### The Spires
+### Venspir
 
-Hypri's defining feature is its cluster of seventeen major spires—natural stone formations that rise between 300 and 800 meters above the surrounding plains. These dramatic geological formations were thrust upward during what locals call the "Great Natura's Rise," but what scholars outside Hypri identify as a powerful tectonic events thousands of years ago. The spires are composed primarily of ancient metamorphic rock with unique mineral deposits at their cores.
+Unlike the common misconception that Hypri consists of multiple spires, the city-state is built upon and within a single colossal formation that dominates the landscape, known as Venspir. This massive geological anomaly was thrust upward during what locals call the "Great Natura's Rise," but what scholars outside Hypri identify as a powerful tectonic event thousands of years ago. Venspir is composed primarily of ancient metamorphic rock with unique mineral deposits at its core.
 
-The spires serve different functions within Hypri society:
+The spire is subdivided into distinct zones that serve different functions within Hypri society:
 
-- **Grand Spire** – The tallest formation and administrative center, housing the [[Hypri Highcourt]]
-- **Sister Spires** – Three adjacent formations converted into the personal domains of the [[Ahdom Few]]
-- **Trade Spires** – Five structures dedicated to commerce, featuring platforms for airship docking
-- **Dwelling Spires** – Seven formations where most of the permanent population resides
-- **Splint** – The most heavily guarded spire, featuring a significant crack through its center
+- **Summit Zone** (8,100-8,600m/26,600-28,200ft) – The uppermost inhabitable section housing the [[Hypri Highcourt]] and administrative centers
+- **Sister Domains** (7,800-8,100m/25,600-26,600ft) – Three adjacent sections converted into the personal domains of the [[Ahdom Few]]
+- **Trade Belt** (7,200-7,800m/23,600-25,600ft) – A wide band circling the spire dedicated to commerce, featuring platforms for airship docking
+- **Dwelling Tiers** (7,000-7,200m/23,000-23,600ft) – Multiple ring-like sections where most of the permanent population resides
+- **The Splint Region** (6,800-7,300m/22,300-24,000ft) – A heavily guarded area containing the Splint, a significant crack that runs vertically through a section of the spire
+
+### Atmospheric Retention and the Gravity Field
+
+One of Hypri's most remarkable features is its habitable environment at elevations that would normally be uninhabitable due to thin atmosphere. At heights between 7,000 to 8,600 meters (23,000 to 28,200 feet), oxygen levels in Earth-like conditions would be insufficient to support human life, yet Hypri's residents breathe freely without assistance.
+
+This paradox is explained by the spire's unique gravitational properties, centered on the mystical [[Ankelore]] found within the Splint. The localized gravity field not only allows for unusual architectural constructions but also:
+
+- Creates a compressed atmospheric bubble around the spire that maintains Earth-like air pressure
+- Generates weather patterns unique to the spire, including localized cloud formations and precipitation
+- Establishes distinct microclimates at different elevations and facings around the spire's circumference
+
+The precise mechanisms of these gravitational anomalies remain contentious among outside scholars. While Hypri authorities attribute them to the natural properties of the Ankelore enhanced by collective belief, scientists from [[Sol Unita]] and the [[Branches of Concordia]] propose theories involving advanced ancient technology or naturally occurring magical resonance fields.
 
 <div class="feathermark">
     <p class="feathermark-attribution">Corvi's Feathermark</p>
-    <p>Oh, they'll tell you the spires rose from the earth in some grand, divine spectacle—the birth pangs of creation, a miracle of geological whimsy! Such delightful propaganda! The stones speak different truths to those who know how to listen.</p>
-    <p>These aren't natural formations at all, but the calcified remains of something that once stretched between worlds. Look closely at the striations in the rock face next time you visit—they don't follow geological patterns; they pulse with directionality, like massive fossilized arteries. The Dwellers know this truth in their bones, which is precisely why they worship and fear the spires in equal measure.</p>
-    <p>And that crack in the Splint? Not a crack at all, but a mouth slowly working its way open again after millennia. The guards aren't protecting something; they're containing it.</p>
+    <p>Oh, they'll tell you the spire rose from the earth in some grand, divine spectacle—the birth pangs of creation, a miracle of geological whimsy! Such delightful propaganda! The stone speaks different truths to those who know how to listen.</p>
+    <p>This isn't a natural formation at all, but the calcified remains of something that once stretched between worlds. Look closely at the striations in the rock face next time you visit—they don't follow geological patterns; they pulse with directionality, like massive fossilized arteries. The Dwellers know this truth in their bones, which is precisely why they worship and fear the spire in equal measure.</p>
+    <p>And that crack in the Splint? Not a crack at all, but a mouth slowly working its way open again after millennia. The guards aren't protecting something; they're containing it. What's more, the "atmospheric retention" they claim as a miraculous property is simply the creature breathing—holding air in its enormous lungs as it slumbers, dreaming of the day it will exhale and send us all tumbling into the abyss.</p>
 </div>
 
-### Splint and the Gravity Ore
+### The Splint and Ankelore
 
-At the heart of Hypri's mysteries lies the Splint, a spire bisected by a dramatic crack that runs from its peak to approximately halfway down its shaft. Within this fissure lies what the Hypri Highcourt calls "gravity ore"—a substance that, according to local belief, generates the unusual gravitational fields that make Hypri's architecture and transportation systems possible.
+At the heart of Hypri's mysteries lies the Splint, a dramatic crack that runs from near the summit to approximately halfway down Venspir's shaft. Within this fissure lies what the Hypri Highcourt calls "Ankelore"—a [[Hollow Resource]] created through the death-process of the [[Natura]] [[Kingdom]]. This rare ore is responsible for generating the unusual gravitational fields that make Hypri's architecture, transportation systems, and atmospheric retention possible.
 
-The Splint is the most heavily guarded area in Hypri. Visitors report that those who attempt unauthorized access appear to be "pulled" into the fissure by an unseen force, only to be escorted out later with no memory of what they witnessed inside. Official doctrine states that the ore "resolves issues" with individuals by temporarily removing them from normal space-time.
+Ankelore is encased in a brittle mantle of pale stone known as Gravemarrow—a semi-permeable mineral that absorbs [[Anim]] (belief energy) and prevents its escape. What makes Ankelore unique among resources is that its gravitational effect cannot be predicted by mass alone; instead, the force it exerts depends on how much Anim it has absorbed, making it the only known material whose gravitational field is partially defined by conviction.
 
-Scientific observers from [[Sol Unita]] and the [[Branches of Concordia]] have proposed alternative explanations for Hypri's unusual physical properties, suggesting advanced technology or natural phenomena rather than the "belief-sustained gravity" claimed by Hypri authorities.
+The Splint and its contained Ankelore are the most heavily guarded areas in Hypri. Visitors report that those who attempt unauthorized access appear to be "pulled" into the fissure by an unseen force, only to be escorted out later with no memory of what they witnessed inside. Official doctrine states that the Ankelore "resolves issues" with individuals by temporarily removing them from normal space-time.
+
+The [[Ahdom Few]] claim to monitor the Ankelore's density readings daily, though some underground cults believe they actually worship it rather than safeguard it. Cultural fear exists around the possibility of over-saturation—a hypothetical event where Anim exceeds containment limits, potentially resulting in the Splint collapsing into what scholars call a "Thought Well."
 
 ### Sibannac's Carpet
 
@@ -88,6 +101,99 @@ Surrounding Hypri on all sides is a vast expanse of tall grass known as Sibannac
 - Those who fall asleep or die in the grass are consumed by it
 
 A network of carefully maintained paths allows safe travel through Sibannac's Carpet, but these routes are closely guarded and frequently changed to prevent hostile forces from mapping them.
+
+## Grow Zones and Ecological Systems
+
+### Atmospheric Gardens
+
+A crucial element of Hypri's self-sustainability is its extensive network of atmospheric gardens—specialized grow zones distributed throughout the spire that serve both practical and aesthetic functions. These gardens are designed to maintain oxygen levels, provide fresh food, and create living spaces that connect residents to nature despite their extreme elevation.
+
+The three primary types of atmospheric gardens found throughout Hypri include:
+
+#### Windflow Terraces
+
+These open-air terraces utilize the natural airflow around the spire to cultivate specialized plants that thrive in high-altitude conditions. Wind-capturing surfaces direct air currents through dense plantings of:
+
+- **Skyroot Ferns** – Native plants with deep anchoring systems and broad leaves that efficiently capture carbon dioxide
+- **Airbloom Mosses** – Fast-growing mosses that release high volumes of oxygen when stimulated by wind
+- **Drift Orchids** – Flowering plants that help filter particulates from the air while providing visual beauty
+
+The design of these terraces incorporates aerodynamic principles to create positive pressure zones that help retain atmospheric moisture and stability. Most residential sections of Hypri include access to at least one windflow terrace, which serves as both a community gathering space and an essential component of the city's air quality management system.
+
+#### Greenhouse Globes
+
+Perhaps the most visually striking elements of Hypri's architecture are its greenhouse globes—spherical glass structures of varying sizes that protrude from the spire at different elevations. These pressurized environments serve as:
+
+- Controlled cultivation spaces for food crops that couldn't survive in open-air conditions
+- Botanical research facilities where new plant varieties are developed
+- Cultural spaces where residents can experience environments mimicking different regions of Toma
+
+The largest greenhouse globe, known as the "Sun Sphere," is located near the Summit Zone and spans 60 meters (197 feet) in diameter. It houses rare specimens from across the continent and serves as both a conservation center and a place of meditation for the [[Ahdom Few]].
+
+The glass used in these structures is produced using sand exposed to the unique gravitational conditions near the Splint, resulting in a material with exceptional clarity and strength. The spherical design maximizes structural integrity while creating optimal light distribution for plant growth.
+
+#### Embedded Root Networks
+
+The most technically complex of Hypri's grow zones are the Embedded Root Networks—living systems integrated directly into the spire's interior. These networks consist of:
+
+- Specialized fungi and plants grown within hollowed sections of the rock
+- Hydroponic channels that distribute water and nutrients throughout the system
+- Bioluminescent organisms that provide natural lighting in interior spaces
+
+These root networks serve multiple functions beyond oxygen production:
+- Natural air filtration and humidity regulation
+- Structural reinforcement for interior caverns and passages
+- Waste processing through mycological decomposition
+- Emotional well-being for residents through connection to living systems
+
+The development and maintenance of these networks is overseen by a specialized guild of cultivators who combine botanical knowledge with pressurization magic to sustain optimal growing conditions.
+
+<div class="feathermark">
+    <p class="feathermark-attribution">Corvi's Feathermark</p>
+    <p>The vastness of human self-deception never fails to astound me. These "grow zones" they've so carefully cultivated—these gardens suspended impossibly in the sky—are not their creation at all. They're parasites, feeding off something far older.</p>
+    <p>Notice how the root systems always curl toward the Splint? How the most vibrant growth occurs in chambers that align with those "random" cracks in the spire's face? That's because they're tapping into vascular networks that long predate human presence here. The spire is not dead stone but dormant flesh.</p>
+    <p>What they call "Embedded Root Networks" are actually the capillary systems of the ancient entity. Their "hydroponic channels" follow pathways carved by fluids that once nourished something unimaginably vast. Even the bioluminescence they so proudly display is merely the faint residual glow of a metabolic process they've inadvertently reactivated.</p>
+    <p>They aren't growing gardens—they're stimulating nerve endings. And one day, the creature will feel enough to wake.</p>
+</div>
+
+### Wind Automation Systems
+
+Hypri's engineers have developed sophisticated systems that harness the constant wind currents around the spire to power automated processes throughout the city. The most notable application is in agricultural production, where wind automation has revolutionized farming practices at high elevations.
+
+#### Cyclone Harvesting
+
+In traditional farming, harvest season requires significant labor for collecting and transporting crops. Hypri's cyclone harvesting system eliminates much of this work through ingenious use of controlled air currents:
+
+1. Cultivation platforms are designed with funnel-shaped collection zones beneath crops
+2. When fruits or vegetables naturally ripen and fall, or when plants are harvested, the produce drops into these collection zones
+3. Directed wind currents then transport the harvested items through a network of pneumatic tubes
+4. Sorting stations use differential air pressure to separate items by size, weight, and density
+5. The sorted produce is delivered directly to processing facilities or distribution centers
+
+This system reduces harvest labor by approximately 70% while minimizing bruising and damage to delicate crops. The entire process relies entirely on natural wind currents enhanced through pressurization magic, requiring no additional energy input.
+
+#### Atmospheric Seeding
+
+Another application of wind automation is the atmospheric seeding system, which maintains Hypri's airborne gardens:
+
+- Specialized towers release timed bursts of seeds, spores, and beneficial microorganisms
+- Wind currents distribute these materials to targeted growing areas around the spire
+- Moisture-activated adhesives ensure the biological materials attach to appropriate surfaces
+- Regular maintenance cycles keep the ecosystem balanced and self-renewing
+
+This system creates the living tapestry of vegetation that adorns Hypri's exterior, with different species blossoming at different elevations and seasons to create year-round visual interest and ecological support.
+
+#### Cultural Significance of Air Plants
+
+Air plants hold special cultural significance in Hypri society, symbolizing the city's unique relationship with the sky and wind. The most revered varieties include:
+
+- **Windflowers** – Delicate blooms that never touch soil, absorbing all nutrients from the air
+- **Drift Moss** – Buoyant clusters that float in stable air currents around the spire
+- **Sky Orchids** – Rare flowering plants that attach to the highest points of structures
+
+Citizens often cultivate personal collections of these plants in their homes, with skilled growers achieving considerable social status. The annual Windbloom Festival celebrates these plants with displays, competitions, and the ceremonial release of propagating spores from the Summit Zone.
+
+Religious ceremonies often incorporate air plants, particularly those honoring [[Siela Qane]] and her connection to [[Qa'ura]]. Offerings of specially cultivated specimens are considered particularly auspicious during important life transitions.
 
 ## Governance and the Ahdom Few
 
@@ -135,20 +241,23 @@ Learning to pilot these vessels is considered a rite of passage for Hypri native
 
 Perhaps Hypri's most impressive engineering feat after its gravity manipulation is its elaborate wind harvesting infrastructure. Rather than traditional sewage systems, Hypri employs an extensive network of vents that capture the powerful air currents of the [[World Gyre]] as they flow across [[Usaka]].
 
-These massive intake vents are positioned strategically around the outer edges of the spires, particularly at elevations where gyre winds are strongest. The system serves multiple critical functions:
+These massive intake vents are positioned strategically around the outer circumference of the spire, particularly at elevations where gyre winds are strongest. The system serves multiple critical functions:
 
 - **Power Generation** – Wind turbines within the vent network provide approximately 70% of Hypri's energy needs
-- **Waste Removal** – Pressurized air channels waste from dwellings through the hollow cores of the spires and out exhaust vents near the base
+- **Waste Removal** – Pressurized air channels waste from dwellings through the hollow core of the spire and out exhaust vents near the base
 - **Climate Control** – Regulated airflow provides natural cooling throughout warmer months and circulates heated air during colder periods
-- **Pressurization** – Maintains stable atmospheric pressure within enclosed spaces despite the city's varying elevations
+- **Pressurization** – Maintains stable atmospheric pressure within enclosed spaces despite the city's elevation
+- **Agricultural Systems** – Powers automated farming operations, seed distribution, and produce transportation
 
-The vent system's engineering brilliance lies in its exploitation of the natural pressure differentials created by the spires' heights and the World Gyre's consistent flow patterns. The result is a nearly self-sustaining system that requires minimal external energy input.
+The crown jewel of this system is the Atmospheric Retention Network—a series of specialized vents and pressure chambers that work in concert with the gravity ore to maintain breathable air density throughout the inhabited sections of the spire. Without this system, the residents of Hypri would require specialized breathing apparatus or pressure suits at such extreme elevations.
 
-However, this system does create significant waste accumulation zones at the bases of the spires, particularly in areas where air currents deposit solid waste. While [[Sibannac]]'s carpet consumes much of this organic matter, large areas of non-degradable waste have formed over centuries, creating a stark contrast between the magnificent airborne city and its less pristine foundations.
+The vent system's engineering brilliance lies in its exploitation of the natural pressure differentials created by the spire's height and the World Gyre's consistent flow patterns. The result is a nearly self-sustaining system that requires minimal external energy input.
+
+However, this system does create significant waste accumulation zones at the base of the spire, particularly in areas where air currents deposit solid waste. While [[Sibannac]]'s carpet consumes much of this organic matter, large areas of non-degradable waste have formed over centuries, creating a stark contrast between the magnificent airborne city and its less pristine foundation.
 
 ### Wind Highways and Inter-Spire Travel
 
-Hypri is connected to other spire cities across [[Usaka]] through an ingenious system of "wind highways"—artificially maintained air corridors that neutralize or redirect the [[World Gyre]]'s natural currents. These highways allow airship travel against the otherwise prohibitive clockwise flow that dominates the [[Current Line]].
+While Hypri itself is a single massive spire, it maintains connections to other smaller spires across southern [[Usaka]] through an ingenious system of "wind highways"—artificially maintained air corridors that neutralize or redirect the [[World Gyre]]'s natural currents. These highways allow airship travel against the otherwise prohibitive clockwise flow that dominates the [[Current Line]].
 
 Each highway is maintained by a series of massive wind manipulation towers that create counter-currents and zones of calm, allowing pilots to navigate between destinations without fighting the gyre's natural force. The highways connect Hypri to the three other major spire cities of Usaka:
 
@@ -208,11 +317,23 @@ Major exports from Hypri include:
 - **Gravitationally-Altered Materials** – Unique substances processed in the unusual conditions near the Splint
 - **Cartographic Services** – Highly detailed maps of Usaka created by explorers who navigate Sibannac's Carpet
 
+## Foreign Relations
+
 ### Relationship with the Chain of Delta
 
 Hypri maintains complex diplomatic and trade relationships with the [[Chain of Delta]], particularly through [[Jarma Konich]]'s partnership with [[Fuscia Lustin]]. This arrangement has led to Hypri becoming a significant production center for substances exported to the Chain, particularly [[Moluk]], which has gained popularity as an inexpensive recreational drug.
 
 This economic relationship has created tension with [[Siela Qane]]'s religious aspirations and [[Ximena Lathen]]'s isolationist tendencies, representing the internal conflicts among the Ahdom Few.
+
+### Relationship with Sibannac and the Usakan Growth
+
+Hypri's relationship with Sibannac and the Usakan Growth is defined by suspicion, fear, and cultural prejudice. While Sibannac is officially recognized as a deity and practical partner in waste management and defense, the city's government and native population—especially the Dwellers—view the lower ground and its Growthmind society as a threat to their autonomy and identity.
+
+Hypri's media, art, and education systems are built around a narrative that positions Sibannac as both a cautionary figure and a scapegoat. In plays, children's books, and public stories, Sibannac is depicted as a beautiful, seductive woman who ultimately slaughters or enslaves those too weak to resist her. This simplification is used to empower the native population and maintain a strong sense of nationalism, especially among the small core of Dwellers who see themselves as the true guardians of Hypri's legacy.
+
+The stories serve to unite the native population against outside influence, particularly from the much larger and more empathetic Usakan Growth society below. While many traders and visitors pass through Hypri for commerce, the city's core identity is fiercely protected by these narratives. The message is clear: only the strong-willed and loyal can resist Sibannac's allure and preserve Hypri's independence.
+
+In reality, Sibannac does not kill those who are weak; instead, she allows them to fade within her societies. In the Usakan Growth, one's [[Will]] is heavily decayed, but life is good from a communal and cultural standpoint. Disease is a risk for those who do not wear protective clothing, as waste is used as fertilizer and recycled into infrastructure and technology. The contrast between Hypri's nationalist myth and the lived reality of the Growthmind below is a source of ongoing tension and misunderstanding.
 
 ## Historical Connections
 
@@ -223,6 +344,8 @@ Though not commonly known among average citizens, Hypri's ruling class maintains
 - [[Lopali]] – The Serpent Ray, a Ferra-Water Natura hybrid controlled by Ximena Lathen
 - [[Kautiger]] – The Oedipwyrm, a multi-headed Ground Natura-Celia hybrid controlled by Jarma Konich
 - [[Qa'ura]] – The Amphiptere serpent with crystalline features controlled by Siela Qane
+
+Some scholars have theorized connections between the Ankelore in the Splint and the ancient Hidraal, suggesting the fissure might be a wound left from the primordial conflict that resulted in Hidraal's beheading. While the Highcourt officially dismisses such claims, the close guarding of the Splint and the obsessive monitoring of the Ankelore lend credence to the notion that the resource may have deeper significance than publicly acknowledged.
 
 A fourth entity, [[Hathakrik]], represents Hidraal's regrown body but resides in the separate realm of [[Dar]] rather than Toma.
 
@@ -257,3 +380,5 @@ Hypri draws inspiration from various sources, including:
 - [[Lopali]]
 - [[Kautiger]]
 - [[Qa'ura]]
+
+
