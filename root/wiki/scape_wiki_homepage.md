@@ -25,7 +25,7 @@ Explore key areas of the Scape Wiki through [[Purpose Taxonomy]] or the [[Cardin
 
 Below you can find the main page detailing the necessary information for character creation and understanding the world.
 
-- [[Campaign 1: Whisper of the Well]]
+- [[Whisper of the Well Information|Campaign 1: Whisper of the Well]]
 
 ## Styling Guide
 
