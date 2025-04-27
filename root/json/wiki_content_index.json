@@ -1453,6 +1453,17 @@
     "content": "<!-- This file was auto-generated. Add your content here. -->"
   },
   {
+    "file": "scape_about.html",
+    "title": "About the Scape Wiki Project",
+    "headings": [
+      "About the Scape Wiki Project",
+      "Project Goals",
+      "What You'll Find Here",
+      "Credits & Acknowledgments"
+    ],
+    "content": "<img src=\"wiki_images/Sourcewaters 1.png\" alt=\"Sourcewaters\" style=\"width:100%;max-width:700px;display:block;margin:auto;\"> **Scape Wiki** is a living worldbuilding project and knowledge base for the TTRPG-inspired setting known as the Scape (or Toma). It is designed to serve as a comprehensive reference for players, game masters, and worldbuilders, providing detailed lore, campaign information, and creative inspiration. - Document the evolving lore, history, and cultures of the Scape world. - S"
+  },
+  {
     "file": "scape_wiki_homepage.html",
     "title": "Welcome to the Scape Wiki",
     "headings": [

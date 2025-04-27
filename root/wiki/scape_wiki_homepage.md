@@ -46,6 +46,10 @@ Feathermarks are from the perspective of a character in the campaign named [[Cor
         I realize now, just in talking to you, that it's even more like asking how the weather is. You know, I could say it's fine, but that turns the blindest eye to the fact that there are more natural disasters this year than last year, and the year before that, its son, and so on. And, oh, it's all caused by a massive continental ball of wind, death, and delusion in the center of the plane. Just what I was looking for as a center point to my politics.
     </p>
     <p>
-        In fact, it's so powerful it was given a name that has stood the many tests of time, which, funnily enough, are defined by its own cataclysmic consequences. The consequences that accidentally lay pain upon the creatures of Toma, where its name lives on in their belief. But don't worry, it wouldn't kill everyone, right? That would be irrational. Why would it? It's dangerous to apply your logic to the unknown and nonliving, but sometimes you have to for your sake, not the world's. But be careful, you could be justifying your own actions without trying to.
+        In fact, it's so powerful it was given a name that has stood the many tests of time, which, funnily enough, are defined by its own cataclysmic consequences. The consequences that accidentally lay pain upon the creatures of Toma, where its name lives on in their belief. But don't worry, it wouldn't kill everyone, right? That would be irrational. Why would it? 
     </p>
+    <p>
+        It's dangerous to apply <em>your</em> logic to the nonliving, but sometimes you have to for your sake. It may just be the greatest motivator we have. But be careful, you could be justifying the means to your own end. 
+    </p>
+    
 </div>
