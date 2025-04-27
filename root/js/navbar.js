@@ -8,10 +8,12 @@ const searchLockBtn = document.querySelector('.search-lock-btn');
 
 // Open/close panel logic
 function openSearchPanel() {
+    if (!navbar) return;
     navbar.classList.add('search-active');
     searchPanelOpen = true;
 }
 function closeSearchPanel() {
+    if (!navbar || !searchInput) return;
     if (!searchLocked) {
         navbar.classList.remove('search-active');
         searchPanelOpen = false;
@@ -24,9 +26,9 @@ if (searchLockBtn) {
         searchLocked = !searchLocked;
         searchLockBtn.classList.toggle('locked', searchLocked);
         if (searchLocked && !searchPanelOpen) {
-            navbar.classList.remove('search-active');
+            if (navbar) navbar.classList.remove('search-active');
         } else if (searchLocked && searchPanelOpen) {
-            navbar.classList.add('search-active');
+            if (navbar) navbar.classList.add('search-active');
         }
     });
 }

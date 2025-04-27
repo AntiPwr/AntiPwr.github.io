@@ -1,5 +1,7 @@
 # Welcome to the Scape Wiki
 
+![Sourcewaters](wiki_images/Sourcewaters%204.png)
+
 A wikipedia for the Scape, a TTRPG-inspired worldbuilding project.
 
 ## Index of Major Topics
@@ -38,18 +40,20 @@ Feathermarks are from the perspective of a character in the campaign named [[Cor
 <div class="feathermark">
     <p class="feathermark-attribution">Corvi's Feathermark</p>
     <p>
-        How's Toma? Hm. It's funny, because I'm not really one for small talk, but asking about Toma is like asking about me. It's fine, alright, chillin' even. All to cope with the fact that things are anything but chillin', but if I don't <em>lie</em> to people, things could, and likely would, manifest much worse. Truthfully, things are heating up pretty consistently. Just when you think,
-        "What the fuck is wrong with this world?",
-        it shows up and provides you one more fuck that's wrong with this world.
+        How's Toma? Hm. It's funny, because I'm not really one for small talk, but asking about Toma is like asking about me. Toma's fine, alright, chillin' even. Got a few projects it's working on. All to cope with the fact that things are anything but chillin'. But if I don't <em>lie</em> to people, things could, and likely would, manifest to be much worse than I'm comfortable with. Truthfully, things are heating up pretty consistently. Just when you think, "What the fuck is wrong with this world?", it shows up and provides you with one more fuck that's wrong with this world.
     </p>
     <p>
-        I realize now, just in talking to you, that it's even more like asking how the weather is. You know, I could say it's fine, but that turns the blindest eye to the fact that there are more natural disasters this year than last year, and the year before that, its son, and so on. And, oh, it's all caused by a massive continental ball of wind, death, and delusion in the center of the plane. Just what I was looking for as a center point to my politics.
+        I realize now, just in talking to you, it's a little more like asking how the weather is, only because it carries a real example with it. You know, I could say the weather is fine as well, but that turns the blindest eye to the fact that there are more natural disasters this year than last year, and the year before that, its son... and so on. Oh, and it's all caused by a massive continental ball of wind, death, and delusion in the center of the plane. Just what I was looking for as a focal point of my politics. It looks good, no? Like a chandelier fixture... or the largest loxodon in the room.
     </p>
     <p>
-        In fact, it's so powerful it was given a name that has stood the many tests of time, which, funnily enough, are defined by its own cataclysmic consequences. The consequences that accidentally lay pain upon the creatures of Toma, where its name lives on in their belief. But don't worry, it wouldn't kill everyone, right? That would be irrational. Why would it? 
+        In fact, it's so commanding, it's maintained a name that has stood the many tests of time—tests that even it greedily defines the span of. But does it do so on a whim? Is a [[Line|line]] God's minute? Is my head spinning, or must life continuously reach past the limit? Whether chaos or order, threshold or sequence, the [[World Gyre]] lives on in the minds of Toman creatures, or at least the peoples it leaves alive. It influences law without a word, pushes religion further and further away from its core, and most importantly, I believe it carries with it a purpose that we all hope to find. A line, to me, seems like a correction process, but who could argue that point when the gods bicker just as much as we do about the true creator? It makes me question: why is everyone dying to be correct, but will only ever die for a lie that is not their own? After questioning that for a while, at some point I realized that you can be dead without knowing it, and quickly a lot of things started to make sense. People are equally scared of the time they waste as they are of traditional death, but some just don't realize it, and some realize it too much. Regardless, time remained the true problem even when death emigrates. As Donald Kingsbury wrote, "Tradition is a set of solutions for which we have forgotten the problems." And so, might I add that even immortality has its flaws, and, to repeat, all Nesa suffer, and thus when death is but yesterday's problem, I now know the goalpost still shifts. This new formula for death I speak of is one of willpower, and it thrives between two extremes. One extreme contains those who spend their time the wisest, and the second extreme houses those who spend their time with no remorse for what they have left. To both on the bell curve, traditional death is actually their solution, albeit in different ways, but in a world where you can no longer die, that escape is not available. So what is there left to do but be your best, right? 
+    </p>
+    <p>
+        If not even the gods can figure that out, then who am I? But then again, if the God of Recruiting asked me to be among their ruling ranks, I would surely accept. No doubt in my little [[Huma|huma]] mind. And you couldn't tell me that if you got the invitation you would say no, because... well, I wouldn't believe you. That's what someone who hasn't been offered godship would say, at least. Although, when I do accept, I acknowledge I would not know whether or not I would be jumping into, I don't know, a dysfunctional family, perhaps a corporate ladder. Another type of hierarchy maybe—that's a popular build these days. No matter their choice, let me tell you, the grass could not look greener while I accept that job offer. I could figure it out, right? I could tip the scales, restore balance. Well, I know I'd at least do better than the last guy.
+        
+        And to go back to the World Gyre, why else would peace be placed between cataclysms? But don't worry, it wouldn't kill everyone, right? That would be irrational. Why would it? 
     </p>
     <p>
         It's dangerous to apply <em>your</em> logic to the nonliving, but sometimes you have to for your sake. It may just be the greatest motivator we have. But be careful, you could be justifying the means to your own end. 
     </p>
-    
 </div>
