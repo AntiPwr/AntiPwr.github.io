@@ -34,6 +34,6 @@ As the purest manifestation of Goda wisdom, it remains a focal point of faith, l
 
 The Rite of Passage is preserved in [[Scender]], housed within a sacred vault, accessible only during select rituals. Despite its seclusion, its presence is deeply felt throughout all aspects of society—a constant reminder of the ultimate goal of ascension.
 
-The experience of viewing the Rite of Passage is described as transcendent, unlike any other slate. Most other [[Ester Slates]] separate the senses, but this one blends them into an ultra-sense, revealing total clarity and divine understanding in an instant.
+The experience of viewing the Rite of Passage is described as transcendent, unlike any other slate. Most other [[Ester Slate|Ester Slates]] separate the senses, but this one blends them into an ultra-sense, revealing total clarity and divine understanding in an instant.
 
 It is the first step toward ascension—the beginning of all knowledge, and the guiding light of Sol Unita.

@@ -45,7 +45,7 @@ The Rites of Huma shape nearly every aspect of Sol Unita’s political, religiou
     
 - [[Scender]]
     
-- [[Ester Slates]]
+- [[Ester Slate]]
     
 - [[Ceremony of His Eye]]
     

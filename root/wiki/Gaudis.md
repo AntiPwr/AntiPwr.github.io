@@ -47,7 +47,7 @@ The Underflow acts as both a functional transitway and a religious symbol, repre
 - [[Asceptim]]
 - [[Ceremony of His Eye]]
 - [[Solscept]]
-- [[The Swirling Sea]]
+- [[Swirling Sea]]
 - [[Kyre’s Point]]
 - [[Luin’s Point]]
 - [[Sar Glass]]

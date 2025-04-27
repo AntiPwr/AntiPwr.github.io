@@ -1,4 +1,6 @@
 # Leiqua
+
+<!--
 _Phylum of Interest, The Enticing Faith, Growthmind Doctrine_
 
 <img src="wiki_images/Leiqua.png"><i>Symbolic depiction of Sibannac's Avatar engaging travelers in games and conversation</i></img>
@@ -29,3 +31,5 @@ Leiqua is a type of Bluma phylum, describing plant species and entities that use
 - [[Growthmind]]
 - [[Usakan Growth]]
 - [[Cilladril]]
+
+-->

@@ -1,4 +1,6 @@
 # Sibannac
+<!--
+
 _The Grass Sea, Consuming Carpet, The Green Veil, The Avatar of the Grove_
 
 <img src="wiki_images/Sibannac.png"><i>Aerial view of Sibannac's Carpet surrounding Hypri's spires at dusk</i></img>
@@ -201,9 +203,11 @@ Sibannac draws inspiration from various sources, including:
 - [[World Gyre]]
 - [[Dweller]]
 - [[Ahdom Few]]
-- [[Natura Nesa]]
-- [[Sentient Ecology]]
+- [[Nesa]]
 - [[Growthmind]]
 - [[Cilladril]]
 - [[Leiqua]]
 - [[Usakan Growth]]
+
+
+-->

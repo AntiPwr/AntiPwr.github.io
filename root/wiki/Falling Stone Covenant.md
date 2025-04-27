@@ -1,4 +1,5 @@
 # Falling Stone Covenant
+<!--
 _Add nicknames or alternative titles here_
 
 <img src="wiki_images/Falling Stone Covenant.png"><i></i></img>
@@ -70,3 +71,5 @@ Continue with more sections as needed.
 - [[Related Page 1]]
 - [[Related Page 2]]
 - [[Related Page 3]]
+
+-->

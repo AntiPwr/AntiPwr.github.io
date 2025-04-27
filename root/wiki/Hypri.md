@@ -1,4 +1,7 @@
 # Hypri
+
+<!--
+
 _Pillar City, Skyward Crown, The Spire Court_
 
 <img src="wiki_images/Hypri.png"><i>The main spire of Hypri rising above the sea of Sibannac's grass at dawn</i></img>
@@ -382,3 +385,4 @@ Hypri draws inspiration from various sources, including:
 - [[Qa'ura]]
 
 
+-->

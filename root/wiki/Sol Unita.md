@@ -103,7 +103,7 @@ For those seeking asylum, Sol Unita extends a hand—but only for a limited time
 - [[Sunstream]]
 - [[Solscept]]
 - [[Asath Sanctuary]]
-- [[The Lightwilds]]
+- [[Lightwilds]]
 - [[The Access]]
 - [[Gaudis]]
 - [[Sar Glass]]

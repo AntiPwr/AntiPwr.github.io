@@ -1,4 +1,6 @@
 # Usakan Growth
+<!--
+
 _The Green Government, Sibannac's Rule, Growthmind Authority_
 
 <img src="wiki_images/Usakan_Growth.png"><i>Artistic rendering of the Usakan Growthmind governing the grasslands</i></img>
@@ -28,3 +30,5 @@ The Usakan Growth maintains order, manages resources, and defends its territory 
 - [[Growthmind]]
 - [[Leiqua]]
 - [[Cilladril]]
+
+-->

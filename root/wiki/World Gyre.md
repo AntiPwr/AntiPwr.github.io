@@ -49,3 +49,6 @@ The biomes are shifting in the direction of the gyre. [[Natura Nesa]] uses detri
 
 
 The Gyre Shift refers to the change in rotation of the [[World Gyre]], signifying the end of a Line.
+
+-->
+

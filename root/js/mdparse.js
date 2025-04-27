@@ -28,7 +28,10 @@ document.addEventListener('DOMContentLoaded', async () => {
             throw new Error(`Failed to load Markdown file: ${response.status} ${response.statusText}`);
         }
 
-        const markdown = await response.text();
+        let markdown = await response.text();
+        // Remove HTML comments from markdown before parsing
+        markdown = markdown.replace(/<!--[\s\S]*?-->/g, '');
+
         const converter = new showdown.Converter({
             extensions: [obsidianLinkExtension()]
         });

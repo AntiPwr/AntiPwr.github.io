@@ -1,4 +1,5 @@
-<!--# Siela Qane
+# Siela Qane
+<!--
 _Sky Trielder, The Architect of Faith, Drakemaster of Qa'ura, High Priestess of Wind_
 
 <img src="wiki_images/Siela_Qane.png"><i>Siela Qane overlooking the construction of the Cloudgardens, her tribute to Qa'ura</i></img>
@@ -154,3 +155,5 @@ Siela Qane draws inspiration from various sources, including:
 - [[Wind Highways]]
 - [[Spawn of Hidraal]]
 - [[Hidraal]]
+
+-->

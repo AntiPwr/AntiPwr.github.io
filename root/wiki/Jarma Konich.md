@@ -1,4 +1,5 @@
-<!--# Jarma Konich
+# Jarma Konich
+<!--
 _Land Trielder, Mistress of Clay, Drakemaster of Kautiger, The Earthbound Sister_
 
 <img src="wiki_images/Jarma_Konich.png"><i>Jarma Konich overseeing the clay cultivation fields at the base of Hypri's Trade Spires</i></img>
@@ -142,3 +143,5 @@ Jarma Konich draws inspiration from various sources, including:
 - [[Fuscia Lustin]]
 - [[Spawn of Hidraal]]
 - [[Hidraal]]
+
+-->

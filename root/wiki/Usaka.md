@@ -1,4 +1,6 @@
 # Usaka
+<!--
+
 _Land of Spires, The Eastern Plain, Windward Continent_
 
 <img src="wiki_images/Usaka.png"><i>The eastern continent of Usaka with its four major spire cities visible against the horizon</i></img>
@@ -166,3 +168,5 @@ Usaka draws inspiration from various sources, including:
 - [[Theologia]]
 - [[Ahdom Few]]
 - [[Dweller]]
+
+-->

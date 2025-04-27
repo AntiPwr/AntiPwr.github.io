@@ -1,4 +1,5 @@
-<!--# Ximena Lathen
+# Ximena Lathen
+<!--
 _Lady Athen, Esteran Leredith, Queen of Heshiu, Sea Trielder, Drakemaster of Lopali_
 
 <img src="wiki_images/Ximena_Lathen.png"><i>Ximena Lathen in her official Sea Trielder regalia during a Highcourt ceremony</i></img>
@@ -129,3 +130,5 @@ Ximena Lathen draws inspiration from various sources, including:
 - [[Hidraal]]
 - [[Branches of Concordia]]
 - [[Esteran Leredith]]
+
+-->

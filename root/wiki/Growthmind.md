@@ -1,4 +1,6 @@
 # Growthmind
+<!--
+
 _The Collective Root, Green Hivemind, Botanical Consciousness_
 
 <img src="wiki_images/Growthmind.png"><i>Visualization of interconnected plant minds forming a single consciousness</i></img>
@@ -25,3 +27,5 @@ A **Growthmind** is a plant-based collective consciousness, similar to a hivemin
 - [[Leiqua]]
 - [[Usakan Growth]]
 - [[Sibannac]]
+
+-->

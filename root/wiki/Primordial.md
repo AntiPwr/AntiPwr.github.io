@@ -17,3 +17,5 @@ Primordials, through [[Bluma]] dating observations, were determined to be most i
 ### Notable Primordials
 
 - **Alwa**: A powerful creature, claimed by [[Presceptist]] (and present day Asceptim believers), to be a demon primordial of Celia-Bluma-Natura-Huma-Spira Resonance. Alwa was said, at her zenith, to stand in each continent at once blocking out the sun at the center of the plane's atmosphere, voiding the world of light.
+- **Vaosi**: [[Vaosi]]
+- **Ahdom Drakes**: [[Qa'ura]], [[Kautiger]], and [[Lopali]]

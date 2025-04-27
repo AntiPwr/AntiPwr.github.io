@@ -1,4 +1,6 @@
 # Nesa
+
+<!--
 _Lesser Gods, Divine Mediators, Voices of Creation_
 
 <img src="wiki_images/Nesa.png"><i>Artistic representation of Nesa manifestations during a major belief event</i></img>
@@ -143,3 +145,6 @@ The Nesa draw inspiration from various sources, including:
 - [[Apex and Praeda]]
 - [[Trenjor and Voyimus]]
 - [[Toma Timeline]]
+
+
+-->

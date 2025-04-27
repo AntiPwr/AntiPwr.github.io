@@ -1,4 +1,6 @@
 # Bluma
+<!--
+
 _The Plant Kingdom, Growthkind, Green Web_
 
 <img src="wiki_images/Bluma.png"><i>Interconnected root systems and diverse plant forms representing the Bluma kingdom</i></img>
@@ -39,3 +41,5 @@ Plants in the Bluma kingdom are not passive; they organize, communicate, and eve
 - [[Growthmind]]
 - [[Leiqua]]
 - [[Usakan Growth]]
+
+-->

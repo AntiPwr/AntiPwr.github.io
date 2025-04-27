@@ -1819,26 +1819,26 @@
     "content": "Welcome to the Scape Wiki! This document outlines the formatting and content expectations for all wiki pages. Following these guidelines ensures a consistent reading experience and helps maintain the integrity of the worldbuilding. Each wiki page should follow this structure (excluding ```): ``` _Nickname, Alternative Titles_ <img src=\"wiki_images/PageName.png\"><i></i></img> > _\"Up to two quotes about the page, one from within the world and\"_ > **—Quote Attribution** > _\"one from the real world\""
   },
   {
-    "file": "The Access.html",
-    "title": "The Access",
+    "file": "Access.html",
+    "title": "Access",
     "headings": [
-      "The Access"
+      "Access"
     ],
     "content": "<!-- This file was auto-generated. Add your content here. -->"
   },
   {
-    "file": "The Lightwilds.html",
-    "title": "The Lightwilds",
+    "file": "Lightwilds.html",
+    "title": "Lightwilds",
     "headings": [
-      "The Lightwilds"
+      "Lightwilds"
     ],
     "content": "<!-- This file was auto-generated. Add your content here. -->"
   },
   {
-    "file": "The Swirling Sea.html",
-    "title": "The Swirling Sea",
+    "file": "Swirling Sea.html",
+    "title": "Swirling Sea",
     "headings": [
-      "The Swirling Sea"
+      "Swirling Sea"
     ],
     "content": "<!-- This file was auto-generated. Add your content here. -->"
   },

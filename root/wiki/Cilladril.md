@@ -1,4 +1,6 @@
 # Cilladril
+<!--
+
 _The Grass City, Grove of Waste, Sibannac's Heart_
 
 <img src="wiki_images/Cilladril.png"><i>Cilladril's low grass groves and structures built from Hypri's discarded waste</i></img>
@@ -26,7 +28,7 @@ However, the abundance of waste brings risks. Disease can spread among those who
 
 Cilladril's people aspire to unite with Hypri, but Hypri's government and native population hold deep prejudice against the "lower ground" and Sibannac's domain, seeing it as a threat to their identity and autonomy.
 
-<!--
+
 
 ## The Tale of Tong
 
@@ -40,7 +42,7 @@ Among the many wonders of Cilladril is the legendary dung beetle known as **[[To
     <i>—Tiny, halfling storyteller</i>
     </p>
 </div>
--->
+
 ## Related Wiki Pages
 
 - [[Sibannac]]
@@ -49,3 +51,5 @@ Among the many wonders of Cilladril is the legendary dung beetle known as **[[To
 - [[Leiqua]]
 - [[Tong]]
 - [[Tiny's Tale of Tong]]
+
+-->

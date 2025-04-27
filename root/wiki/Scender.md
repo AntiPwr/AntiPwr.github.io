@@ -83,7 +83,7 @@ Scender’s transportation network is deeply intertwined with symbiotic relation
 
 ## The Rites of Huma and Governance
 
-The [[Rites of Huma]] are sacred doctrines that define Scender’s political, religious, and social landscape. These rites, recorded in [[Ester Slates]], provide a framework for governance and personal ascension.
+The [[Rites of Huma]] are sacred doctrines that define Scender’s political, religious, and social landscape. These rites, recorded in [[Ester Slate|Ester Slates]], provide a framework for governance and personal ascension.
 
 ### Rites of Huma
 
@@ -105,7 +105,7 @@ The sanctuary plays a major role in the cultural and religious identity of **Sol
 - [[Ophelia Necesse]]
 - [[Asceptim]]
 - [[Asath Sanctuary]]
-- [[The Lightwilds]]
+- [[Lightwilds]]
 - [[The Access]]
 - [[Gaudis]]
 - [[Sar Glass]]
