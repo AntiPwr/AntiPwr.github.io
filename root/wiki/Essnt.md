@@ -1,3 +1,4 @@
+<!-- wiki-header-section:start -->
 # Essnt
 
 <img src="wiki_images/Essnt.png"><i>An Essnt of the [[Alflame]] in meditation: half flesh, half volcanic stone, seated in a crater-ringed glade where flowers bloom and wilt with every breath—his molten veins glow with introspective power, and his star-lit eye gazes inward toward the balance of nature and self.</i></img>
@@ -8,19 +9,19 @@
       <th colspan="3">Purpose Taxonomy</th>
     </tr>
     <tr>
-      <td class="taxon-label"><img src="../wiki_images/icons/bin_icon.png" class="taxon-icon">Bin:</td>
+      <td class="taxon-label"><img src="../svg/bin.svg" class="taxon-icon">Bin:</td>
       <td class="taxon-content" colspan="2">[[Scape]]</td>
     </tr>
     <tr>
-      <td class="taxon-label"><img src="../wiki_images/icons/basin_icon.png" class="taxon-icon">Basin:</td>
+      <td class="taxon-label"><img src="../svg/basin.svg" class="taxon-icon">Basin:</td>
       <td class="taxon-content" colspan="2">[[Sacrus]]</td>
     </tr>
     <tr>
-      <td class="taxon-label"><img src="../wiki_images/icons/eco_icon.png" class="taxon-icon">Eco:</td>
+      <td class="taxon-label"><img src="../svg/eco.svg" class="taxon-icon">Eco:</td>
       <td class="taxon-content" colspan="2">[[Toma]] of [[Toman Ecoss]]</td>
     </tr>
     <tr>
-      <td class="taxon-label"><img src="../wiki_images/icons/kingdom_icon.png" class="taxon-icon">Kingdom:</td>
+      <td class="taxon-label"><img src="../svg/kingdom.svg" class="taxon-icon">Kingdom:</td>
       <td class="taxon-content" colspan="2"><strong>Essnt</strong> ([[Huma]] + [[Natura]] [[Resonant]])</td>
     </tr>
   </table>
@@ -31,7 +32,7 @@ An **Essnt** is a unique classification of [[Resonant]] that embodies both the [
 ## Essnt Triarchy: Ahdom Few
 
 The ruling triarchy of [[Hypri]], known as the [[Ahdom Few]], are all Essnts:
-- **[[Ximena Lathen]]** — Water Essnt, Drakemaster of [[Lopali]]
+- **[[Ximena Lathen]]** — Sea Essnt, Drakemaster of [[Lopali]]
 - **[[Jarma Konich]]** — Land Essnt, Drakemaster of [[Kautiger]]
 - **[[Siela Qane]]** — Sky Essnt, Drakemaster of [[Qa'ura]]
 

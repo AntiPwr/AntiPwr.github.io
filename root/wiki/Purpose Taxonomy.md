@@ -1,3 +1,4 @@
+<!-- wiki-header-section:start -->
 # Purpose Taxonomy
 
 **Purpose Taxonomy** is a classification system designed to organize life by its connected belief structures and destinies across the universe. It arranges existence into a vertical hierarchy of taxons—ranging from the grand scale of the universe down to the singular soul’s purpose—that define everything from geography and government to faith and dimension. 

@@ -1,5 +1,6 @@
+<!-- wiki-header-section:start -->
 # Albumaiyhet
-><i>the Mean</i>
+><i>Mean</i>
 
 <img src="Albumaiyhet.png"><i></i></img>
 

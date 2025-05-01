@@ -1,3 +1,4 @@
+<!-- wiki-header-section:start -->
 # Campaign 1: Whispers of the Well
 
 <details open>
@@ -36,7 +37,7 @@ The <a href="Unlock System.html">Unlock System</a> slowly introduces new homebre
 <details open>
 <summary><h3>Will</h3></summary>
 
-<a href="Will.html">Will</a>  (**WIL**) represents the intangible reserve of self-determination, mental fortitude, and spiritual vitality that shields a creature's identity from external corruption—especially psychic parasites, fungal hive-minds, and masterful manipulation. It measures how well a being can maintain its own thought patterns, beliefs, knowledge, and loyalties in the face of subtle or forceful mental intrusion. This number will be higher than your other main stats, but that is because it does not reflect rolls, but rather a mental health pool that protects you from permanent belief changes such as mindlessness or ideological subversion. Certain kingdoms have evolved to influence will, as seen with [[Inoculation]] and [[Celia Resonance]].
+<a href="Will.html">Will</a>  (**WIL**) represents the intangible reserve of self-determination, mental fortitude, and spiritual vitality that shields a creature's identity from external corruption—especially psychic parasites, fungal hive-minds, and masterful manipulation. It measures how well a being can maintain its own thought patterns, beliefs, knowledge, and loyalties in the face of subtle or forceful mental intrusion. This number will be higher than your other main stats, but that is because it does not reflect rolls, but rather a mental health pool that protects you from permanent belief changes such as mindlessness or ideological subversion. Certain kingdoms have evolved to influence will, as seen with [[Inoculation]].
 
 **Maximum WIL = CON + STR + DEX + WIS + INT + CHA + PB** 
 
@@ -89,7 +90,6 @@ Belief Afflicts or affliction influence and manifest in a creature's perception 
 
 <details open>
 <summary><h5>Inoculation</h3></summary>
-see [[Celia Resonance]]...
 
 As an example, [[Inoculation]] is a ramping belief affliction that is caused by [[Chantic Spore|Chantic Spores]], which are carried by largest fungal following in the [[Celia]] kingdom. 
 

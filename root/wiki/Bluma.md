@@ -1,7 +1,8 @@
+<!-- wiki-header-section:start -->
 # Bluma
 <!--
 
-_The Plant Kingdom, Growthkind, Green Web_
+_Plant Kingdom_
 
 <img src="wiki_images/Bluma.png"><i>Interconnected root systems and diverse plant forms representing the Bluma kingdom</i></img>
 

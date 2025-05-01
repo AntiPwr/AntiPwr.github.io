@@ -1,3 +1,4 @@
+<!-- wiki-header-section:start -->
 # Deck of the Alflame
 
 **This deck is not complete and is in a conceptual state of development.**
@@ -6,6 +7,8 @@ _Forged by Laika Acker, this deck burns with the essence of Fire subnatura, embo
 
 **Deck Theme:** Combustion, Fire, Natura <br>
 **Mechanics:** Stacking, Fire & Force Damage, Summoning<br>
+
+<!-- wiki-header-section:end -->
 
 ---
 

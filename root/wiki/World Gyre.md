@@ -1,10 +1,11 @@
+<!-- wiki-header-section:start -->
 # World Gyre
 
 **Bin:** [[Scape]]  
 **Basin:** [[Sacrus]]  
 **Eco:** [[Toma]] of [[Toman Ecoss]]
 <!-- not meant for website yet.
-The **World Gyre** is anatural phenomenon caused by the [[Dance of Spira]], leading to the rotation of natural elements across the plane. This gyre influences tectonic activity, ocean currents, wind patterns, and the movement of souls, playing a crucial role in the ecological and spiritual balance of the Toman Ecoss.
+The **World Gyre** is a natural phenomenon caused by the [[Dance of Spira]], leading to the rotation of natural elements across the plane. This gyre influences tectonic activity, ocean currents, wind patterns, and the movement of souls, playing a crucial role in the ecological and spiritual balance of the Toman Ecoss.
 
 #### Tectonic Plates
 

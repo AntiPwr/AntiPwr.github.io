@@ -1,3 +1,4 @@
+<!-- wiki-header-section:start -->
 # Deck of the Naive
 The Deck of the Naive is the starter deck for the Belief Gambit Sorcerer. This information does not include the details of all cards, as they are not all known.
 

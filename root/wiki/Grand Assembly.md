@@ -1,3 +1,4 @@
+<!-- wiki-header-section:start -->
 # Grand Assembly
 
 *Grand Assembly* is a [[Social Arts|Social Art]] dedicated to assembling balance from unbalanced constituents. Through the use of circular matrices—each representing key domains such as Economics, Culture, or Ideology—this study helps reveal both macrocosmic and microcosmic imbalances between groups.

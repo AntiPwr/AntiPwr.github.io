@@ -1,3 +1,4 @@
+<!-- wiki-header-section:start -->
 # Zothros
 
 <img src="Zothros.png"><i></i></img>
@@ -9,3 +10,4 @@
 
 An Zothros is a [[Huma]] with [[Ferra]]-like traits.
 
+<!-- wiki-header-section:end -->

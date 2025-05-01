@@ -1,24 +1,58 @@
+<!-- wiki-header-section:start -->
 # Siela Qane
 
-_Sky Trielder, Drakemaster of Qa'ura, Architect of Faith_
+_Sky Trielder, Drakemaster of Qa'ura_
 
 <img src="wiki_images/Siela Qane.png"><i>Siela Qane weaves breath into form atop a disc of wind-forged stone—her closed eyes guiding ethereal blueprints into being as the clouds of Hypri churn beneath her in hues of lavender and gold.</i></img>
 
+<!-- wiki-header-section:end -->
+<!-- taxonomy-table-section:start -->
+<div class="taxonomy-table">
+  <table>
+    <tr>
+      <th colspan="3">Purpose Taxonomy</th>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="svg/bin.svg" class="taxon-icon">Bin:</td>
+      <td class="taxon-content" colspan="2">[[Scape]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="svg/basin.svg" class="taxon-icon">Basin:</td>
+      <td class="taxon-content" colspan="2">[[Sacrus]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="svg/eco.svg" class="taxon-icon">Eco:</td>
+      <td class="taxon-content" colspan="2">[[Toma]] ([[Usaka]]) of [[Toman Ecoss]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="svg/kingdom.svg" class="taxon-icon">Kingdom:</td>
+      <td class="taxon-content" colspan="2">[[Huma]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="svg/phylum.svg" class="taxon-icon">Phylum:</td>
+      <td class="taxon-content" colspan="2">[[Subjectivism]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="svg/class.svg" class="taxon-icon">Class:</td>
+      <td class="taxon-content" colspan="2">[[Hypri Highcourt]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="svg/order.svg" class="taxon-icon">Order:</td>
+      <td class="taxon-content" colspan="2">[[Hypri]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="svg/family.svg" class="taxon-icon">Family:</td>
+      <td class="taxon-content" colspan="2">[[Ahdom Few]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="svg/essa.svg" class="taxon-icon">Essa:</td>
+      <td class="taxon-content" colspan="2">[[Siela Qane's Soul]]</td>
+    </tr>
+  </table>
+</div> 
+<!-- taxonomy-table-section:end -->
+
 <!--
-
-> _"When air meets belief, both become visible. This is the essence of our city—the seen and unseen dancing together."_  
-> **—Siela Qane, dedication of the Wind Highways**
-
-> _"Architecture is the reaching out for the truth."_  
-> **—Louis Kahn**
-
-**Bin:** [[Scape]]  
-**Basin:** [[Sacrus]]  
-**Eco:** [[Toma]] ([[Usaka]]) of [[Toman Ecoss]]  
-**Kingdom:** [[Huma]]  
-**Phylum:** [[Asceptim]]
-**Class:** [[Hypri Highcourt]]  
-**Order:** [[Ahdom Few]]  
 
 **Appearance**
 

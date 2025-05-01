@@ -1,3 +1,4 @@
+<!-- wiki-header-section:start -->
 # Hypri
 _Windy Sister, Skyward Court_
 
@@ -27,31 +28,31 @@ Home to approximately 230,000 permanent residents and a fluctuating population o
       <th colspan="3">Purpose Taxonomy</th>
     </tr>
     <tr>
-      <td class="taxon-label"><img src="wiki_images/icons/bin_icon.png" class="taxon-icon">Bin:</td>
+      <td class="taxon-label"><img src="svg/bin.svg" class="taxon-icon">Bin:</td>
       <td class="taxon-content" colspan="2">[[Scape]]</td>
     </tr>
     <tr>
-      <td class="taxon-label"><img src="wiki_images/icons/basin_icon.png" class="taxon-icon">Basin:</td>
+      <td class="taxon-label"><img src="svg/basin.svg" class="taxon-icon">Basin:</td>
       <td class="taxon-content" colspan="2">[[Sacrus]]</td>
     </tr>
     <tr>
-      <td class="taxon-label"><img src="wiki_images/icons/eco_icon.png" class="taxon-icon">Eco:</td>
+      <td class="taxon-label"><img src="svg/eco.svg" class="taxon-icon">Eco:</td>
       <td class="taxon-content" colspan="2">[[Toma]] ([[Usaka]]) of [[Toman Ecoss]]</td>
     </tr>
     <tr>
-      <td class="taxon-label"><img src="wiki_images/icons/kingdom_icon.png" class="taxon-icon">Kingdom:</td>
+      <td class="taxon-label"><img src="svg/kingdom.svg" class="taxon-icon">Kingdom:</td>
       <td class="taxon-content" colspan="2">[[Huma]]</td>
     </tr>
     <tr>
-      <td class="taxon-label"><img src="wiki_images/icons/phylum_icon.png" class="taxon-icon">Phylum:</td>
+      <td class="taxon-label"><img src="svg/phylum.svg" class="taxon-icon">Phylum:</td>
       <td class="taxon-content" colspan="2">[[Subjectivism]]</td>
     </tr>
     <tr>
-      <td class="taxon-label"><img src="wiki_images/icons/class_icon.png" class="taxon-icon">Class:</td>
+      <td class="taxon-label"><img src="svg/class.svg" class="taxon-icon">Class:</td>
       <td class="taxon-content" colspan="2">[[Hypri Highcourt]]</td>
     </tr>
     <tr>
-      <td class="taxon-label"><img src="wiki_images/icons/order_icon.png" class="taxon-icon">Order:</td>
+      <td class="taxon-label"><img src="svg/order.svg" class="taxon-icon">Order:</td>
       <td class="taxon-content" colspan="2"><strong>Hypri</strong></td>
     </tr>   
     </table>
@@ -96,11 +97,6 @@ This paradox is explained by the spire's unique gravitational properties, center
 - Establishes distinct microclimates at different elevations and facings around the spire's circumference
 
 The precise mechanisms of these gravitational anomalies remain contentious among outside scholars. While Hypri authorities attribute them to the natural properties of the Ankelore enhanced by collective belief, scientists from [[Sol Unita]] and the [[Branches of Concordia]] propose theories involving advanced ancient technology or naturally occurring magical resonance fields.
-
-<div class="feathermark">
-    <p class="feathermark-attribution">Corvi's Feathermark</p>
-    
-</div>
 
 ### The Splint and Ankelore
 
@@ -167,10 +163,6 @@ These root networks serve multiple functions beyond oxygen production:
 - Emotional well-being for residents through connection to living systems
 
 The development and maintenance of these networks is overseen by a specialized guild of cultivators who combine botanical knowledge with pressurization magic to sustain optimal growing conditions.
-
-<div class="feathermark">
-    
-</div>
 
 ### Wind Automation Systems
 

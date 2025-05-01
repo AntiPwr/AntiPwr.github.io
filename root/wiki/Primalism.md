@@ -1,3 +1,4 @@
+<!-- wiki-header-section:start -->
 # Primalism
  
 **Eco:** [[Toma]] of [[Toman Ecoss]]  <br>
@@ -8,5 +9,5 @@
 
 Primalism is a belief system thought to be naturally derived from the resonance of [[Huma]] and [[Ferra]], focused on a return to primal ways, directly opposing [[Advancism]]. This belief is typically held by [[Zothros]] species, influenced heavily by the direction that resonance brought them in, in terms of the progression of intelligence.
 
-Primalists argue intellectual complexity is a guaranteed path to greater experiential suffering, often concerned with the development of creature-blinding ideology, war, and the [[Fear of the Fall|Fall]], the largest fear of all. The fear of the Fall is the idea of a return to anarchy, a place now without rule (a fall from Advancism's aims) and a state of mind incapable of inner peace (lack of Primalist foundation). Thus, creatures should return their soul to nature where it was first founded and given uniqueness. Here, life must come full circle, so that one may be considered for reincarnation. To die outside of nature and the elements is to die to completion, to be stripped of one's soul, which at birth is granted by [[Gaea]].
+Primalists argue intellectual complexity is a guaranteed path to greater experiential suffering, often concerned with the development of creature-blinding ideology, war, and the [[Fear of the Fall|Fall]], the largest fear of all. The fear of the Fall is the idea of a return to anarchy, a place now without rule (a fall from Advancism's aims) and a state of mind incapable of inner peace (lack of Primalist foundation). Thus, creatures should return their soul to nature where it was first founded and given uniqueness. Here, life must come full circle, so that one may be considered for reincarnation. 
 

@@ -1,3 +1,4 @@
+<!-- wiki-header-section:start -->
 # Source Surge
 
 *“Human beings are poor examiners, subject to superstition, bias, prejudice, and a PROFOUND tendency to see what they want to see rather than what is really there."* - **Scott M. Peck**

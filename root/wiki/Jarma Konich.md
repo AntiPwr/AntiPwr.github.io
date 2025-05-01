@@ -1,3 +1,4 @@
+<!-- wiki-header-section:start -->
 # Jarma Konich
 _Land Trielder, Drakemaster of Kautiger, Clay Mistress, Earthbound_
 
@@ -5,13 +6,51 @@ _Land Trielder, Drakemaster of Kautiger, Clay Mistress, Earthbound_
 
 <!--
 
-**Bin:** [[Scape]]  
-**Basin:** [[Sacrus]]  
-**Eco:** [[Toma]] ([[Usaka]]) of [[Toman Ecoss]]  
-**Kingdom:** [[Huma]]  
-**Phylum:** [[Subjectivism]]
-**Class:** [[Hypri Highcourt]]  
-**Order:** [[Ahdom Few]]  
+<!-- taxonomy-table-section:start -->
+<div class="taxonomy-table">
+  <table>
+    <tr>
+      <th colspan="3">Purpose Taxonomy</th>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="svg/bin.svg" class="taxon-icon">Bin:</td>
+      <td class="taxon-content" colspan="2">[[Scape]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="svg/basin.svg" class="taxon-icon">Basin:</td>
+      <td class="taxon-content" colspan="2">[[Sacrus]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="svg/eco.svg" class="taxon-icon">Eco:</td>
+      <td class="taxon-content" colspan="2">[[Toma]] ([[Usaka]]) of [[Toman Ecoss]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="svg/kingdom.svg" class="taxon-icon">Kingdom:</td>
+      <td class="taxon-content" colspan="2">[[Huma]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="svg/phylum.svg" class="taxon-icon">Phylum:</td>
+      <td class="taxon-content" colspan="2">[[Subjectivism]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="svg/class.svg" class="taxon-icon">Class:</td>
+      <td class="taxon-content" colspan="2">[[Hypri Highcourt]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="svg/order.svg" class="taxon-icon">Order:</td>
+      <td class="taxon-content" colspan="2">[[Hypri]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="svg/family.svg" class="taxon-icon">Family:</td>
+      <td class="taxon-content" colspan="2">[[Ahdom Few]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="svg/essa.svg" class="taxon-icon">Essa:</td>
+      <td class="taxon-content" colspan="2">[[Jarma Konich's Soul]]</td>
+    </tr>
+  </table>
+</div>
+<!-- taxonomy-table-section:end -->
 
 Jarma Konich is one of the three serpent sisters who comprise the [[Ahdom Few]], the ruling council of [[Hypri]]. As Land Trielder, she oversees territorial management, resource acquisition, and the city's material production. Her mastery of solid pressurization magic—the ability to manipulate the density, structure, and movement of earth and stone through precise pressure control—has earned her the title "Mistress of Clay" among Hypri's artisan communities.
 
@@ -108,6 +147,10 @@ Moluk, the clay-derived substance central to Jarma's economic strategy, is techn
 ### The Clay Mixer Society
 
 Beyond her public roles, Jarma leads the secretive [[Clay Mixer Society]]—a cult-like organization centered around the consumption and ritual use of specific Moluk formulations. This society operates from [[Clath]], a nascent [[Imaan Plane]] developing under Jarma's guidance as a specialized environment for potmakers and clay artisans.
+
+<!--
+Clath is an Imaan Plane under the influence of Jarma Konich and Kautiger. It is an underground region located within [[Endem]]. The existence of Clath is kept secret, as it is considered illegal (by Hypri Highcourt Planar Law) to be within Endem or to establish planar domains there.
+-->
 
 The society's members believe that by consuming clay mixtures derived from Kautiger, they establish a direct connection to primordial earth energies. This practice is framed as both spiritual communion and practical skill enhancement, though outside observers have noted that it also creates intense loyalty to Jarma personally.
 

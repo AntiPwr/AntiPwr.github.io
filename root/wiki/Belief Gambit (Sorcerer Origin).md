@@ -1,3 +1,4 @@
+<!-- wiki-header-section:start -->
 # Belief Gambit (Sorcerer Origin)
 
 <img src="wiki_images/Belief Gambit (Sorcerer Origin).png"><i>A cartist using a scryer card to understand the contents of an ancient slate.</i></img>

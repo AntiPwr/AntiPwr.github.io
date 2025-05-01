@@ -1,8 +1,11 @@
+<!-- wiki-header-section:start -->
 # Welcome to the Scape Wiki
 
 ![Sourcewaters](wiki_images/Sourcewaters%204.png)
 
 <p style="text-align:center;">A wikipedia for the Scape, a TTRPG-inspired worldbuilding project.</p>
+
+<!-- wiki-header-section:end -->
 
 ## Index of Major Topics
 

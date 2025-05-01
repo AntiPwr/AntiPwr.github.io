@@ -1,3 +1,6 @@
+<!-- wiki-header-section:start -->
+# Rites of Huma
+
 **Bin:** [[Scape]]  
 **Basin:** [[Sacrus]]  
 **Eco:** [[Toma]] of [[Toman Ecoss]]  

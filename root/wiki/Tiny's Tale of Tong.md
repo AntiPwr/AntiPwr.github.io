@@ -1,3 +1,4 @@
+<!-- wiki-header-section:start -->
 # Tiny's Tale of Tong
 <!--
 _The Beetle and the Halfling, A Cilladril Folk Story_

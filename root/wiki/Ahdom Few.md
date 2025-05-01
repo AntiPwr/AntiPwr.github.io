@@ -1,5 +1,5 @@
-# Ahdom Few
 <!-- wiki-header-section:start -->
+# Ahdom Few
 _Essnt Triarchy_
 
 <img src="wiki_images/Ahdom_Few.png"><i>The three sisters of Hypri, each bonded to a primordial drake, preside over the city from their respective domains.</i></img>
@@ -7,9 +7,9 @@ _Essnt Triarchy_
 > _"Three heads, three wills, one city."_  
 > **—Hypri Proverb**
 
-The **Ahdom Few** are the ruling triarchy of [[Hypri]], composed of three powerful sisters, each bonded to a primordial drake. Together, they govern the city-state, balancing their distinct domains and magical specializations.
-<!-- wiki-header-section:end -->
+The **Ahdom Few** are the ruling triarchy of [[Hypri]], composed of three powerful [[Essnt]] sisters, each bonded to a primordial drake. Together, they govern the city-state, balancing their distinct domains and magical specializations.
 
+<!-- wiki-header-section:end -->
 <!-- taxonomy-table-section:start -->
 <div class="taxonomy-table">
   <table>
@@ -17,24 +17,25 @@ The **Ahdom Few** are the ruling triarchy of [[Hypri]], composed of three powerf
       <th colspan="3">Purpose Taxonomy</th>
     </tr>
     <tr>
-      <td class="taxon-label"><img src="wiki_images/icons/bin_icon.png" class="taxon-icon">Bin:</td>
+      <td class="taxon-label"><img src="svg/bin.svg" class="taxon-icon">Bin:</td>
       <td class="taxon-content" colspan="2">[[Scape]]</td>
     </tr>
     <tr>
-      <td class="taxon-label"><img src="wiki_images/icons/basin_icon.png" class="taxon-icon">Basin:</td>
+      <td class="taxon-label"><img src="svg/basin.svg" class="taxon-icon">Basin:</td>
       <td class="taxon-content" colspan="2">[[Sacrus]]</td>
     </tr>
     <tr>
-      <td class="taxon-label"><img src="wiki_images/icons/eco_icon.png" class="taxon-icon">Eco:</td>
+      <td class="taxon-label"><img src="svg/eco.svg" class="taxon-icon">Eco:</td>
       <td class="taxon-content" colspan="2">[[Toma]] ([[Usaka]]) of [[Toman Ecoss]]</td>
     </tr>
     <tr>
-      <td class="taxon-label"><img src="wiki_images/icons/kingdom_icon.png" class="taxon-icon">Kingdom:</td>
+      <td class="taxon-label"><img src="svg/kingdom.svg" class="taxon-icon">Kingdom:</td>
       <td class="taxon-content" colspan="2">[[Essnt]]</td> 
     </tr>
   </table>
 </div>
 <!-- taxonomy-table-section:end -->
+
 
 ## Summary
 
@@ -47,12 +48,6 @@ The Ahdom Few are the collective rulers of Hypri, maintaining the city's stabili
 - **[[Siela Qane]]** — Sky Trielder, Drakemaster of [[Qa'ura]]
 
 Each sister is both a political leader and a magical specialist, wielding mastery over a different state of matter (liquid, solid, gas) and commanding a unique draconic entity descended from the death of [[Hidraal]].
-
-## The Three Drakes
-
-- **[[Lopali]]** — The Serpent Ray, bonded to Ximena Lathen
-- **[[Kautiger]]** — The Oedipwyrm, bonded to Jarma Konich
-- **[[Qa'ura]]** — The Amphiptere, bonded to Siela Qane
 
 ## Related Wiki Pages
 

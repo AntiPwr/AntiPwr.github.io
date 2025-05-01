@@ -1,3 +1,4 @@
+<!-- wiki-header-section:start -->
 # Unlock System
 
 The Unlock System allows players to play the game and unlock playable content, such as classes and subclasses, races and subraces, spells, feats, magic items, and more. Once these are unlocked, they will be listed in their respective sections below:

@@ -1,3 +1,6 @@
+<!-- wiki-header-section:start -->
+# Rite of Rule
+
 **Bin:** [[Scape]]  
 **Basin:** [[Sacrus]]  
 **Eco:** [[Toma]] of [[Toman Ecoss]]  
