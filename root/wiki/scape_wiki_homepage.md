@@ -2,7 +2,7 @@
 
 ![Sourcewaters](wiki_images/Sourcewaters%204.png)
 
-A wikipedia for the Scape, a TTRPG-inspired worldbuilding project.
+<p style="text-align:center;">A wikipedia for the Scape, a TTRPG-inspired worldbuilding project.</p>
 
 ## Index of Major Topics
 

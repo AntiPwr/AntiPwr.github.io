@@ -1,27 +1,38 @@
-# Ximena Lathen
+# Lady Athen <!-- Ximena Lathen -->
+<!--_Lady Athen,  Esteran Leredith, Queen of Heshiu, -->_Sea Trielder, Drakemaster of Lopali_
+
+<img src="wiki_images/Lady Athen.png"><i>Lady Athen in her sea regalia.</i></img>
+
+
+**Lady Athen** is one of the three serpent sisters collectively known as the [[Ahdom Few]], who rule the city-state of [[Hypri]] through the [[Hypri Highcourt]]. As the Sea Trielder, she oversees all water-related aspects of governance and maintains authority over [[Lopali]], the Serpent Ray—one of the [[Spawn of Hidraal]]. <!--Beyond her visible role in Hypri politics, Ximena leads a complex double life as the secretive Queen of [[Heshiu]], an isolated [[Imaan Plane]] she has cultivated as a perfect ecosystem free from outside influence.-->
+
+Notable for her guarded nature and strategic brilliance, Lady Athen is distinguished by her mastery of liquid pressurization magic. <!--To the public, she is known only as Lady Athen, concealing both her true name and her Concordian lineage to protect her carefully constructed power base.-->
+
+<div class="taxonomy-table">
+  <table>
+    <tr>
+      <th colspan="3">Purpose Taxonomy</th>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="wiki_images/icons/bin_icon.png" class="taxon-icon">Bin:</td>
+      <td class="taxon-content" colspan="2">[[Scape]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="wiki_images/icons/basin_icon.png" class="taxon-icon">Basin:</td>
+      <td class="taxon-content" colspan="2">[[Sacrus]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="wiki_images/icons/eco_icon.png" class="taxon-icon">Eco:</td>
+      <td class="taxon-content" colspan="2">[[Toma]] ([[Usaka]]) of [[Toman Ecoss]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="wiki_images/icons/kingdom_icon.png" class="taxon-icon">Kingdom:</td>
+      <td class="taxon-content" colspan="2">[[Huma]]</td>
+    </tr>
+  </table>
+</div>
+
 <!--
-_Lady Athen, Esteran Leredith, Queen of Heshiu, Sea Trielder, Drakemaster of Lopali_
-
-<img src="wiki_images/Ximena_Lathen.png"><i>Ximena Lathen in her official Sea Trielder regalia during a Highcourt ceremony</i></img>
-
-> _"The sea does not ask permission to change its form. Neither shall I."_  
-> **—Ximena Lathen (as Lady Athen), public address at the Flow Festival**
-
-> _"Identity is not what we show, but what we choose to submerge."_  
-> **—Anaïs Nin**
-
-**Bin:** [[Scape]]  
-**Basin:** [[Sacrus]]  
-**Eco:** [[Toma]] ([[Usaka]]) of [[Toman Ecoss]]  
-**Kingdom:** [[Huma]]  
-**Phylum:** [[Subjectivism]]
-**Class:** [[Hypri Highcourt]]  
-**Order:** [[Ahdom Few]]  
-
-Ximena Lathen is one of the three serpent sisters collectively known as the [[Ahdom Few]], who rule the city-state of [[Hypri]] through the [[Hypri Highcourt]]. As the Sea Trielder, she oversees all water-related aspects of governance and maintains authority over [[Lopali]], the Serpent Ray—one of the [[Spawn of Hidraal]]. Beyond her visible role in Hypri politics, Ximena leads a complex double life as the secretive Queen of [[Heshiu]], an isolated [[Imaan Plane]] she has cultivated as a perfect ecosystem free from outside influence.
-
-Notable for her guarded nature and strategic brilliance, Ximena is distinguished by her mastery of liquid pressurization magic—a specialized form of elemental manipulation that allows her to control water in all its forms. To the public, she is known only as Lady Athen, concealing both her true name and her Concordian lineage to protect her carefully constructed power base.
-
 ## Origins and Concealed Identity
 
 ### Concordian Lineage
@@ -40,14 +51,14 @@ Only her sisters [[Jarma Konich]] and [[Siela Qane]] know her true identity, wit
 
 ### Mastery and Application
 
-Ximena is considered the foremost practitioner of liquid pressurization magic in eastern [[Toma]], capable of manipulating water at a molecular level through precise control of pressure differentials. Her abilities include:
+Ximena is considered the foremost practitioner of liquid pressurization magic in [[Toma]], capable of manipulating water at a molecular level through precise control of pressure differentials. Her abilities include:
 
 - Altering the state of water between liquid, solid, and gas through pressure manipulation
 - Creating underwater breathing environments by maintaining precise water pressure
 - Generating devastating combat techniques that utilize water pressure as a cutting or crushing force
 - Controlling ocean currents within limited areas, particularly around Hypri and the approaches to Heshiu
 
-This specialized magic forms the basis for many of Heshiu's environmental systems and contributes significantly to Hypri's water management infrastructure. Ximena's expertise complements her sisters' mastery of solid (Jarma) and gaseous (Siela) pressure manipulation, creating a formidable triumvirate of elemental control.
+This specialized magic forms the basis for many of Heshiu's environmental systems and contributes significantly to Hypri's water management infrastructure. Ximena's expertise complements her sisters' mastery of solid (Jarma) and gaseous (Siela) pressure manipulation, creating a formidable triarchy of elemental control.
 
 ### Teaching and Legacy
 
@@ -80,14 +91,6 @@ Ximena's most closely guarded role is as the architect and absolute ruler of [[H
 
 Heshiu is designed as a self-sustaining environment where water cycles are regulated with absolute precision, creating ideal conditions for rare aquatic species and specialized botanical research. Ximena restricts access to this realm severely, allowing entry only to those who meet her exacting standards of purity and purpose.
 
-<div class="feathermark">
-    <p class="feathermark-attribution">Corvi's Feathermark</p>
-    <p>The waters of Heshiu run deeper than any ocean, for they are saturated with contradiction. Ximena Lathen—that meticulous architect of perfection—has built her paradise on the very foundation she claims to reject.</p>
-    <p>Look closely at the geometric patterns in Heshiu's carefully regulated tidal pools: they mirror exactly the sacred formations of early Concordian temples. The woman who erased a letter to escape her past has recreated it with obsessive precision, like a prisoner who carves her former home into her cell wall, detail by exquisite detail.</p>
-    <p>What she calls "protection from outside influence" is really fear given physical form—fear that her creation cannot withstand the very contact that might validate it. She has not built a utopia but a mausoleum for a version of Concordia that never existed except in her imagination.</p>
-    <p>And the most exquisite irony? The perfect ecosystem she maintains requires constant, exhausting intervention. Nothing about it is natural. It is as artificial as her name, as constructed as her public persona. The queen who pretends to let water find its own path spends every moment forcing it into channels of her own design.</p>
-</div>
-
 ## Personal Ambitions and Plans
 
 ### The Imperial Growth Project
@@ -101,21 +104,6 @@ The ultimate goal of this project appears to be a form of benevolent imperialism
 One of the few individuals who can challenge Ximena is [[Fuscia Lustin]], a powerful figure in the [[Chain of Delta]]. Their relationship is characterized by complex power dynamics and mutual respect tempered by profound ideological differences.
 
 Notably, Fuscia Lustin does not know that Sea Trielder Ximena Lathen and Lady Leredith (Ximena's occasional alternate identity when dealing with specific external powers) are the same person. This compartmentalization allows Ximena to maintain leverage in negotiations while gathering intelligence about Delta operations that might threaten her various spheres of influence.
-
-## Images
-
-<img src="wiki_images/Heshiu_Portal.png"><i>One of the carefully guarded portals leading to Heshiu, concealed within Ximena's private chambers in Hypri</i></img>
-
-<img src="wiki_images/Lopali.png"><i>Lopali, the Serpent Ray, as depicted in ancient Usakan manuscripts</i></img>
-
-## Inspiration
-
-Ximena Lathen draws inspiration from various sources, including:
-- Queen Elizabeth I's "Virgin Queen" persona and strategic isolation
-- Japanese concepts of water discipline and flow in martial arts
-- Classical Greek and Roman water engineering and architectural principles
-- Concepts of utopian isolation in works like "The Tempest"
-- Dual identity narratives in espionage literature
 
 ## Related Wiki Pages
 

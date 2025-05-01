@@ -1,8 +1,10 @@
 # Siela Qane
-<!--
-_Sky Trielder, The Architect of Faith, Drakemaster of Qa'ura, High Priestess of Wind_
 
-<img src="wiki_images/Siela_Qane.png"><i>Siela Qane overlooking the construction of the Cloudgardens, her tribute to Qa'ura</i></img>
+_Sky Trielder, Drakemaster of Qa'ura, Architect of Faith_
+
+<img src="wiki_images/Siela Qane.png"><i>Siela Qane weaves breath into form atop a disc of wind-forged stone—her closed eyes guiding ethereal blueprints into being as the clouds of Hypri churn beneath her in hues of lavender and gold.</i></img>
+
+<!--
 
 > _"When air meets belief, both become visible. This is the essence of our city—the seen and unseen dancing together."_  
 > **—Siela Qane, dedication of the Wind Highways**
@@ -18,7 +20,11 @@ _Sky Trielder, The Architect of Faith, Drakemaster of Qa'ura, High Priestess of 
 **Class:** [[Hypri Highcourt]]  
 **Order:** [[Ahdom Few]]  
 
-Siela Qane is the third member of the [[Ahdom Few]], the triumvirate that rules [[Hypri]] through the [[Hypri Highcourt]]. As Sky Trielder, she oversees all aerial aspects of the city's governance, including its elaborate wind harvesting infrastructure, airship transportation networks, and the critical wind highways that connect Usaka's spire cities. Her mastery of gas pressurization magic—the manipulation of air and other gaseous substances through precise pressure control—makes her the foremost authority on atmospheric sciences in eastern Toma.
+**Appearance**
+
+Siela Qane is youthful and vibrant, with tan skin and features reflecting a heritage from the sun-drenched islands of the southern seas. She has dark brown hair, often worn loose or in simple braids that catch the wind. Her eyes are lively and expressive, always reflecting her enthusiasm and intensity. Siela favors flowing robes and garments in light blue, white, and pale green, evoking the sky and open air. These clothes are airy and elegant, designed to move with the wind and never restrict her motion. She adorns herself with golden jewelry—delicate chains, earrings, and rings that glint in the sunlight and accentuate her gestures. Her presence is both sweet and demanding: she is quick to smile and encourage, but her patience is short, especially when her ambitions or the progress of her projects (such as Palas) are delayed. Her energy and charisma are matched by a determined will, making her both an inspiring leader and a formidable force when challenged.
+
+Siela Qane is the third member of the [[Ahdom Few]], the triarchy that rules [[Hypri]] through the [[Hypri Highcourt]]. As Sky Trielder, she oversees all aerial aspects of the city's governance, including its elaborate wind harvesting infrastructure, airship transportation networks, and the critical wind highways that connect Usaka's spire cities. Her mastery of gas pressurization magic—the manipulation of air and other gaseous substances through precise pressure control—makes her the foremost authority on atmospheric sciences in eastern Toma.
 
 Unlike her sisters, who conceal or modify aspects of their identities and ambitions, Siela operates with remarkable transparency regarding her goals. She is an outspoken devotee of [[Asceptim]] who actively promotes the faith's adoption throughout [[Usaka]], particularly in the [[Tayim Trade Republic]]. Her most ambitious ongoing project is the creation of [[Palas]], an aerial [[Imaan Plane]] dedicated to [[Asath]] that she intends to serve as a celestial sanctuary for believers.
 

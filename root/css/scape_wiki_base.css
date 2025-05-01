@@ -89,7 +89,7 @@ body {
 }
 .nav-search {
     position: absolute;
-    top: 26px;
+    top: 16px;
     right: 32px;
     z-index: 3001;
     display: flex;
@@ -446,5 +446,65 @@ body.sidebar-open .wiki-content {
 .search-dropdown li.selected {
     background: #d7bde2 !important;
     color: #222 !important;
+}
+
+/* Center taxonomy tables and limit their width */
+.taxonomy-table {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin: 32px auto 32px auto;
+    width: 100%;
+}
+
+.taxonomy-table table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    background: #fff;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+    border-radius: 8px;
+    overflow: hidden;
+    min-width: 320px;
+    max-width: 480px;
+    width: 100%;
+}
+
+.taxonomy-table th,
+.taxonomy-table td {
+    padding: 8px 16px;
+    text-align: left;
+    border-bottom: 1px solid #eee;
+    font-size: 1em;
+}
+
+.taxonomy-table th {
+    background: #f5f5f5;
+    font-weight: bold;
+    text-align: center;
+    font-size: 1.1em;
+}
+
+.taxonomy-table tr:last-child td {
+    border-bottom: none;
+}
+
+.taxonomy-table .taxon-icon {
+    width: 18px;
+    height: 18px;
+    vertical-align: middle;
+    margin-right: 6px;
+}
+
+/* Responsive: shrink table on small screens */
+@media (max-width: 600px) {
+    .taxonomy-table table {
+        min-width: 0;
+        max-width: 98vw;
+        font-size: 0.95em;
+    }
+    .taxonomy-table {
+        padding-left: 0;
+        padding-right: 0;
+    }
 }
 

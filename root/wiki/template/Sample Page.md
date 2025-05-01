@@ -151,3 +151,10 @@ Arkaven draws inspiration from various sources, including:
 - [[Botanical Augmentation]]
 - [[Harmonic Theology]]
 - [[Asceptim]]
+
+<!-- not-for-live-publishing:start -->
+<!--
+This section is for content, lore, or discoveries that are NOT meant for live publishing to the site. 
+Leave this empty unless specifically requested. Use this to stage information that will be revealed to players later.
+-->
+<!-- not-for-live-publishing:end -->

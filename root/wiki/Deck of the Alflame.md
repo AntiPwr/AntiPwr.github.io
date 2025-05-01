@@ -1,4 +1,4 @@
-# Deck of the Allflame
+# Deck of the Alflame
 
 **This deck is not complete and is in a conceptual state of development.**
 
@@ -11,7 +11,7 @@ _Forged by Laika Acker, this deck burns with the essence of Fire subnatura, embo
 
 ## **Core Stacks Mechanic**
 
-Stacks represent an escalating exposure to the Allflame’s burning essence. As stacks accumulate on a creature, not only do they suffer additional fire damage each turn, but several card effects also scale based on the number of stacks consumed.  
+Stacks represent an escalating exposure to the Alflame’s burning essence. As stacks accumulate on a creature, not only do they suffer additional fire damage each turn, but several card effects also scale based on the number of stacks consumed.  
 When you see values written as _(a/b/c/…)_ in any card’s description, choose the number corresponding to the number of stacks used:
 
 - **Example (Speed):** Consuming 1 stack grants **5 feet** extra movement; 2 stacks grant **10 feet**; 3 stacks grant **15 feet**; 4 stacks grant **20 feet**; and 5 stacks grant **25 feet**—in addition to the effect of disengage.
@@ -37,7 +37,7 @@ A creature can remove 2 stacks by either dropping prone and rolling on the groun
 ## **Individual Cards**
 
 ### **Ignition**
-_The first spark of the Allflame. The fire’s hunger begins here._
+_The first spark of the Alflame. The fire’s hunger begins here._
 
 **Cost:** 1/2 of a small vial worth of [[Ritual Ash]]
 
@@ -85,7 +85,7 @@ _Envelop yourself in a protective, searing barrier._
 ---
 
 ### **Ember Servants**
-_Call forth the living embers of the Allflame to do your bidding._
+_Call forth the living embers of the Alflame to do your bidding._
 
 **Cost:** 1 small vial worth of Crimson Ritual Ash
 
@@ -98,7 +98,7 @@ _Call forth the living embers of the Allflame to do your bidding._
 ---
 
 ### **Blazing Speed**
-_Harness the Allflame’s urgency to outpace your foes._
+_Harness the Alflame’s urgency to outpace your foes._
 
 **Cost:** 1 small vial worth of Crimson Ritual Ash
 
@@ -146,7 +146,7 @@ _Force the flame to collapse inward, devastating its target._
 ---
 
 ### **Chaos Inferno**
-_The Allflame’s chaos erupts in unpredictable forms._
+_The Alflame’s chaos erupts in unpredictable forms._
 
 **Cost:** Unknown
 

@@ -3,8 +3,8 @@ import re
 
 
 WIKI_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'wiki'))
-TEMPLATE_PATH = os.path.join(WIKI_DIR, 'template', 'Template.html')
-SKIP_FILES = {'Template.html'}
+TEMPLATE_PATH = os.path.join(WIKI_DIR, 'template', 'HTML Template.html')
+SKIP_FILES = {'HTML Template.html'}
 
 def extract_page_info(html_path):
     """Extracts title, description, and md filename from an existing wiki HTML file."""

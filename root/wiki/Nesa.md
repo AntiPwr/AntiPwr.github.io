@@ -5,18 +5,40 @@ _Lesser Gods, Divine Mediators, Voices of Creation_
 
 <img src="wiki_images/Nesa.png"><i>Artistic representation of Nesa manifestations during a major belief event</i></img>
 
-> _"To understand the Nesa is to understand the architecture of our world—they are not merely gods, but the living blueprints of existence itself."_  
-> **—Ustun Narjik, Usakan Theologian**
-
 > _"The gods of men are the children of greater forces, caught between their creators' arguments and their creations' prayers."_  
 > **—Neil Gaiman**
 
-**Bin:** [[Scape]]  
-**Basin:** [[Sacrus]]  
-**Eco:** [[Soul Fields]] and [[Toma]] of [[Toman Ecoss]]
+<!-- taxonomy-table-section:start -->
+<div class="taxonomy-table">
+  <table>
+    <tr>
+      <th colspan="3">Purpose Taxonomy</th>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="wiki_images/icons/bin_icon.png" class="taxon-icon">Bin:</td>
+      <td class="taxon-content" colspan="2">[[Scape]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="wiki_images/icons/basin_icon.png" class="taxon-icon">Basin:</td>
+      <td class="taxon-content" colspan="2">[[Sacrus]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="wiki_images/icons/eco_icon.png" class="taxon-icon">Eco:</td>
+      <td class="taxon-content" colspan="2">[[Soul Fields]] and [[Toma]] of [[Toman Ecoss]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="wiki_images/icons/kingdom_icon.png" class="taxon-icon">Kingdom:</td>
+      <td class="taxon-content" colspan="2"><strong>Nesa</strong></td>
+    </tr>
+    
+    </tr>
+  </table>
+</div>
+<!-- taxonomy-table-section:end -->
 
-The Nesa are powerful interplanar deities within the [[Toman Ecoss]], serving as lesser gods who oversee and influence the laws of life, nature, and belief. Their presence is integral to the balance and dynamics of the plane, acting as both guardians and enforcers of cosmic harmony.
+The Nesa are powerful interplanar deities within the [[Toman Ecoss]], serving as the <!--lesser--> gods who oversee and influence the laws of life, nature, belief, and anim. Their presence is integral to the balance and dynamics of the plane, acting as both guardians and enforcers of cosmic harmony.
 
+<!--
 ## Origin and Mythos
 
 In the beginning, when [[Zlellis and O'nume]] first clashed to form the plane of [[Toma]], their immense cosmic energies formed personifications of the core aspects of their argument. These ripples resonated from the [[Fractal Waters]], where the [[Goda]] dwell, into the [[Sacrus]] and began to form seeds of new divine beings. These seeds slowly grew during the time of the [[Natural War]].
@@ -25,13 +47,14 @@ The Goda, intrigued by these nascent entities, later saw an opportunity to furth
 
 Since the Nesa were made in the likeness of the Goda, a wide range of belief events became possible through the core foundations of their planar creation and argument. This diversity of potential spiritual experiences fundamentally transformed how consciousness interacts with the fabric of reality in Toma.
 
+-->
 ## Nature and Characteristics
 
 ### Appearance
 
-Nesa are typically seen in their avatar forms, each reflecting the domains they govern and the beliefs they embody. Their forms are highly complex and approaching a completely psychedelic appearance, as they exist within Sacrus and its spatial dimension, as seen through third-dimensional perception (see [[Trenjor and Voyimus#Trenjor|Trenjor]] and [[Spatial Equivalence]]).
+Nesa are typically seen in their avatar forms, each reflecting the domains they govern and the beliefs they embody. <!--Their forms are highly complex and approaching a completely psychedelic appearance, as they exist within Sacrus and its spatial dimension, as seen through third-dimensional perception (see [[Trenjor and Voyimus#Trenjor|Trenjor]] and [[Spatial Equivalence]]). -->
 
-These beings constantly approach the boundary of the Fractal Waters, existing in a state between defined form and abstract concept. Their manifestations often incorporate:
+Their manifestations often incorporate:
 
 - Multiple simultaneous geometries 
 - Impossible color spectrums visible only to those attuned to their specific frequencies
@@ -42,18 +65,12 @@ When interacting with mortal beings, most Nesa adopt simplified avatars that can
 
 ### Activity Cycles
 
-Nesa are most active during the beginning of Lines, with their influence gradually diminishing as each Line progresses. This waning presence often leads to a corresponding decline in faith among mortal populations, which is typically only restored through Line shifts when the Dance of Spira changes direction.
+Generally, Nesa are most active during the beginning of Lines, with their influence gradually diminishing as each Line progresses. This waning presence often leads to a corresponding decline in faith among mortal populations, which is typically only restored through Line shifts when the Dance of Spira changes direction. The only exception to this natural cycle are so-called [[Demon Nesa]].
 
-This cyclical pattern of divine engagement and withdrawal creates a natural rhythm to religious experience in Toma, with periods of intense divine manifestation followed by eras where faith must persist despite reduced direct intervention from the Nesa.
+This cyclical pattern of divine engagement and withdrawal creates a natural rhythm to religious experience in Toma, with periods of intense divine manifestation followed by eras where faith must persist despite reduced intervention from the Nesa.
 
-<div class="feathermark">
-    <p class="feathermark-attribution">Corvi's Feathermark</p>
-    <p>Oh my, how delightfully incomplete our understanding remains! We see the Nesa wax and wane with the Lines, but we've misinterpreted the causality entirely! It's not that they choose to withdraw—it's that they're being consumed!</p>
-    <p>Each Line begins with the Nesa bursting with power from the cosmic reset of the Dance of Spira. Like freshly filled vessels, they overflow with divine essence, spilling miracles and manifestations across reality. But as mortals increasingly believe in them, they paradoxically diminish—each prayer, each ritual, each moment of faith acts as a microscopic siphon, drawing away their essence drop by precious drop.</p>
-    <p>By a Line's end, they're practically hollow, stretched thin across too many believers, too many manifestations, too many demands. The shift in the Dance of Spira isn't just a cosmic clock—it's an emergency transfusion system, replenishing what we've collectively drained away! The Goda aren't benevolent parents overseeing this cycle; they're pragmatic farmers harvesting the byproducts of this relationship, collecting something essential from our collective belief that neither we nor the Nesa fully comprehend.</p>
-</div>
 
-## Classifications and Domains
+<!--## Classifications and Domains
 
 ### Nesa of Fealty
 
@@ -63,7 +80,7 @@ Each Nesa of Fealty governs specific aspects of life and nature, ensuring the on
 
 ### Nesa of Duality
 
-The Nesa of Duality embody dichotomous relationships, similar to Zero and One in fundamental computing. They represent opposing forces or concepts that together create balance and completeness. These entities often exist within other classifications such as the Nesa of Kingdoms and Nesa of Fealty.
+The Nesa of Duality embody dichotomous relationships. They represent opposing forces or concepts that together create balance and completeness. These entities often exist within other classifications such as the Nesa of Kingdoms and Nesa of Fealty.
 
 Notable Nesa of Duality include:
 
@@ -93,7 +110,7 @@ The Nesa operate like a large, dysfunctional family, each with unique personalit
 - Personal agendas that may align with or contradict the broader cosmic order
 
 While the Nesa generally work to maintain the overall balance of Toma, individual Nesa often have competing visions for how this balance should be structured. These disagreements can manifest as natural disasters, unusual phenomena, or periods of religious upheaval when multiple Nesa attempt to influence mortal societies simultaneously.
-
+-->
 ## Cultural Understanding
 
 ### Usakan Etymology
@@ -113,38 +130,3 @@ Different cultures throughout Toma have developed varied understandings and name
 
 These diverse perspectives reflect not only cultural differences but also the multifaceted nature of the Nesa themselves, who often present different aspects of their being to different societies.
 
-## Influence and Legacy
-
-The presence of the Nesa is a defining characteristic of the Toman Ecoss, influencing the evolution and development of the plane. Their actions and decisions shape the course of history and the beliefs of inhabitants across multiple Lines. As intermediaries between the abstract cosmic forces of the Goda and the material concerns of mortal life, the Nesa serve as both interpreters and implementers of fundamental reality.
-
-The introduction of the Nesa fundamentally altered the spiritual landscape of Toma, creating the possibility for diverse belief systems and religious experiences beyond simple ascension. This transformation represents one of the most significant developments in the plane's history, establishing the complex theological ecosystem that continues to shape life and society throughout Toma.
-
-## Images
-
-<img src="wiki_images/Nesa_Manifestation.png"><i>A Nesa manifestation during a major belief event in northern Usaka</i></img>
-
-<img src="wiki_images/Nesa_Hierarchy.png"><i>Theological diagram showing the relationship between different classifications of Nesa</i></img>
-
-## Inspiration
-
-The Nesa draw inspiration from various sources, including:
-- Greco-Roman pantheons with specialized deities for different domains
-- Hindu concepts of avatars and divine manifestation
-- Lovecraftian entities that exist beyond conventional understanding
-- Aboriginal dreamtime beings that shape landscape and natural law
-- Angel hierarchies in Judeo-Christian mysticism
-
-## Related Wiki Pages
-
-- [[Goda]]
-- [[Zlellis and O'nume]]
-- [[Toma]]
-- [[Fractal Waters]]
-- [[Source Surge Types]]
-- [[Dance of Spira]]
-- [[Apex and Praeda]]
-- [[Trenjor and Voyimus]]
-- [[Toma Timeline]]
-
-
--->

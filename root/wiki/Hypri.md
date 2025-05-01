@@ -1,17 +1,26 @@
 # Hypri
+_Windy Sister, Skyward Court_
 
-<!--
+<img src="wiki_images/Hypri.png"><i>The main spire of Hypri rising above the Usakan Growth. A colossal stone spire dominates a sea of thick, churning clouds, its jagged, golden-beige surface alive with cities carved into its crags and terraces. Hanging gardens, floating glass spheres, and winding misty currents create a breathtaking vertical metropolis, where civilization clings to impossible heights and flying ships glide along shimmering, magical airways.</i></img>
 
-_Pillar City, Skyward Crown, The Spire Court_
-
-<img src="wiki_images/Hypri.png"><i>The main spire of Hypri rising above the sea of Sibannac's grass at dawn</i></img>
-
-> _"Three powers balance on stone that defies nature; such is the way of Hypri, where belief itself shapes gravity's pull."_  
-> **—Ahdom Few Proclamation, 27th year of the Current Line**
-
-> _"Architecture begins where engineering ends."_  
+> _"Architecture begins where engineering ends."_
 > **—Walter Gropius**
 
+Hypri is a high-altitude [[Order|order]] under the rule of the [[Hypri Highcourt]], perched atop the largest of over a hundred spires that rise dramatically from the vast grasslands of South [[Usaka]]. Geographically, Hypri is located in the Middle-East region of South Usaka, just northeast of the [[Coast of Bu]]. Across the waters from the Coast of Bu lies the Island of [[Babadoo Slim]]. The city is carved into and grown upon the colossal stone formation known as Vespir, which soars impossibly high above a sea of thick, churning clouds. Its rugged, ancient, golden-beige stonework is weathered by time and sun, yet teems with life and civilization. Entire cities cling to its craggy surface, jutting out at impossible angles and spiraling upward in a breathtakingly precarious ascent, as if the spire itself has grown these settlements like barnacles on a sea pillar.
+
+The livable regions of Hypri spiral counterclockwise up the spire. From a human perspective, walking up the city means moving diagonally leftward along the main ascending avenue. Along this spiral path are houses, shops, government buildings, bazaars, parks, alcoves, and more, each tier blending into the next as the city transitions from the bustling Trade Belt to the rarified Summit Zone.
+
+Pockets of greenery — trees, vines, and hanging gardens — sprout from terraces and crevices, softening the starkness of the stone with vibrant splashes of green. Winding around the spire are ethereal tendrils of mist and magical energy, curling like serpents and weaving pathways and highways that pulse and shimmer in the sunlight, alive with motion and magic. Floating glass spheres — miniature greenhouses enclosing thriving ecosystems — orbit the spire at various heights, each a crystalline world adrift, housing tiny forests, groves, and meadows suspended in midair.
+
+Hypri’s wind tunnel system is one of its defining features. These are naturally occurring and magically enhanced currents that serve as transportation corridors and energy distribution networks. Wind tunnels are used by airships, trade vessels, and courier winds, and also connect interior residential and industrial zones, acting like pneumatic boulevards and climate regulators. The wind tunnels are vital veins of the city, channeling both people and resources through the vertical metropolis.
+
+Among these misty currents and glass orbs, sleek flying ships glide gracefully, their organic shapes skimming along invisible highways created by swirling currents. Some are nimble and birdlike, darting between levels, while others are majestic sovereign ships, trailing banners and bearing regal insignias. The overall feeling is one of serene majesty — a civilization that has mastered the verticality of nature, crafting a metropolis in perfect symbiosis with wind, gravity, and life. Above it all, the sky stretches wide and soft, painted in dreamy blues and whites, the light diffused through layers of mist and vapor, as if the very heavens cradle this wondrous place.
+
+Home to approximately 230,000 permanent residents and a fluctuating population of over 1 million traders, diplomats, and visitors, Hypri's architectural marvel comes not just from its striking silhouette against the sky but from its apparent defiance of natural laws. The gravitational fields surrounding the spire—believed locally to emanate from special ore within the stone—create a unique environment where buildings can be constructed at seemingly impossible angles, and single-person airships navigate around the towering structure along invisible currents.
+
+<!-- wiki-header-section:end -->
+
+<!-- taxonomy-table-section:start -->
 <div class="taxonomy-table">
   <table>
     <tr>
@@ -43,28 +52,38 @@ _Pillar City, Skyward Crown, The Spire Court_
     </tr>
     <tr>
       <td class="taxon-label"><img src="wiki_images/icons/order_icon.png" class="taxon-icon">Order:</td>
-      <td class="taxon-content" colspan="2">**Hypri**</td>
+      <td class="taxon-content" colspan="2"><strong>Hypri</strong></td>
     </tr>   
     </table>
 </div>
-
-Hypri is a remarkable city-state built upon and within a single colossal spire that rises dramatically from the vast grasslands of South [[Usaka]]. This massive natural stone formation, reaching between 7,000 to 8,600 meters (23,000 to 28,200 feet) in height with an additional 500 meters (1,640 feet) of uninhabited peak above, stands as one of the most extraordinary geological features of [[Toma]]. Home to approximately 230,000 permanent residents and a fluctuating population of over 1 million traders, diplomats, and visitors, Hypri's architectural marvel comes not just from its striking silhouette against the sky but from its apparent defiance of natural laws. The gravitational fields surrounding the spire—believed locally to emanate from special ore within the stone—create a unique environment where buildings can be constructed at seemingly impossible angles, and single-person airships navigate around the towering structure along invisible currents.
-
-As the seat of the [[Hypri Highcourt]] and home to the enigmatic [[Ahdom Few]], Hypri serves as both cultural melting pot and power nexus in western Usaka, with influence extending across the continent and beyond. While other spires exist across the southern half of Usaka, none approach the scale, complexity, or cultural significance of Hypri.
+<!-- taxonomy-table-section:end -->
 
 ## Geography and Structure
 
-### Venspir
+### Vespir
 
-Unlike the common misconception that Hypri consists of multiple spires, the city-state is built upon and within a single colossal formation that dominates the landscape, known as Venspir. This massive geological anomaly was thrust upward during what locals call the "Great Natura's Rise," but what scholars outside Hypri identify as a powerful tectonic event thousands of years ago. Venspir is composed primarily of ancient metamorphic rock with unique mineral deposits at its core.
+The city-state is built upon and within a single colossal formation that dominates the landscape, known as Vespir. This massive geological anomaly was thrust upward during what locals call the "Great Natura's Rise," but what scholars outside Hypri identify as a powerful tectonic event thousands of years ago. Vespir is composed primarily of ancient metamorphic rock with unique mineral deposits at its core. Its surface is rugged and jagged, yet alive with civilization — entire districts and cities are carved into its crags, spiraling upward in a breathtaking ascent.
+
+The spiral orientation of Hypri’s livable regions means that as one ascends, they follow a counterclockwise path, with the main avenue winding leftward and upward. This spiral is lined with a socioeconomic gradient: lower tiers house bustling markets and working-class neighborhoods, while higher tiers transition to administrative, governmental, and elite residential zones, culminating in the Summit Zone and the domains of the Ahdom Few.
 
 The spire is subdivided into distinct zones that serve different functions within Hypri society:
 
 - **Summit Zone** (8,100-8,600m/26,600-28,200ft) – The uppermost inhabitable section housing the [[Hypri Highcourt]] and administrative centers
 - **Sister Domains** (7,800-8,100m/25,600-26,600ft) – Three adjacent sections converted into the personal domains of the [[Ahdom Few]]
-- **Trade Belt** (7,200-7,800m/23,600-25,600ft) – A wide band circling the spire dedicated to commerce, featuring platforms for airship docking
+- **Trade Belt** (7,200-7,800m/23,600-25,600ft) – A wide band circling the spire dedicated to commerce, featuring platforms for airship docking and the famous Soil Inn. The Trade Belt is Hypri’s central trade hub, wrapping around the spire and home to the Splint, the gravity-cracked heart of Vespir. It is a chaotic yet structured space buzzing with trade, air traffic, and magical logistics. The Soil Inn, the most famous inn within the Trade Belt, serves traders, dignitaries, travelers, and locals. Named after a beloved local poem connected to [[Sibannac]], it functions as both a cultural center and commercial hotspot.
 - **Dwelling Tiers** (7,000-7,200m/23,000-23,600ft) – Multiple ring-like sections where most of the permanent population resides
 - **The Splint Region** (6,800-7,300m/22,300-24,000ft) – A heavily guarded area containing the Splint, a significant crack that runs vertically through a section of the spire
+
+Pockets of greenery — trees, vines, and hanging gardens — sprout from terraces and crevices, softening the starkness of the stone with vibrant splashes of green. Floating glass spheres — miniature greenhouses enclosing thriving ecosystems — orbit the spire at various heights, each a crystalline world adrift, housing tiny forests, groves, and meadows suspended in midair.
+
+The flora of Hypri includes gravitationally adapted plants and cliff-dwelling vegetation: bioluminescent spores, climbing reeds, and thin-threaded vines that pulse with Anim, clinging to stone and glass alike. These plants thrive in the altered gravity and wind-swept microclimates, creating a tapestry of color and light along the spiral path.
+
+**Hypri’s unique ecosystem supports a range of native flying fauna:**
+- Small flying mammals that nest among the roots, vines, and cracks of Vespir, gliding between alcoves and feeding on windborne seeds and insects.
+- Burrowing or clinging creatures that make their homes in the inner walls and crevices of the stone, adapted to the shifting gravity and pressure.
+- A unique species of gravitational raptor-like bird, known for using Hypri’s altered gravity fields to glide in tight, swift spirals around the spire. These birds are culturally significant to Dwellers, symbolizing elegance and mastery, and are often depicted in Hypri art and heraldry.
+
+Winding around the spire are ethereal tendrils of mist and magical energy, curling like serpents and weaving pathways and highways that pulse and shimmer in the sunlight, alive with motion and magic. The wind tunnel system—naturally occurring and magically enhanced—serves as the city’s arteries. These tunnels are used by airships, trade vessels, and couriers, and also connect interior residential and industrial zones, acting as pneumatic boulevards and climate regulators. Wind tunnels are essential for both transportation and energy distribution, making them vital to Hypri’s infrastructure and daily life.
 
 ### Atmospheric Retention and the Gravity Field
 
@@ -80,14 +99,12 @@ The precise mechanisms of these gravitational anomalies remain contentious among
 
 <div class="feathermark">
     <p class="feathermark-attribution">Corvi's Feathermark</p>
-    <p>Oh, they'll tell you the spire rose from the earth in some grand, divine spectacle—the birth pangs of creation, a miracle of geological whimsy! Such delightful propaganda! The stone speaks different truths to those who know how to listen.</p>
-    <p>This isn't a natural formation at all, but the calcified remains of something that once stretched between worlds. Look closely at the striations in the rock face next time you visit—they don't follow geological patterns; they pulse with directionality, like massive fossilized arteries. The Dwellers know this truth in their bones, which is precisely why they worship and fear the spire in equal measure.</p>
-    <p>And that crack in the Splint? Not a crack at all, but a mouth slowly working its way open again after millennia. The guards aren't protecting something; they're containing it. What's more, the "atmospheric retention" they claim as a miraculous property is simply the creature breathing—holding air in its enormous lungs as it slumbers, dreaming of the day it will exhale and send us all tumbling into the abyss.</p>
+    
 </div>
 
 ### The Splint and Ankelore
 
-At the heart of Hypri's mysteries lies the Splint, a dramatic crack that runs from near the summit to approximately halfway down Venspir's shaft. Within this fissure lies what the Hypri Highcourt calls "Ankelore"—a [[Hollow Resource]] created through the death-process of the [[Natura]] [[Kingdom]]. This rare ore is responsible for generating the unusual gravitational fields that make Hypri's architecture, transportation systems, and atmospheric retention possible.
+At the heart of Hypri's mysteries lies the Splint, a dramatic crack that runs from near the summit to approximately halfway down Vespir's shaft. Within this fissure lies what the Hypri Highcourt calls "Ankelore"—a [[Hollow Resource]] created through the death-process of the [[Natura]] [[Kingdom]]. This rare ore is responsible for generating the unusual gravitational fields that make Hypri's architecture, transportation systems, and atmospheric retention possible.
 
 Ankelore is encased in a brittle mantle of pale stone known as Gravemarrow—a semi-permeable mineral that absorbs [[Anim]] (belief energy) and prevents its escape. What makes Ankelore unique among resources is that its gravitational effect cannot be predicted by mass alone; instead, the force it exerts depends on how much Anim it has absorbed, making it the only known material whose gravitational field is partially defined by conviction.
 
@@ -152,11 +169,7 @@ These root networks serve multiple functions beyond oxygen production:
 The development and maintenance of these networks is overseen by a specialized guild of cultivators who combine botanical knowledge with pressurization magic to sustain optimal growing conditions.
 
 <div class="feathermark">
-    <p class="feathermark-attribution">Corvi's Feathermark</p>
-    <p>The vastness of human self-deception never fails to astound me. These "grow zones" they've so carefully cultivated—these gardens suspended impossibly in the sky—are not their creation at all. They're parasites, feeding off something far older.</p>
-    <p>Notice how the root systems always curl toward the Splint? How the most vibrant growth occurs in chambers that align with those "random" cracks in the spire's face? That's because they're tapping into vascular networks that long predate human presence here. The spire is not dead stone but dormant flesh.</p>
-    <p>What they call "Embedded Root Networks" are actually the capillary systems of the ancient entity. Their "hydroponic channels" follow pathways carved by fluids that once nourished something unimaginably vast. Even the bioluminescence they so proudly display is merely the faint residual glow of a metabolic process they've inadvertently reactivated.</p>
-    <p>They aren't growing gardens—they're stimulating nerve endings. And one day, the creature will feel enough to wake.</p>
+    
 </div>
 
 ### Wind Automation Systems
@@ -202,19 +215,12 @@ Religious ceremonies often incorporate air plants, particularly those honoring [
 
 Hypri is ruled by the [[Hypri Highcourt]], a governing body presided over by the three serpent sisters collectively known as the [[Ahdom Few]]:
 
-- **[[Ximena Lathen]]** – The Sea Trielder and Drakemaster of [[Lopali]], who publicly appears as Lady Athen to conceal her Concordian lineage. She rules the water-focused aspects of Hypri governance and maintains the isolated [[Imaan Plane]] of [[Heshiu]].
+- **[[Ximena Lathen|Lady Athen]]** – The Sea Trielder and Drakemaster of [[Lopali]].
 
-- **[[Jarma Konich]]** – The Land Trielder and Drakemaster of [[Kautiger]], who has formed a controversial partnership with [[Fuscia Lustin]] of the [[Chain of Delta]], creating a lucrative drug trade. She oversees territorial matters and resource management.
+- **[[Jarma Konich]]** – The Land Trielder and Drakemaster of [[Kautiger]].  
+  _Jarma's reputation among the native Dwellers is notably low, with many suspecting her of self-serving motives and resenting her controversial role in the Moluk trade. This tension is reflected in both social discourse and policy, fueling a cycle of distrust and exclusion._
 
-- **[[Siela Qane]]** – The Sky Trielder and Drakemaster of [[Qa'ura]], a devoted follower of [[Asceptim]] who works as a religious architect. She currently oversees the construction of [[Palas]], an aerial [[Imaan Plane]] dedicated to [[Asath]].
-
-<div class="feathermark">
-    <p class="feathermark-attribution">Corvi's Feathermark</p>
-    <p>The vastness of their deception is matched only by the depth of their ancestral wounds. Each sister carries a fragment of memory from the sundering of Hidraal—a psychic inheritance that drives them toward reunification while simultaneously compelling them to remain separate.</p>
-    <p>Their public personas—carefully constructed masks that hide their true nature—serve as both protection and prison. Ximena's rejection of her Concordian lineage isn't merely political; it's existential. The very name "Leredith" would cause molecular disruption in the carefully maintained belief field that suspends Heshiu between realities.</p>
-    <p>The sisters represent the three primal forces of creation: sea, land, and sky. But there should be four, shouldn't there? Where is the representative of fire, of transformation? Look to the Splint, to what pulses within that "crack," and perhaps you'll understand why they guard it so ferociously.</p>
-    <p>They are not rulers. They are caretakers of something far older than themselves, something that dreams beneath Hypri, something that must never fully awaken.</p>
-</div>
+- **[[Siela Qane]]** – The Sky Trielder and Drakemaster of [[Qa'ura]].
 
 Each Trielder maintains authority over one of the major drakes—the [[Spawn of Hidraal]]—giving them control over powerful primordial entities. This connection to the ancient hydra [[Hidraal]] forms the spiritual and historical foundation of their rule, though this connection is not widely understood among the general population.
 
@@ -226,7 +232,7 @@ The Highcourt's daily operations are managed by a council of elected representat
 
 The most distinctive feature of Hypri's infrastructure is its relationship with gravity. Throughout the city, gravitational fields behave unpredictably by conventional physics. Buildings can be constructed sideways or even upside-down, with residents able to walk normally on all surfaces due to localized gravitational orientation.
 
-This phenomenon is attributed to the gravity ore within the Splint, though the exact nature of this material is closely guarded. What makes Hypri's gravity manipulation unique is that it appears to be sustained by collective belief rather than conventional technology or natural forces. Outsiders often find that their own perception of gravity begins to align with local expectations after extended stays in the city.
+This phenomenon is attributed to the ore within the Splint, though the exact nature of this material is closely guarded. What makes Hypri's gravity manipulation unique is that it appears to be sustained by collective belief rather than conventional technology or natural forces. Outsiders often find that their own perception of gravity begins to align with local expectations after extended stays in the city.
 
 ### Single-Person Airships
 
@@ -236,7 +242,7 @@ The airships typically feature:
 - A small gondola for the pilot
 - Minimal sail or propulsion systems
 - Navigation devices attuned to Hypri's gravitational fields
-- Highly personalized designs reflecting the owner's status and taste
+- Highly personalized designs reflecting the owner's status and taste.
 
 Learning to pilot these vessels is considered a rite of passage for Hypri natives, with children beginning training around age seven. Visitors can hire pilots or attempt to navigate themselves after obtaining proper certification from the Highcourt.
 
@@ -266,19 +272,19 @@ Each highway is maintained by a series of massive wind manipulation towers that 
 
 - **[[Ventari]]** – The northern central spire city, known for its scholarly institutions
 - **[[Aeradyme]]** – The northwestern spire complex, famous for its artistic communities
-- **[[Zephyra]]** – The western outpost city and gateway to [[Theologia]]
+- **[[Zaphira]]** – The western outpost city and gateway to [[Theologia]]
 
-A particularly notable wind highway extends from Zephyra to the continent of [[Theologia]], enabling one-way travel to this narrow western landmass. However, no return highway exists due to the strength of opposing gyre currents, requiring travelers to take sea passage to [[Tayim]] to secure airship transport back to Hypri.
+A particularly notable wind highway extends from Zaphira to the continent of [[Theologia]], enabling one-way travel to this narrow western landmass. However, no return highway exists due to the strength of opposing gyre currents, requiring travelers to take sea passage to [[Tayim]] to secure airship transport back to Hypri.
 
 These wind highways are maintained through cooperative agreements between the spire cities and represent one of the region's most valuable pieces of shared infrastructure. The responsibility for their upkeep falls primarily to the [[Hypri Highcourt]], with [[Siela Qane]] overseeing most operations due to her expertise in aerial pressurization magic.
 
 ### Pressurization Magic and Outlawed Practices
 
-Wind magic, more formally known as pressurization magic, is deeply ingrained in Hypri's culture and technological development. Practitioners manipulate air pressure to create effects ranging from small bursts of controlled wind to massive atmospheric shifts capable of altering local weather patterns.
+Pressurization magic is deeply ingrained in Hypri's culture and technological development. Practitioners manipulate air pressure and density to create effects ranging from small bursts of controlled wind to massive atmospheric shifts.
 
-The three members of the [[Ahdom Few]] are considered the foremost masters of pressurization magic, each specializing in a different form:
+The three sisters of the [[Ahdom Few]] are considered the foremost masters of pressurization magic, each specializing in a different form:
 
-- **[[Jarma Konich]]** – Earth pressurization, manipulating solid matter through compression and decompression
+- **[[Jarma Konich]]** – Land pressurization, manipulating solid matter through compression and decompression
 - **[[Siela Qane]]** – Air pressurization, controlling gaseous elements and atmospheric conditions
 - **[[Ximena Lathen]]** – Water pressurization, influencing liquid states and hydrodynamics
 
@@ -288,7 +294,7 @@ The Hypri Highcourt maintains that tampering with the gravity stones could desta
 
 ## Cultural Diversity and Belief Systems
 
-Hypri is one of the most culturally diverse cities in [[Usaka]], hosting adherents of numerous religious and philosophical traditions. The native population, known as [[Dweller]]s, maintains the oldest belief systems centered around the spires themselves and [[Sibannac]].
+Hypri is the most culturally diverse city in Toma, hosting adherents of numerous religious and philosophical traditions. The native population, known as [[Dweller]]s, maintains the oldest belief systems centered around the spires themselves and [[Sibannac]].
 
 Major belief systems include:
 
@@ -296,53 +302,73 @@ Major belief systems include:
 - **Sibannac Offerings** – Ceremonial practice of casting deceased bodies from the spires as offerings to the grass deity
 - **[[Gludestit]]** – Ancient worship of [[Hidraal]] maintained by some traditionalists
 - **[[Asceptim]]** – Imported faith gaining popularity under [[Siela Qane]]'s influence
+- **[[Klesn]]** - The phylum of the Chain of Delta.
+- **[[Candela]]** - A rapidly growing phylum of southeast Wyldere.
+- **[[Adescep]]** - A recent denomination of Asceptim sprouting in [[Concordia]].
+- **[[Ashprahm]]** -
+- **[[Primalism]]** -
+- **[[Innderdualism]]** -
+- **[[Roundezvi]]** -
+- **[[Pria]]** -
+- **[[Preservus]]** -
+- **[[Oshe]]** -
 - **Various Nesa Devotions** – Worship of different deity-like beings
 
-The term "Nesa" itself has Usakan origins, referring to powerful entities believed to exist beyond mortal understanding. Hypri scholars maintain extensive records of Nesa manifestations throughout history, making the city an important center for theological study.
+
 
 <div class="feathermark">
     <p class="feathermark-attribution">Corvi's Feathermark</p>
-    <p>I have watched children in Hypri learn to navigate the currents between spires—tiny bodies suspended in fragile crafts, caught between terror and exhilaration. They do not understand that their successful flights depend not on their skill but on their innocence, on their unquestioning acceptance of impossibility.</p>
-    <p>As they age, their vessels become more elaborate, compensating for the growing doubt in their minds. By adulthood, the ships require complex mechanisms and calculations to achieve what once came naturally. The oldest pilots carry notebooks filled with arcane formulas that do nothing but quiet their disbelieving minds.</p>
-    <p>The children see what the adults have forgotten—the air between spires is alive with whispers from an older world. Listen carefully as you drift between towers: the sound isn't wind but breath, ancient and patient, feeding on your conviction that you won't fall.</p>
+    <p>
+    The term "Nesa" actually has Usakan origins, referring to powerful entities believed to exist beyond mortal perception. Hypri scholars maintain extensive records of Nesa manifestations throughout history, making the city an important center for theological study.
+    </p>
 </div>
 
 ## Economy and Resources
 
-### The Soil Inn
+### The Trade Belt and the Soil Inn
 
-The economic center of Hypri is a massive structure known as the Soil Inn—a multilevel marketplace carved into and built around one of the smaller spires. Named for a popular local poem that celebrates the fertile ground of Usaka, the Soil Inn hosts hundreds of merchants trading in goods from across Toma.
+The economic center of Hypri is the **Trade Belt**—a multilevel, spiraling marketplace and trade district carved into the spire between 7,200–7,800 meters. The Trade Belt is a chaotic yet structured space buzzing with trade, air traffic, and magical logistics, wrapping around the spire and home to the Splint, the gravity-cracked heart of Vespir.
+
+Within the Trade Belt lies the **Soil Inn**, the most famous inn in Hypri. The Soil Inn serves traders, dignitaries, travelers, and locals, and is named after a beloved local poem connected to [[Sibannac]]. It functions as both a cultural center and commercial hotspot, but it is not the name of the entire marketplace.
 
 Major exports from Hypri include:
 
-- **Cultivated Clay** – Processed by followers of [[Kautiger]] for pottery and construction
-- **[[Moluk]]** – A food substance made from Kautiger's clay that doubles as a mild intoxicant
+- **Cultivated Clay** – Processed by Konich devotees for pottery and construction.
+- **[[Moluk]]** – A clay substance developed by Jarma Konich that doubles as a mild intoxicant.
+
+_Moluk is illegal for consumption and trade within Hypri, but Jarma Konich is legally permitted to export it elsewhere with government approval. Hypri benefits from these exports, and Moluk is allowed to enter the city only for immediate export. Occasionally, criminals have attempted to steal Moluk by breaking onto [[Mudship]]s—airships used for hauling Moluk—before the shipments can leave Hypri._
+
 - **Gravitationally-Altered Materials** – Unique substances processed in the unusual conditions near the Splint
 - **Cartographic Services** – Highly detailed maps of Usaka created by explorers who navigate Sibannac's Carpet
 
 ## Foreign Relations
-
+<!--
 ### Relationship with the Chain of Delta
 
 Hypri maintains complex diplomatic and trade relationships with the [[Chain of Delta]], particularly through [[Jarma Konich]]'s partnership with [[Fuscia Lustin]]. This arrangement has led to Hypri becoming a significant production center for substances exported to the Chain, particularly [[Moluk]], which has gained popularity as an inexpensive recreational drug.
 
 This economic relationship has created tension with [[Siela Qane]]'s religious aspirations and [[Ximena Lathen]]'s isolationist tendencies, representing the internal conflicts among the Ahdom Few.
 
+-->
+
 ### Relationship with Sibannac and the Usakan Growth
 
 Hypri's relationship with Sibannac and the Usakan Growth is defined by suspicion, fear, and cultural prejudice. While Sibannac is officially recognized as a deity and practical partner in waste management and defense, the city's government and native population—especially the Dwellers—view the lower ground and its Growthmind society as a threat to their autonomy and identity.
 
-Hypri's media, art, and education systems are built around a narrative that positions Sibannac as both a cautionary figure and a scapegoat. In plays, children's books, and public stories, Sibannac is depicted as a beautiful, seductive woman who ultimately slaughters or enslaves those too weak to resist her. This simplification is used to empower the native population and maintain a strong sense of nationalism, especially among the small core of Dwellers who see themselves as the true guardians of Hypri's legacy.
+Hypri's media, art, and education systems are built around a narrative that positions Sibannac as a cautionary figure. In plays, children's books, and public stories, Sibannac is depicted as a beautiful, seductive woman who ultimately slaughters or enslaves those too weak to resist her. This story is used to empower the native population and maintain a strong sense of nationalism, especially among the small core of Dwellers who see themselves as the true proponents of Hypri's legacy.
 
-The stories serve to unite the native population against outside influence, particularly from the much larger and more empathetic Usakan Growth society below. While many traders and visitors pass through Hypri for commerce, the city's core identity is fiercely protected by these narratives. The message is clear: only the strong-willed and loyal can resist Sibannac's allure and preserve Hypri's independence.
+The stories serve to unite the native population against outside influence, especially through means of ignorance of the Usakan Growth societies below. While many traders and visitors pass through Hypri for commerce, the city's core identity is fiercely protected by these narratives.
 
+<!--
 In reality, Sibannac does not kill those who are weak; instead, she allows them to fade within her societies. In the Usakan Growth, one's [[Will]] is heavily decayed, but life is good from a communal and cultural standpoint. Disease is a risk for those who do not wear protective clothing, as waste is used as fertilizer and recycled into infrastructure and technology. The contrast between Hypri's nationalist myth and the lived reality of the Growthmind below is a source of ongoing tension and misunderstanding.
+-->
 
+<!--
 ## Historical Connections
 
 ### Hidraal and the Spawn
 
-Though not commonly known among average citizens, Hypri's ruling class maintains knowledge of the city's connection to [[Hidraal]], the ancient three-headed hydra who once dominated the region through the [[Gludestit]] belief system. After Hidraal's beheading, her three heads became the primordial serpents now known as the [[Spawn of Hidraal]]:
+Though not commonly known among average citizens, Hypri's ruling class maintains knowledge of the city's connection to [[Hidraal]], the ancient three-headed hydra who once dominated the region through the [[Gludestit]] phylum. After Hidraal's beheading, her three heads became the primordial serpents now known as the [[Spawn of Hidraal]]:
 
 - [[Lopali]] – The Serpent Ray, a Ferra-Water Natura hybrid controlled by Ximena Lathen
 - [[Kautiger]] – The Oedipwyrm, a multi-headed Ground Natura-Celia hybrid controlled by Jarma Konich
@@ -354,21 +380,7 @@ A fourth entity, [[Hathakrik]], represents Hidraal's regrown body but resides in
 
 The Ahdom Few's true ambition—kept secret from all but their closest confidants—is the eventual reunification of these serpents to restore [[Gludestit]] and liberate primordials from [[Hoard Sickness]], though each sister has different visions of how this should be accomplished.
 
-## Images
-
-<img src="wiki_images/Hypri_Airships.png"><i>Single-person airships navigating between Hypri's spires</i></img>
-
-<img src="wiki_images/Sibannac_Carpet.png"><i>The edge of Sibannac's Carpet seen from one of Hypri's lower platforms</i></img>
-
-## Inspiration
-
-Hypri draws inspiration from various sources, including:
-- Floating mountains of Pandora (Avatar)
-- M.C. Escher's gravity-defying architectural illustrations
-- Japanese pilgrimage mountains
-- Cappadocia's fairy chimneys and cave dwellings
-- Persian tower tombs
-
+-->
 ## Related Wiki Pages
 
 - [[Usaka]]
@@ -383,6 +395,3 @@ Hypri draws inspiration from various sources, including:
 - [[Lopali]]
 - [[Kautiger]]
 - [[Qa'ura]]
-
-
--->

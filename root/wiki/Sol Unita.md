@@ -1,17 +1,57 @@
+<!-- wiki-header-section:start -->
 # Sol Unita
+<p class="nickname">The Sunbound, The Ascendant Class</p>
 
-![[Sol Unita Insignia.jpg]]
+<img src="wiki_images/Sol Unita Insignia.jpg"><i>Insignia of Sol Unita, symbolizing the unity of faith, governance, and technological progress.</i></img>
 
-**Bin:** [[Scape]] <br>
-**Basin:** [[Sacrus]] <br>
-**Eco:** [[Toma]] ([[Sancta]]) of [[Toman Ecoss]]   <br>
-**Kingdom:** [[Huma]]  <br>
-**Phylum:** [[Asceptim]]  <br>
-**Class:** **Sol Unita** <br>
+<blockquote class="wiki-quote">
+    _"Let the light of Asath guide your ascent, for only in unity does the sun rise above all."_  
+    <span class="wiki-quote-attribution">—Ophelia Necesse, Queen of Scender</span>
+</blockquote>
+
+<blockquote class="wiki-quote">
+    _"Faith and science are not rivals, but twin pillars upon which the future is built."_  
+    <span class="wiki-quote-attribution">—Presceptist Maxim</span>
+</blockquote>
+
+Sol Unita is the ruling class of [[Asceptim]], originally known as [[Scender Unita]] during the early years of the [[Line from Few]]. Deeply rooted in faith, scientific progress, and structured governance, Sol Unita prioritizes the technological and spiritual ascension of its people. The capital order of [[Scender]] stands as the heart of this belief system, embodying the principles of Sol Unita’s rule.
+<!-- wiki-header-section:end -->
+
+<!-- taxonomy-table-section:start -->
+<div class="taxonomy-table">
+  <table>
+    <tr>
+      <th colspan="3">Purpose Taxonomy</th>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="wiki_images/icons/bin_icon.png" class="taxon-icon">Bin:</td>
+      <td class="taxon-content" colspan="2">[[Scape]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="wiki_images/icons/basin_icon.png" class="taxon-icon">Basin:</td>
+      <td class="taxon-content" colspan="2">[[Sacrus]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="wiki_images/icons/eco_icon.png" class="taxon-icon">Eco:</td>
+      <td class="taxon-content" colspan="2">[[Toma]] ([[Sancta]]) of [[Toman Ecoss]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="wiki_images/icons/kingdom_icon.png" class="taxon-icon">Kingdom:</td>
+      <td class="taxon-content" colspan="2">[[Huma]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="wiki_images/icons/phylum_icon.png" class="taxon-icon">Phylum:</td>
+      <td class="taxon-content" colspan="2">[[Asceptim]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="wiki_images/icons/class_icon.png" class="taxon-icon">Class:</td>
+      <td class="taxon-content" colspan="2"><strong>Sol Unita</strong></td>
+    </tr>
+  </table>
+</div>
+<!-- taxonomy-table-section:end -->
 
 **Population**: 2.2 million HR
-
-Sol Unita is the ruling leading class of [[Asceptim]], originally known as [[Scender Unita]] during the early years of the [[Line from Few]]. It is a society deeply rooted in faith, scientific progress, and structured governance, all of which prioritize the technological and spiritual ascension of its people. The capital order of [[Scender]] stands as the heart of this belief system, embodying the principles of Sol Unita’s rule.
 
 ---
 

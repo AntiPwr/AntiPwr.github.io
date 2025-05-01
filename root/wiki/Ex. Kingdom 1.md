@@ -1,8 +1,7 @@
-# Zephyra
-<!--
+# Ex. Kingdom 1
 _Add nicknames or alternative titles here_
 
-<img src="wiki_images/Zephyra.png"><i></i></img>
+<img src="wiki_images/Ex. Kingdom 1.png"><i></i></img>
 
 > _"Add a quote about the subject here from within the fictional world"_  
 > **—Quote Attribution**
@@ -46,11 +45,11 @@ _Add nicknames or alternative titles here_
   </table>
 </div>
 
-Write an introductory paragraph about Zephyra here. Summarize what the subject is and its significance within the world.
+Write an introductory paragraph about Ex. Kingdom 1 here. Summarize what the subject is and its significance within the world.
 
 ## Main Section
 
-Write detailed content about Zephyra here, organized into appropriate sections.
+Write detailed content about Ex. Kingdom 1 here, organized into appropriate sections.
 
 <div class="feathermark">
     <p class="feathermark-attribution">Corvi's Feathermark</p>
@@ -64,12 +63,10 @@ Continue with more sections as needed.
 
 ## Images
 
-<img src="wiki_images/Zephyra_detail.png"><i>Caption describing a detailed aspect of Zephyra</i></img>
+<img src="wiki_images/Ex. Kingdom 1_detail.png"><i>Caption describing a detailed aspect of Ex. Kingdom 1</i></img>
 
 ## Related Wiki Pages
 
 - [[Related Page 1]]
 - [[Related Page 2]]
 - [[Related Page 3]]
-
--->

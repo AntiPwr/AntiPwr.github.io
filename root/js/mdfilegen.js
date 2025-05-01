@@ -135,7 +135,7 @@ const DEFAULT_HTML_TEMPLATE = (fileName, displayName) =>
     </main>
 
     <footer class="footer">
-        <p>&copy; 2024 Sea Level. All rights reserved.</p>
+        <p>2024 Sea Level</p>
     </footer>
 
     <!-- Include Showdown.js for markdown parsing -->

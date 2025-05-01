@@ -1,14 +1,9 @@
 # Jarma Konich
+_Land Trielder, Drakemaster of Kautiger, Clay Mistress, Earthbound_
+
+<img src="wiki_images/Jarma Konich.png"><i>Jarma Konich stands resolute as the many-headed shadow of the Kautiger coils behind her—her skin stained by soil and soot, her will unshaken by the weight of her earthbound bond with the Oedipwyrm.</i></img>
+
 <!--
-_Land Trielder, Mistress of Clay, Drakemaster of Kautiger, The Earthbound Sister_
-
-<img src="wiki_images/Jarma_Konich.png"><i>Jarma Konich overseeing the clay cultivation fields at the base of Hypri's Trade Spires</i></img>
-
-> _"Pressure reveals truth. Apply enough force to any substance, and its true nature emerges."_  
-> **—Jarma Konich, address to Moluk Guild apprentices**
-
-> _"The earth remembers what people do to it, and responds accordingly."_  
-> **—Aldo Leopold**
 
 **Bin:** [[Scape]]  
 **Basin:** [[Sacrus]]  
@@ -19,6 +14,10 @@ _Land Trielder, Mistress of Clay, Drakemaster of Kautiger, The Earthbound Sister
 **Order:** [[Ahdom Few]]  
 
 Jarma Konich is one of the three serpent sisters who comprise the [[Ahdom Few]], the ruling council of [[Hypri]]. As Land Trielder, she oversees territorial management, resource acquisition, and the city's material production. Her mastery of solid pressurization magic—the ability to manipulate the density, structure, and movement of earth and stone through precise pressure control—has earned her the title "Mistress of Clay" among Hypri's artisan communities.
+
+**Appearance**
+
+Jarma Konich is a striking figure, her presence marked by a practical, earthy aesthetic. She has black hair that is a little curly and often a bit messy, giving her a look of someone who spends more time working with her hands than tending to her appearance. Her skin is pale but rarely appears clean; it is almost always stained with soft traces of soil, soot, or clay, a testament to her constant involvement in the city's material production and clay cultivation. Jarma's clothing is utilitarian and typically incorporates shades of brown, with black thin roping used both functionally—to tie robes together—and decoratively, as minimalist rope jewelry. She rarely incorporates color into her attire, and when she does, it is subtle and hidden among her otherwise earthy garments, allowing any small hint of color to stand out all the more. This understated approach to dress both reflects and reinforces her reputation as a master of the material world, grounded and unpretentious, yet never careless.
 
 Unlike her more reclusive sister [[Ximena Lathen]], Jarma maintains a highly visible public presence, regularly engaging with trade guilds, production facilities, and the flourishing drug export business she has developed through her controversial partnership with [[Fuscia Lustin]] of the [[Chain of Delta]]. As Drakemaster of [[Kautiger]], the multi-headed Oedipwyrm, she controls one of the most physically intimidating [[Spawn of Hidraal]], using its earth-shaping capabilities to support her economic enterprises.
 
@@ -95,6 +94,14 @@ This economic relationship has created tension within the Ahdom Few:
 - [[Siela Qane]] objects to the recreational use of what she considers a sacred substance
 
 Despite these concerns, the arrangement has brought substantial wealth and influence to Hypri, reinforcing Jarma's position within the Highcourt.
+
+## Reputation Among the Dwellers
+
+Jarma Konich's reputation among the native Dwellers of Hypri is notably low. In closed circles, Dwellers often discuss their suspicions that Jarma harbors ulterior, self-centered motives, believing that her policies and economic maneuvers are designed primarily for her own benefit rather than the common good. While there is some truth to these claims—Jarma is indeed pragmatic and ambitious—the Dwellers' reactionary stance and persistent distrust only serve to reinforce her willingness to act against their interests. This feedback loop has led to increasingly exclusionary policies, especially regarding the regulation of Moluk and the management of Hypri's resources, and has fueled a cycle of mutual antagonism between Jarma and the small but vocal Dweller population.
+
+## Legal Status of Moluk in Hypri
+
+Moluk, the clay-derived substance central to Jarma's economic strategy, is technically illegal for consumption and trade within Hypri itself. However, Jarma Konich is legally permitted—by special approval of the Hypri government—to produce and export Moluk to other regions. This arrangement allows Hypri to benefit from Moluk exports without officially sanctioning its use among its own citizens. Moluk is allowed to enter Hypri only for the purpose of immediate export, and any local distribution or consumption remains strictly prohibited. Despite these regulations, criminal activity persists: there have been several incidents where thieves have broken onto [[Mudship]]s—Moluk-hauling airships—attempting to steal shipments of the valuable substance before it can leave Hypri's airspace.
 
 ## Personal Ambitions and Methods
 

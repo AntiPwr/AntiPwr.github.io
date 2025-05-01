@@ -34,7 +34,7 @@ Major spire clusters include:
 - **Southern Spires** – Home to [[Hypri]], the most populous and influential city in Usaka
 - **Central Northern Spires** – Location of [[Ventari]], known for its academic institutions
 - **Northwestern Spires** – Site of [[Aeradyme]], a cultural and artistic center
-- **Western Spires** – Base of [[Zephyra]], the gateway city to [[Theologia]]
+- **Western Spires** – Base of [[Zaphira]], the gateway city to [[Theologia]]
 
 These spire formations typically contain unique mineral compositions, with the most notable being the gravity-affecting ore found within the Splint of Hypri. Whether other spires contain similar materials remains speculative, as each city guards its geological secrets closely.
 
@@ -75,11 +75,11 @@ The northwestern spire cluster supports [[Aeradyme]], a city of approximately 12
 
 The city is famous for its wind orchestras—massive architectural instruments that create complex harmonies as gyre currents pass through them. These installations attract visitors from across Toma and have established Aeradyme as a center for experimental music and sound art.
 
-### Zephyra
+### Zaphira
 
-The westernmost city, [[Zephyra]], occupies two large spires near Usaka's border with the [[Straits of Gorisain]], which separate the continent from [[Theologia]]. With a population of approximately 90,000, Zephyra functions primarily as a trade hub and cultural crossroads.
+The westernmost city, [[Zaphira]], occupies two large spires near Usaka's border with the [[Straits of Gorisain]], which separate the continent from [[Theologia]]. With a population of approximately 90,000, Zaphira functions primarily as a trade hub and cultural crossroads.
 
-The city maintains the continent's only direct wind highway to Theologia, making it a crucial gateway for academic exchange and commerce between the two landmasses. Zephyra's population is the most diverse of the four cities, with significant communities of Theologian scholars and merchants alongside native Usakans.
+The city maintains the continent's only direct wind highway to Theologia, making it a crucial gateway for academic exchange and commerce between the two landmasses. Zaphira's population is the most diverse of the four cities, with significant communities of Theologian scholars and merchants alongside native Usakans.
 
 ## Culture and Beliefs
 
@@ -116,7 +116,7 @@ The trade in wind-based technologies and expertise represents Usaka's most valua
 
 The interconnected wind highway system linking the four spire cities constitutes one of Usaka's most impressive infrastructural achievements. These highways—artificially maintained air corridors that neutralize or redirect gyre currents—allow for controlled airship travel throughout the continent.
 
-Maintenance of these highways requires continuous cooperation between the spire cities and represents a significant portion of their shared economic activity. The most complex and resource-intensive highway is the one-way passage from Zephyra to Theologia, which must overcome particularly powerful opposing currents.
+Maintenance of these highways requires continuous cooperation between the spire cities and represents a significant portion of their shared economic activity. The most complex and resource-intensive highway is the one-way passage from Zaphira to Theologia, which must overcome particularly powerful opposing currents.
 
 ### Agricultural Systems
 
@@ -128,7 +128,7 @@ In areas dominated by Sibannac's Carpet, carefully negotiated agreements allow f
 
 ### Theologia
 
-Usaka maintains its closest foreign relationship with [[Theologia]], the narrow western continent that serves as a global center for academic and theological study. The one-way wind highway from Zephyra facilitates regular scholarly exchange, while sea routes through [[Tayim]] enable return travel.
+Usaka maintains its closest foreign relationship with [[Theologia]], the narrow western continent that serves as a global center for academic and theological study. The one-way wind highway from Zaphira facilitates regular scholarly exchange, while sea routes through [[Tayim]] enable return travel.
 
 This connection has established Usaka, particularly Hypri, as a protector of academic freedom and cross-cultural dialogue. The Hypri Highcourt provides significant funding for Theologian institutions in exchange for exclusive access to certain research findings, particularly those related to pressurization magic and gravity studies.
 
@@ -142,27 +142,12 @@ Usaka's relationship with other major powers in Toma is complex. The continent m
 
 As an eastern power relatively distant from the central conflicts of Toma, Usaka has historically leveraged its position to maintain neutrality in larger continental disputes while developing advantageous trade relationships with multiple factions.
 
-## Images
-
-<img src="wiki_images/Usaka_Map.png"><i>Map showing the locations of the four major spire cities and wind highway routes</i></img>
-
-<img src="wiki_images/Sibannac_Plains.png"><i>The vast expanse of Sibannac's Carpet surrounding the southern region of Usaka</i></img>
-
-## Inspiration
-
-Usaka draws inspiration from various sources, including:
-- The American Great Plains and prairie ecosystems
-- Cappadocia's fairy chimneys and unusual geological formations
-- Wind farm technologies and renewable energy concepts
-- Australian Aboriginal concepts of songlines and dreamtime
-- Mongolian steppe cultures and nomadic traditions
-
 ## Related Wiki Pages
 
 - [[Hypri]]
 - [[Ventari]]
 - [[Aeradyme]]
-- [[Zephyra]]
+- [[Zaphira]]
 - [[Sibannac]]
 - [[World Gyre]]
 - [[Theologia]]

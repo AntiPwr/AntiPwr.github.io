@@ -13,7 +13,7 @@
     "headings": [
       "Access"
     ],
-    "content": "**Eco:** [[Toma]] ([[Jetti Sound]] and [[Nesil Grassland]], [[Sancta]]) of [[Toman Ecoss]] <br> **Kingdom:** [[Huma]] <br> **Phylum:** [[Asceptim]] <br> **Class:** [[Sol Unita]] <br> **Order:** [[Scender]] (**Access**) <br> The **Access** is the saltwater river that flows from [[Southcatch]]Bay into [[Scender|Scender Proper]], piercing through [[Contribution Band]], [[Acceptance Band]], and [[Ascension Band]] before dropping off into the underside of [[Cless]]. Here, the flow of water, pushed by"
+    "content": "<!-- wiki-header-section:start --> <p class=\"nickname\">The Saltwater River, Artery of Scender</p> <img src=\"wiki_images/Access.png\"><i>The Access, flowing from Southcatch Bay through the heart of Scender.</i></img> <blockquote class=\"wiki-quote\"> _\"All things are drawn toward the center, but only the worthy ascend.\"_ <span class=\"wiki-quote-attribution\">—Asceptim Proverb</span> </blockquote> The **Access** is the saltwater river that flows from [[Southcatch]] Bay into [[Scender|Scender Proper]],"
   },
   {
     "file": "Advancism.html",
@@ -33,7 +33,7 @@
       "Images",
       "Related Wiki Pages"
     ],
-    "content": "_Add nicknames or alternative titles here_ <img src=\"wiki_images/Aeradyme.png\"><i></i></img> > _\"Add a quote about the subject here from within the fictional world\"_ > **—Quote Attribution** > _\"Add a quote from the real world that relates to the subject\"_ > **—Real World Attribution** <div class=\"taxonomy-table\"> <table> <tr> <th colspan=\"3\">Purpose Taxonomy</th> </tr> <tr> <td class=\"taxon-label\"><img src=\"../wiki_images/icons/bin_icon.png\" class=\"taxon-icon\">Bin:</td> <td class=\"taxon-content"
+    "content": "<!-- _Add nicknames or alternative titles here_ <img src=\"wiki_images/Aeradyme.png\"><i></i></img> > _\"Add a quote about the subject here from within the fictional world\"_ > **—Quote Attribution** > _\"Add a quote from the real world that relates to the subject\"_ > **—Real World Attribution** <div class=\"taxonomy-table\"> <table> <tr> <th colspan=\"3\">Purpose Taxonomy</th> </tr> <tr> <td class=\"taxon-label\"><img src=\"../svg/bin.svg\" class=\"taxon-icon\">Bin:</td> <td class=\"taxon-content\" colspan=\"2\">"
   },
   {
     "file": "Agraial Tribelands.html",
@@ -52,6 +52,18 @@
     "content": "<img src=\"Agresta Jungle.md\"></img> **Eco:** [[Toma]] (**Agresta Jungle** of [[Sancta]]) of [[Toman Ecoss]] <br> **Agresta Jungle** is a the largest rainforest region of [[Toma]], found in northeast [[Sancta]]. This jungle canopy reaches, at times, miles over the [[Swirling Sea]], slowing the breeze, creating a rich breeding and hunting environment for many creatures. "
   },
   {
+    "file": "Agresta.html",
+    "title": "Agresta",
+    "headings": [
+      "Agresta",
+      "Main Section",
+      "Additional Sections",
+      "Images",
+      "Related Wiki Pages"
+    ],
+    "content": "_Add nicknames or alternative titles here_ <img src=\"wiki_images/Agresta.png\"><i></i></img> > _\"Add a quote about the subject here from within the fictional world\"_ > **—Quote Attribution** > _\"Add a quote from the real world that relates to the subject\"_ > **—Real World Attribution** <div class=\"taxonomy-table\"> <table> <tr> <th colspan=\"3\">Purpose Taxonomy</th> </tr> <tr> <td class=\"taxon-label\"><img src=\"../wiki_images/icons/bin_icon.png\" class=\"taxon-icon\">Bin:</td> <td class=\"taxon-content\""
+  },
+  {
     "file": "Ahdom Few.html",
     "title": "Ahdom Few",
     "headings": [
@@ -65,7 +77,7 @@
     "headings": [
       "Albumaiyhet"
     ],
-    "content": "><i>the Mean</i> <img src=\"Albumaiyhet.png\"><i></i></img> Albumaiyhet is the deity worshipped in [[Innerdualism]]. He is thought to be a being of void heard and seen only in [[Stagnant State]], when one is most vulnerable and introspective."
+    "content": "><i>the Mean</i> <img src=\"Albumaiyhet.png\"><i></i></img> Albumaiyhet is the deity worshipped by [[Innerdualism|Innerdualists]] with the largest practicing population known as the [[Walkers of Duality]]. He is thought to be a being of void heard and seen only in [[Stagnant State]], when one is most vulnerable and introspective."
   },
   {
     "file": "Alevery Commons.html",
@@ -101,7 +113,7 @@
       "Images",
       "Related Wiki Pages"
     ],
-    "content": "_Add nicknames or alternative titles here_ <img src=\"wiki_images/Ankelore.png\"><i></i></img> > _\"Add a quote about the subject here from within the fictional world\"_ > **—Quote Attribution** > _\"Add a quote from the real world that relates to the subject\"_ > **—Real World Attribution** <div class=\"taxonomy-table\"> <table> <tr> <th colspan=\"3\">Purpose Taxonomy</th> </tr> <tr> <td class=\"taxon-label\"><img src=\"../wiki_images/icons/bin_icon.png\" class=\"taxon-icon\">Bin:</td> <td class=\"taxon-content"
+    "content": "_Add nicknames or alternative titles here_ <img src=\"wiki_images/Ankelore.png\"><i></i></img> > _\"Add a quote about the subject here from within the fictional world\"_ > **—Quote Attribution** > _\"Add a quote from the real world that relates to the subject\"_ > **—Real World Attribution** <div class=\"taxonomy-table\"> <table> <tr> <th colspan=\"3\">Purpose Taxonomy</th> </tr> <tr> <td class=\"taxon-label\"><img src=\"../svg/bin.svg\" class=\"taxon-icon\">Bin:</td> <td class=\"taxon-content\" colspan=\"2\">[[Sca"
   },
   {
     "file": "Anosdi.html",
@@ -144,7 +156,7 @@
       "Properties and Uses",
       "Related Pages"
     ],
-    "content": "**Bin:** [[Scape]] **Basin:** [[Sacrus]] **Eco:** [[Toma]] of [[Toman Ecoss]] **Kingdom:** [[Primordial]] ([[Celia]], [[Huma]], [[Natura]], [[Bluma]], [[Spira]]) **Resource**: [[Hollow Resource]], [[Primma]] ([[Aprima]]) <img src=\"wiki_images/Aprima.png\"><i>Aprima</i></img> Aprima is the purest form of [[Primma]], a rare and highly revered [[Hollow Resource]] believed to be derived from the remains of the [[Primordial]], [[Alwa]]. It is distinguished by its brilliant white color. In [[Sol Unita]"
+    "content": "<!-- wiki-header-section:start --> <p class=\"nickname\">The White Resource, Sunstone</p> <img src=\"wiki_images/Aprima.png\"><i>Aprima, the luminous white hollow resource, revered in Sol Unita for its purity and spiritual significance.</i></img> <blockquote class=\"wiki-quote\"> _\"Aprima is the light made solid, the memory of ascension etched in stone.\"_ <span class=\"wiki-quote-attribution\">—Sol Unita Artisan</span> </blockquote> Aprima is the purest form of [[Primma]], a rare and highly revered [[Ho"
   },
   {
     "file": "Arkon.html",
@@ -163,16 +175,17 @@
       "The Chamber of Light",
       "Role in Asceptim"
     ],
-    "content": ">_Allcatch, House of the Sitting Sun_ <img src=\"wiki_images/Asath Sanctuary.png\"><i></i></img> **Bin:** [[Scape]] **Basin:** [[Sacrus]] **Eco:** [[Toma]] ([[Sancta]], [[Jeti Sound]]) of [[Toman Ecoss]] **Kingdom:** [[Huma]] **Phylum:** [[Asceptim]] **Class:** [[Sol Unita]] **Order:** [[Scender]] ([[Southcatch]], [[Gaudis]], **Asath Sanctuary**) The Asath Sanctuary is the largest place of worship dedicated to [[Asath]], the central deity of the [[Asceptim]] phylum. Located on the island of [[Gaud"
+    "content": "<!-- wiki-header-section:start --> <p class=\"nickname\">Allcatch, House of the Sitting Sun</p> <img src=\"wiki_images/Asath Sanctuary.png\"><i>The Asath Sanctuary on Gaudis, illuminated by the rising sun over Southcatch Bay.</i></img> <blockquote class=\"wiki-quote\"> _\"In the chamber of light, all burdens are lifted, and the soul is made clear.\"_ <span class=\"wiki-quote-attribution\">—Sanctuary Guide</span> </blockquote> The Asath Sanctuary is the largest place of worship dedicated to [[Asath]], the "
   },
   {
     "file": "Asath.html",
     "title": "Asath",
     "headings": [
+      "Asath",
       "Appearance and Symbolism",
       "Role in Asceptim"
     ],
-    "content": "_The Eye_ ![[Asath.png]] _Appearance of the sun during a [[Toman Sun#Shortstars and Longstars|shortstar]] celebration in Scender._ **Bin:** [[Scape]] **Basin:** [[Sacrus]] **Eco:** [[Toma]] of [[Toman Ecoss]] **Kingdom:** [[Huma]] **Phylum:** [[Asceptim]] Asath, also known as the Eye, is a [[Nesa]] worshipped by the followers of the [[Asceptim]] phylum. Asath is not a considered a living deity but rather a celestial ever-present energy felt as a growing pleasure and warmth. The [[Rite of Passage"
+    "content": "<!-- wiki-header-section:start --> <p class=\"nickname\">The Eye</p> <img src=\"wiki_images/Asath (Fractal).png\"><i>Appearance of the sun during a [[Toman Sun#Shortstars and Longstars|shortstar]] celebration in Scender.</i></img> <!-- <blockquote class=\"wiki-quote\"> _\"The sun's gaze is endless, and in its warmth, all things are revealed.\"_ <span class=\"wiki-quote-attribution\">—Asceptim Hymn</span> </blockquote> --> Asath, also known as the Eye, is a [[Nesa]] worshipped by the followers of the [[Asc"
   },
   {
     "file": "Asceptim (Cleric Domain).html",
@@ -202,7 +215,7 @@
       "Cultural and Religious Impact",
       "Related Wiki Pages"
     ],
-    "content": "<img src=\"wiki_images/Asceptim.png\"><i></i></img> **Bin:** [[Scape]] **Basin:** [[Sacrus]] **Eco:** [[Toma]] of [[Toman Ecoss]] **Kingdom:** [[Huma]] **Phylum:** [[Asceptim]] **Asceptim** is a religious [[Phylum]] most notably governed and advanced by [[Sol Unita]], centered on the pursuit of **[[Sol Proscima]]**, the state of ultimate fulfillment and enlightenment thought to exist in an unseen celestial geography. Its teachings are based on the metaphor of sunlight evaporating water—where the p"
+    "content": "<!-- wiki-header-section:start --> <p class=\"nickname\">Doctrine of Ascension</p> <img src=\"wiki_images/Asceptim.png\"><i>A guide of Asceptim inside a Tayiman prayerground.</i></img> <blockquote class=\"wiki-quote\"> _\"The sun does not choose what it lifts; all water rises in its light.\"_ <span class=\"wiki-quote-attribution\">—Guide of Sol Unita</span> </blockquote> <blockquote class=\"wiki-quote\"> _\"To ascend is to fulfill the purpose of being, leaving behind the shadow of want.\"_ <span class=\"wiki-q"
   },
   {
     "file": "Ashprahm.html",
@@ -301,7 +314,7 @@
       "Related Concepts",
       "Related Wiki Pages"
     ],
-    "content": "_The Plant Kingdom, Growthkind, Green Web_ <img src=\"wiki_images/Bluma.png\"><i>Interconnected root systems and diverse plant forms representing the Bluma kingdom</i></img> > _\"All that grows, all that roots, all that weaves the world together—these are the children of Bluma.\"_ > **—Usakan Growthmind Proverb** > _\"Plants are the silent architects of every ecosystem.\"_ > **—Robin Wall Kimmerer** **Eco:** [[Toma]] **Kingdom:** Bluma The **Bluma** kingdom encompasses all plant life within [[Toma]], "
+    "content": "<!-- _The Plant Kingdom, Growthkind, Green Web_ <img src=\"wiki_images/Bluma.png\"><i>Interconnected root systems and diverse plant forms representing the Bluma kingdom</i></img> > _\"All that grows, all that roots, all that weaves the world together—these are the children of Bluma.\"_ > **—Usakan Growthmind Proverb** > _\"Plants are the silent architects of every ecosystem.\"_ > **—Robin Wall Kimmerer** **Eco:** [[Toma]] **Kingdom:** Bluma The **Bluma** kingdom encompasses all plant life within [[Tom"
   },
   {
     "file": "Bobit.html",
@@ -385,13 +398,21 @@
       "The Tale of Tong",
       "Related Wiki Pages"
     ],
-    "content": "_The Grass City, Grove of Waste, Sibannac's Heart_ <img src=\"wiki_images/Cilladril.png\"><i>Cilladril's low grass groves and structures built from Hypri's discarded waste</i></img> > _\"In Cilladril, nothing is wasted—every castoff becomes root, every root becomes home.\"_ > **—Usakan Growthmind Saying** **Bin:** [[Scape]] **Basin:** [[Sacrus]] **Eco:** [[Toma]] (South [[Usaka]], [[Hypri's Fall]]) of [[Toman Ecoss]] **Kingdom:** [[Bluma]] + [[Nesa]] **Phylum:** [[Leiqua]] **Class:** [[Usakan Growth"
+    "content": "<!-- _The Grass City, Grove of Waste, Sibannac's Heart_ <img src=\"wiki_images/Cilladril.png\"><i>Cilladril's low grass groves and structures built from Hypri's discarded waste</i></img> > _\"In Cilladril, nothing is wasted—every castoff becomes root, every root becomes home.\"_ > **—Usakan Growthmind Saying** **Bin:** [[Scape]] **Basin:** [[Sacrus]] **Eco:** [[Toma]] (South [[Usaka]], [[Hypri's Fall]]) of [[Toman Ecoss]] **Kingdom:** [[Bluma]] + [[Nesa]] **Phylum:** [[Leiqua]] **Class:** [[Usakan G"
   },
   {
     "file": "Concordia.html",
     "title": "Concordia",
     "headings": [
       "Concordia"
+    ],
+    "content": "<!-- This file was auto-generated. Add your content here. -->"
+  },
+  {
+    "file": "Concordian (Huma).html",
+    "title": "Concordian (Huma)",
+    "headings": [
+      "Concordian (Huma)"
     ],
     "content": "<!-- This file was auto-generated. Add your content here. -->"
   },
@@ -413,7 +434,7 @@
       "Images",
       "Related Wiki Pages"
     ],
-    "content": "_Add nicknames or alternative titles here_ <img src=\"wiki_images/Current Line.png\"><i></i></img> > _\"Add a quote about the subject here from within the fictional world\"_ > **—Quote Attribution** > _\"Add a quote from the real world that relates to the subject\"_ > **—Real World Attribution** <div class=\"taxonomy-table\"> <table> <tr> <th colspan=\"3\">Purpose Taxonomy</th> </tr> <tr> <td class=\"taxon-label\"><img src=\"../wiki_images/icons/bin_icon.png\" class=\"taxon-icon\">Bin:</td> <td class=\"taxon-con"
+    "content": "_Add nicknames or alternative titles here_ <img src=\"wiki_images/Current Line.png\"><i></i></img> > _\"Add a quote about the subject here from within the fictional world\"_ > **—Quote Attribution** > _\"Add a quote from the real world that relates to the subject\"_ > **—Real World Attribution** <div class=\"taxonomy-table\"> <table> <tr> <th colspan=\"3\">Purpose Taxonomy</th> </tr> <tr> <td class=\"taxon-label\"><img src=\"../svg/bin.svg\" class=\"taxon-icon\">Bin:</td> <td class=\"taxon-content\" colspan=\"2\">["
   },
   {
     "file": "Dar.html",
@@ -436,10 +457,10 @@
     "content": "<!-- This file was auto-generated. Add your content here. -->"
   },
   {
-    "file": "Deck of the Allflame.html",
-    "title": "Deck of the Allflame",
+    "file": "Deck of the Alflame.html",
+    "title": "Deck of the Alflame",
     "headings": [
-      "Deck of the Allflame",
+      "Deck of the Alflame",
       "**Core Stacks Mechanic**",
       "**Individual Cards**",
       "**Ignition**",
@@ -462,7 +483,7 @@
       "**Xathres, Prince of Fire**",
       "**Xerxes, Allfather of Flame**"
     ],
-    "content": "**This deck is not complete and is in a conceptual state of development.** _Forged by Laika Acker, this deck burns with the essence of Fire subnatura, embodying the chaotic beauty of combustion._ **Deck Theme:** Combustion, Fire, Natura <br> **Mechanics:** Stacking, Fire & Force Damage, Summoning<br> --- Stacks represent an escalating exposure to the Allflame’s burning essence. As stacks accumulate on a creature, not only do they suffer additional fire damage each turn, but several card effects "
+    "content": "**This deck is not complete and is in a conceptual state of development.** _Forged by Laika Acker, this deck burns with the essence of Fire subnatura, embodying the chaotic beauty of combustion._ **Deck Theme:** Combustion, Fire, Natura <br> **Mechanics:** Stacking, Fire & Force Damage, Summoning<br> --- Stacks represent an escalating exposure to the Alflame’s burning essence. As stacks accumulate on a creature, not only do they suffer additional fire damage each turn, but several card effects "
   },
   {
     "file": "Deck of the Naive.html",
@@ -511,6 +532,8 @@
     "title": "DM Tools",
     "headings": [
       "DM Tools",
+      "Gitbash | NodeJS | generate_cardinal_arts_index.js",
+      "Gitbash | NodeJS | generate_taxonomy_index.js",
       "Gitbash | NodeJS | mdfilegen.js",
       "Gitbash | Python | md_compiler.py",
       "Gitbash | NodeJS | genWikiJson.js",
@@ -519,7 +542,7 @@
       "Collections",
       "Wiki Update"
     ],
-    "content": "**Creates .md files based on Obsidian markdown links ([[]]) on the target .html page within the root/wiki folder.** <br> <br> - node \"C:/Users/broki/OneDrive/Desktop/Sea Level Website/AntiPwr.github.io/root/js/mdfilegen.js\" \"C:/Users/broki/OneDrive/Desktop/Sea Level Website/AntiPwr.github.io/root/wiki/.md\" **Combines all .md files from a source directory into one or more large Markdown files (\"tomes\"), each capped at 510 MB. Useful for archiving or exporting large Obsidian vaults.** <br> <br> - "
+    "content": "**Scans all .md files in the wiki directory, extracts Cardinal Arts data (e.g., Natural Arts, Soul Arts, Social Arts, Applied Arts) from each, and writes a JSON index for search/filtering.** <br> <br> - node \"C:/Users/broki/OneDrive/Desktop/Sea Level Website/AntiPwr.github.io/root/js/generate_cardinal_arts_index.js\" > **Note:** > If you want to support Cardinal Arts search/filtering, ensure each page includes a `**Cardinal Arts:**` line listing the relevant arts. **Scans all .md files in the wik"
   },
   {
     "file": "Dweller.html",
@@ -531,7 +554,7 @@
       "Images",
       "Related Wiki Pages"
     ],
-    "content": "_Add nicknames or alternative titles here_ <img src=\"wiki_images/Dweller.png\"><i></i></img> > _\"Add a quote about the subject here from within the fictional world\"_ > **—Quote Attribution** > _\"Add a quote from the real world that relates to the subject\"_ > **—Real World Attribution** <div class=\"taxonomy-table\"> <table> <tr> <th colspan=\"3\">Purpose Taxonomy</th> </tr> <tr> <td class=\"taxon-label\"><img src=\"../wiki_images/icons/bin_icon.png\" class=\"taxon-icon\">Bin:</td> <td class=\"taxon-content\""
+    "content": "<!-- _Add nicknames or alternative titles here_ <img src=\"wiki_images/Dweller.png\"><i></i></img> > _\"Add a quote about the subject here from within the fictional world\"_ > **—Quote Attribution** > _\"Add a quote from the real world that relates to the subject\"_ > **—Real World Attribution** <div class=\"taxonomy-table\"> <table> <tr> <th colspan=\"3\">Purpose Taxonomy</th> </tr> <tr> <td class=\"taxon-label\"><img src=\"../wiki_images/icons/bin_icon.png\" class=\"taxon-icon\">Bin:</td> <td class=\"taxon-con"
   },
   {
     "file": "Ember Petal Foundation.html",
@@ -558,14 +581,6 @@
     "content": "<!-- This file was auto-generated. Add your content here. -->"
   },
   {
-    "file": "Ester Slates.html",
-    "title": "Ester Slates",
-    "headings": [
-      "Ester Slates"
-    ],
-    "content": "<!-- This file was auto-generated. Add your content here. -->"
-  },
-  {
     "file": "Falling Stone Covenant.html",
     "title": "Falling Stone Covenant",
     "headings": [
@@ -575,7 +590,7 @@
       "Images",
       "Related Wiki Pages"
     ],
-    "content": "_Add nicknames or alternative titles here_ <img src=\"wiki_images/Falling Stone Covenant.png\"><i></i></img> > _\"Add a quote about the subject here from within the fictional world\"_ > **—Quote Attribution** > _\"Add a quote from the real world that relates to the subject\"_ > **—Real World Attribution** <div class=\"taxonomy-table\"> <table> <tr> <th colspan=\"3\">Purpose Taxonomy</th> </tr> <tr> <td class=\"taxon-label\"><img src=\"../wiki_images/icons/bin_icon.png\" class=\"taxon-icon\">Bin:</td> <td class="
+    "content": "<!-- _Add nicknames or alternative titles here_ <img src=\"wiki_images/Falling Stone Covenant.png\"><i></i></img> > _\"Add a quote about the subject here from within the fictional world\"_ > **—Quote Attribution** > _\"Add a quote from the real world that relates to the subject\"_ > **—Real World Attribution** <div class=\"taxonomy-table\"> <table> <tr> <th colspan=\"3\">Purpose Taxonomy</th> </tr> <tr> <td class=\"taxon-label\"><img src=\"../wiki_images/icons/bin_icon.png\" class=\"taxon-icon\">Bin:</td> <td c"
   },
   {
     "file": "Ferra.html",
@@ -603,7 +618,7 @@
       "Images",
       "Related Wiki Pages"
     ],
-    "content": "_Add nicknames or alternative titles here_ <img src=\"wiki_images/Fuscia Lustin.png\"><i></i></img> > _\"Add a quote about the subject here from within the fictional world\"_ > **—Quote Attribution** > _\"Add a quote from the real world that relates to the subject\"_ > **—Real World Attribution** <div class=\"taxonomy-table\"> <table> <tr> <th colspan=\"3\">Purpose Taxonomy</th> </tr> <tr> <td class=\"taxon-label\"><img src=\"../wiki_images/icons/bin_icon.png\" class=\"taxon-icon\">Bin:</td> <td class=\"taxon-co"
+    "content": "<!-- _Add nicknames or alternative titles here_ <img src=\"wiki_images/Fuscia Lustin.png\"><i></i></img> > _\"Add a quote about the subject here from within the fictional world\"_ > **—Quote Attribution** > _\"Add a quote from the real world that relates to the subject\"_ > **—Real World Attribution** <div class=\"taxonomy-table\"> <table> <tr> <th colspan=\"3\">Purpose Taxonomy</th> </tr> <tr> <td class=\"taxon-label\"><img src=\"../wiki_images/icons/bin_icon.png\" class=\"taxon-icon\">Bin:</td> <td class=\"tax"
   },
   {
     "file": "Gaia.html",
@@ -691,7 +706,7 @@
       "Examples",
       "Related Wiki Pages"
     ],
-    "content": "_The Collective Root, Green Hivemind, Botanical Consciousness_ <img src=\"wiki_images/Growthmind.png\"><i>Visualization of interconnected plant minds forming a single consciousness</i></img> > _\"To join the Growthmind is to become more than oneself—one root among many, one thought among a thousand.\"_ > **—Leiqua Initiate** A **Growthmind** is a plant-based collective consciousness, similar to a hivemind, but achieved through the consumption or integration of plant growth (such as fruit, leaves, or"
+    "content": "<!-- _The Collective Root, Green Hivemind, Botanical Consciousness_ <img src=\"wiki_images/Growthmind.png\"><i>Visualization of interconnected plant minds forming a single consciousness</i></img> > _\"To join the Growthmind is to become more than oneself—one root among many, one thought among a thousand.\"_ > **—Leiqua Initiate** A **Growthmind** is a plant-based collective consciousness, similar to a hivemind, but achieved through the consumption or integration of plant growth (such as fruit, leave"
   },
   {
     "file": "Gyre Shift.html",
@@ -719,7 +734,7 @@
       "Images",
       "Related Wiki Pages"
     ],
-    "content": "_Add nicknames or alternative titles here_ <img src=\"wiki_images/Hathakrik.png\"><i></i></img> > _\"Add a quote about the subject here from within the fictional world\"_ > **—Quote Attribution** > _\"Add a quote from the real world that relates to the subject\"_ > **—Real World Attribution** <div class=\"taxonomy-table\"> <table> <tr> <th colspan=\"3\">Purpose Taxonomy</th> </tr> <tr> <td class=\"taxon-label\"><img src=\"../wiki_images/icons/bin_icon.png\" class=\"taxon-icon\">Bin:</td> <td class=\"taxon-conten"
+    "content": "<!-- _Add nicknames or alternative titles here_ <img src=\"wiki_images/Hathakrik.png\"><i></i></img> > _\"Add a quote about the subject here from within the fictional world\"_ > **—Quote Attribution** > _\"Add a quote from the real world that relates to the subject\"_ > **—Real World Attribution** <div class=\"taxonomy-table\"> <table> <tr> <th colspan=\"3\">Purpose Taxonomy</th> </tr> <tr> <td class=\"taxon-label\"><img src=\"../wiki_images/icons/bin_icon.png\" class=\"taxon-icon\">Bin:</td> <td class=\"taxon-c"
   },
   {
     "file": "Heshiu.html",
@@ -763,15 +778,19 @@
       "Images",
       "Related Wiki Pages"
     ],
-    "content": "_Add nicknames or alternative titles here_ <img src=\"wiki_images/Hollow Resource.png\"><i></i></img> > _\"Add a quote about the subject here from within the fictional world\"_ > **—Quote Attribution** > _\"Add a quote from the real world that relates to the subject\"_ > **—Real World Attribution** <div class=\"taxonomy-table\"> <table> <tr> <th colspan=\"3\">Purpose Taxonomy</th> </tr> <tr> <td class=\"taxon-label\"><img src=\"../wiki_images/icons/bin_icon.png\" class=\"taxon-icon\">Bin:</td> <td class=\"taxon-"
+    "content": "<!-- _Add nicknames or alternative titles here_ <img src=\"wiki_images/Hollow Resource.png\"><i></i></img> > _\"Add a quote about the subject here from within the fictional world\"_ > **—Quote Attribution** > _\"Add a quote from the real world that relates to the subject\"_ > **—Real World Attribution** <div class=\"taxonomy-table\"> <table> <tr> <th colspan=\"3\">Purpose Taxonomy</th> </tr> <tr> <td class=\"taxon-label\"><img src=\"../wiki_images/icons/bin_icon.png\" class=\"taxon-icon\">Bin:</td> <td class=\"t"
   },
   {
-    "file": "Huma#Concordian.html",
-    "title": "Huma#Concordian",
+    "file": "Hollow Resources.html",
+    "title": "Hollow Resources",
     "headings": [
-      "Huma#Concordian"
+      "Hollow Resources",
+      "Formation",
+      "Types of Hollow Resources",
+      "Importance and Use",
+      "See Also"
     ],
-    "content": "<!-- This file was auto-generated. Add your content here. -->"
+    "content": "<!-- wiki-header-section:start --> <p class=\"nickname\">Death-Made Materials, Anim Relics</p> <img src=\"wiki_images/Hollow Resources.png\"><i></i></img> <blockquote class=\"wiki-quote\"> _\"Every hollow resource is a vessel for will that once was.\"_ <span class=\"wiki-quote-attribution\">—Siever Lusitan</span> </blockquote> Hollow Resources are vital materials within the [[Toman Ecoss]], formed through the processes of Mixture and Solution Deaths. These resources are the remnants of organic and inorgan"
   },
   {
     "file": "Huma.html",
@@ -796,7 +815,7 @@
     "headings": [
       "Hypri",
       "Geography and Structure",
-      "Venspir",
+      "Vespir",
       "Atmospheric Retention and the Gravity Field",
       "The Splint and Ankelore",
       "Sibannac's Carpet",
@@ -818,17 +837,15 @@
       "Pressurization Magic and Outlawed Practices",
       "Cultural Diversity and Belief Systems",
       "Economy and Resources",
-      "The Soil Inn",
+      "The Trade Belt and the Soil Inn",
       "Foreign Relations",
       "Relationship with the Chain of Delta",
       "Relationship with Sibannac and the Usakan Growth",
       "Historical Connections",
       "Hidraal and the Spawn",
-      "Images",
-      "Inspiration",
       "Related Wiki Pages"
     ],
-    "content": "_Pillar City, Skyward Crown, The Spire Court_ <img src=\"wiki_images/Hypri.png\"><i>The main spire of Hypri rising above the sea of Sibannac's grass at dawn</i></img> > _\"Three powers balance on stone that defies nature; such is the way of Hypri, where belief itself shapes gravity's pull.\"_ > **—Ahdom Few Proclamation, 27th year of the Current Line** > _\"Architecture begins where engineering ends.\"_ > **—Walter Gropius** <div class=\"taxonomy-table\"> <table> <tr> <th colspan=\"3\">Purpose Taxonomy</t"
+    "content": "_Windy Sister, Skyward Court_ <img src=\"wiki_images/Hypri.png\"><i>The main spire of Hypri rising above the Usakan Growth. A colossal stone spire dominates a sea of thick, churning clouds, its jagged, golden-beige surface alive with cities carved into its crags and terraces. Hanging gardens, floating glass spheres, and winding misty currents create a breathtaking vertical metropolis, where civilization clings to impossible heights and flying ships glide along shimmering, magical airways.</i></img"
   },
   {
     "file": "Imaan Plane.html",
@@ -874,6 +891,7 @@
     "file": "Jarma Konich.html",
     "title": "Jarma Konich",
     "headings": [
+      "Jarma Konich",
       "Origins and Public Identity",
       "Family Background",
       "Rise to Power",
@@ -891,7 +909,7 @@
       "Inspiration",
       "Related Wiki Pages"
     ],
-    "content": "<!--# Jarma Konich _Land Trielder, Mistress of Clay, Drakemaster of Kautiger, The Earthbound Sister_ <img src=\"wiki_images/Jarma_Konich.png\"><i>Jarma Konich overseeing the clay cultivation fields at the base of Hypri's Trade Spires</i></img> > _\"Pressure reveals truth. Apply enough force to any substance, and its true nature emerges.\"_ > **—Jarma Konich, address to Moluk Guild apprentices** > _\"The earth remembers what people do to it, and responds accordingly.\"_ > **—Aldo Leopold** **Bin:** [[S"
+    "content": "<!-- _Land Trielder, Mistress of Clay, Drakemaster of Kautiger, The Earthbound Sister_ <img src=\"wiki_images/Jarma_Konich.png\"><i>Jarma Konich overseeing the clay cultivation fields at the base of Hypri's Trade Spires</i></img> > _\"Pressure reveals truth. Apply enough force to any substance, and its true nature emerges.\"_ > **—Jarma Konich, address to Moluk Guild apprentices** > _\"The earth remembers what people do to it, and responds accordingly.\"_ > **—Aldo Leopold** **Bin:** [[Scape]] **Basin"
   },
   {
     "file": "Jeti Sound.html",
@@ -1005,7 +1023,15 @@
       "Biological Aspect",
       "Related Wiki Pages"
     ],
-    "content": "_Phylum of Interest, The Enticing Faith, Growthmind Doctrine_ <img src=\"wiki_images/Leiqua.png\"><i>Symbolic depiction of Sibannac's Avatar engaging travelers in games and conversation</i></img> > _\"Desire is the root, curiosity the vine—Leiqua is the garden where all interests entwine.\"_ > **—Leiqua Priestess** **Phylum:** Leiqua **Kingdom:** [[Bluma]] **Associated with:** [[Sibannac]], [[Growthmind]], [[Usakan Growth]] **Leiqua** is both a biological phylum and a religious tradition centered on"
+    "content": "<!-- _Phylum of Interest, The Enticing Faith, Growthmind Doctrine_ <img src=\"wiki_images/Leiqua.png\"><i>Symbolic depiction of Sibannac's Avatar engaging travelers in games and conversation</i></img> > _\"Desire is the root, curiosity the vine—Leiqua is the garden where all interests entwine.\"_ > **—Leiqua Priestess** **Phylum:** Leiqua **Kingdom:** [[Bluma]] **Associated with:** [[Sibannac]], [[Growthmind]], [[Usakan Growth]] **Leiqua** is both a biological phylum and a religious tradition center"
+  },
+  {
+    "file": "Lightwilds.html",
+    "title": "Lightwilds",
+    "headings": [
+      "Lightwilds"
+    ],
+    "content": "<!-- This file was auto-generated. Add your content here. -->"
   },
   {
     "file": "Line from Few.html",
@@ -1065,6 +1091,17 @@
     "content": "*\"Two roads diverged in a wood, and I, I took the one less traveled by, and that had made all the difference.\"* - **Robert Frost** The <a href=\"Merchant System.html\">Merchant System</a> encompasses a grouping of belief-based magic frameworks within the Toman Ecoss, including <a href=\"Source Surge.html\">Source Surges</a>, <a href=\"Discovery Inspiration.html\">Discovery Inspiration</a>, and <a href=\"Sea Level Spell.html\">Sea Level Spells</a>. Its purpose is to let characters harness the power of th"
   },
   {
+    "file": "Metageography.html",
+    "title": "Metageography",
+    "headings": [
+      "Metageography",
+      "Metageography in Toma",
+      "Relationship to Hollow Resources",
+      "See Also"
+    ],
+    "content": "<!-- wiki-header-section:start --> <p class=\"nickname\">Death-Drawn Landscapes, Anim Cartography</p> <img src=\"wiki_images/Metageography.png\"><i>Visualizing the transformation of Toma's landscapes through cycles of death and belief.</i></img> <blockquote class=\"wiki-quote\"> _\"In Toma, the land is not merely shaped by wind and water, but by the memory of every life and the echo of every death.\"_ <span class=\"wiki-quote-attribution\">—Sol Unita Geomancer</span> </blockquote> <blockquote class=\"wiki-"
+  },
+  {
     "file": "Mohrsmünt.html",
     "title": "Mohrsmünt",
     "headings": [
@@ -1082,7 +1119,7 @@
       "Images",
       "Related Wiki Pages"
     ],
-    "content": "_Add nicknames or alternative titles here_ <img src=\"wiki_images/Moluk.png\"><i></i></img> > _\"Add a quote about the subject here from within the fictional world\"_ > **—Quote Attribution** > _\"Add a quote from the real world that relates to the subject\"_ > **—Real World Attribution** <div class=\"taxonomy-table\"> <table> <tr> <th colspan=\"3\">Purpose Taxonomy</th> </tr> <tr> <td class=\"taxon-label\"><img src=\"../wiki_images/icons/bin_icon.png\" class=\"taxon-icon\">Bin:</td> <td class=\"taxon-content\" c"
+    "content": "<!-- _Add nicknames or alternative titles here_ <img src=\"wiki_images/Moluk.png\"><i></i></img> > _\"Add a quote about the subject here from within the fictional world\"_ > **—Quote Attribution** > _\"Add a quote from the real world that relates to the subject\"_ > **—Real World Attribution** <div class=\"taxonomy-table\"> <table> <tr> <th colspan=\"3\">Purpose Taxonomy</th> </tr> <tr> <td class=\"taxon-label\"><img src=\"../wiki_images/icons/bin_icon.png\" class=\"taxon-icon\">Bin:</td> <td class=\"taxon-conte"
   },
   {
     "file": "Monstra.html",
@@ -1125,20 +1162,15 @@
       "Nature and Characteristics",
       "Appearance",
       "Activity Cycles",
-      "Classifications and Domains",
       "Nesa of Fealty",
       "Nesa of Duality",
       "Nesa of Kingdoms",
       "Organization and Relationships",
       "Cultural Understanding",
       "Usakan Etymology",
-      "Regional Variations",
-      "Influence and Legacy",
-      "Images",
-      "Inspiration",
-      "Related Wiki Pages"
+      "Regional Variations"
     ],
-    "content": "_Lesser Gods, Divine Mediators, Voices of Creation_ <img src=\"wiki_images/Nesa.png\"><i>Artistic representation of Nesa manifestations during a major belief event</i></img> > _\"To understand the Nesa is to understand the architecture of our world—they are not merely gods, but the living blueprints of existence itself.\"_ > **—Ustun Narjik, Usakan Theologian** > _\"The gods of men are the children of greater forces, caught between their creators' arguments and their creations' prayers.\"_ > **—Neil G"
+    "content": "<!-- _Lesser Gods, Divine Mediators, Voices of Creation_ <img src=\"wiki_images/Nesa.png\"><i>Artistic representation of Nesa manifestations during a major belief event</i></img> > _\"The gods of men are the children of greater forces, caught between their creators' arguments and their creations' prayers.\"_ > **—Neil Gaiman** <!-- taxonomy-table-section:start --> <div class=\"taxonomy-table\"> <table> <tr> <th colspan=\"3\">Purpose Taxonomy</th> </tr> <tr> <td class=\"taxon-label\"><img src=\"wiki_images/"
   },
   {
     "file": "Nesil Grassland.html",
@@ -1185,7 +1217,7 @@
       "Rise To Power",
       "Related Wiki Pages"
     ],
-    "content": ">_Queen of Scender, Cyberqueen, Guide to Asath, Fallen Apostle, Pure Messiah_ <img src=\"wiki_images/Ophelia Necesse.png\"></img> > *\"If you are a gifted person, it doesn’t mean that you gained something. It means you have something to give back.\"* - **Carl Jung** > *\"Tread carefully, hatred is tectonic.\"* - **Ophelia Necesse** **Eco:** [[Toma]] of [[Toman Ecoss]] **Kingdom:** [[Huma]] **Phylum:** [[Asceptim]] **Class:** [[Sol Unita]] **Order:** [[Scender]] **Family:** [[Necesse Sanct]] **Essa:** "
+    "content": "> _Queen of Scender, Cyberqueen, Guide to Asath, Fallen Apostle, Pure Messiah_ <img src=\"wiki_images/Ophelia Necesse.png\"></img> > _\"Tread carefully, hatred is tectonic.\"_ > **—Ophelia Necesse** **Ophelia Necesse**, also known as the Fallen Apostle, is the reigning queen of [[Scender]] in the [[Current Line]]. As the leader of [[Sol Unita]], she balances the royal sancts in their development of faith, technological advancement, and governance. Her rule is defined by her desire to reduce human su"
   },
   {
     "file": "Orc.html",
@@ -1217,7 +1249,7 @@
     "headings": [
       "Out and Inn"
     ],
-    "content": "<!-- This file was auto-generated. Add your content here. -->"
+    "content": ""
   },
   {
     "file": "Outi Canoes.html",
@@ -1237,7 +1269,19 @@
       "Images",
       "Related Wiki Pages"
     ],
-    "content": "_Add nicknames or alternative titles here_ <img src=\"wiki_images/Palas.png\"><i></i></img> > _\"Add a quote about the subject here from within the fictional world\"_ > **—Quote Attribution** > _\"Add a quote from the real world that relates to the subject\"_ > **—Real World Attribution** <div class=\"taxonomy-table\"> <table> <tr> <th colspan=\"3\">Purpose Taxonomy</th> </tr> <tr> <td class=\"taxon-label\"><img src=\"../wiki_images/icons/bin_icon.png\" class=\"taxon-icon\">Bin:</td> <td class=\"taxon-content\" c"
+    "content": "<!-- _Add nicknames or alternative titles here_ <img src=\"wiki_images/Palas.png\"><i></i></img> > _\"Add a quote about the subject here from within the fictional world\"_ > **—Quote Attribution** > _\"Add a quote from the real world that relates to the subject\"_ > **—Real World Attribution** <div class=\"taxonomy-table\"> <table> <tr> <th colspan=\"3\">Purpose Taxonomy</th> </tr> <tr> <td class=\"taxon-label\"><img src=\"../wiki_images/icons/bin_icon.png\" class=\"taxon-icon\">Bin:</td> <td class=\"taxon-conte"
+  },
+  {
+    "file": "Parable of Silent Content.html",
+    "title": "Parable of Silent Content",
+    "headings": [
+      "Parable of Silent Content",
+      "Main Section",
+      "Additional Sections",
+      "Images",
+      "Related Wiki Pages"
+    ],
+    "content": "_Add nicknames or alternative titles here_ <img src=\"wiki_images/Parable of Silent Content.png\"><i></i></img> > _\"Add a quote about the subject here from within the fictional world\"_ > **—Quote Attribution** > _\"Add a quote from the real world that relates to the subject\"_ > **—Real World Attribution** <div class=\"taxonomy-table\"> <table> <tr> <th colspan=\"3\">Purpose Taxonomy</th> </tr> <tr> <td class=\"taxon-label\"><img src=\"../wiki_images/icons/bin_icon.png\" class=\"taxon-icon\">Bin:</td> <td cla"
   },
   {
     "file": "Phylum.html",
@@ -1298,7 +1342,7 @@
       "Purpose Taxonomy",
       "Taxonomic Ranks",
       "Creation and Evolution",
-      "Classification Template",
+      "Classification Example",
       "Exception-Branching"
     ],
     "content": "**Purpose Taxonomy** is a classification system designed to organize life by its connected belief structures and destinies across the universe. It arranges existence into a vertical hierarchy of taxons—ranging from the grand scale of the universe down to the singular soul’s purpose—that define everything from geography and government to faith and dimension. At the core of this system is the recognition that every soul possesses a unique, quantized vision for the future—its intrinsic signature, t"
@@ -1313,7 +1357,7 @@
       "Images",
       "Related Wiki Pages"
     ],
-    "content": "_Add nicknames or alternative titles here_ <img src=\"wiki_images/Qa'ura.png\"><i></i></img> > _\"Add a quote about the subject here from within the fictional world\"_ > **—Quote Attribution** > _\"Add a quote from the real world that relates to the subject\"_ > **—Real World Attribution** <div class=\"taxonomy-table\"> <table> <tr> <th colspan=\"3\">Purpose Taxonomy</th> </tr> <tr> <td class=\"taxon-label\"><img src=\"../wiki_images/icons/bin_icon.png\" class=\"taxon-icon\">Bin:</td> <td class=\"taxon-content\" "
+    "content": "<!-- _Add nicknames or alternative titles here_ <img src=\"wiki_images/Qa'ura.png\"><i></i></img> > _\"Add a quote about the subject here from within the fictional world\"_ > **—Quote Attribution** > _\"Add a quote from the real world that relates to the subject\"_ > **—Real World Attribution** <div class=\"taxonomy-table\"> <table> <tr> <th colspan=\"3\">Purpose Taxonomy</th> </tr> <tr> <td class=\"taxon-label\"><img src=\"../svg/bin.svg\" class=\"taxon-icon\">Bin:</td> <td class=\"taxon-content\" colspan=\"2\">[["
   },
   {
     "file": "Resonant.html",
@@ -1470,7 +1514,7 @@
       "Styling Guide",
       "Feathermarks"
     ],
-    "content": "A wikipedia for the Scape, a TTRPG-inspired worldbuilding project. Explore key areas of the Scape Wiki through [[Purpose Taxonomy]] or the [[Cardinal Arts]]: - [[Natural Arts]]: The **Natural Arts** encompasses the study of physical environments, including landscapes, ecosystems, elemental forces, and natural phenomena. It covers locations such as mountains, forests, and celestial regions, along with the lore and ideologies associated with elemental magic and the natural order. - [[Soul Arts]]: "
+    "content": "![Sourcewaters](wiki_images/Sourcewaters%204.png) <p style=\"text-align:center;\">A wikipedia for the Scape, a TTRPG-inspired worldbuilding project.</p> Explore key areas of the Scape Wiki through [[Purpose Taxonomy]] or the [[Cardinal Arts]]: - [[Natural Arts]]: The **Natural Arts** encompasses the study of physical environments, including landscapes, ecosystems, elemental forces, and natural phenomena. It covers locations such as mountains, forests, and celestial regions, along with the lore and"
   },
   {
     "file": "Scender Proper.html",
@@ -1479,6 +1523,14 @@
       "Scender Proper"
     ],
     "content": "<!-- This file was auto-generated. Add your content here. --> "
+  },
+  {
+    "file": "Scender Unita.html",
+    "title": "Scender Unita",
+    "headings": [
+      "Scender Unita"
+    ],
+    "content": "<!-- wiki-header-section:start --> <p class=\"nickname\">The First Sunbound</p> <img src=\"wiki_images/Scender.png\"><i>Early emblem of Scender Unita, precursor to Sol Unita's current insignia.</i></img> <blockquote class=\"wiki-quote\"> _\"From the heart of Scender, the light of unity first dawned.\"_ <span class=\"wiki-quote-attribution\">—Founding Chronicle</span> </blockquote> Scender Unita was the original name for what would become [[Sol Unita]], the ruling class of [[Asceptim]]. It marked the unifi"
   },
   {
     "file": "Scender.html",
@@ -1498,7 +1550,7 @@
       "Phylum Center: Asath Sanctuary",
       "Related Wiki Pages"
     ],
-    "content": "_Catch, Big Ripple, Rip_ <img src=\"wiki_images/Scender.png\"><i></i></img> > _\"Faith, science, and kingdom liberty ripple outward, but all will return to the center on the final day.\"_ > **—Ophelia Necesse** **Bin:** [[Scape]] **Basin:** [[Sacrus]] **Eco:** [[Toma]] ([[Sancta]], [[Jetti Sound]] and [[Nesil Grassland]]) of [[Toman Ecoss]] **Kingdom:** [[Huma]], [[Ferra]], [[Anthros]] and [[Zothros]], [[Natura]], [[Bluma]] **Phylum:** [[Asceptim]] **Class:** [[Sol Unita]] **Order:** [[Scender]] Sce"
+    "content": "_Catch, Big Ripple, Rip_ <img src=\"wiki_images/Scender.png\"><i></i></img> > _\"Faith, science, and kingdom liberty ripple outward, but all will return to the center on the final day.\"_ > **—Ophelia Necesse** <!-- taxonomy-table-section:start --> <div class=\"taxonomy-table\"> <table> <tr> <th colspan=\"3\">Purpose Taxonomy</th> </tr> <tr> <td class=\"taxon-label\"><img src=\"../svg/bin.svg\" class=\"taxon-icon\">Bin:</td> <td class=\"taxon-content\" colspan=\"2\">[[Scape]]</td> </tr> <tr> <td class=\"taxon-labe"
   },
   {
     "file": "School of Coveri.html",
@@ -1515,6 +1567,30 @@
       "Sea Level Spell"
     ],
     "content": "A <b>Sea Level Spell</b> is a unique, soul-attuned spell or ability—highly personal and reflective of the character’s essence. Sea Level Spells are designed to be available during higher level gameplay and are not available at the start of the game. "
+  },
+  {
+    "file": "Sea of Absence.html",
+    "title": "Sea of Absence",
+    "headings": [
+      "Sea of Absence",
+      "Description",
+      "Transient Straits",
+      "Cultural Significance",
+      "Related Pages"
+    ],
+    "content": "<!-- wiki-header-section:start --> <p class=\"nickname\">The Barren Expanse, Northern Void</p> <img src=\"wiki_images/Sea of Absence.png\"><i>The cold, empty waters of the Sea of Absence, stretching beyond the reach of Toma's warmth.</i></img> <blockquote class=\"wiki-quote\"> _\"Where the Swirling Sea gives, the Sea of Absence takes away. Here, even the waves seem to forget.\"_ <span class=\"wiki-quote-attribution\">—Wylderan Sailor</span> </blockquote> <blockquote class=\"wiki-quote\"> _\"The absence of li"
+  },
+  {
+    "file": "Sea of Presence.html",
+    "title": "Sea of Presence",
+    "headings": [
+      "Sea of Presence",
+      "Description",
+      "Eternal Straits",
+      "Cultural Significance",
+      "Related Pages"
+    ],
+    "content": "<!-- wiki-header-section:start --> <p class=\"nickname\">The Living Expanse, Eastern Bounty</p> <img src=\"wiki_images/Sea of Presence.png\"><i>The vibrant, teeming waters of the Sea of Presence, alive with color and movement.</i></img> <blockquote class=\"wiki-quote\"> _\"Where the Swirling Sea ends, the Sea of Presence begins. Here, every wave is a promise.\"_ <span class=\"wiki-quote-attribution\">—Tayiman Navigator</span> </blockquote> <blockquote class=\"wiki-quote\"> _\"The sea, once it casts its spell"
   },
   {
     "file": "Sibannac.html",
@@ -1542,12 +1618,13 @@
       "Inspiration",
       "Related Wiki Pages"
     ],
-    "content": "_The Grass Sea, Consuming Carpet, The Green Veil, The Avatar of the Grove_ <img src=\"wiki_images/Sibannac.png\"><i>Aerial view of Sibannac's Carpet surrounding Hypri's spires at dusk</i></img> > _\"Run, wait, hide... you will not win. Wind is all your asking when the life before you withers—thin, thin, thin. Like the blade, am afraid, I am everywhere, soon to be your everywhen.\"_ > **—Sibannac's Whisper, as reported by Usakan explorers** > _\"The horror of vegetation is comparable to no other. A mo"
+    "content": "<!-- _The Grass Sea, Consuming Carpet, The Green Veil, The Avatar of the Grove_ <img src=\"wiki_images/Sibannac.png\"><i>Aerial view of Sibannac's Carpet surrounding Hypri's spires at dusk</i></img> > _\"Run, wait, hide... you will not win. Wind is all your asking when the life before you withers—thin, thin, thin. Like the blade, am afraid, I am everywhere, soon to be your everywhen.\"_ > **—Sibannac's Whisper, as reported by Usakan explorers** > _\"The horror of vegetation is comparable to no other."
   },
   {
     "file": "Siela Qane.html",
     "title": "Siela Qane",
     "headings": [
+      "Siela Qane",
       "Origins and Religious Conviction",
       "Early Life and Conversion",
       "Rise to Prominence",
@@ -1565,7 +1642,7 @@
       "Inspiration",
       "Related Wiki Pages"
     ],
-    "content": "<!--# Siela Qane _Sky Trielder, The Architect of Faith, Drakemaster of Qa'ura, High Priestess of Wind_ <img src=\"wiki_images/Siela_Qane.png\"><i>Siela Qane overlooking the construction of the Cloudgardens, her tribute to Qa'ura</i></img> > _\"When air meets belief, both become visible. This is the essence of our city—the seen and unseen dancing together.\"_ > **—Siela Qane, dedication of the Wind Highways** > _\"Architecture is the reaching out for the truth.\"_ > **—Louis Kahn** **Bin:** [[Scape]] *"
+    "content": "<!-- _Sky Trielder, The Architect of Faith, Drakemaster of Qa'ura, High Priestess of Wind_ <img src=\"wiki_images/Siela_Qane.png\"><i>Siela Qane overlooking the construction of the Cloudgardens, her tribute to Qa'ura</i></img> > _\"When air meets belief, both become visible. This is the essence of our city—the seen and unseen dancing together.\"_ > **—Siela Qane, dedication of the Wind Highways** > _\"Architecture is the reaching out for the truth.\"_ > **—Louis Kahn** **Bin:** [[Scape]] **Basin:** [["
   },
   {
     "file": "Simi.html",
@@ -1622,7 +1699,7 @@
       "Cultural Perspectives and Social Integration",
       "Related Wiki Pages"
     ],
-    "content": "![[Sol Unita Insignia.jpg]] **Bin:** [[Scape]] <br> **Basin:** [[Sacrus]] <br> **Eco:** [[Toma]] ([[Sancta]]) of [[Toman Ecoss]] <br> **Kingdom:** [[Huma]] <br> **Phylum:** [[Asceptim]] <br> **Class:** **Sol Unita** <br> **Population**: 2.2 million HR Sol Unita is the ruling leading class of [[Asceptim]], originally known as [[Scender Unita]] during the early years of the [[Line from Few]]. It is a society deeply rooted in faith, scientific progress, and structured governance, all of which prior"
+    "content": "<!-- wiki-header-section:start --> <p class=\"nickname\">The Sunbound, The Ascendant Class</p> <img src=\"wiki_images/Sol Unita Insignia.jpg\"><i>Insignia of Sol Unita, symbolizing the unity of faith, governance, and technological progress.</i></img> <blockquote class=\"wiki-quote\"> _\"Let the light of Asath guide your ascent, for only in unity does the sun rise above all.\"_ <span class=\"wiki-quote-attribution\">—Ophelia Necesse, Queen of Scender</span> </blockquote> <blockquote class=\"wiki-quote\"> _\"F"
   },
   {
     "file": "Solscept.html",
@@ -1690,7 +1767,19 @@
       "Images",
       "Related Wiki Pages"
     ],
-    "content": "_Add nicknames or alternative titles here_ <img src=\"wiki_images/Subjectivism.png\"><i></i></img> > _\"Add a quote about the subject here from within the fictional world\"_ > **—Quote Attribution** > _\"Add a quote from the real world that relates to the subject\"_ > **—Real World Attribution** <div class=\"taxonomy-table\"> <table> <tr> <th colspan=\"3\">Purpose Taxonomy</th> </tr> <tr> <td class=\"taxon-label\"><img src=\"../wiki_images/icons/bin_icon.png\" class=\"taxon-icon\">Bin:</td> <td class=\"taxon-con"
+    "content": "<!-- _Add nicknames or alternative titles here_ <img src=\"wiki_images/Subjectivism.png\"><i></i></img> > _\"Add a quote about the subject here from within the fictional world\"_ > **—Quote Attribution** > _\"Add a quote from the real world that relates to the subject\"_ > **—Real World Attribution** <div class=\"taxonomy-table\"> <table> <tr> <th colspan=\"3\">Purpose Taxonomy</th> </tr> <tr> <td class=\"taxon-label\"><img src=\"../wiki_images/icons/bin_icon.png\" class=\"taxon-icon\">Bin:</td> <td class=\"taxo"
+  },
+  {
+    "file": "Summons Mountain Range.html",
+    "title": "Summons Mountain Range",
+    "headings": [
+      "Summons Mountain Range",
+      "Main Section",
+      "Additional Sections",
+      "Images",
+      "Related Wiki Pages"
+    ],
+    "content": "_Add nicknames or alternative titles here_ <img src=\"wiki_images/Summons Mountain Range.png\"><i></i></img> > _\"Add a quote about the subject here from within the fictional world\"_ > **—Quote Attribution** > _\"Add a quote from the real world that relates to the subject\"_ > **—Real World Attribution** <div class=\"taxonomy-table\"> <table> <tr> <th colspan=\"3\">Purpose Taxonomy</th> </tr> <tr> <td class=\"taxon-label\"><img src=\"../wiki_images/icons/bin_icon.png\" class=\"taxon-icon\">Bin:</td> <td class="
   },
   {
     "file": "Sunstream.html",
@@ -1704,9 +1793,16 @@
     "file": "Swirling Sea.html",
     "title": "Swirling Sea",
     "headings": [
-      "Swirling Sea"
+      "Swirling Sea",
+      "Description",
+      "Bas'l Straits",
+      "Eternal Straits",
+      "Transient Straits",
+      "Pearl Natura Society",
+      "Significance",
+      "Related Pages"
     ],
-    "content": "<!-- This file was auto-generated. Add your content here. -->"
+    "content": "<!-- wiki-header-section:start --> <p class=\"nickname\">The Central Gyre, Heart of Toma</p> <img src=\"wiki_images/Swirling Sea.png\"><i>The swirling currents of the Swirling Sea, seen from above, connecting every continent of Toma.</i></img> <blockquote class=\"wiki-quote\"> _\"All tides return to the center, and all stories begin and end with the sea.\"_ <span class=\"wiki-quote-attribution\">—Toman Mariner's Proverb</span> </blockquote> <blockquote class=\"wiki-quote\"> _\"The sea is everything. It cover"
   },
   {
     "file": "Tayim Trade Republic.html",
@@ -1726,7 +1822,7 @@
       "Images",
       "Related Wiki Pages"
     ],
-    "content": "_Add nicknames or alternative titles here_ <img src=\"wiki_images/Tayim.png\"><i></i></img> > _\"Add a quote about the subject here from within the fictional world\"_ > **—Quote Attribution** > _\"Add a quote from the real world that relates to the subject\"_ > **—Real World Attribution** <div class=\"taxonomy-table\"> <table> <tr> <th colspan=\"3\">Purpose Taxonomy</th> </tr> <tr> <td class=\"taxon-label\"><img src=\"../wiki_images/icons/bin_icon.png\" class=\"taxon-icon\">Bin:</td> <td class=\"taxon-content\" c"
+    "content": "<!-- _Add nicknames or alternative titles here_ <img src=\"wiki_images/Tayim.png\"><i></i></img> > _\"Add a quote about the subject here from within the fictional world\"_ > **—Quote Attribution** > _\"Add a quote from the real world that relates to the subject\"_ > **—Real World Attribution** <div class=\"taxonomy-table\"> <table> <tr> <th colspan=\"3\">Purpose Taxonomy</th> </tr> <tr> <td class=\"taxon-label\"><img src=\"../wiki_images/icons/bin_icon.png\" class=\"taxon-icon\">Bin:</td> <td class=\"taxon-conte"
   },
   {
     "file": "Tayiman.html",
@@ -1749,6 +1845,24 @@
     "title": "Implementation",
     "headings": [],
     "content": "1. Capitoline Wolf, perhaps a similar origin story. Maybe for Fuscia Lustin horrific background story. The 'wolf' or other animal should represent a final hope. 2. Hypri Grow Zones including living vegetables and fruits, one of the main points of these greenhouses. "
+  },
+  {
+    "file": "MD Template.html",
+    "title": "Template Title",
+    "headings": [
+      "Template Title",
+      "Main Section",
+      "Additional Sections",
+      "Images",
+      "Related Wiki Pages"
+    ],
+    "content": "<!-- wiki-header-section:start --> <p class=\"nickname\">Nicknames, Alternative Titles</p> <img src=\"wiki_images/MD Template.png\"><i>Image caption here</i></img> <blockquote class=\"wiki-quote\"> _\"Quote from the fictional world\"_ <span class=\"wiki-quote-attribution\">—Quote Attribution</span> </blockquote> <blockquote class=\"wiki-quote\"> _\"Quote from the real world\"_ <span class=\"wiki-quote-attribution\">—Real World Attribution</span> </blockquote> <p> Introductory paragraph that summarizes the subje"
+  },
+  {
+    "file": "PT Template.html",
+    "title": "PT Template",
+    "headings": [],
+    "content": "<!-- taxonomy-table-section:start --> <div class=\"taxonomy-table\"> <table> <tr> <th colspan=\"3\">Purpose Taxonomy</th> </tr> <tr> <td class=\"taxon-label\"><img src=\"../svg/bin.svg\" class=\"taxon-icon\">Bin:</td> <td class=\"taxon-content\" colspan=\"2\">{{Bin}}</td> </tr> <tr> <td class=\"taxon-label\"><img src=\"../svg/basin.svg\" class=\"taxon-icon\">Basin:</td> <td class=\"taxon-content\" colspan=\"2\">{{Basin}}</td> </tr> <tr> <td class=\"taxon-label\"><img src=\"../svg/eco.svg\" class=\"taxon-icon\">Eco:</td> <td "
   },
   {
     "file": "Sample Page.html",
@@ -1776,18 +1890,6 @@
     "content": "_City of Whispers, The Suspended Garden, Vault of Songs_ <img src=\"wiki_images/Sample Page.png\"><i>The floating spires of Arkaven during the annual Flow Festival</i></img> > _\"Between root and sky, between memory and dream, there hangs a city where every stone remembers the touch of its shaper.\"_ > **—Pelphine Arc, Archivist of Riees Hill** > _\"The true marvel of imagined cities is not their impossibility, but how they reveal the potential within our own.\"_ > **—Italo Calvino, Invisible Cities**"
   },
   {
-    "file": "Template.html",
-    "title": "Template Title",
-    "headings": [
-      "Template Title",
-      "Main Section",
-      "Additional Sections",
-      "Images",
-      "Related Wiki Pages"
-    ],
-    "content": "_Nicknames, Alternative Titles_ <img src=\"wiki_images/Template.png\"><i>Image caption here</i></img> > _\"Quote from the fictional world\"_ > **—Quote Attribution** > _\"Quote from the real world\"_ > **—Real World Attribution** <div class=\"taxonomy-table\"> <table> <tr> <th colspan=\"3\">Purpose Taxonomy</th> </tr> <tr> <td class=\"taxon-label\"><img src=\"../wiki_images/icons/bin_icon.png\" class=\"taxon-icon\">Bin:</td> <td class=\"taxon-content\" colspan=\"2\">[[Scape]]</td> </tr> <tr> <td class=\"taxon-label\""
-  },
-  {
     "file": "WIKIREADME.html",
     "title": "Scape Wiki - Contributor Guidelines",
     "headings": [
@@ -1806,41 +1908,28 @@
       "Default Writing Style",
       "Amplified Writing Style",
       "Wilder Writing Style",
+      "Dark Writing Style",
       "Example Page Components",
       "Images",
       "Section Structure",
-      "Major Section",
-      "Subsection",
-      "Minor Subsection",
       "Lists",
       "Feathermarks: Corvi's Commentary",
-      "Feathermark Writing Styles"
+      "Feathermark Writing Styles",
+      "Not For Live Publishing Section"
     ],
-    "content": "Welcome to the Scape Wiki! This document outlines the formatting and content expectations for all wiki pages. Following these guidelines ensures a consistent reading experience and helps maintain the integrity of the worldbuilding. Each wiki page should follow this structure (excluding ```): ``` _Nickname, Alternative Titles_ <img src=\"wiki_images/PageName.png\"><i></i></img> > _\"Up to two quotes about the page, one from within the world and\"_ > **—Quote Attribution** > _\"one from the real world\""
+    "content": "Welcome to the Scape Wiki! This document outlines the formatting and content expectations for all wiki pages. Following these guidelines ensures a consistent reading experience and helps maintain the integrity of the worldbuilding. Each wiki page should follow this structure (excluding ```): ``` <!-- wiki-header-section:start --> <p class=\"nickname\">Nickname, Alternative Titles</p> <img src=\"wiki_images/PageName.png\"><i>Image caption here</i></img> <blockquote class=\"wiki-quote\"> _\"Quote from th"
   },
   {
-    "file": "Access.html",
-    "title": "Access",
+    "file": "The Soil Inn.html",
+    "title": "The Soil Inn",
     "headings": [
-      "Access"
+      "The Soil Inn",
+      "Description",
+      "Cultural Significance",
+      "Trade and Economy",
+      "Related Wiki Pages"
     ],
-    "content": "<!-- This file was auto-generated. Add your content here. -->"
-  },
-  {
-    "file": "Lightwilds.html",
-    "title": "Lightwilds",
-    "headings": [
-      "Lightwilds"
-    ],
-    "content": "<!-- This file was auto-generated. Add your content here. -->"
-  },
-  {
-    "file": "Swirling Sea.html",
-    "title": "Swirling Sea",
-    "headings": [
-      "Swirling Sea"
-    ],
-    "content": "<!-- This file was auto-generated. Add your content here. -->"
+    "content": "<!-- wiki-header-section:start --> <p class=\"nickname\">The Market of Hypri, The Rooted Exchange</p> <img src=\"wiki_images/The Soil Inn.png\"><i>The bustling, multi-level marketplace of the Soil Inn, carved into a smaller spire beneath Hypri, alive with traders, greenery, and the hum of commerce.</i></img> <blockquote class=\"wiki-quote\"> _\"All things return to the soil, and from the soil, all things are traded anew.\"_ <span class=\"wiki-quote-attribution\">—Hypri Merchant Proverb</span> </blockquote"
   },
   {
     "file": "Theologia.html",
@@ -1899,7 +1988,7 @@
       "Summary",
       "Metageography and Hollow Resources"
     ],
-    "content": "<i>Eco of Kingdoms, Plane of Kingdoms, Palud ([[Asceptim]]), Lau ([[Branches of Concordia]])</i> <img src=\"wiki_images/Toma Map(Outline).png\"> <i>A taiga in southeast Vokar, a large region of Toma's northern continent, Wyldere.</i></img> <br> **Eco:** **Toma** <br> <br> Toma is the plane where the Scape campaigns begin. I am excited for everything to be slowly uncovered. Toma's geography is unique in the fact that it tends to blend and manifest in accordance to the release of anim through the de"
+    "content": "<!-- wiki-header-section:start --> <p class=\"nickname\">Eco of Kingdoms, Plane of Kingdoms, Palud ([[Asceptim]]), Lau ([[Branches of Concordia]])</p> <img src=\"wiki_images/Toma Map(Outline).png\"><i></i></img> <blockquote class=\"wiki-quote\"> _\"Even the land remembers death.\"_ <span class=\"wiki-quote-attribution\">—Isaheim Maddows</span> </blockquote> Toma is the primary plane (Eco) of the [[Toman Ecoss]], a world where the boundaries between kingdoms, belief, and geography are fluid and ever-changi"
   },
   {
     "file": "Toman Ecoss.html",
@@ -1945,7 +2034,7 @@
       "Hypri",
       "Ventari",
       "Aeradyme",
-      "Zephyra",
+      "Zaphira",
       "Culture and Beliefs",
       "Wind Veneration",
       "The Dweller Traditions",
@@ -1957,11 +2046,9 @@
       "Relations with Other Continents",
       "Theologia",
       "Continental Politics",
-      "Images",
-      "Inspiration",
       "Related Wiki Pages"
     ],
-    "content": "_Land of Spires, The Eastern Plain, Windward Continent_ <img src=\"wiki_images/Usaka.png\"><i>The eastern continent of Usaka with its four major spire cities visible against the horizon</i></img> > _\"Four pillars rising from the grass sea mark where the old gods reached through earth to touch the sky.\"_ > **—Usakan folk saying** > _\"The plains are not empty; they are full of invisible barriers and pathways that only the wind remembers.\"_ > **—Italo Calvino, Invisible Cities** **Bin:** [[Scape]] **"
+    "content": "<!-- _Land of Spires, The Eastern Plain, Windward Continent_ <img src=\"wiki_images/Usaka.png\"><i>The eastern continent of Usaka with its four major spire cities visible against the horizon</i></img> > _\"Four pillars rising from the grass sea mark where the old gods reached through earth to touch the sky.\"_ > **—Usakan folk saying** > _\"The plains are not empty; they are full of invisible barriers and pathways that only the wind remembers.\"_ > **—Italo Calvino, Invisible Cities** **Bin:** [[Scape"
   },
   {
     "file": "Usakan Growth.html",
@@ -1972,7 +2059,7 @@
       "Role in Usaka",
       "Related Wiki Pages"
     ],
-    "content": "_The Green Government, Sibannac's Rule, Growthmind Authority_ <img src=\"wiki_images/Usakan_Growth.png\"><i>Artistic rendering of the Usakan Growthmind governing the grasslands</i></img> > _\"We are many, but we think as one—the Usakan Growth is the will of Sibannac made manifest.\"_ > **—Growthmind Speaker** **Class:** Usakan Growth **Phylum:** [[Leiqua]] **Kingdom:** [[Bluma]] + [[Nesa]] The **Usakan Growth** is the government and social structure of the Sibannac-dominated regions of [[Usaka]]. It"
+    "content": "<!-- _The Green Government, Sibannac's Rule, Growthmind Authority_ <img src=\"wiki_images/Usakan_Growth.png\"><i>Artistic rendering of the Usakan Growthmind governing the grasslands</i></img> > _\"We are many, but we think as one—the Usakan Growth is the will of Sibannac made manifest.\"_ > **—Growthmind Speaker** **Class:** Usakan Growth **Phylum:** [[Leiqua]] **Kingdom:** [[Bluma]] + [[Nesa]] The **Usakan Growth** is the government and social structure of the Sibannac-dominated regions of [[Usaka]"
   },
   {
     "file": "Vankner.html",
@@ -1992,7 +2079,7 @@
       "Images",
       "Related Wiki Pages"
     ],
-    "content": "_Add nicknames or alternative titles here_ <img src=\"wiki_images/Ventari.png\"><i></i></img> > _\"Add a quote about the subject here from within the fictional world\"_ > **—Quote Attribution** > _\"Add a quote from the real world that relates to the subject\"_ > **—Real World Attribution** <div class=\"taxonomy-table\"> <table> <tr> <th colspan=\"3\">Purpose Taxonomy</th> </tr> <tr> <td class=\"taxon-label\"><img src=\"../wiki_images/icons/bin_icon.png\" class=\"taxon-icon\">Bin:</td> <td class=\"taxon-content\""
+    "content": "<!-- _Add nicknames or alternative titles here_ <img src=\"wiki_images/Ventari.png\"><i></i></img> > _\"Add a quote about the subject here from within the fictional world\"_ > **—Quote Attribution** > _\"Add a quote from the real world that relates to the subject\"_ > **—Real World Attribution** <div class=\"taxonomy-table\"> <table> <tr> <th colspan=\"3\">Purpose Taxonomy</th> </tr> <tr> <td class=\"taxon-label\"><img src=\"../wiki_images/icons/bin_icon.png\" class=\"taxon-icon\">Bin:</td> <td class=\"taxon-con"
   },
   {
     "file": "Walkers of Duality.html",
@@ -2001,6 +2088,18 @@
       "Walkers of Duality"
     ],
     "content": "<!-- This file was auto-generated. Add your content here. -->"
+  },
+  {
+    "file": "Wasting Event.html",
+    "title": "Wasting Event",
+    "headings": [
+      "Wasting Event",
+      "Main Section",
+      "Additional Sections",
+      "Images",
+      "Related Wiki Pages"
+    ],
+    "content": "_Add nicknames or alternative titles here_ <img src=\"wiki_images/Wasting Event.png\"><i></i></img> > _\"Add a quote about the subject here from within the fictional world\"_ > **—Quote Attribution** > _\"Add a quote from the real world that relates to the subject\"_ > **—Real World Attribution** <div class=\"taxonomy-table\"> <table> <tr> <th colspan=\"3\">Purpose Taxonomy</th> </tr> <tr> <td class=\"taxon-label\"><img src=\"../wiki_images/icons/bin_icon.png\" class=\"taxon-icon\">Bin:</td> <td class=\"taxon-co"
   },
   {
     "file": "Whisper of the Well Information.html",
@@ -2029,7 +2128,7 @@
       "Images",
       "Related Wiki Pages"
     ],
-    "content": "_Add nicknames or alternative titles here_ <img src=\"wiki_images/Will.png\"><i></i></img> > _\"Add a quote about the subject here from within the fictional world\"_ > **—Quote Attribution** > _\"Add a quote from the real world that relates to the subject\"_ > **—Real World Attribution** <div class=\"taxonomy-table\"> <table> <tr> <th colspan=\"3\">Purpose Taxonomy</th> </tr> <tr> <td class=\"taxon-label\"><img src=\"../wiki_images/icons/bin_icon.png\" class=\"taxon-icon\">Bin:</td> <td class=\"taxon-content\" co"
+    "content": "<!-- _Add nicknames or alternative titles here_ <img src=\"wiki_images/Will.png\"><i></i></img> > _\"Add a quote about the subject here from within the fictional world\"_ > **—Quote Attribution** > _\"Add a quote from the real world that relates to the subject\"_ > **—Real World Attribution** <div class=\"taxonomy-table\"> <table> <tr> <th colspan=\"3\">Purpose Taxonomy</th> </tr> <tr> <td class=\"taxon-label\"><img src=\"../wiki_images/icons/bin_icon.png\" class=\"taxon-icon\">Bin:</td> <td class=\"taxon-conten"
   },
   {
     "file": "World Gyre.html",
@@ -2054,8 +2153,9 @@
   },
   {
     "file": "Ximena Lathen.html",
-    "title": "Ximena Lathen",
+    "title": "Lady Athen <!-- Ximena Lathen -->",
     "headings": [
+      "Lady Athen <!-- Ximena Lathen -->",
       "Origins and Concealed Identity",
       "Concordian Lineage",
       "Transformation into Lady Athen",
@@ -2069,23 +2169,21 @@
       "Personal Ambitions and Plans",
       "The Imperial Growth Project",
       "Relationship with Fuscia Lustin",
-      "Images",
-      "Inspiration",
       "Related Wiki Pages"
     ],
-    "content": "<!--# Ximena Lathen _Lady Athen, Esteran Leredith, Queen of Heshiu, Sea Trielder, Drakemaster of Lopali_ <img src=\"wiki_images/Ximena_Lathen.png\"><i>Ximena Lathen in her official Sea Trielder regalia during a Highcourt ceremony</i></img> > _\"The sea does not ask permission to change its form. Neither shall I.\"_ > **—Ximena Lathen (as Lady Athen), public address at the Flow Festival** > _\"Identity is not what we show, but what we choose to submerge.\"_ > **—Anaïs Nin** **Bin:** [[Scape]] **Basin:*"
+    "content": "<!--_Lady Athen, Esteran Leredith, Queen of Heshiu, -->_Sea Trielder, Drakemaster of Lopali_ <img src=\"wiki_images/Lady Athen.png\"><i>Lady Athen in her sea regalia.</i></img> Ximena Lathen is one of the three serpent sisters collectively known as the [[Ahdom Few]], who rule the city-state of [[Hypri]] through the [[Hypri Highcourt]]. As the Sea Trielder, she oversees all water-related aspects of governance and maintains authority over [[Lopali]], the Serpent Ray—one of the [[Spawn of Hidraal]]. "
   },
   {
-    "file": "Zephyra.html",
-    "title": "Zephyra",
+    "file": "Zaphira.html",
+    "title": "Zaphira",
     "headings": [
-      "Zephyra",
+      "Zaphira",
       "Main Section",
       "Additional Sections",
       "Images",
       "Related Wiki Pages"
     ],
-    "content": "_Add nicknames or alternative titles here_ <img src=\"wiki_images/Zephyra.png\"><i></i></img> > _\"Add a quote about the subject here from within the fictional world\"_ > **—Quote Attribution** > _\"Add a quote from the real world that relates to the subject\"_ > **—Real World Attribution** <div class=\"taxonomy-table\"> <table> <tr> <th colspan=\"3\">Purpose Taxonomy</th> </tr> <tr> <td class=\"taxon-label\"><img src=\"../wiki_images/icons/bin_icon.png\" class=\"taxon-icon\">Bin:</td> <td class=\"taxon-content\""
+    "content": "<!-- _Add nicknames or alternative titles here_ <img src=\"wiki_images/Zaphira.png\"><i></i></img> > _\"Add a quote about the subject here from within the fictional world\"_ > **—Quote Attribution** > _\"Add a quote from the real world that relates to the subject\"_ > **—Real World Attribution** <div class=\"taxonomy-table\"> <table> <tr> <th colspan=\"3\">Purpose Taxonomy</th> </tr> <tr> <td class=\"taxon-label\"><img src=\"../wiki_images/icons/bin_icon.png\" class=\"taxon-icon\">Bin:</td> <td class=\"taxon-con"
   },
   {
     "file": "Zothros.html",

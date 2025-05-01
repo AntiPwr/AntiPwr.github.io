@@ -6,13 +6,43 @@ _Catch, Big Ripple, Rip_
 > _"Faith, science, and kingdom liberty ripple outward, but all will return to the center on the final day."_  
 > **—Ophelia Necesse**
 
-**Bin:** [[Scape]]  
-**Basin:** [[Sacrus]]  
-**Eco:** [[Toma]] ([[Sancta]], [[Jetti Sound]] and [[Nesil Grassland]]) of [[Toman Ecoss]]  
-**Kingdom:** [[Huma]], [[Ferra]], [[Anthros]] and [[Zothros]], [[Natura]], [[Bluma]] 
-**Phylum:** [[Asceptim]]  
-**Class:** [[Sol Unita]]  
-**Order:** [[Scender]]
+<!-- taxonomy-table-section:start -->
+<div class="taxonomy-table">
+  <table>
+    <tr>
+      <th colspan="3">Purpose Taxonomy</th>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="../svg/bin.svg" class="taxon-icon">Bin:</td>
+      <td class="taxon-content" colspan="2">[[Scape]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="../svg/basin.svg" class="taxon-icon">Basin:</td>
+      <td class="taxon-content" colspan="2">[[Sacrus]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="../svg/eco.svg" class="taxon-icon">Eco:</td>
+      <td class="taxon-content" colspan="2">[[Toma]] ([[Sancta]], [[Jetti Sound]] and [[Nesil Grassland]]) of [[Toman Ecoss]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="../svg/kingdom.svg" class="taxon-icon">Kingdom:</td>
+      <td class="taxon-content" colspan="2">[[Huma]], [[Ferra]], [[Anthros]] and [[Zothros]], [[Natura]], [[Bluma]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="../svg/phylum.svg" class="taxon-icon">Phylum:</td>
+      <td class="taxon-content" colspan="2">[[Asceptim]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="../svg/class.svg" class="taxon-icon">Class:</td>
+      <td class="taxon-content" colspan="2">[[Sol Unita]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="../svg/order.svg" class="taxon-icon">Order:</td>
+      <td class="taxon-content" colspan="2">[[Scender]]</td>
+    </tr>
+  </table>
+</div>
+<!-- taxonomy-table-section:end -->
 
 Scender is the capital city of [[Sol Unita]], a place where faith, science, and kingdom liberty are deeply intertwined. With a population of approximately 840,000 [[Huma]]-resonance, the city’s concentric layout is built in a ripple pattern, symbolizing the spiritual journey of its people—rising from the material world to enlightenment. Each ring of Scender serves a distinct function, shaping the daily lives of its inhabitants.
 

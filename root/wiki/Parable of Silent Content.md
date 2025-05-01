@@ -1,12 +1,12 @@
-# Template Title
-_Nicknames, Alternative Titles_
+# Parable of Silent Content
+_Add nicknames or alternative titles here_
 
-<img src="wiki_images/Template.png"><i>Image caption here</i></img>
+<img src="wiki_images/Parable of Silent Content.png"><i></i></img>
 
-> _"Quote from the fictional world"_  
+> _"Add a quote about the subject here from within the fictional world"_  
 > **—Quote Attribution**
 
-> _"Quote from the real world"_  
+> _"Add a quote from the real world that relates to the subject"_  
 > **—Real World Attribution**
 
 <div class="taxonomy-table">
@@ -45,11 +45,11 @@ _Nicknames, Alternative Titles_
   </table>
 </div>
 
-Introductory paragraph that summarizes the subject.
+Write an introductory paragraph about Parable of Silent Content here. Summarize what the subject is and its significance within the world.
 
 ## Main Section
 
-Content organized by sections...
+Write detailed content about Parable of Silent Content here, organized into appropriate sections.
 
 <div class="feathermark">
     <p class="feathermark-attribution">Corvi's Feathermark</p>
@@ -59,15 +59,14 @@ Content organized by sections...
 
 ## Additional Sections
 
-Additional content...
+Continue with more sections as needed.
 
 ## Images
 
-<img src="wiki_images/Template_detail.png"><i>Detailed image caption</i></img>
+<img src="wiki_images/Parable of Silent Content_detail.png"><i>Caption describing a detailed aspect of Parable of Silent Content</i></img>
 
 ## Related Wiki Pages
 
 - [[Related Page 1]]
 - [[Related Page 2]]
 - [[Related Page 3]]
-

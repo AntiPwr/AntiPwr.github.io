@@ -1,23 +1,58 @@
 # Ophelia Necesse
->_Queen of Scender, Cyberqueen, Guide to Asath, Fallen Apostle, Pure Messiah_
+> _Queen of Scender, Cyberqueen, Guide to Asath, Fallen Apostle, Pure Messiah_
 
 <img src="wiki_images/Ophelia Necesse.png"></img>
 
-> *"If you are a gifted person, it doesn’t mean that you gained something. It means you have something to give back."* - **Carl Jung**
+> _"Tread carefully, hatred is tectonic."_
+> **—Ophelia Necesse**
 
-> *"Tread carefully, hatred is tectonic."* - **Ophelia Necesse**
+**Ophelia Necesse**, also known as the Fallen Apostle, is the reigning queen of [[Scender]] in the [[Current Line]]. As the leader of [[Sol Unita]], she balances the royal sancts in their development of faith, technological advancement, and governance. Her rule is defined by her desire to reduce human suffering through technology, specifically noted for her divisive takes on implantation, a vision that has earned her both devotion from her people and criticism from political adversaries.
 
-
-**Eco:** [[Toma]] of [[Toman Ecoss]]
-**Kingdom:** [[Huma]]  
-**Phylum:** [[Asceptim]]  
-**Class:** [[Sol Unita]]  
-**Order:** [[Scender]]
-**Family:** [[Necesse Sanct]]  
-**Essa:** [[Ophelia's Soul]]
-
-**Ophelia Necesse**, also known as the Fallen Apostle, is the reigning queen of [[Scender]] in the [[Current Line]]. As the  of [[Sol Unita]], she balances the royal sancts in their development of faith, technological advancement, and governance. Her rule is defined by her desire to reduce human suffering through technology, specifically noted for her devisive takes on implantation, a vision that has earned her both devotion from her people, criticism from political adversaries, and economic growth bound to be acknowledged globally.
-
+<!-- taxonomy-table-section:start -->
+<div class="taxonomy-table">
+  <table>
+    <tr>
+      <th colspan="3">Purpose Taxonomy</th>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="wiki_images/icons/bin_icon.png" class="taxon-icon">Bin:</td>
+      <td class="taxon-content" colspan="2">[[Scape]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="wiki_images/icons/basin_icon.png" class="taxon-icon">Basin:</td>
+      <td class="taxon-content" colspan="2">[[Sacrus]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="wiki_images/icons/eco_icon.png" class="taxon-icon">Eco:</td>
+      <td class="taxon-content" colspan="2">[[Toma]] of [[Toman Ecoss]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="wiki_images/icons/kingdom_icon.png" class="taxon-icon">Kingdom:</td>
+      <td class="taxon-content" colspan="2">[[Huma]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="wiki_images/icons/phylum_icon.png" class="taxon-icon">Phylum:</td>
+      <td class="taxon-content" colspan="2">[[Asceptim]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="wiki_images/icons/class_icon.png" class="taxon-icon">Class:</td>
+      <td class="taxon-content" colspan="2">[[Sol Unita]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="wiki_images/icons/order_icon.png" class="taxon-icon">Order:</td>
+      <td class="taxon-content" colspan="2">[[Scender]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="wiki_images/icons/family_icon.png" class="taxon-icon">Family:</td>
+      <td class="taxon-content" colspan="2">[[Necesse Sanct]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="wiki_images/icons/essa_icon.png" class="taxon-icon">Essa:</td>
+      <td class="taxon-content" colspan="2">[[Ophelia's Soul]]</td>
+    </tr>
+  </table>
+</div>
+<!-- taxonomy-table-section:end -->
 
 ## Cyberqueen
 
@@ -94,3 +129,4 @@ Before her involvement with royalty, Ophelia led a religious movement advocating
 - [[Therium]]
 - [[The Sunstream]]
 - [[Spira]]
+

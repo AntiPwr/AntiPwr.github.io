@@ -25,7 +25,7 @@ Laika Acker is a character in [[Whisper of the Well]], the first campaign of Tom
 ### Decks
 
 - [[Deck of the Naive]]
-- [[Deck of the Allflame]]
+- [[Deck of the Alflame]]
 
 
 

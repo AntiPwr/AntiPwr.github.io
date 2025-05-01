@@ -7,23 +7,40 @@ Welcome to the Scape Wiki! This document outlines the formatting and content exp
 Each wiki page should follow this structure (excluding ```):
 
 ```
+<!-- wiki-header-section:start -->
 # Page Title
-_Nickname, Alternative Titles_
+<p class="nickname">Nickname, Alternative Titles</p>
 
-<img src="wiki_images/PageName.png"><i></i></img>
+<img src="wiki_images/PageName.png"><i>Image caption here</i></img>
 
-> _"Up to two quotes about the page, one from within the world and"_  
-> **—Quote Attribution**
+<blockquote class="wiki-quote">
+    _"Quote from the fictional world"_  
+    <span class="wiki-quote-attribution">—Quote Attribution</span>
+</blockquote>
 
-> _"one from the real world"_  
-> **—Quote Attribution**
+<blockquote class="wiki-quote">
+    _"Quote from the real world"_  
+    <span class="wiki-quote-attribution">—Quote Attribution</span>
+</blockquote>
 
-**Bin:** [[Relevant Bin]]  
-**Basin:** [[Relevant Basin]]  
-**Eco:** [[Relevant Eco]] ([[Region]], [[Area]]) of [[Ecoss System]]
-... (other applicable taxonomy levels)
-
+<p>
 Introductory paragraph that summarizes the subject.
+</p>
+<!-- wiki-header-section:end -->
+
+<!-- taxonomy-table-section:start -->
+<div class="taxonomy-table">
+  <!-- Purpose Taxonomy Table goes here (see PT Template.md) -->
+</div>
+<!-- taxonomy-table-section:end -->
+
+<!-- not-for-live-publishing:start -->
+<!--
+This section is for content, lore, or discoveries that are NOT meant for live publishing to the site. 
+Leave this empty unless specifically requested. Use this to stage information that will be revealed to players later.
+-->
+<!-- not-for-live-publishing:end -->
+```
 
 ## Main Section
 
@@ -32,7 +49,6 @@ Content organized by sections...
 ## Images
 
 ## Inspiration
-```
 
 ## Purpose Taxonomy
 
@@ -103,12 +119,22 @@ The Wilder Writing Style fuses theatrical eccentricity with sharp cynicism, poli
 - Content that dances along the border of the absurd and the profound
 - Narratives that expose the rot beneath polished surfaces, the shadows behind curtains, and the madness within order
 
+#### Dark Writing Style
+The Dark Writing Style confronts the vastness of suffering and its profound impact on individuals and societies. It is characterized by:
+- Unflinching exploration of difficult truths and their consequences
+- Human-centric, empathetic stance toward trauma and hardship
+- Deep, scholarly vocabulary and nuanced descriptions
+- Precise articulation of emotional and psychological states
+- Rare, strategic use of humor to punctuate or emphasize severity
+- Academic framing of disturbing content without diminishing its weight
+- Emphasis on the ripple effects of events through time and across populations
+
 ## Example Page Components
 
 ### Images
 Images should be stored in the `wiki_images` directory and referenced using:
 ```html
-<img src="wiki_images/PageName.png"><i></i></img>
+<img src="wiki_images/PageName.png"><i>Image caption here</i></img>
 ```
 
 The image filename should match the page title. For example:
@@ -118,17 +144,12 @@ The image filename should match the page title. For example:
 This naming convention ensures consistency and makes it easier to manage image assets.
 
 ### Section Structure
-Organize content with clear section headings:
-```markdown
-## Major Section
-Main content...
 
-### Subsection
-More specific content...
+Organize content with clear section headings. The main page structure should be:
 
-#### Minor Subsection
-Very specific details...
-```
+1. **Header Section** (`.wiki-header-section`): Nicknames, image, quotes, summary.
+2. **Taxonomy Section** (`.taxonomy-table-section`): Purpose taxonomy table.
+3. **Main Content**: Sections, images, related pages, etc.
 
 ### Lists
 Use bulleted or numbered lists for series of related items:
@@ -188,3 +209,18 @@ The Dark Writing Style confronts the vastness of suffering and its profound impa
 - Rare, strategic use of humor to punctuate or emphasize severity
 - Academic framing of disturbing content without diminishing its weight
 - Emphasis on the ripple effects of events through time and across populations
+
+## Not For Live Publishing Section
+
+At the end of every page, include a commented-out section labeled `not-for-live-publishing`. This section is reserved for lore, spoilers, or discoveries that should not be visible to players or the public until you decide to reveal them. Leave it empty unless you are specifically staging content for future release.
+
+Example:
+
+```
+<!-- not-for-live-publishing:start -->
+<!--
+This section is for content, lore, or discoveries that are NOT meant for live publishing to the site. 
+Leave this empty unless specifically requested. Use this to stage information that will be revealed to players later.
+-->
+<!-- not-for-live-publishing:end -->
+```
