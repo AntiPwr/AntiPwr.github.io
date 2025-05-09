@@ -1,19 +1,20 @@
 <!-- wiki-header-section:start -->
 # Usakan Growth
-<!--
-
-_The Green Government, Sibannac's Rule, Growthmind Authority_
 
 <img src="wiki_images/Usakan_Growth.png"><i>Artistic rendering of the Usakan Growthmind governing the grasslands</i></img>
 
 > _"We are many, but we think as one—the Usakan Growth is the will of Sibannac made manifest."_
 > **—Growthmind Speaker**
 
+
+
+The **Usakan Growth** is the government and social structure of the Sibannac-dominated regions of [[Usaka]]. It operates as a Growthmind, with Sibannac as the central intelligence and all members—plant and sentient—contributing to the collective will.
+
+<!-- wiki-header-section:end -->
+
 **Class:** Usakan Growth  
 **Phylum:** [[Leiqua]]  
 **Kingdom:** [[Bluma]] + [[Nesa]]
-
-The **Usakan Growth** is the government and social structure of the Sibannac-dominated regions of [[Usaka]]. It operates as a Growthmind, with Sibannac as the central intelligence and all members—plant and sentient—contributing to the collective will.
 
 ## Structure
 

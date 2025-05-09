@@ -10,12 +10,14 @@ This resource, similar to the rest of the wiki, reflects the collective knowledg
 
 </details>
 
+<!-- wiki-header-section:end -->
+
 <details>
 <summary><h2>I. First Arc</h2></summary>
 
 The First Arc introduced the original "party" of adventurers. Their journey began in [[Scender]] and ended north of [[Goblbrook]] in the [[Jeti Sound]] with Lavinho and Mel splitting off from Laika. 
 
-
+<br>
 <a href="Laika Acker.html">Laika Acker (Adrian)</a>
 <br>
 <a href="Lavinho Shourn.html">Lavinhho Shourn (Ben)</a>
@@ -325,7 +327,7 @@ I would list playable races here, but everybody already has their character figu
 
 _Work in progress..._
 
-
+<br>
 <a href="Laika Acker.html">Laika Acker (Adrian)</a>
 <br>
 <a href="Character2.html">Character Name (Ben)</a>

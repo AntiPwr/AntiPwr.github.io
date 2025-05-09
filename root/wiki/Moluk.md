@@ -1,6 +1,5 @@
 <!-- wiki-header-section:start -->
 # Moluk
-<!--
 _Add nicknames or alternative titles here_
 
 <img src="wiki_images/Moluk.png"><i></i></img>
@@ -10,6 +9,8 @@ _Add nicknames or alternative titles here_
 
 > _"Add a quote from the real world that relates to the subject"_  
 > **—Real World Attribution**
+
+<!-- wiki-header-section:end -->
 
 <div class="taxonomy-table">
   <table>

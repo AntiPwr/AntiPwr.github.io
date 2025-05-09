@@ -1,13 +1,11 @@
 <!-- wiki-header-section:start -->
 # Nesa
-
-<!--
-_Lesser Gods, Divine Mediators, Voices of Creation_
+_Lesser Voices_
 
 <img src="wiki_images/Nesa.png"><i>Artistic representation of Nesa manifestations during a major belief event</i></img>
 
-> _"The gods of men are the children of greater forces, caught between their creators' arguments and their creations' prayers."_  
-> **—Neil Gaiman**
+
+<!-- wiki-header-section:end -->
 
 <!-- taxonomy-table-section:start -->
 <div class="taxonomy-table">

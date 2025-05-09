@@ -1,16 +1,16 @@
 <!-- wiki-header-section:start -->
 # Rite of Passage
 
+The Rite of Passage is a [[Rites of Huma|Rite of Huma]] considered to be the original [[Ester Slate]], created by [[Asath]].It is the most revered artifact in Asceptim faith, holding profound spiritual significance for [[Sol Unita]] and its followers.
+
+<!-- wiki-header-section:end -->
+
 **Bin:** [[Scape]]  
 **Basin:** [[Sacrus]]  
 **Eco:** [[Toma]] of [[Toman Ecoss]]  
 **Kingdom:** [[Huma]]  
 **Phylum:** [[Asceptim]]  
 **Class:** [[Sol Unita]]
-
-**Artifact**
-
-The Rite of Passage is a [[Rites of Huma|Rite of Huma]] considered to be the original [[Ester Slate]], created by [[Asath]].It is the most revered artifact in Asceptim faith, holding profound spiritual significance for [[Sol Unita]] and its followers.
 
 ## Description
 

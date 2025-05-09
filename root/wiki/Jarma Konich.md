@@ -4,7 +4,7 @@ _Land Trielder, Drakemaster of Kautiger, Clay Mistress, Earthbound_
 
 <img src="wiki_images/Jarma Konich.png"><i>Jarma Konich stands resolute as the many-headed shadow of the Kautiger coils behind her—her skin stained by soil and soot, her will unshaken by the weight of her earthbound bond with the Oedipwyrm.</i></img>
 
-<!--
+<!-- wiki-header-section:end -->
 
 <!-- taxonomy-table-section:start -->
 <div class="taxonomy-table">

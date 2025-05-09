@@ -12,7 +12,7 @@
 
 This jungle canopy reaches, at times, miles over the [[Swirling Sea]], slowing the breeze, creating a rich breeding and hunting environment for many creatures. 
 
-
+<!-- wiki-header-section:end -->
 
 
 

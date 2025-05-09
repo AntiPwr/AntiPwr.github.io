@@ -1,9 +1,13 @@
 <!-- wiki-header-section:start -->
 # Whisper of the Well 
 
-Whisper of the Well is the first campaign of Toma. See below for starting information:
+Whisper of the Well is the first campaign of Toma. 
 
-[[Whisper of the Well Information|Whisper of the Well Starting Information]]
+<!-- wiki-header-section:end -->
+
+See below for starting information:
+
+[[Whisper of the Well Information|Whisper of the Well Information]]
 
 ## Player Characters
 

@@ -5,6 +5,8 @@
 
 You are worthy of Ascension. Clerics of the **Asceptim Domain** harness the power of believing in Asath—Sol Proscima—and the values imbued in the Rites of Huma. Whether that means venerating technological advancement, augmenting body and mind, blending nature with technology, or chasing mental acuity and enhanced willpower, the power resides in faith-attuned beliefs. The rampant growth the religion has achieved, alongside its societal accomplishments, were all given to the Eye and His glory.
 
+<!-- wiki-header-section:end -->
+
 ## Domain Spells
 
 You gain domain spells at the cleric levels listed in the **Asceptim Domain Spells** table. Once you gain a domain spell, you always have it prepared, and it doesn’t count against the number of spells you can prepare each day.

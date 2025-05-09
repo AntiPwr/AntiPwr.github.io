@@ -7,6 +7,8 @@ _Hybrid Kingdom, Bridging Kingdom_
 > _"The whole is more than the sum of its parts."_  
 > **—Aristotle**
 
+<!-- wiki-header-section:end -->
+
 <div class="taxonomy-table">
   <table>
     <tr>

@@ -9,6 +9,8 @@
 
 **Ophelia Necesse**, also known as the Fallen Apostle, is the reigning queen of [[Scender]] in the [[Current Line]]. As the leader of [[Sol Unita]], she balances the royal sancts in their development of faith, technological advancement, and governance. Her rule is defined by her desire to reduce human suffering through technology, specifically noted for her divisive takes on implantation, a vision that has earned her both devotion from her people and criticism from political adversaries.
 
+<!-- wiki-header-section:end -->
+
 <!-- taxonomy-table-section:start -->
 <div class="taxonomy-table">
   <table>

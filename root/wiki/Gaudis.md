@@ -8,8 +8,9 @@ _Isle of Reflection_
 **Class:** [[Sol Unita]]
 **Order:** [[Scender]] ([[South Catch]], **Gaudis**)
 
-
 Gaudis is a small island in Southcatch, home to the [[Asath Sanctuary]], the most significant place of worship dedicated to [[Asath]]. It stands as a physical and symbolic binding between the structured order of [[Scender Proper]] and the more fluid, diverse culture of [[Southcatch]].
+
+<!-- wiki-header-section:end -->
 
 ## Geography and Structure
 

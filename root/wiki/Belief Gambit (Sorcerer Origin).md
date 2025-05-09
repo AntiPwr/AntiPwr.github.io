@@ -8,6 +8,7 @@
 
 Where belief flows, anim follows. You have been granted the power of a magical sleeve of cards, bound to you, whether by blood, enchanted tattoo, or some other means. This sleeve is capable of storing cards that, when thrown, can paint an accurate picture of the world at large—or conversely, a skewed view. A **Belief Gambit Sorcerer** is both a craftsman and a student of perception and nuance, choosing to empower their adventuring prowess through the values of others and themselves.
 
+<!-- wiki-header-section:end -->
 
 ### Playing as Belief Gambit
 

@@ -3,6 +3,8 @@
 
 **Purpose Taxonomy** is a classification system designed to organize life by its connected belief structures and destinies across the universe. It arranges existence into a vertical hierarchy of taxons—ranging from the grand scale of the universe down to the singular soul’s purpose—that define everything from geography and government to faith and dimension. 
 
+<!-- wiki-header-section:end -->
+
 At the core of this system is the recognition that every soul possesses a unique, quantized vision for the future—its intrinsic signature, termed **Kind (K, <, or >)**. This vision is considered static until it is set into motion. The dynamic aspect—the rate at which that vision is realized in the world—is called **Degree (D or ^)**. In short:
 
 > **Degree = Kind’s Rate of Actualization**

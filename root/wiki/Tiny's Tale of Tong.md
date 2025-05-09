@@ -1,12 +1,15 @@
 <!-- wiki-header-section:start -->
 # Tiny's Tale of Tong
-<!--
 _The Beetle and the Halfling, A Cilladril Folk Story_
 
 <img src="wiki_images/Tiny's Tale of Tong.png"><i>Tong the dung beetle rolling a shining ball of waste through Cilladril, with Tiny riding atop</i></img>
 
 > _"If you ever see a mountain move, don't run—climb aboard and hold on tight!"_
 > **—Tiny**
+
+
+
+<!-- wiki-header-section:end -->
 
 **Bin:** [[Scape]]
 **Basin:** [[Sacrus]]

@@ -2,10 +2,14 @@
 # Snoller
 _Bullsnail_
 
-**Eco:** [[Toma]] ([[Sancta]], [[Jeti Sound]]) of [[Toman Ecoss]] 
-**Kingdom:** [[Ferra]] (**Sound Snoller**)
+
 
 The **Snoller** is a species of coastal snail native to the [[Jeti Sound]] region of [[Sancta]]. This unique subkingdom of Ferra can thrive both in the ocean and on land, displaying remarkable adaptability. Snallers are integral to Scender's transportation system, where they are used as a living elevator system, moving people and goods up and down the steep inclines of the city due to their abnormally large size and sticky slime residue.
+
+<!-- wiki-header-section:end -->
+
+**Eco:** [[Toma]] ([[Sancta]], [[Jeti Sound]]) of [[Toman Ecoss]] 
+**Kingdom:** [[Ferra]] (**Sound Snoller**)
 
 ### Biological Characteristics
 

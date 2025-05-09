@@ -1,13 +1,12 @@
 <!-- wiki-header-section:start -->
 # Leiqua
 
-<!--
-_Phylum of Interest, The Enticing Faith, Growthmind Doctrine_
-
 <img src="wiki_images/Leiqua.png"><i>Symbolic depiction of Sibannac's Avatar engaging travelers in games and conversation</i></img>
 
 > _"Desire is the root, curiosity the vine—Leiqua is the garden where all interests entwine."_
 > **—Leiqua Priestess**
+
+<!-- wiki-header-section:end -->
 
 **Phylum:** Leiqua  
 **Kingdom:** [[Bluma]]  

@@ -1,15 +1,17 @@
 <!-- wiki-header-section:start -->
 # Rite of Recomposition
+
+
+The Rite of Recomposition is a [[Rites of Huma|Rite of Huma]] that establishes the relationship between death, renewal, and technological evolution. It originates from the Reins of Alwa, a myth that emphasizes repurposing the remains of the past to construct the future. This rite serves as both a spiritual principle and a practical necessity, guiding the development of synthetic decomposition technologies in [[Sol Unita]] and reinforcing the idea that all things must decay and be reshaped to achieve progress.
+
+<!-- wiki-header-section:end -->
+
 **Bin:** [[Scape]]  
 **Basin:** [[Sacrus]]  
 **Eco:** [[Toma]] of [[Toman Ecoss]]  
 **Kingdom:** [[Huma]]  
 **Phylum:** [[Asceptim]]  
 **Class:** [[Sol Unita]]
-
-**Artifact**
-
-The Rite of Recomposition is a [[Rites of Huma|Rite of Huma]] that establishes the relationship between death, renewal, and technological evolution. It originates from the Reins of Alwa, a myth that emphasizes repurposing the remains of the past to construct the future. This rite serves as both a spiritual principle and a practical necessity, guiding the development of synthetic decomposition technologies in [[Sol Unita]] and reinforcing the idea that all things must decay and be reshaped to achieve progress.
 
 ## Historical Context
 

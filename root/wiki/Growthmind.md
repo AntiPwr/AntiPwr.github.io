@@ -1,7 +1,5 @@
 <!-- wiki-header-section:start -->
 # Growthmind
-<!--
-
 _The Collective Root, Green Hivemind, Botanical Consciousness_
 
 <img src="wiki_images/Growthmind.png"><i>Visualization of interconnected plant minds forming a single consciousness</i></img>
@@ -10,6 +8,8 @@ _The Collective Root, Green Hivemind, Botanical Consciousness_
 > **—Leiqua Initiate**
 
 A **Growthmind** is a plant-based collective consciousness, similar to a hivemind, but achieved through the consumption or integration of plant growth (such as fruit, leaves, or grass). Growthminds arise when individual plants or plant-based entities share information, will, and memory, forming a unified intelligence that can govern, defend, and adapt as a single organism.
+
+<!-- wiki-header-section:end -->
 
 ## Characteristics
 

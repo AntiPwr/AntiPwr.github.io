@@ -7,7 +7,7 @@ _Add nicknames or alternative titles here_
 > _"The essence of a thing is what it is said to be in respect of itself"_  
 > **—Aristotle**
 
-
+<!-- wiki-header-section:end -->
 
 <div class="taxonomy-table">
   <table>

@@ -1,4 +1,4 @@
 <!-- wiki-header-section:start -->
 # Ceremony of His Eye
-<!-- This file was auto-generated. 
-     Add your content here. -->
+
+<!-- wiki-header-section:end -->

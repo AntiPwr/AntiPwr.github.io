@@ -1,4 +1,4 @@
 <!-- wiki-header-section:start -->
 # Concordian (Huma)
-<!-- This file was auto-generated. 
-     Add your content here. -->
+
+<!-- wiki-header-section:end -->

@@ -1,9 +1,12 @@
 <!-- wiki-header-section:start -->
 # Belief
 
+In the [[Toman Ecoss]], belief is not just a concept; it is a perceivable force that shapes reality. It manifests in various forms, such as faith, desire, knowledge, and instinct.
+
+<!-- wiki-header-section:end -->
+
 **Eco:** [[Toman Ecoss]]
 
-In the [[Toman Ecoss]], belief is not just a concept; it is a perceivable force that shapes reality. It manifests in various forms, such as faith, desire, knowledge, and instinct.
 
 ### Understanding Belief
 

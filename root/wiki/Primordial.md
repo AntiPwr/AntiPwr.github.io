@@ -1,10 +1,14 @@
 <!-- wiki-header-section:start -->
 # Primordial
 
-**Eco:** [[Toma]] of [[Toman Ecoss]]  <br>
-**Kingdom:** [[Resonant]] (**Primordial**)   <br>
+
 
 Primordials are ancient, colossal creatures of immense power, representing an intense interkingdom relationship through [[Resonance#Polyresonance|polyresonance]].
+
+<!-- wiki-header-section:end -->
+
+**Eco:** [[Toma]] of [[Toman Ecoss]]  <br>
+**Kingdom:** [[Resonant]] (**Primordial**)   <br>
 
 ### Characteristics
 

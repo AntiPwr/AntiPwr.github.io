@@ -1,11 +1,7 @@
 <!-- wiki-header-section:start -->
 # Toma Timeline
-_The Great Lines, The Cosmic Cycles, Dance Record_
 
 <img src="wiki_images/Toma_Timeline.png"><i>Artistic representation of the Dance of Spira through the major Lines of Toman history</i></img>
-
-> _""_  
-> **—**
 
 > _"Time is not a line but a dimension, like the dimensions of space."_  
 > **—Margaret Atwood**
@@ -15,13 +11,17 @@ _The Great Lines, The Cosmic Cycles, Dance Record_
     <p>If time is not a line, then why must we call it one? Strange.</p>
 </div>
 
+Each Line represents not merely a chronological period but a distinct cosmic arrangement—a specific configuration of spiritual and material forces that shapes all aspects of life within the plane. The transition between Lines occurs when the Dance of Spira shifts direction, typically accompanied by major upheavals in both the physical world and the metaphysical realms.
+
+<!-- wiki-header-section:end -->
+
 **Bin:** [[Scape]]  
 **Basin:** [[Sacrus]]  
 **Eco:** [[Toma]] of [[Toman Ecoss]]  
 
 The timeline of the [[Toman Ecoss]] is divided into significant Lines, defined by eras between shifts of the [[Dance of Spira]], as evident through changes in the [[World Gyre]]'s rotation. These Lines are marked by profound transformations in the nature of existence, belief, balance of power, and the planar ecosystem as a whole.
 
-Each Line represents not merely a chronological period but a distinct cosmic arrangement—a specific configuration of spiritual and material forces that shapes all aspects of life within the plane. The transition between Lines occurs when the Dance of Spira shifts direction, typically accompanied by major upheavals in both the physical world and the metaphysical realms.
+
 
 ## Cosmic Origins
 

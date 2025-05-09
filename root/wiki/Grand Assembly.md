@@ -7,6 +7,7 @@ In our system, each domain is visualized as a circle whose size reflects its wei
 
 Below you can experiment with the simulation tool for the Grand Assembly. The simulation allows you to update domain data, and as new data enters, it aggregates into a dynamic overview that reflects the shifting balance between groups. This interactivity is designed as a “game” that rewards understanding both sides to help find pathways toward relimination (restoring balance).
 
+<!-- wiki-header-section:end -->
 
 ## Guidelines for Assessing Domains
 

@@ -3,6 +3,8 @@
 
 *“Human beings are poor examiners, subject to superstition, bias, prejudice, and a PROFOUND tendency to see what they want to see rather than what is really there."* - **Scott M. Peck**
 
+<!-- wiki-header-section:end -->
+
 A source surge, or belief event, may occur throughout the game. There are two types of surges:
 
 - **Passive Surges**: Natural events used to guide roleplay. Examples include spontaneous growth of roots from a druid’s grief, or a fighter feeling sudden renewed vigor.

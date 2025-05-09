@@ -4,6 +4,8 @@ _Queen Mellifera, Yevhi, Efvi_
 
 <img src="wiki_images/Mellifera Tulscip.png"></a>  
 
+<!-- wiki-header-section:end -->
+
 **Eco:** [[Toma]] <br>  
 **Kingdom:** [[Monstra]], [[Huma]], [[Celia]] ([[Hallid]])  
 

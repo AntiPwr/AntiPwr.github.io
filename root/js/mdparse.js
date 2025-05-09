@@ -237,7 +237,6 @@ function enableWikiImageLightbox() {
     const lightboxImg = lightbox.querySelector('img');
     const lightboxCaption = lightbox.querySelector('.wiki-image-lightbox-caption');
     const closeBtn = lightbox.querySelector('.wiki-image-lightbox-close');
-    const inner = lightbox.querySelector('.wiki-image-lightbox-inner');
 
     // Click to close
     function closeLightbox() {

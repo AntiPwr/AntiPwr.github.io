@@ -1,18 +1,20 @@
 <!-- wiki-header-section:start -->
 # Rite of Transference
 
+
+
+The Rite of Transference dictates that positions of power must be relinquished when a superior vision emerges. Leadership in [[Sol Unita]] is not static—governance and innovation must always prioritize the collective over the individual.
+
+This rite ensures that authority, business monopolies, and societal structures remain dynamic, shifting in response to newer, stronger, and more reliable ideas. A leader does not step down when they have completed their vision; they step down when their vision is outmatched by a more effective one.
+
+<!-- wiki-header-section:end -->
+
 **Bin:** [[Scape]]  
 **Basin:** [[Sacrus]]  
 **Eco:** [[Toma]] of [[Toman Ecoss]]  
 **Kingdom:** [[Huma]]  
 **Phylum:** [[Asceptim]]  
 **Class:** [[Sol Unita]]
-
-**Artifact**
-
-The Rite of Transference dictates that positions of power must be relinquished when a superior vision emerges. Leadership in [[Sol Unita]] is not static—governance and innovation must always prioritize the collective over the individual.
-
-This rite ensures that authority, business monopolies, and societal structures remain dynamic, shifting in response to newer, stronger, and more reliable ideas. A leader does not step down when they have completed their vision; they step down when their vision is outmatched by a more effective one.
 
 ## The Collective Before the Individual
 

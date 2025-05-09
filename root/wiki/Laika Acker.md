@@ -3,6 +3,8 @@
 
 <img src="wiki_images/Laika Acker.png"><i></i></a>
 
+<!-- wiki-header-section:end -->
+
 **Eco:** [[Toma]] <br>
 **Kingdom:** [[Huma]] ([[Huma#Concordian|Concordian]]) <br>
 
@@ -13,6 +15,7 @@
 
 **Starting Age:** 20
 **Height**: 6'2
+
 
 
 <br>

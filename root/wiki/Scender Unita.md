@@ -9,7 +9,8 @@
     <span class="wiki-quote-attribution">—Founding Chronicle</span>
 </blockquote>
 
-Scender Unita was the original name for what would become [[Sol Unita]], the ruling class of [[Asceptim]]. It marked the unification of faith, governance, and technological ambition in the early years of the [[Line from Few]], laying the foundation for the ascendant society that would shape the future of [[Scender]] and all of [[Sancta]].
+**Scender Unita** is the historical name of [[Sol Unita]]. It marked the unification of faith, governance, and technological ambition in the early years of the [[Line from Few]], laying the foundation for the ascendant society that would shape the future of [[Scender]] and all of [[Sancta]].
+
 <!-- wiki-header-section:end -->
 
 <!-- taxonomy-table-section:start -->

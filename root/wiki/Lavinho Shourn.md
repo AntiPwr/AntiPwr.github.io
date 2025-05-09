@@ -3,6 +3,8 @@
 
 <img src="wiki_images/Lavinho Shourn.png"><i></i></a> <br>
 
+<!-- wiki-header-section:end -->
+
 **Eco:** [[Toma]] <br>
 **Kingdom:** [[Huma]] ([[Huma#Tayiman|Tayiman]])
 

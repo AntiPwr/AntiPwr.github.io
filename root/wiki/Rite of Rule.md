@@ -1,18 +1,18 @@
 <!-- wiki-header-section:start -->
 # Rite of Rule
 
+_"If you do not understand that which you rule, you do not rule anything at all."_ — Ophelia Necesse
+
+The Rite of Rule is a [[Rites of Huma|Rite of Huma]] that defines leadership not as ownership, but as a responsibility that demands understanding, faith, and active engagement. It asserts that those in power must be deeply connected to the people they govern, ensuring that leadership is never detached from the reality of those it serves.
+
+<!-- wiki-header-section:end -->
+
 **Bin:** [[Scape]]  
 **Basin:** [[Sacrus]]  
 **Eco:** [[Toma]] of [[Toman Ecoss]]  
 **Kingdom:** [[Huma]]  
 **Phylum:** [[Asceptim]]  
 **Class:** [[Sol Unita]]
-
-**Artifact**
-
-_"If you do not understand that which you rule, you do not rule anything at all."_ — Ophelia Necesse
-
-The Rite of Rule is a [[Rites of Huma|Rite of Huma]] that defines leadership not as ownership, but as a responsibility that demands understanding, faith, and active engagement. It asserts that those in power must be deeply connected to the people they govern, ensuring that leadership is never detached from the reality of those it serves.
 
 ## Governance Through Connection
 

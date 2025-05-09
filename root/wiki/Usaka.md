@@ -1,8 +1,6 @@
 <!-- wiki-header-section:start -->
 # Usaka
-<!--
-
-_Land of Spires, The Eastern Plain, Windward Continent_
+_The Western Plain, Windward Continent_
 
 <img src="wiki_images/Usaka.png"><i>The eastern continent of Usaka with its four major spire cities visible against the horizon</i></img>
 
@@ -11,6 +9,8 @@ _Land of Spires, The Eastern Plain, Windward Continent_
 
 > _"The plains are not empty; they are full of invisible barriers and pathways that only the wind remembers."_  
 > **—Italo Calvino, Invisible Cities**
+
+<!-- wiki-header-section:end -->
 
 **Bin:** [[Scape]]  
 **Basin:** [[Sacrus]]  

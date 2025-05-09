@@ -3,6 +3,8 @@
 
 <img src="wiki_images/Essnt.png"><i>An Essnt of the [[Alflame]] in meditation: half flesh, half volcanic stone, seated in a crater-ringed glade where flowers bloom and wilt with every breath—his molten veins glow with introspective power, and his star-lit eye gazes inward toward the balance of nature and self.</i></img>
 
+<!-- wiki-header-section:end -->
+
 <div class="taxonomy-table">
   <table>
     <tr>

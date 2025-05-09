@@ -1,16 +1,16 @@
 <!-- wiki-header-section:start -->
 # Rite of Egress
 
+The Rite of Egress is a [[Rites of Huma|Rite of Huma]] that dictates that one must never return to suffering. Rooted in the historical exile from [[Endem]], this rite influences both the governance of [[Sol Unita]] and the personal philosophy of its people. It teaches that once an individual or society has escaped hardship, they must never willingly return to it. This belief has shaped [[Scender]]’s refugee policies, religious doctrine, and social structure.
+
+<!-- wiki-header-section:end -->
+
 **Bin:** [[Scape]]  
 **Basin:** [[Sacrus]]  
 **Eco:** [[Toma]] of [[Toman Ecoss]]  
 **Kingdom:** [[Huma]]  
 **Phylum:** [[Asceptim]]  
 **Class:** [[Sol Unita]]
-
-**Artifact**
-
-The Rite of Egress is a [[Rites of Huma|Rite of Huma]] that dictates that one must never return to suffering. Rooted in the historical exile from [[Endem]], this rite influences both the governance of [[Sol Unita]] and the personal philosophy of its people. It teaches that once an individual or society has escaped hardship, they must never willingly return to it. This belief has shaped [[Scender]]’s refugee policies, religious doctrine, and social structure.
 
 ## Historical Context
 

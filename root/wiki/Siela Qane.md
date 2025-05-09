@@ -1,11 +1,11 @@
 <!-- wiki-header-section:start -->
 # Siela Qane
-
 _Sky Trielder, Drakemaster of Qa'ura_
 
 <img src="wiki_images/Siela Qane.png"><i>Siela Qane weaves breath into form atop a disc of wind-forged stone—her closed eyes guiding ethereal blueprints into being as the clouds of Hypri churn beneath her in hues of lavender and gold.</i></img>
 
 <!-- wiki-header-section:end -->
+
 <!-- taxonomy-table-section:start -->
 <div class="taxonomy-table">
   <table>

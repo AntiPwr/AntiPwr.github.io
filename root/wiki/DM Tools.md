@@ -9,8 +9,6 @@
 - node "C:/Users/broki/OneDrive/Desktop/Sea Level Website/AntiPwr.github.io/root/js/generate_cardinal_arts_index.js"
 
 
-> **Note:**  
-> If you want to support Cardinal Arts search/filtering, ensure each page includes a `**Cardinal Arts:**` line listing the relevant arts.
 
 ## Gitbash | NodeJS | generate_taxonomy_index.js
 **Scans all .md files in the wiki directory, extracts the taxonomy-table-section for each, and writes a JSON index of taxonomy data for every page.**

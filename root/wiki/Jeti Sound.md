@@ -9,6 +9,8 @@
 
 Jeti Sound is the tropical coastal region between and extending just beyond [[Kyre's Point]] and [[Luin's Point]], forming the southernmost edge of [[Scender]]. Known for its sandy beaches, warm waters, and rich tropical life, the Sound thrives as a hub of trade, spiritual pilgrimage, and cultural exchange. The densest tropical growth is concentrated on the points themselves, where towering cliffs promote a diverse ecosystem. As one moves further from the Points, the coastal environment shifts into smoother beaches and the bustling commerce of [[Southcatch]].
 
+<!-- wiki-header-section:end -->
+
 ## Geography and Structure
 
 Jeti Sound is framed by two massive [[Aprimma]] jetties, natural formations that funnel ocean currents into the bay. These structures, along with the deep waters of the [[Swirling Sea]], create a natural harbor, protecting ships from rough tides. The bay is further connected to the city's core by a network of rivers that flow inward, linking Jeti Sound to Scender’s concentric bands until they reach the [[Ascension Band]].

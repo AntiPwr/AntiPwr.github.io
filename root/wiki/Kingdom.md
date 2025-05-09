@@ -1,10 +1,9 @@
  <!-- wiki-header-section:start -->
 # Kingdom
 
-**Eco:** [[Toma]] <br>
-**Kingdom**
+A **Kingdom** within Toma represents one of many large belief groups on the plane, defined by groups of living creatures with a common biological, characteristic, or planar function, which is thought to be linked to a greater universal purpose, known in [[Purpose Taxonomy]] as the [[Empire Function]]. These functions encompass ideas such as creation, destruction, management, counterweight, dichotomy, rebirth, etc, with each kingdom contributing to the power dynamics and total balance present in Toma.
 
-**Kingdoms** within Toma represent the largest belief groups on the plane, defined by groups of living creatures with a common biological, characteristic, or planar function, which is thought to be linked to a greater universal purpose, known in Purpose Taxonomy as the **Empire Function**. These functions encompass ideas such as creation, destruction, management, counterweight, dichotomy, rebirth, etc, with each kingdom contributing to the power dynamics and total balance present in Toma.
+<!-- wiki-header-section:end -->
 
 <details open>
 

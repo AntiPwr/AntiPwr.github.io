@@ -1,7 +1,5 @@
 <!-- wiki-header-section:start -->
 # Bluma
-<!--
-
 _Plant Kingdom_
 
 <img src="wiki_images/Bluma.png"><i>Interconnected root systems and diverse plant forms representing the Bluma kingdom</i></img>
@@ -11,6 +9,8 @@ _Plant Kingdom_
 
 > _"Plants are the silent architects of every ecosystem."_
 > **—Robin Wall Kimmerer**
+
+<!-- wiki-header-section:end -->
 
 **Eco:** [[Toma]]  
 **Kingdom:** Bluma

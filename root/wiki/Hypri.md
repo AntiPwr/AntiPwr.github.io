@@ -2,7 +2,7 @@
 # Hypri
 _Windy Sister, Skyward Court_
 
-<img src="wiki_images/Hypri.png"><i>The main spire of Hypri rising above the Usakan Growth. A colossal stone spire dominates a sea of thick, churning clouds, its jagged, golden-beige surface alive with cities carved into its crags and terraces. Hanging gardens, floating glass spheres, and winding misty currents create a breathtaking vertical metropolis, where civilization clings to impossible heights and flying ships glide along shimmering, magical airways.</i></img>
+<img src="wiki_images/Hypri.png"><i>The main spire of Hypri rising above the Usakan Growth. A colossal stone spire dominates a sea of thick, churning clouds, its jagged, golden-beige surface alive with city districts carved into its crags and terraces. Hanging gardens, floating glass spheres, and winding misty currents create a breathtaking vertical metropolis, where civilization clings to impossible heights and flying ships glide along shimmering, magical airways.</i></img>
 
 > _"Architecture begins where engineering ends."_
 > **—Walter Gropius**
