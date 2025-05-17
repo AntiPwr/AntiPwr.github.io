@@ -1,14 +1,13 @@
 <!-- wiki-header-section:start -->
 # Campaign 1: Whispers of the Well
 
-<details open>
-<summary><h2>Introduction</h2></summary>
+
+<h2>Introduction</h2>
 
 Welcome to the Campaign 1 Information page. This guide exists in two parts. For the current sessions of campaign 1, see "II.".
 
 This resource, similar to the rest of the wiki, reflects the collective knowledge of the party. The world and its mechanics will evolve alongside player growth and feedback through iterative updates to this site following in-person sessions. 
 
-</details>
 
 <!-- wiki-header-section:end -->
 
