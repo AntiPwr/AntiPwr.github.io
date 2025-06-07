@@ -55,9 +55,7 @@ Write an introductory paragraph about Tayim here. Summarize what the subject is 
 Write detailed content about Tayim here, organized into appropriate sections.
 
 <div class="feathermark">
-    <p class="feathermark-attribution">Corvi's Feathermark</p>
-    <p>Add Corvi's perspective or insights about this subject here. This could use the Wilder, Dark, or Amplified writing style as appropriate.</p>
-    <p>Add additional paragraphs to develop Corvi's perspective as needed.</p>
+ <p class="feathermark-attribution">Corvi's Feathermark</p>   
 </div>
 
 ## Additional Sections

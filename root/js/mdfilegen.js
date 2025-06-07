@@ -70,8 +70,7 @@ Write detailed content about ${fileName} here, organized into appropriate sectio
 
 <div class="feathermark">
     <p class="feathermark-attribution">Corvi's Feathermark</p>
-    <p>Add Corvi's perspective or insights about this subject here. This could use the Wilder, Dark, or Amplified writing style as appropriate.</p>
-    <p>Add additional paragraphs to develop Corvi's perspective as needed.</p>
+    
 </div>
 
 ## Additional Sections

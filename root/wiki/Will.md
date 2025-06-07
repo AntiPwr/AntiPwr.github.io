@@ -1,14 +1,14 @@
 <!-- wiki-header-section:start -->
 # Will
-_Add nicknames or alternative titles here_
+_Also known as WIL, Mental Reserve, or Spirit Pool_
 
 <img src="wiki_images/Will.png"><i></i></img>
 
-> _"Add a quote about the subject here from within the fictional world"_  
-> **—Quote Attribution**
+> _"The mind is a fortress, but every wall has its cracks."_
+> **—Unknown Scholar of Toma**
 
-> _"Add a quote from the real world that relates to the subject"_  
-> **—Real World Attribution**
+> _"The greatest battles are fought within."_
+> **—Real World Proverb**
 
 <!-- wiki-header-section:end -->
 
@@ -29,49 +29,46 @@ _Add nicknames or alternative titles here_
       <td class="taxon-label"><img src="../svg/eco.svg" class="taxon-icon">Eco:</td>
       <td class="taxon-content" colspan="2">[[Toma]] of [[Toman Ecoss]]</td>
     </tr>
-    <tr>
-      <td class="taxon-label"><img src="../svg/kingdom.svg" class="taxon-icon">Kingdom:</td>
-      <td class="taxon-content" colspan="2"></td>
-    </tr>
-    <tr>
-      <td class="taxon-label"><img src="../svg/phylum.svg" class="taxon-icon">Phylum:</td>
-      <td class="taxon-content" colspan="2"></td>
-    </tr>
-    <tr>
-      <td class="taxon-label"><img src="../svg/class.svg" class="taxon-icon">Class:</td>
-      <td class="taxon-content" colspan="2"></td>
-    </tr>
-    <tr>
-      <td class="taxon-label"><img src="../svg/order.svg" class="taxon-icon">Order:</td>
-      <td class="taxon-content" colspan="2"></td>
-    </tr>
   </table>
 </div>
 
-Write an introductory paragraph about Will here. Summarize what the subject is and its significance within the world.
+Will (**WIL**) is a system representing a creature's intangible reserve of self-determination, mental fortitude, and spiritual vitality. It shields a character's identity from external corruption—such as psychic parasites, hive-minds, and manipulation—by acting as a mental health pool that protects against permanent belief changes, mindlessness, or ideological subversion.
 
-## Main Section
+## How Will Works
 
-Write detailed content about Will here, organized into appropriate sections.
+- **Maximum Will** is calculated as:  
+  **CON + STR + DEX + WIS + INT + CHA + PB**  
+  (PB = Proficiency Bonus)
 
-<div class="feathermark">
-    <p class="feathermark-attribution">Corvi's Feathermark</p>
-    <p>Add Corvi's perspective or insights about this subject here. This could use the Wilder, Dark, or Amplified writing style as appropriate.</p>
-    <p>Add additional paragraphs to develop Corvi's perspective as needed.</p>
-</div>
+- **Consumption by External Sources:**  
+  Players do not allocate Will themselves. Instead, Will can be consumed or diminished through experiences in the world, such as exposure to Celia Inoculation, Shadow Natura, or other external influences. When a character is affected by such forces, their Will may be reduced, representing a loss of autonomy or a shift in their core self.
 
-## Additional Sections
+- **Natural Ownership:**  
+  By default, a character's Will is entirely their own, unless they are a resonant—individuals whose nature allows their Will to be shared or influenced by multiple sources.
 
-Continue with more sections as needed.
+- **Will as Reputation:**  
+  Will also functions as a reputation system. When a character gives a portion of their Will to a cause or entity outside themselves, they gain both benefits and downsides. Sacrificing Will can grant favor, power, or access to unique abilities, but also makes the character more vulnerable to outside influence or loss of self.
 
-## Images
+- **Permanent Effects:**  
+  If an external source consumes enough of a character's Will, this can result in lasting changes, such as altered beliefs, compulsions, or even a permanent shift in allegiance.
 
-<img src="wiki_images/Will_detail.png"><i>Caption describing a detailed aspect of Will</i></img>
+## Severance
+
+[[Severance]] is any spiritually significant act that causes an individual soul to detach from the influence of another's will. Severance can restore autonomy, break bonds of control, or end spiritual connections that compromise a character's selfhood.
+
+## Example
+
+If a character is exposed to Celia Inoculation, some of their Will may be consumed by the fungal influence. This not only weakens their resistance to further mental or spiritual threats, but may also grant them new abilities or connections—at the cost of autonomy.
+
+## Significance
+
+Will is central to the metaphysics of Toma, reflecting the struggle to maintain identity and autonomy in a world rife with belief-based magic, mental afflictions, and spiritual threats. Certain kingdoms and abilities interact directly with Will, and some afflictions (like [[Inoculation]]) specifically target or bypass Will defenses.
 
 ## Related Wiki Pages
 
-- [[Related Page 1]]
-- [[Related Page 2]]
-- [[Related Page 3]]
-
--->
+- [[Severance]]
+- [[Inoculation]]
+- [[Belief]]
+- [[Anim]]
+- [[Merchant System]]
+- [[Whisper of the Well Information]]

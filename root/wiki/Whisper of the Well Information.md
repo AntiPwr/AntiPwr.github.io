@@ -26,7 +26,7 @@ The First Arc introduced the original "party" of adventurers. Their journey bega
 <details closed>
 <summary><h3>Campaign Information</h3></summary>
 
-The campaign will be called, <a href="Whisper of the Well.html">Whisper of the Well</a>, taking place within the eco/plane of <a href="Toma.html">Toma</a>. Although, as seen with the name of the wiki, the <a href="Scape.html">Scape</a> is the name of the universe. Currently, the significance of the Scape remains undiscovered. For more background information on the world, see <a href="#World Information">World Information</a>.
+The campaign will be called, <a href="Whisper of the Well.html">Whisper of the Well</a>, taking place within the <a href="Eco.html">Eco</a> of <a href="Toma.html">Toma</a>. Although, as seen with the name of the wiki, the <a href="Scape.html">Scape</a> is the name of the universe. Currently, the significance of the Scape remains undiscovered. For more background information on the world, see <a href="#World Information">World Information</a>.
 
 <details open>
 <summary><h3>Unlock System</h3></summary>
