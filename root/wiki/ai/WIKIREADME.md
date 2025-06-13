@@ -1,4 +1,4 @@
-# Scape Wiki - Contributor Guidelines
+# Scape Wiki 
 
 Welcome to the Scape Wiki! This document outlines the formatting and content expectations for all wiki pages. Following these guidelines ensures a consistent reading experience and helps maintain the integrity of the worldbuilding.
 
@@ -9,28 +9,62 @@ Each wiki page should follow this structure (excluding ```):
 ```
 <!-- wiki-header-section:start -->
 # Page Title
-<p class="nickname">Nickname, Alternative Titles</p>
+Nickname, Alternative Titles
 
 <img src="wiki_images/PageName.png"><i>Image caption here</i></img>
 
-<blockquote class="wiki-quote">
-    _"Quote from the fictional world"_  
-    <span class="wiki-quote-attribution">—Quote Attribution</span>
-</blockquote>
+> "Quote from the fictional world"
+> —Quote Attribution
 
-<blockquote class="wiki-quote">
-    _"Quote from the real world"_  
-    <span class="wiki-quote-attribution">—Quote Attribution</span>
-</blockquote>
+> "Quote from the real world"
+> —Quote Attribution
 
-<p>
 Introductory paragraph that summarizes the subject.
-</p>
 <!-- wiki-header-section:end -->
 
 <!-- taxonomy-table-section:start -->
 <div class="taxonomy-table">
-  <!-- Purpose Taxonomy Table goes here (see PT Template.md) -->
+  <table>
+    <tr>
+      <th colspan="3">Purpose Taxonomy</th>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="../svg/bin.svg" class="taxon-icon">Bin:</td>
+      <td class="taxon-content" colspan="2">{{Bin}}</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="../svg/basin.svg" class="taxon-icon">Basin:</td>
+      <td class="taxon-content" colspan="2">{{Basin}}</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="../svg/eco.svg" class="taxon-icon">Eco:</td>
+      <td class="taxon-content" colspan="2">{{Eco}}</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="../svg/kingdom.svg" class="taxon-icon">Kingdom:</td>
+      <td class="taxon-content" colspan="2">{{Kingdom}}</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="../svg/phylum.svg" class="taxon-icon">Phylum:</td>
+      <td class="taxon-content" colspan="2">{{Phylum}}</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="../svg/class.svg" class="taxon-icon">Class:</td>
+      <td class="taxon-content" colspan="2">{{Class}}</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="../svg/order.svg" class="taxon-icon">Order:</td>
+      <td class="taxon-content" colspan="2">{{Order}}</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="../svg/family.svg" class="taxon-icon">Family:</td>
+      <td class="taxon-content" colspan="2">{{Family}}</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="../svg/essa.svg" class="taxon-icon">Essa:</td>
+      <td class="taxon-content" colspan="2">{{Essa}}</td>
+    </tr>
+  </table>
 </div>
 <!-- taxonomy-table-section:end -->
 
@@ -41,6 +75,10 @@ Leave this empty unless specifically requested. Use this to stage information th
 -->
 <!-- not-for-live-publishing:end -->
 ```
+
+## Search Bar Indexing
+
+> **Note:** Only the page title (the first H1, e.g. `# Page Title`) is indexed and shown in search bar results. Nicknames, alternative titles, quotes, or any other content are not included in search results. This ensures that search suggestions are clear and unambiguous.
 
 ## Main Section
 

@@ -23,7 +23,7 @@ The World Gyre affects the movement of landmasses, causing them to shift in a vo
 
 Ocean currents are directed outward from Arkon, influenced by the Dance of Spira. They circulate in either a clockwise or counterclockwise rotation, occasionally shifting direction.
 
-**Currents**: The currents are strongest in the outer regions of the Straits of Gorisain, with speed influenced by the number of souls in Arkon. Trenjor's belief sphere affects currents in northwest Ka'Vit, creating unique conditions.
+**Currents**: The currents are strongest in the outer regions of the Straits of Gorisain, with speed influenced by the number of souls in Arkon. <!--Trenjor's belief sphere affects currents in northwest Ka'Vit, creating unique conditions.-->
 
 **Depth**: Ocean depths fluctuate with the movement of tectonic plates, creating dynamic marine environments.
 
@@ -31,13 +31,11 @@ Ocean currents are directed outward from Arkon, influenced by the Dance of Spira
 
 Wind flows outward from Arkon, with speed and direction affected by the Dance of Spira and the number of souls present. In the inner regions of Ka'Vit, the Soul Well acts as the eye of a storm, with calmness determined by soul release.
 
+<!--
 ### Role of Behinyu
 
 Behinyu plays a significant role in the World Gyre by guiding souls through the [[Dance of Spira]]. Souls released by [[Never]] and sent to Behinyu are directed to sources of belief, providing anima to sustain Toma's ecosystems. If a soul loses its belief source, it follows the World Gyre toward the edge of the plane, seeking new belief. Failure to find a new source results in falling off the edge and facing [[Mixture Death#Solution Death|Solution Death]].
-
-### Influence and Legacy
-
-The World Gyre is integral to the balance and harmony of Toma, shaping its landscapes, ecosystems, and spiritual dynamics. By regulating the movement of souls and natural elements, it ensures the continued evolution and vitality of the Toman Ecoss. The interaction between the gyre, the Dance of Spira, and Behinyu highlights the interconnectedness of the material and spiritual realms, fostering growth and enlightenment for all inhabitants.
+-->
 
 
 
@@ -46,6 +44,7 @@ The World Gyre is integral to the balance and harmony of Toma, shaping its lands
 
 
 
+<!--
 World Gyre rate of change has a positive exponential
 
 Sol Unita believes the plane is getting hotter, because of the World Gyre swapping direction towards them following the Line from Few.

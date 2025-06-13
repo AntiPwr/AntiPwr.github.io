@@ -1,7 +1,9 @@
  <!-- wiki-header-section:start -->
 # Kingdom
 
-A **Kingdom** within Toma represents one of many large belief groups on the plane, defined by groups of living creatures with a common biological, characteristic, or planar function, which is thought to be linked to a greater universal purpose, known in [[Purpose Taxonomy]] as the [[Empire Function]]. These functions encompass ideas such as creation, destruction, management, counterweight, dichotomy, rebirth, etc, with each kingdom contributing to the power dynamics and total balance present in Toma.
+<img src="wiki_images/Kingdom.png"><i>The [[Grokauw]], a [[Ferra]]-[[Natura]] [[Resonant]] from the volcanic continent of [[Kro'Tan]], this obsidian-plated titan embodies raw consumption and elemental fury. Forged in magma and instinct, the Grokauw stalks the scorched ridges as both predator and volcanic omen.</i></img>
+
+A **Kingdom** within Toma represents one of many large belief groups on the plane, defined by groups of living creatures with a common biological, characteristic, or planar function, which is thought to be linked to a greater universal purpose, known in [[Purpose Taxonomy]] as the [[Empire Function]]. These functions encompass philosophical and cosmological ideas such as creation, destruction, management, counterweight, dichotomy, rebirth, etc, with each kingdom contributing to the power dynamics and total balance present in Toma.
 
 <!-- wiki-header-section:end -->
 
@@ -11,7 +13,7 @@ A **Kingdom** within Toma represents one of many large belief groups on the plan
 
 All creatures in Toma must be thought of as capable of organizing under belief systems. This means that animals and plants can display distinct behavior based upon ideology surrounding their empire function. This may be seen as faith, governance, territoriality, hunting patterns, etc. which act around the belief system. Therefore, a creature's behavior ultimately pinpoints itself unto that purpose and ideology answers the question of "how?" with the empire function being the "what?".
 
-One example of this is the Chant (pronounced "shaunt") subcelia, the largest and most widely-dispersed population in the Celia kingdom, which display distinct traits to spread their hivemind mycelium's ideology.
+One example of this is the [[Chant]] (pronounced "shaunt") subcelia, the largest and most widely-dispersed population in the Celia kingdom, which display distinct traits to spread their hivemind mycelium's ideology.
 </details>
 
 <details open>
@@ -46,7 +48,7 @@ Each kingdom within Toma organizes around a purpose or Empire Function. Here is 
 - [[Celia]] (Rebirth or Transmutation) (**Contested**)
 - [[Decara]] (Destruction)
 - [[Ferra]] (Consumption)
-- [[Huma]] (Freedom, Ascension, or ???) (**Contested**)
+- [[Huma]] (Curiosity, Freedom, Ascension, or ???) (**Contested**)
 - [[Monstra]] (Suppression)
 - [[Natura]] (Protection)
 - [[Spira]] (Allowance, Energy, Magic, or ???) (**Contested**)

@@ -1,5 +1,4 @@
 // Streamlined wiki search bar with fuzzy/content search, keyboard nav, highlights, clear, recents
-// Debugging added for panel open/close and crash detection
 
 if (!window.Fuse) {
   const fuseScript = document.createElement('script');
@@ -7,7 +6,6 @@ if (!window.Fuse) {
   document.head.appendChild(fuseScript);
 }
 
-// Global error handler for debugging
 window.addEventListener('error', function(event) {
   console.error('Global JS Error:', event.message, 'at', event.filename, 'line', event.lineno, 'col', event.colno, event.error);
 });
@@ -47,7 +45,9 @@ document.addEventListener('DOMContentLoaded', () => {
       dropdown.appendChild(suggestionList);
     }
 
-    let allContent = [], fuse = null, recentSearches = JSON.parse(localStorage.getItem('recentSearches') || '[]'), selectedIdx = -1;
+    let allContent = [], fuse = null, selectedIdx = -1;
+    // Recents now stores {title, file} objects
+    let recentPages = JSON.parse(localStorage.getItem('recentPages') || '[]');
     let contentPath = window.location.pathname.includes('/wiki/') ? '../json/wiki_content_index.json' : 'json/wiki_content_index.json';
 
     function waitForFuse(cb) { window.Fuse ? cb() : setTimeout(() => waitForFuse(cb), 50); }
@@ -56,7 +56,7 @@ document.addEventListener('DOMContentLoaded', () => {
       allContent = content;
       waitForFuse(() => {
         fuse = new Fuse(allContent, {
-          keys: [{ name: 'title', weight: 2 }, { name: 'headings', weight: 1.5 }, { name: 'content', weight: 1 }],
+          keys: [{ name: 'title', weight: 2 }, { name: 'headings', weight: 1.5 }],
           includeMatches: true, threshold: 0.4, minMatchCharLength: 2, ignoreLocation: true,
         });
         displayRecent();
@@ -77,18 +77,16 @@ document.addEventListener('DOMContentLoaded', () => {
     function displayRecent() {
       suggestionList.innerHTML = '';
       dropdown.style.display = 'none';
-      if (!recentSearches.length) return;
+      if (!recentPages.length) return;
       if (document.activeElement === searchInput) {
         dropdown.style.display = 'block';
-        console.debug('search.js: displayRecent() - dropdown opened for recent searches');
-        recentSearches.slice(-5).reverse().forEach(q => {
+        recentPages.slice(-5).reverse().forEach(page => {
           const li = document.createElement('li');
-          li.textContent = q;
+          li.textContent = page.title;
           li.className = 'search-suggestion';
           li.addEventListener('mousedown', e => {
             e.preventDefault();
-            searchInput.value = q;
-            updateSuggestions(q);
+            goToPage(page.file);
           });
           suggestionList.appendChild(li);
         });
@@ -103,7 +101,6 @@ document.addEventListener('DOMContentLoaded', () => {
       let results = fuse ? fuse.search(query, { limit: 10 }) : [];
       if (!results.length) { dropdown.style.display = 'none'; return; }
       dropdown.style.display = 'block';
-      console.debug('search.js: updateSuggestions() - dropdown opened for query:', query);
       results.forEach((res, idx) => {
         const { item, matches } = res;
         const li = document.createElement('li');
@@ -111,17 +108,13 @@ document.addEventListener('DOMContentLoaded', () => {
         li.className = 'search-suggestion' + (idx === selectedIdx ? ' selected' : '');
         let titleMatch = matches?.find(m => m.key === 'title');
         let headingMatch = matches?.find(m => m.key === 'headings');
-        let contentMatch = matches?.find(m => m.key === 'content');
         let html = '<span class="suggest-title">' + highlight(item.title, titleMatch ? [titleMatch] : []) + '</span>';
         if (headingMatch) html += '<span class="suggest-heading"> — ' + highlight(item.headings[headingMatch.refIndex], [headingMatch]) + '</span>';
-        if (contentMatch) {
-          let snippet = item.content.slice(contentMatch.indices[0][0], contentMatch.indices[0][1] + 40);
-          html += '<span class="suggest-snippet">...' + highlight(snippet, [contentMatch]) + '...</span>';
-        }
+        // No content/snippet shown
         li.innerHTML = html;
         li.addEventListener('mousedown', e => {
           e.preventDefault();
-          addRecent(query);
+          addRecentPage(item.title, item.file);
           goToPage(item.file, headingMatch ? item.headings[headingMatch.refIndex] : null);
         });
         suggestionList.appendChild(li);
@@ -134,12 +127,12 @@ document.addEventListener('DOMContentLoaded', () => {
       window.location.href = url;
     }
 
-    function addRecent(q) {
-      if (!q) return;
-      recentSearches = recentSearches.filter(x => x !== q);
-      recentSearches.push(q);
-      if (recentSearches.length > 10) recentSearches.shift();
-      localStorage.setItem('recentSearches', JSON.stringify(recentSearches));
+    function addRecentPage(title, file) {
+      if (!title || !file) return;
+      recentPages = recentPages.filter(x => x.file !== file);
+      recentPages.push({ title, file });
+      if (recentPages.length > 10) recentPages.shift();
+      localStorage.setItem('recentPages', JSON.stringify(recentPages));
       displayRecent();
     }
 
@@ -147,19 +140,16 @@ document.addEventListener('DOMContentLoaded', () => {
     function openDropdown() {
       dropdown.style.display = 'block';
       dropdownOpen = true;
-      console.debug('search.js: openDropdown() called');
     }
     function closeDropdown() {
       dropdown.style.display = 'none';
       dropdownOpen = false;
-      console.debug('search.js: closeDropdown() called');
     }
 
     searchInput.addEventListener('focus', () => {
       try {
         if (!searchInput.value.trim()) { displayRecent(); clearBtn.style.display = 'none'; }
         else openDropdown();
-        console.debug('search.js: searchInput focus event');
       } catch (err) {
         console.error('search.js: Error in searchInput focus:', err);
       }
@@ -168,7 +158,6 @@ document.addEventListener('DOMContentLoaded', () => {
       try {
         openDropdown();
         updateSuggestions(searchInput.value.trim());
-        console.debug('search.js: searchInput input event');
       } catch (err) {
         console.error('search.js: Error in searchInput input:', err);
       }
@@ -212,7 +201,6 @@ document.addEventListener('DOMContentLoaded', () => {
         searchInput.value = '';
         updateSuggestions('');
         searchInput.focus();
-        console.debug('search.js: clearBtn click event');
       } catch (err) {
         console.error('search.js: Error in clearBtn click:', err);
       }

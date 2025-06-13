@@ -24,7 +24,6 @@ function extractInfoFromMarkdown(mdPath) {
   const lines = content.split('\n');
   let title = '';
   let headings = [];
-  let snippet = '';
 
   // Title: first H1 or filename
   for (const line of lines) {
@@ -46,21 +45,14 @@ function extractInfoFromMarkdown(mdPath) {
     }
   }
 
-  // Snippet: first 500 chars of non-heading lines
-  snippet = lines
-    .filter(l => !l.match(/^#{1,6} /) && l.trim() !== '')
-    .join(' ')
-    .replace(/\s+/g, ' ')
-    .slice(0, 500);
-
   // HTML file name
   const htmlFile = path.basename(mdPath, '.md') + '.html';
 
   return {
     file: htmlFile,
     title,
-    headings,
-    content: snippet
+    headings
+    // content/snippet removed
   };
 }
 
