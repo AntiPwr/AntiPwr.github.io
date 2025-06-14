@@ -90,11 +90,11 @@ Usakan culture varies significantly between regions, but several common elements
 
 Throughout Usaka, wind is considered both a practical resource and a spiritual force. Many local beliefs incorporate wind deities or conceptualize the [[World Gyre]] as a divine manifestation. Wind shrines are common in both urban and rural areas, and seasonal festivals marking shifts in gyre intensity are celebrated continent-wide.
 
-### The Dweller Traditions
+### The High Dweller Traditions
 
-The original inhabitants of Usaka, known as [[Dweller]]s, maintain ancient traditions centered around the spires and their relationship with the earth. These traditions include spire veneration practices and rituals focused on maintaining harmony between elevated structures and their foundations.
+The original inhabitants of Usaka, known as [[High Dweller]]s, maintain ancient traditions centered around the spires and their relationship with the earth. These traditions include spire veneration practices and rituals focused on maintaining harmony between elevated structures and their foundations.
 
-Dweller communities persist throughout the continent, though they are most concentrated in and around Hypri. Their traditional knowledge of navigating Sibannac's Carpet and interpreting wind patterns remains highly valued even in more technologically advanced settlements.
+High Dweller communities persist throughout the continent, though they are most concentrated in and around Hypri. Their traditional knowledge of navigating Sibannac's Carpet and interpreting wind patterns remains highly valued even in more technologically advanced settlements.
 
 ### Academic Exchange
 
@@ -153,6 +153,6 @@ As an eastern power relatively distant from the central conflicts of Toma, Usaka
 - [[World Gyre]]
 - [[Theologia]]
 - [[Ahdom Few]]
-- [[Dweller]]
+- [[High Dweller]]
 
 -->

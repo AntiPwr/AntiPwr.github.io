@@ -3,30 +3,47 @@
 <head>
     <meta charset="UTF-8">
     <title>Severance</title>
-    <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="../css/scape_wiki_base.css">
+    <link rel="stylesheet" href="../css/scape_wiki_pages.css">
+    <link rel="stylesheet" href="https://use.typekit.net/hpo3tdq.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
 </head>
 <body>
-    <h1>Severance</h1>
-    <img src="wiki_images/Severance.png" alt="Artistic depiction of spiritual severance">
-    <p><i>Artistic depiction of spiritual severance.</i></p>
-    <p>
-        <strong>Severance</strong> is any spiritually significant act that causes an individual soul to detach from the influence of another's will. This process can take many forms—ritual, revelation, sacrifice, or confrontation—and is often required to restore autonomy to those who have been spiritually bound, controlled, or corrupted.
-    </p>
-    <h2>Examples of Severance</h2>
-    <ul>
-        <li>Breaking free from a psychic parasite or hive-mind.</li>
-        <li>Rituals to end the effects of Celia Inoculation or Shadow Natura.</li>
-        <li>Acts of willpower or belief that restore a character's autonomy.</li>
-    </ul>
-    <h2>Significance</h2>
-    <p>
-        Severance is both a narrative and mechanical tool, allowing characters to reclaim their identity and resist forces that would subsume their will. It is often a turning point in a character's journey, marking the restoration of independence and the end of spiritual domination.
-    </p>
-    <h2>Related Wiki Pages</h2>
-    <ul>
-        <li><a href="Will.html">Will</a></li>
-        <li><a href="Inoculation.html">Inoculation</a></li>
-        <li><a href="Belief.html">Belief</a></li>
-    </ul>
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="left-nav">
+                <button class="open-btn" id="open-btn">&#9776;</button>
+                <a href="scape_wiki_homepage.html" class="title">Scape Wiki</a>
+            </div>
+            <ul class="nav-links">
+                <li><a href="../../index.html">Sea Level</a></li>
+                <li><a href="../scape_about.html">About</a></li>
+            </ul>
+            <div class="nav-search">
+                <input type="text" placeholder="Search..." aria-label="Search Scape Wiki">
+            </div>
+        </div>
+    </nav>
+
+    <aside class="sidebar" id="sidebar">
+        <ul class="sidebar-links">
+            <li><a href="#Template-Title">Template Title</a></li>
+        </ul>
+    </aside>
+
+    <main class="content">
+        <div id="markdown-content" class="wiki-content" data-md-file=""></div>
+    </main>
+
+    <footer class="footer">
+        <p>2024 Sea Level</p>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/showdown/dist/showdown.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2/dist/fuse.min.js"></script>
+    <script src="../js/mdparse.js"></script>
+    <script src="../js/sidebar.js"></script>
+    <script src="../js/search.js"></script>
 </body>
 </html>

@@ -113,7 +113,7 @@ As Sky Trielder in the [[Hypri Highcourt]], Siela's official responsibilities in
 - Regulation of airship traffic and aerial transportation systems
 - Administration of climate control mechanisms throughout Hypri's spires
 
-Her governance style emphasizes the integration of practical function with spiritual purpose, often framing technological innovations as steps toward greater enlightenment. This approach has made her popular with both traditional [[Dweller]] communities and progressive elements seeking modernization.
+Her governance style emphasizes the integration of practical function with spiritual purpose, often framing technological innovations as steps toward greater enlightenment. This approach has made her popular with both traditional [[High Dweller]] communities and progressive elements seeking modernization.
 
 ### Drakemaster of Qa'ura
 

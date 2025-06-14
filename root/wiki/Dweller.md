@@ -1,8 +1,8 @@
 <!-- wiki-header-section:start -->
-# Dweller
+# High High Dweller
 _Add nicknames or alternative titles here_
 
-<img src="wiki_images/Dweller.png"><i></i></img>
+<img src="wiki_images/High Dweller.png"><i></i></img>
 
 > _"Add a quote about the subject here from within the fictional world"_  
 > **—Quote Attribution**
@@ -31,28 +31,16 @@ _Add nicknames or alternative titles here_
     </tr>
     <tr>
       <td class="taxon-label"><img src="../svg/kingdom.svg" class="taxon-icon">Kingdom:</td>
-      <td class="taxon-content" colspan="2"></td>
-    </tr>
-    <tr>
-      <td class="taxon-label"><img src="../svg/phylum.svg" class="taxon-icon">Phylum:</td>
-      <td class="taxon-content" colspan="2"></td>
-    </tr>
-    <tr>
-      <td class="taxon-label"><img src="../svg/class.svg" class="taxon-icon">Class:</td>
-      <td class="taxon-content" colspan="2"></td>
-    </tr>
-    <tr>
-      <td class="taxon-label"><img src="../svg/order.svg" class="taxon-icon">Order:</td>
-      <td class="taxon-content" colspan="2"></td>
+      <td class="taxon-content" colspan="2">[[Huma]] (**High Dweller**)</td>
     </tr>
   </table>
 </div>
 
-Write an introductory paragraph about Dweller here. Summarize what the subject is and its significance within the world.
+Write an introductory paragraph about the High Dweller here. Summarize what the subject is and its significance within the world.
 
 ## Main Section
 
-Write detailed content about Dweller here, organized into appropriate sections.
+Write detailed content about High Dweller here, organized into appropriate sections.
 
 <div class="feathermark">
  <p class="feathermark-attribution">Corvi's Feathermark</p>   
@@ -64,7 +52,7 @@ Continue with more sections as needed.
 
 ## Images
 
-<img src="wiki_images/Dweller_detail.png"><i>Caption describing a detailed aspect of Dweller</i></img>
+<img src="wiki_images/High Dweller_detail.png"><i>Caption describing a detailed aspect of High Dweller</i></img>
 
 ## Related Wiki Pages
 

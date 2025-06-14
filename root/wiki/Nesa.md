@@ -23,7 +23,7 @@ _Lesser Voices_
     </tr>
     <tr>
       <td class="taxon-label"><img src="svg/eco.svg" class="taxon-icon">Eco:</td>
-      <td class="taxon-content" colspan="2">[[Soul Fields]] and [[Toma]] of [[Toman Ecoss]]</td>
+      <td class="taxon-content" colspan="2">[[Toma]] and [[Soul Fields]] of [[Toman Ecoss]]</td>
     </tr>
     <tr>
       <td class="taxon-label"><img src="svg/kingdom.svg" class="taxon-icon">Kingdom:</td>
@@ -114,7 +114,7 @@ While the Nesa generally work to maintain the overall balance of Toma, individua
 
 ### Usakan Etymology
 
-The term "Nesa" itself has Usakan origins, emerging from early Dweller communities' attempts to classify the divine beings they encountered. The word derives from the ancient Usakan root "nes-" meaning "to speak from beyond" or "voice that crosses boundaries."
+The term "Nesa" itself has Usakan origins, emerging from early High Dweller communities' attempts to classify the divine beings they encountered. The word derives from the ancient Usakan root "nes-" meaning "to speak from beyond" or "voice that crosses boundaries."
 
 This linguistic connection highlights the historical significance of [[Usaka]] as one of the earliest regions to develop sophisticated theological frameworks for understanding these entities. To this day, Usakan theologians—particularly those based in [[Hypri]]—maintain some of the most comprehensive records of Nesa manifestations and behaviors.
 

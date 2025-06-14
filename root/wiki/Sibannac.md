@@ -94,7 +94,7 @@ The Usakan Growth governs the region through this network, with Sibannac as its 
 
 ### Deity Status in Hypri
 
-For the native [[Dweller]] population of Hypri, Sibannac is considered a powerful deity worthy of reverence and regular offerings. The entity is viewed as both protector and judge—safeguarding the city while determining which outsiders are worthy of reaching it.
+For the native [[High Dweller]] population of Hypri, Sibannac is considered a powerful deity worthy of reverence and regular offerings. The entity is viewed as both protector and judge—safeguarding the city while determining which outsiders are worthy of reaching it.
 
 Religious practices centered around Sibannac include:
 
@@ -120,7 +120,7 @@ The [[Hypri Highcourt]] maintains a specialized corps of navigators known as **G
 
 Several contradictory accounts exist regarding Sibannac's origins:
 
-- **Dweller Tradition** – Claims Sibannac emerged from the blood of a slain [[Natura]] deity during the early settlement of Usaka
+- **High Dweller Tradition** – Claims Sibannac emerged from the blood of a slain [[Natura]] deity during the early settlement of Usaka
 - **Academic Theory** – Suggests the entity evolved naturally from a symbiotic relationship between native grass species and mineral deposits unique to the region
 - **Esoteric Teaching** – Holds that Sibannac is a fragment of consciousness from an ancient [[Bluma]] that achieved transcendence
 
@@ -203,7 +203,7 @@ Sibannac draws inspiration from various sources, including:
 - [[Usaka]]
 - [[Hypri]]
 - [[World Gyre]]
-- [[Dweller]]
+- [[High Dweller]]
 - [[Ahdom Few]]
 - [[Nesa]]
 - [[Growthmind]]

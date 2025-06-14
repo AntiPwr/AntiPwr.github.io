@@ -134,9 +134,9 @@ This economic relationship has created tension within the Ahdom Few:
 
 Despite these concerns, the arrangement has brought substantial wealth and influence to Hypri, reinforcing Jarma's position within the Highcourt.
 
-## Reputation Among the Dwellers
+## Reputation Among the High Dwellers
 
-Jarma Konich's reputation among the native Dwellers of Hypri is notably low. In closed circles, Dwellers often discuss their suspicions that Jarma harbors ulterior, self-centered motives, believing that her policies and economic maneuvers are designed primarily for her own benefit rather than the common good. While there is some truth to these claims—Jarma is indeed pragmatic and ambitious—the Dwellers' reactionary stance and persistent distrust only serve to reinforce her willingness to act against their interests. This feedback loop has led to increasingly exclusionary policies, especially regarding the regulation of Moluk and the management of Hypri's resources, and has fueled a cycle of mutual antagonism between Jarma and the small but vocal Dweller population.
+Jarma Konich's reputation among the native High Dwellers of Hypri is notably low. In closed circles, High Dwellers often discuss their suspicions that Jarma harbors ulterior, self-centered motives, believing that her policies and economic maneuvers are designed primarily for her own benefit rather than the common good. While there is some truth to these claims—Jarma is indeed pragmatic and ambitious—the High Dwellers' reactionary stance and persistent distrust only serve to reinforce her willingness to act against their interests. This feedback loop has led to increasingly exclusionary policies, especially regarding the regulation of Moluk and the management of Hypri's resources, and has fueled a cycle of mutual antagonism between Jarma and the small but vocal High Dweller population.
 
 ## Legal Status of Moluk in Hypri
 

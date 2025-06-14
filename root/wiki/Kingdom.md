@@ -11,7 +11,7 @@ A **Kingdom** within Toma represents one of many large belief groups on the plan
 
 <summary><h3>Organizers of Belief</h3></summary>
 
-All creatures in Toma must be thought of as capable of organizing under belief systems. This means that animals and plants can display distinct behavior based upon ideology surrounding their empire function. This may be seen as faith, governance, territoriality, hunting patterns, etc. which act around the belief system. Therefore, a creature's behavior ultimately pinpoints itself unto that purpose and ideology answers the question of "how?" with the empire function being the "what?".
+All creatures in Toma must be thought of as capable of organizing under belief systems. This means that animals and plants can display distinct behavior based upon ideology surrounding their empire function. This may be seen as faith, governance, territoriality, hunting patterns, and other pathological beahviors which act around the belief system. Therefore, a creature's behavior ultimately pinpoints itself unto that purpose and ideology answers the question of "how?" with the empire function being the "what?".
 
 One example of this is the [[Chant]] (pronounced "shaunt") subcelia, the largest and most widely-dispersed population in the Celia kingdom, which display distinct traits to spread their hivemind mycelium's ideology.
 </details>
@@ -33,7 +33,7 @@ The following list includes every kingdom of Toma, including those that are prop
 - [[Spira]] (Spirit)
 - [[Resonant]] (Multiple Kingdoms)
 
-The **Proto** kingdom, also known as Protista, served as the foundation for the evolution of the Bluma and Decara kingdoms, but is no longer included in the newest accepted model of the [[Astalt's Theory of Kingdoms|Theory of Kingdoms]].
+The **Proto** kingdom served as the foundation for the evolution of the Bluma and Decara kingdoms, but is no longer included in the newest accepted model of the [[Astalt's Theory of Kingdoms|Theory of Kingdoms]].
 
 </details>
 

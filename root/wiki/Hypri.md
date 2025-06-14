@@ -82,7 +82,7 @@ The flora of Hypri includes gravitationally adapted plants and cliff-dwelling ve
 **Hypri’s unique ecosystem supports a range of native flying fauna:**
 - Small flying mammals that nest among the roots, vines, and cracks of Vespir, gliding between alcoves and feeding on windborne seeds and insects.
 - Burrowing or clinging creatures that make their homes in the inner walls and crevices of the stone, adapted to the shifting gravity and pressure.
-- A unique species of gravitational raptor-like bird, known for using Hypri’s altered gravity fields to glide in tight, swift spirals around the spire. These birds are culturally significant to Dwellers, symbolizing elegance and mastery, and are often depicted in Hypri art and heraldry.
+- A unique species of gravitational raptor-like bird, known for using Hypri’s altered gravity fields to glide in tight, swift spirals around the spire. These birds are culturally significant to High Dwellers, symbolizing elegance and mastery, and are often depicted in Hypri art and heraldry.
 
 Winding around the spire are ethereal tendrils of mist and magical energy, curling like serpents and weaving pathways and highways that pulse and shimmer in the sunlight, alive with motion and magic. The wind tunnel system—naturally occurring and magically enhanced—serves as the city’s arteries. These tunnels are used by airships, trade vessels, and couriers, and also connect interior residential and industrial zones, acting as pneumatic boulevards and climate regulators. Wind tunnels are essential for both transportation and energy distribution, making them vital to Hypri’s infrastructure and daily life.
 
@@ -210,7 +210,7 @@ Hypri is ruled by the [[Hypri Highcourt]], a governing body presided over by the
 - **[[Ximena Lathen|Lady Athen]]** – The Sea Trielder and Drakemaster of [[Lopali]].
 
 - **[[Jarma Konich]]** – The Land Trielder and Drakemaster of [[Kautiger]].  
-  _Jarma's reputation among the native Dwellers is notably low, with many suspecting her of self-serving motives and resenting her controversial role in the Moluk trade. This tension is reflected in both social discourse and policy, fueling a cycle of distrust and exclusion._
+  _Jarma's reputation among the native High Dwellers is notably low, with many suspecting her of self-serving motives and resenting her controversial role in the Moluk trade. This tension is reflected in both social discourse and policy, fueling a cycle of distrust and exclusion._
 
 - **[[Siela Qane]]** – The Sky Trielder and Drakemaster of [[Qa'ura]].
 
@@ -286,11 +286,11 @@ The Hypri Highcourt maintains that tampering with the gravity stones could desta
 
 ## Cultural Diversity and Belief Systems
 
-Hypri is the most culturally diverse city in Toma, hosting adherents of numerous religious and philosophical traditions. The native population, known as [[Dweller]]s, maintains the oldest belief systems centered around the spires themselves and [[Sibannac]].
+Hypri is the most culturally diverse city in Toma, hosting adherents of numerous religious and philosophical traditions. The native population, known as [[High Dweller]]s, maintains the oldest belief systems centered around the spires themselves and [[Sibannac]].
 
 Major belief systems include:
 
-- **Spire Veneration** – Native Dweller practice focusing on the spiritual significance of the spires
+- **Spire Veneration** – Native High Dweller practice focusing on the spiritual significance of the spires
 - **Sibannac Offerings** – Ceremonial practice of casting deceased bodies from the spires as offerings to the grass deity
 - **[[Gludestit]]** – Ancient worship of [[Hidraal]] maintained by some traditionalists
 - **[[Asceptim]]** – Imported faith gaining popularity under [[Siela Qane]]'s influence
@@ -345,9 +345,9 @@ This economic relationship has created tension with [[Siela Qane]]'s religious a
 
 ### Relationship with Sibannac and the Usakan Growth
 
-Hypri's relationship with Sibannac and the Usakan Growth is defined by suspicion, fear, and cultural prejudice. While Sibannac is officially recognized as a deity and practical partner in waste management and defense, the city's government and native population—especially the Dwellers—view the lower ground and its Growthmind society as a threat to their autonomy and identity.
+Hypri's relationship with Sibannac and the Usakan Growth is defined by suspicion, fear, and cultural prejudice. While Sibannac is officially recognized as a deity and practical partner in waste management and defense, the city's government and native population—especially the High Dwellers—view the lower ground and its Growthmind society as a threat to their autonomy and identity.
 
-Hypri's media, art, and education systems are built around a narrative that positions Sibannac as a cautionary figure. In plays, children's books, and public stories, Sibannac is depicted as a beautiful, seductive woman who ultimately slaughters or enslaves those too weak to resist her. This story is used to empower the native population and maintain a strong sense of nationalism, especially among the small core of Dwellers who see themselves as the true proponents of Hypri's legacy.
+Hypri's media, art, and education systems are built around a narrative that positions Sibannac as a cautionary figure. In plays, children's books, and public stories, Sibannac is depicted as a beautiful, seductive woman who ultimately slaughters or enslaves those too weak to resist her. This story is used to empower the native population and maintain a strong sense of nationalism, especially among the small core of High Dwellers who see themselves as the true proponents of Hypri's legacy.
 
 The stories serve to unite the native population against outside influence, especially through means of ignorance of the Usakan Growth societies below. While many traders and visitors pass through Hypri for commerce, the city's core identity is fiercely protected by these narratives.
 
