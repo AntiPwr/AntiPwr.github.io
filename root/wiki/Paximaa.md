@@ -3,6 +3,7 @@
 
 <img src="wiki_images/Paximaa.png"><i></i></img>
 
+**Paximaa** is a Godan term meaning "death to all games," signifying the end of a universe and the events and consequences associated with such a profound decline. It marks the culmination of a universe's cycle and the beginning of a new phase in the endless quest for balance and understanding within the [[Omnis]]. Paximaa is deeply intertwined with the concept of [[Hollow Purpose]], reflecting the universe's failure to sustain itself and the reversal of time that follows.
 <!-- wiki-header-section:end -->
 
 <!-- taxonomy-table-section:start -->
@@ -22,8 +23,6 @@
   </table>
 </div>
 <!-- taxonomy-table-section:end -->
-
-**Paximaa** is a Godan term meaning "death to all games," signifying the end of a universe and the events and consequences associated with such a profound decline. It marks the culmination of a universe's cycle and the beginning of a new phase in the endless quest for balance and understanding within the [[Omnis]]. Paximaa is deeply intertwined with the concept of [[Hollow Purpose]], reflecting the universe's failure to sustain itself and the reversal of time that follows.
 
 ## Characteristics of Paximaa
 

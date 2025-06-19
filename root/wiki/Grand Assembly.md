@@ -1,4 +1,6 @@
-<!-- wiki-header-section:start -->
+<!-- not-for-live-publishing:start -->
+<!--
+
 # Grand Assembly
 
 *Grand Assembly* is a [[Social Arts|Social Art]] dedicated to assembling balance from unbalanced constituents. Through the use of circular matrices—each representing key domains such as Economics, Culture, or Ideology—this study helps reveal both macrocosmic and microcosmic imbalances between groups.
@@ -7,7 +9,7 @@ In our system, each domain is visualized as a circle whose size reflects its wei
 
 Below you can experiment with the simulation tool for the Grand Assembly. The simulation allows you to update domain data, and as new data enters, it aggregates into a dynamic overview that reflects the shifting balance between groups. This interactivity is designed as a “game” that rewards understanding both sides to help find pathways toward relimination (restoring balance).
 
-<!-- wiki-header-section:end -->
+
 
 ## Guidelines for Assessing Domains
 
@@ -23,3 +25,4 @@ Below you can experiment with the simulation tool for the Grand Assembly. The si
 - **Dynamic Data and System Fluidity:**  
   The Grand Assembly is designed to be dynamic. As new data is fed into the system, individual domain matrices update, cascading changes upward into the overall assembly. Future AI integration can further automate this process, tracking temporal shifts and refining the grand liminant (the decisive driver of imbalance).
 
+<!-- not-for-live-publishing:end -->

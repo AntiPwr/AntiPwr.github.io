@@ -11,9 +11,17 @@ A **Kingdom** within Toma represents one of many large belief groups on the plan
 
 <summary><h3>Organizers of Belief</h3></summary>
 
-All creatures in Toma must be thought of as capable of organizing under belief systems. This means that animals and plants can display distinct behavior based upon ideology surrounding their empire function. This may be seen as faith, governance, territoriality, hunting patterns, and other pathological beahviors which act around the belief system. Therefore, a creature's behavior ultimately pinpoints itself unto that purpose and ideology answers the question of "how?" with the empire function being the "what?".
+All creatures in Toma must be thought of as capable of organizing under belief systems. This means that animals and plants can display distinct behavior based upon ideology surrounding their empire function. This may be seen as faith, governance, territoriality, hunting patterns, and other pathological behaviors which act around the belief system. Therefore, a creature's behavior ultimately pinpoints itself unto that purpose and ideology answers the question of "how?" with the empire function being the "what?".
 
-One example of this is the [[Chant]] (pronounced "shaunt") subcelia, the largest and most widely-dispersed population in the Celia kingdom, which display distinct traits to spread their hivemind mycelium's ideology.
+The capacity for belief organization varies significantly across kingdoms based on their intelligence classifications, which exist on a spectrum:
+
+**Simple-minded kingdoms** are more likely to unite under a single, cohesive belief system due to their straightforward cognitive structures. These kingdoms tend to exhibit uniform behaviors and responses across their populations.
+
+**Complex-minded kingdoms** (or "Comple-minded") display diverse and often contradictory belief systems within their populations. Their advanced cognitive abilities lead to philosophical debates, competing ideologies, and fragmented belief structures. [[Huma]] consider themselves complex-minded within Toma, which explains their disarrayed organization of belief compared to other kingdoms.
+
+**Middle-minded kingdoms** fall between these extremes, capable of sophisticated belief systems but with enough cognitive unity to maintain more coherent ideological structures than complex-minded kingdoms.
+
+These classifications exist on a spectrum based on the statistical organization of belief for each member of the kingdom population. For example, [[Celia]] exhibit a mass hivemind belief system called [[Mycelism]], representing a simple-minded approach to belief organization. One notable example is the [[Chant]] (pronounced "shaunt") subcelia, the largest and most widely-dispersed population in the Celia kingdom, which display distinct traits to spread their hivemind mycelium's ideology.
 </details>
 
 <details open>

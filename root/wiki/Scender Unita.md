@@ -1,13 +1,7 @@
 <!-- wiki-header-section:start -->
 # Scender Unita
-<p class="nickname">The First Sunbound</p>
 
-<img src="wiki_images/Scender.png"><i>Early emblem of Scender Unita, precursor to Sol Unita's current insignia.</i></img>
-
-<blockquote class="wiki-quote">
-    _"From the heart of Scender, the light of unity first dawned."_  
-    <span class="wiki-quote-attribution">—Founding Chronicle</span>
-</blockquote>
+<img src="wiki_images/Scender Unita.png"><i></i></img>
 
 **Scender Unita** is the historical name of [[Sol Unita]]. It marked the unification of faith, governance, and technological ambition in the early years of the [[Line from Few]], laying the foundation for the ascendant society that would shape the future of [[Scender]] and all of [[Sancta]].
 
@@ -41,7 +35,7 @@
     </tr>
     <tr>
       <td class="taxon-label"><img src="svg/class.svg" class="taxon-icon">Class:</td>
-      <td class="taxon-content" colspan="2"><strong>Scender Unita</strong></td>
+      <td class="taxon-content" colspan="2"><strong>Scender Unita</strong> ([[Sol Unita]])</td>
     </tr>
   </table>
 </div>

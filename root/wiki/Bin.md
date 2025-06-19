@@ -3,7 +3,7 @@
 
 <img src="wiki_images/Bin.png"><i></i></img>
 
-In [[Purpose Taxonomy]], the universe's creation is a cyclical process involving two primary entities known as the [[nth Creator]] and the [[1st Creator]]. These [[Creator|Creators]] alternate in shaping the universe, taking turns to construct and influence the cosmos through distinct methodologies based on the [[Mk. the Soul Engine|Soul Engine's]] current [[Question]] and directional flow of [[Time]]. The Question determines the universe's direction and focus, deciding whether the lateral or linear approach will be more effective in achieving cosmic goals. This means that in another Question, the two minds could not be based on linearity or laterality, but rather some other fundamental question.
+In [[Purpose Taxonomy]], the universe's creation is a cyclical process involving two primary entities known as the [[nth Creator]] and the [[1st Creator]]. These [[Creator|Creators]] alternate in shaping the universe, taking turns to construct and influence the cosmos through distinct methodologies based on the [[Mk. the Soul Engine|Soul Engine's]] current [[Question]] and directional flow of [[Time]]. The Question determines the universe's direction and focus, deciding whether the lateral or linear approach will be more effective in achieving cosmic goals. In this context, "linear" refers to an individualistic, microcosmic, and sequential approach, while "lateral" refers to a collectivist, macrocosmic, and holistic approach to achieving a perfect universe. This means that in another Question, the two minds could not be based on linearity or laterality, but rather some other fundamental question.
 
 <!-- wiki-header-section:end -->
 
@@ -15,7 +15,7 @@ In [[Purpose Taxonomy]], the universe's creation is a cyclical process involving
     </tr>
     <tr>
       <td class="taxon-label"><img src="../svg/bin.svg" class="taxon-icon">Bin:</td>
-      <td class="taxon-content" colspan="2">[[Scape]]</td>
+      <td class="taxon-content" colspan="2"><strong>Bin</strong></td>
     </tr>
   </table>
 </div>
@@ -26,9 +26,8 @@ In [[Purpose Taxonomy]], the universe's creation is a cyclical process involving
 
 ### Bin 0 and Bin 1
 
-- **Bin 0 (Scape)**: Defined by the lateral expansion method of the nth Creator, this universe is characterized by spontaneous growth and diversity, emphasizing the dynamic interplay of life and belief. It mirrors natural phenomena with an organic and unpredictable pattern.
-
-- **Bin 1 (Other Side)**: In contrast, the 1st Creator employs a linear approach, resulting in a universe marked by structure, order, and sequential development. Bin 1 fosters stability and predictability through precision and hierarchy.
+- **Bin 0 (Scape)**: Defined by the lateral expansion method of the nth Creator, this universe is characterized by spontaneous growth and diversity, emphasizing the dynamic interplay of life and belief. The nth Creator embodies a collectivist, macrocosmic, and lateral approach to achieving a perfect universe, mirroring natural phenomena with an organic and unpredictable pattern.
+- **Bin 1 (Other Side)**: In contrast, the 1st Creator employs a linear approach, resulting in a universe marked by structure, order, and sequential development. The 1st Creator represents an individualistic, microcosmic, and linear approach to perfection. Bin 1 fosters stability and predictability through precision and hierarchy.
 
 The methodologies used by Bin 0 and Bin 1 are influenced by the [[Current Question]], which acts as the guiding principle for the creative process.
 

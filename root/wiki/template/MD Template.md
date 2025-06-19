@@ -1,5 +1,5 @@
 <!-- wiki-header-section:start -->
-# Template Title
+# MD Template
 
 <p class="nickname">Nicknames, Alternative Titles</p>
 

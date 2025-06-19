@@ -35,7 +35,7 @@
     </tr>
     <tr>
       <td class="taxon-label"><img src="svg/order.svg" class="taxon-icon">Order:</td>
-      <td class="taxon-content" colspan="2">[[Scender]] (<strong>Access</strong>)</td>
+      <td class="taxon-content" colspan="2">[[Scender]] (<strong>Acceptance Band</strong>)</td>
     </tr>
   </table>
 </div>

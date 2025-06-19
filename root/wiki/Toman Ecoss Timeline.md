@@ -1,27 +1,36 @@
 <!-- wiki-header-section:start -->
-# Toma Timeline
+# Toman Ecoss Timeline
 
-<img src="wiki_images/Toma_Timeline.png"><i>Artistic representation of the Dance of Spira through the major Lines of Toman history</i></img>
+<img src="wiki_images/Toman Ecoss Timeline.png"><i></i></img>
 
-> _"Time is not a line but a dimension, like the dimensions of space."_  
-> **—Margaret Atwood**
-
-<div class="feathermark">
-    <p class="feathermark-attribution">Corvi's Feathermark</p>
-    <p>If time is not a line, then why must we call it one? Strange.</p>
-</div>
-
-Each Line represents not merely a chronological period but a distinct cosmic arrangement—a specific configuration of spiritual and material forces that shapes all aspects of life within the plane. The transition between Lines occurs when the Dance of Spira shifts direction, typically accompanied by major upheavals in both the physical world and the metaphysical realms.
+Each [[Line]] represents not merely a chronological period but a distinct cosmic arrangement—a specific configuration of spiritual and material forces that shapes all aspects of life within the plane. The transition between Lines occurs when the [[Dance of Spira]] shifts direction, typically accompanied by major upheavals in both the physical world and the metaphysical realms.
 
 <!-- wiki-header-section:end -->
 
-**Bin:** [[Scape]]  
-**Basin:** [[Sacrus]]  
-**Eco:** [[Toma]] of [[Toman Ecoss]]  
+<!-- taxonomy-table-section:start -->
+<div class="taxonomy-table">
+  <table>
+    <tr>
+      <th colspan="3">Purpose Taxonomy</th>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="svg/bin.svg" class="taxon-icon">Bin:</td>
+      <td class="taxon-content" colspan="2">[[Scape]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="svg/basin.svg" class="taxon-icon">Basin:</td>
+      <td class="taxon-content" colspan="2">[[Sacrus]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="svg/eco.svg" class="taxon-icon">Eco:</td>
+      <td class="taxon-content" colspan="2">[[Toman Ecoss]]</td>
+    </tr>
+  </table>
+</div>
+<!-- taxonomy-table-section:end -->
 
+<!--
 The timeline of the [[Toman Ecoss]] is divided into significant Lines, defined by eras between shifts of the [[Dance of Spira]], as evident through changes in the [[World Gyre]]'s rotation. These Lines are marked by profound transformations in the nature of existence, belief, balance of power, and the planar ecosystem as a whole.
-
-
 
 ## Cosmic Origins
 
@@ -60,13 +69,6 @@ The Versagoth Line ended with a significant shift in the Dance of Spira, though 
 
 This 551-year period represented the longest sustained era of relative peace in Toma's history, allowing for the development of complex ecosystems and the early foundations of civilization. The introduction of Huma consciousness would ultimately prove transformative for the plane's future development.
 
-<div class="feathermark">
-    <p class="feathermark-attribution">Corvi's Feathermark</p>
-    <p>The grand deception we maintain in our histories is the notion that the Line of Nature Harmony was actually harmonious. Archaeological evidence contradicts this comforting myth at every turn.</p>
-    <p>I've examined soil layers from this period: they're rich with ash deposits, irregular mineral distributions suggesting catastrophic events, and organic remains showing evidence of widespread suffering. What we call "harmony" was merely a different form of conflict—one operating on a slower timescale, with dominance expressed through gradual territorial expansion rather than outright warfare.</p>
-    <p>The Goda didn't return because harmony had been achieved; they returned because the plane had developed precisely the kind of self-sustaining conflict cycle they had designed it for. Their satisfaction wasn't with peace but with the elegant perpetual motion machine of competing kingdoms they had created—each rising and falling in sequence, none able to permanently dominate.</p>
-    <p>What we remember as an age of balance was actually the first successful implementation of controlled instability—the cosmic equivalent of keeping a spinning top perpetually wobbling but never quite falling.</p>
-</div>
 
 ### Truthsayer Line (1,386 R.T. - 1,698 R.T.)
 **Age of Voices**
@@ -201,7 +203,7 @@ These shifts represent crucial turning points in Toman history, moments when the
 
 ## Inspiration
 
-The Toma Timeline draws inspiration from various sources, including:
+The Toman Ecoss Timeline draws inspiration from various sources, including:
 - Cyclical time concepts from Hindu and Mayan cosmologies
 - Geological epochs and their defining characteristics
 - Historical periods of human civilization and their transition points
@@ -219,3 +221,5 @@ The Toma Timeline draws inspiration from various sources, including:
 - [[War of Conclusions]]
 - [[Current Line]]
 - [[Primordials]]
+
+-->

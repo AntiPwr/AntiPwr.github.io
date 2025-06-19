@@ -9,12 +9,12 @@ const OUTPUT_JSON = path.join(__dirname, '..', 'json', 'wiki_content_index.json'
 
 function getAllMarkdownFiles(dir) {
   let files = [];
+  // Only include .md files directly in the wiki directory, not subfolders
   for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
-    if (entry.isDirectory()) {
-      files = files.concat(getAllMarkdownFiles(path.join(dir, entry.name)));
-    } else if (entry.name.endsWith('.md')) {
+    if (entry.isFile() && entry.name.endsWith('.md')) {
       files.push(path.join(dir, entry.name));
     }
+    // Do not recurse into subdirectories
   }
   return files;
 }

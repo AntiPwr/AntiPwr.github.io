@@ -3,7 +3,6 @@
 
 <img src="wiki_images/Current Question.png"><i></i></img>
 
-
 The Current [[Question]] is the purpose of the current universe.
 
 <!-- wiki-header-section:end -->
@@ -22,21 +21,16 @@ The Current [[Question]] is the purpose of the current universe.
 </div>
 <!-- taxonomy-table-section:end -->
 
-
-
-
-
 <!-- not-for-live-publishing:start -->
 <!--
 # Linearity vs. Laterality
 
-The current [[Question]] focuses on exploring the coexistence and reconciliation of linear and lateral-minded creatures, as well as anything in between. It seeks to find a harmonious balance between these opposing mindsets within the [[Omnis]].
+The current [[Question]] focuses on exploring the coexistence and reconciliation of linear and lateral-minded creatures, as well as anything in between. In this context, "linear" refers to an individualistic, microcosmic, and sequential approach to existence and creation, while "lateral" refers to a collectivist, macrocosmic, and holistic approach. The Question seeks to find a harmonious balance between these opposing mindsets within the [[Omnis]].
 
 ## Role of the Creators
 
-- **Bin 0 ([[Scape]])**: The Omnis aims to produce the most lateral-minded person as the Creator of Bin 0, emphasizing dynamic interactions, creativity, and spontaneous evolution. This universal soul entity is known as the [[nth Creator]].
-
-- **Bin 1 ([[Other Side]])**: Conversely, the most linear-minded person is sought to lead Bin 1, focusing on order, structure, and sequential progression. This universal soul entity is known as the [[1st Creator]].
+- **Bin 0 ([[Scape]])**: The Omnis aims to produce the most lateral-minded person as the Creator of Bin 0, emphasizing collectivist, macrocosmic, and lateral approaches to achieving a perfect universe. This universal soul entity is known as the [[nth Creator]].
+- **Bin 1 ([[Other Side]])**: Conversely, the most linear-minded person is sought to lead Bin 1, focusing on individualistic, microcosmic, and linear approaches to perfection. This universal soul entity is known as the [[1st Creator]].
 
 ### Universal Goal
 

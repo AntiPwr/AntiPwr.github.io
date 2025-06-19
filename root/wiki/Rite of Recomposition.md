@@ -1,17 +1,45 @@
 <!-- wiki-header-section:start -->
 # Rite of Recomposition
 
+<img src="wiki_images/Rite_of_Recomposition.png"><i></i></img>
 
 The Rite of Recomposition is a [[Rites of Huma|Rite of Huma]] that establishes the relationship between death, renewal, and technological evolution. It originates from the Reins of Alwa, a myth that emphasizes repurposing the remains of the past to construct the future. This rite serves as both a spiritual principle and a practical necessity, guiding the development of synthetic decomposition technologies in [[Sol Unita]] and reinforcing the idea that all things must decay and be reshaped to achieve progress.
 
 <!-- wiki-header-section:end -->
 
-**Bin:** [[Scape]]  
-**Basin:** [[Sacrus]]  
-**Eco:** [[Toma]] of [[Toman Ecoss]]  
-**Kingdom:** [[Huma]]  
-**Phylum:** [[Asceptim]]  
-**Class:** [[Sol Unita]]
+<!-- taxonomy-table-section:start -->
+<div class="taxonomy-table">
+  <table>
+    <tr>
+      <th colspan="3">Purpose Taxonomy</th>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="../svg/bin.svg" class="taxon-icon">Bin:</td>
+      <td class="taxon-content" colspan="2">[[Scape]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="../svg/basin.svg" class="taxon-icon">Basin:</td>
+      <td class="taxon-content" colspan="2">[[Sacrus]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="../svg/eco.svg" class="taxon-icon">Eco:</td>
+      <td class="taxon-content" colspan="2">[[Toma]] of [[Toman Ecoss]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="../svg/kingdom.svg" class="taxon-icon">Kingdom:</td>
+      <td class="taxon-content" colspan="2">[[Huma]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="../svg/phylum.svg" class="taxon-icon">Phylum:</td>
+      <td class="taxon-content" colspan="2">[[Asceptim]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="../svg/class.svg" class="taxon-icon">Class:</td>
+      <td class="taxon-content" colspan="2">[[Sol Unita]]</td>
+    </tr>
+  </table>
+</div>
+<!-- taxonomy-table-section:end -->
 
 ## Historical Context
 
@@ -44,3 +72,9 @@ This ideology is reflected in governance, where leaders and policies are constan
 The Rite of Recomposition remains one of the most transformative rites within Sol Unita, influencing technology, faith, and governance. It ensures that the past is never discarded but always repurposed, shaping everything from industrial policies to spiritual practices.
 
 While the rejection of Celia has led to significant technological advancements, it has also sparked debates about whether the decision was necessary or if it was motivated more by political control than religious doctrine. However, as long as Sol Unita thrives, the Rite of Recomposition will continue to justify humanity’s role in shaping the world rather than being shaped by it.
+
+## Related Wiki Pages
+- [[Alwa]]
+- [[Celia]]
+- [[Sol Unita]]
+- [[Rites of Huma]]

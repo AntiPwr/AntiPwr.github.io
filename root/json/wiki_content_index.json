@@ -17,7 +17,11 @@
     "file": "Advancism.html",
     "title": "Advancism",
     "headings": [
-      "Advancism"
+      "Advancism",
+      "Resonance and Evolution",
+      "Ideological Traits",
+      "Interconnections and Subphylums",
+      "See Also"
     ]
   },
   {
@@ -56,65 +60,6 @@
     ]
   },
   {
-    "file": "Implementation.html",
-    "title": "Implementation",
-    "headings": []
-  },
-  {
-    "file": "Sample Page.html",
-    "title": "Arkaven",
-    "headings": [
-      "Arkaven",
-      "Geography and Structure",
-      "The Root Systems",
-      "The Resonance Bowl",
-      "History and Development",
-      "Founding and Early Settlement",
-      "The Communion Crisis",
-      "Modern Era",
-      "Governance and Society",
-      "The Suspended Council",
-      "Social Structure",
-      "Economy and Resources",
-      "Cultural Features",
-      "The Flow Festival",
-      "Educational Institutions",
-      "Images",
-      "Inspiration",
-      "Related Wiki Pages"
-    ]
-  },
-  {
-    "file": "WIKIREADME.html",
-    "title": "Scape Wiki",
-    "headings": [
-      "Scape Wiki",
-      "Page Structure",
-      "Page Title",
-      "Search Bar Indexing",
-      "Main Section",
-      "Images",
-      "Inspiration",
-      "Purpose Taxonomy",
-      "Content Expectations",
-      "Depth and Detail",
-      "Cross-Referencing",
-      "Wiki Links",
-      "Writing Styles",
-      "Default Writing Style",
-      "Amplified Writing Style",
-      "Wilder Writing Style",
-      "Dark Writing Style",
-      "Example Page Components",
-      "Images",
-      "Section Structure",
-      "Lists",
-      "Feathermarks: Corvi's Commentary",
-      "Feathermark Writing Styles",
-      "Not For Live Publishing Section"
-    ]
-  },
-  {
     "file": "Albumaiyhet.html",
     "title": "Albumaiyhet",
     "headings": [
@@ -126,6 +71,19 @@
     "title": "Alevery Commons",
     "headings": [
       "Alevery Commons"
+    ]
+  },
+  {
+    "file": "Alwa.html",
+    "title": "Alwa",
+    "headings": [
+      "Alwa",
+      "Physical Characteristics",
+      "Influence and Impact",
+      "Legacy and Ascension",
+      "Cultural Significance",
+      "Remnants and Synoptic Resources",
+      "Related Wiki Pages"
     ]
   },
   {
@@ -394,7 +352,20 @@
     "file": "Celia.html",
     "title": "Celia",
     "headings": [
-      "Celia"
+      "Celia",
+      "Subcelia",
+      "Mentality and Chantae",
+      "Chantae: Goddess of Celia",
+      "Deicelia, Inoculation, and Spore Score",
+      "Hallid",
+      "Clol",
+      "Conscelia",
+      "Mycelism",
+      "Reborn",
+      "Alwa: The Primordial",
+      "Ecological and Biological Roles",
+      "Rite of Recomposition and Sol Unita",
+      "Scender’s Waste Problem"
     ]
   },
   {
@@ -409,6 +380,17 @@
     "title": "Chain of Delta",
     "headings": [
       "Chain of Delta"
+    ]
+  },
+  {
+    "file": "Chantae.html",
+    "title": "Chantae",
+    "headings": [
+      "Chantae",
+      "Nature and Role",
+      "Worship and Influence",
+      "Images",
+      "Related Wiki Pages"
     ]
   },
   {
@@ -440,6 +422,15 @@
     ]
   },
   {
+    "file": "Clol.html",
+    "title": "Clol",
+    "headings": [
+      "Clol",
+      "Nature and Role",
+      "Related Wiki Pages"
+    ]
+  },
+  {
     "file": "Concordia.html",
     "title": "Concordia",
     "headings": [
@@ -447,10 +438,10 @@
     ]
   },
   {
-    "file": "Concordian (Huma).html",
-    "title": "Concordian (Huma)",
+    "file": "Concordian Huma Lineage.html",
+    "title": "Concordian Huma Lineage",
     "headings": [
-      "Concordian (Huma)"
+      "Concordian Huma Lineage"
     ]
   },
   {
@@ -570,6 +561,16 @@
     ]
   },
   {
+    "file": "Deicelia.html",
+    "title": "Deicelia",
+    "headings": [
+      "Deicelia",
+      "Role and Influence",
+      "Images",
+      "Related Wiki Pages"
+    ]
+  },
+  {
     "file": "Dianett Sanct.html",
     "title": "Dianett Sanct",
     "headings": [
@@ -600,17 +601,6 @@
       "Gitbash | Python | regen_wiki_html.py",
       "Collections",
       "Wiki Update"
-    ]
-  },
-  {
-    "file": "Dweller.html",
-    "title": "High High Dweller",
-    "headings": [
-      "High High Dweller",
-      "Main Section",
-      "Additional Sections",
-      "Images",
-      "Related Wiki Pages"
     ]
   },
   {
@@ -690,7 +680,14 @@
     "file": "Ferra.html",
     "title": "Ferra",
     "headings": [
-      "Ferra"
+      "Ferra",
+      "Latewyrm",
+      "Wyrmcept",
+      "Serpent Ray",
+      "Terphip",
+      "Wyrmling",
+      "Other Subferra",
+      "Related Wiki Pages"
     ]
   },
   {
@@ -810,7 +807,11 @@
     "file": "Gyre Shift.html",
     "title": "Gyre Shift",
     "headings": [
-      "Gyre Shift"
+      "Gyre Shift",
+      "Overview",
+      "Mechanism and Effects",
+      "Role in the Toman Ecoss Timeline",
+      "Related Pages"
     ]
   },
   {
@@ -818,6 +819,16 @@
     "title": "Hacienda Band",
     "headings": [
       "Hacienda Band"
+    ]
+  },
+  {
+    "file": "Hallid.html",
+    "title": "Hallid",
+    "headings": [
+      "Hallid",
+      "Nature and Uses",
+      "Images",
+      "Related Wiki Pages"
     ]
   },
   {
@@ -850,6 +861,17 @@
     "title": "Hidraal",
     "headings": [
       "Hidraal"
+    ]
+  },
+  {
+    "file": "High Dweller.html",
+    "title": "High Dweller",
+    "headings": [
+      "High Dweller",
+      "Culture and Society",
+      "Role in Hypri",
+      "Connection to the Spire",
+      "See Also"
     ]
   },
   {
@@ -953,7 +975,10 @@
     "file": "Inoculation.html",
     "title": "Inoculation",
     "headings": [
-      "Inoculation"
+      "Inoculation",
+      "Spore Score and Delusions",
+      "Images",
+      "Related Wiki Pages"
     ]
   },
   {
@@ -1177,6 +1202,16 @@
     ]
   },
   {
+    "file": "Mycelism.html",
+    "title": "Mycelism",
+    "headings": [
+      "Mycelism",
+      "Beliefs and Practices",
+      "Images",
+      "Related Wiki Pages"
+    ]
+  },
+  {
     "file": "Natura.html",
     "title": "Natura",
     "headings": [
@@ -1358,7 +1393,11 @@
     "file": "Primalism.html",
     "title": "Primalism",
     "headings": [
-      "Primalism"
+      "Primalism",
+      "Resonance and the Spectrum of Evolution",
+      "Ideological Traits",
+      "Interconnections and Subphylums",
+      "See Also"
     ]
   },
   {
@@ -1390,6 +1429,28 @@
       "Main Section",
       "Additional Sections",
       "Images",
+      "Related Wiki Pages"
+    ]
+  },
+  {
+    "file": "Reborn.html",
+    "title": "Reborn",
+    "headings": [
+      "Reborn",
+      "Nature",
+      "Types of Reborn",
+      "Images",
+      "Related Wiki Pages"
+    ]
+  },
+  {
+    "file": "Reins of Alwa.html",
+    "title": "Reins of Alwa",
+    "headings": [
+      "Reins of Alwa",
+      "The Severing of Alwa",
+      "Legacy in the Rites of Huma",
+      "The Sol Reformation",
       "Related Wiki Pages"
     ]
   },
@@ -1435,7 +1496,8 @@
       "Historical Context",
       "Technological Recomposition",
       "Philosophical and Cultural Significance",
-      "Legacy and Influence"
+      "Legacy and Influence",
+      "Related Wiki Pages"
     ]
   },
   {
@@ -1679,6 +1741,15 @@
     ]
   },
   {
+    "file": "Sipua.html",
+    "title": "Sipua",
+    "headings": [
+      "Sipua",
+      "Overview",
+      "Related Pages"
+    ]
+  },
+  {
     "file": "Slimefolk (Playable Race).html",
     "title": "Slimefolk (Playable Race)",
     "headings": [
@@ -1858,22 +1929,6 @@
     ]
   },
   {
-    "file": "MD Template.html",
-    "title": "Template Title",
-    "headings": [
-      "Template Title",
-      "Main Section",
-      "Additional Sections",
-      "Images",
-      "Related Wiki Pages"
-    ]
-  },
-  {
-    "file": "PT Template.html",
-    "title": "PT Template",
-    "headings": []
-  },
-  {
     "file": "The Soil Inn.html",
     "title": "The Soil Inn",
     "headings": [
@@ -1902,10 +1957,19 @@
     ]
   },
   {
-    "file": "Toma Timeline.html",
-    "title": "Toma Timeline",
+    "file": "Toma.html",
+    "title": "Toma",
     "headings": [
-      "Toma Timeline",
+      "Toma",
+      "Summary",
+      "Metageography and Hollow Resources"
+    ]
+  },
+  {
+    "file": "Toman Ecoss Timeline.html",
+    "title": "Toman Ecoss Timeline",
+    "headings": [
+      "Toman Ecoss Timeline",
       "Cosmic Origins",
       "Point Zero: Before Creation",
       "The Major Lines",
@@ -1928,15 +1992,6 @@
       "Images",
       "Inspiration",
       "Related Wiki Pages"
-    ]
-  },
-  {
-    "file": "Toma.html",
-    "title": "Toma",
-    "headings": [
-      "Toma",
-      "Summary",
-      "Metageography and Hollow Resources"
     ]
   },
   {

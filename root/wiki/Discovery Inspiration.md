@@ -37,7 +37,7 @@
   - D4 to D12: Minor to moderate discoveries or accomplishments. These must be used soon after being awarded.
   - D20: Major milestones or breakthroughs. These can be retained between sessions.
 - **Usage:**  
-  Discovery Inspiration dice can be added to ability checks, attack rolls, or saving throws, as determined by the DM.
+  Discovery Inspiration dice can be added to ability checks, attack rolls, or saving throws.
 
 ## Purpose
 
