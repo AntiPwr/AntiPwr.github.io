@@ -164,7 +164,8 @@
     "file": "Anthros.html",
     "title": "Anthros",
     "headings": [
-      "Anthros"
+      "Anthros",
+      "Origins and Diaspora"
     ]
   },
   {
@@ -274,6 +275,17 @@
     ]
   },
   {
+    "file": "Basin.html",
+    "title": "Basin",
+    "headings": [
+      "Basin",
+      "Main Section",
+      "Additional Sections",
+      "Images",
+      "Related Wiki Pages"
+    ]
+  },
+  {
     "file": "Battle of Agresta.html",
     "title": "Battle of Agresta",
     "headings": [
@@ -320,6 +332,20 @@
       "Connection with Anima",
       "Belief Pools",
       "Role in Gameplay"
+    ]
+  },
+  {
+    "file": "Bin.html",
+    "title": "Bin",
+    "headings": [
+      "Bin",
+      "Alternating Creation",
+      "Bin 0 and Bin 1",
+      "Creation Cycle",
+      "Hollow Purpose",
+      "Universal Shift",
+      "Soul Dynamics",
+      "Crea's Role"
     ]
   },
   {
@@ -403,6 +429,17 @@
     ]
   },
   {
+    "file": "Class.html",
+    "title": "Class",
+    "headings": [
+      "Class",
+      "Main Section",
+      "Additional Sections",
+      "Images",
+      "Related Wiki Pages"
+    ]
+  },
+  {
     "file": "Concordia.html",
     "title": "Concordia",
     "headings": [
@@ -424,6 +461,16 @@
     ]
   },
   {
+    "file": "Crea.html",
+    "title": "Crea",
+    "headings": [
+      "Crea",
+      "Components of Crea",
+      "Crea's Role in the Scape",
+      "See Also"
+    ]
+  },
+  {
     "file": "Current Line.html",
     "title": "Current Line",
     "headings": [
@@ -432,6 +479,23 @@
       "Additional Sections",
       "Images",
       "Related Wiki Pages"
+    ]
+  },
+  {
+    "file": "Current Question.html",
+    "title": "Current Question",
+    "headings": [
+      "Current Question",
+      "Linearity vs. Laterality",
+      "Role of the Creators",
+      "Universal Goal",
+      "Resolution and Stability",
+      "Solving the Question",
+      "Transitioning to New Questions",
+      "Impact on Souls and Creation",
+      "Crea's Role",
+      "Soul Dynamics",
+      "Creation Cycles"
     ]
   },
   {
@@ -516,7 +580,10 @@
     "file": "Discovery Inspiration.html",
     "title": "Discovery Inspiration",
     "headings": [
-      "Discovery Inspiration"
+      "Discovery Inspiration",
+      "How It Works",
+      "Purpose",
+      "See Also"
     ]
   },
   {
@@ -547,6 +614,17 @@
     ]
   },
   {
+    "file": "Eco.html",
+    "title": "Eco",
+    "headings": [
+      "Eco",
+      "Main Section",
+      "Additional Sections",
+      "Images",
+      "Related Wiki Pages"
+    ]
+  },
+  {
     "file": "Ember Petal Foundation.html",
     "title": "Ember Petal Foundation",
     "headings": [
@@ -565,10 +643,8 @@
     "title": "Essa",
     "headings": [
       "Essa",
-      "Main Section",
-      "Additional Sections",
-      "Images",
-      "Related Wiki Pages"
+      "What is Essa?",
+      "See Also"
     ]
   },
   {
@@ -593,6 +669,17 @@
     "title": "Evolution",
     "headings": [
       "Evolution",
+      "Main Section",
+      "Additional Sections",
+      "Images",
+      "Related Wiki Pages"
+    ]
+  },
+  {
+    "file": "Family.html",
+    "title": "Family",
+    "headings": [
+      "Family",
       "Main Section",
       "Additional Sections",
       "Images",
@@ -1225,6 +1312,17 @@
       "Additional Sections",
       "Images",
       "Related Wiki Pages"
+    ]
+  },
+  {
+    "file": "Paximaa.html",
+    "title": "Paximaa",
+    "headings": [
+      "Paximaa",
+      "Characteristics of Paximaa",
+      "Connection to Hollow Purpose",
+      "Symptoms of a Paximaa",
+      "See Also"
     ]
   },
   {
@@ -2024,7 +2122,8 @@
     "file": "Zothros.html",
     "title": "Zothros",
     "headings": [
-      "Zothros"
+      "Zothros",
+      "Origins and Diaspora"
     ]
   }
 ]

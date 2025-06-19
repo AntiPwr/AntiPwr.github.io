@@ -111,6 +111,15 @@
     "file": "Anosdi.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma of Toman Ecoss",
+    "Kingdom": "Anthros (Ferra-Huma Resonant)",
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
     "file": "Anthros.md"
   },
   {
@@ -195,6 +204,18 @@
     "file": "Ballast Sanct.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma of Toman Ecoss",
+    "Kingdom": null,
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
+    "file": "Basin.md"
+  },
+  {
     "file": "Battle of Agresta.md"
   },
   {
@@ -208,6 +229,18 @@
   },
   {
     "file": "Belief.md"
+  },
+  {
+    "Bin": "Scape",
+    "Basin": null,
+    "Eco": null,
+    "Kingdom": null,
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
+    "file": "Bin.md"
   },
   {
     "file": "Bluma.md"
@@ -249,6 +282,18 @@
     "file": "Cilladril.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma of Toman Ecoss",
+    "Kingdom": null,
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
+    "file": "Class.md"
+  },
+  {
     "file": "Concordia.md"
   },
   {
@@ -256,6 +301,18 @@
   },
   {
     "file": "Contribution Band.md"
+  },
+  {
+    "Bin": "Scape",
+    "Basin": null,
+    "Eco": null,
+    "Kingdom": null,
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
+    "file": "Crea.md"
   },
   {
     "Bin": "Scape",
@@ -268,6 +325,18 @@
     "Family": null,
     "Essa": null,
     "file": "Current Line.md"
+  },
+  {
+    "Bin": "Scape",
+    "Basin": null,
+    "Eco": null,
+    "Kingdom": null,
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
+    "file": "Current Question.md"
   },
   {
     "Bin": "Scape",
@@ -294,6 +363,15 @@
     "file": "Dianett Sanct.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma of Toman Ecoss",
+    "Kingdom": null,
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
     "file": "Discovery Inspiration.md"
   },
   {
@@ -312,12 +390,6 @@
     "file": "Dweller.md"
   },
   {
-    "file": "Ember Petal Foundation.md"
-  },
-  {
-    "file": "Endem.md"
-  },
-  {
     "Bin": "Scape",
     "Basin": "Sacrus",
     "Eco": "Toma of Toman Ecoss",
@@ -327,6 +399,24 @@
     "Order": null,
     "Family": null,
     "Essa": null,
+    "file": "Eco.md"
+  },
+  {
+    "file": "Ember Petal Foundation.md"
+  },
+  {
+    "file": "Endem.md"
+  },
+  {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma of Toman Ecoss",
+    "Kingdom": "Huma",
+    "Phylum": "N/A",
+    "Class": "N/A",
+    "Order": "N/A",
+    "Family": "N/A",
+    "Essa": "Essa",
     "file": "Essa.md"
   },
   {
@@ -355,6 +445,18 @@
     "Family": null,
     "Essa": null,
     "file": "Evolution.md"
+  },
+  {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma of Toman Ecoss",
+    "Kingdom": null,
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
+    "file": "Family.md"
   },
   {
     "file": "Ferra.md"
@@ -684,6 +786,18 @@
     "file": "Parable of Silent Content.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Fractal Waters",
+    "Eco": null,
+    "Kingdom": null,
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
+    "file": "Paximaa.md"
+  },
+  {
     "file": "Phylum.md"
   },
   {
@@ -1008,15 +1122,15 @@
     "file": "MD Template.md"
   },
   {
-    "Bin": "{{Bin}}",
-    "Basin": "{{Basin}}",
-    "Eco": "{{Eco}}",
-    "Kingdom": "{{Kingdom}}",
-    "Phylum": "{{Phylum}}",
-    "Class": "{{Class}}",
-    "Order": "{{Order}}",
-    "Family": "{{Family}}",
-    "Essa": "{{Essa}}",
+    "Bin": null,
+    "Basin": null,
+    "Eco": null,
+    "Kingdom": null,
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
     "file": "PT Template.md"
   },
   {
@@ -1146,6 +1260,15 @@
     "file": "Zaphira.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma of Toman Ecoss",
+    "Kingdom": "Zothros (Huma-Ferra Resonant)",
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
     "file": "Zothros.md"
   }
 ]

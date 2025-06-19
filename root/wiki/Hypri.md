@@ -321,7 +321,7 @@ Major belief systems include:
 
 The economic center of Hypri is the **Trade Belt**—a multilevel, spiraling marketplace and trade district carved into the spire between 7,200–7,800 meters. The Trade Belt is a chaotic yet structured space buzzing with trade, air traffic, and magical logistics, wrapping around the spire and home to the Splint, the gravity-cracked heart of Vespir.
 
-Within the Trade Belt lies the **Soil Inn**, the most famous inn in Hypri. The Soil Inn serves traders, dignitaries, travelers, and locals, and is named after a beloved local poem connected to [[Sibannac]]. It functions as both a cultural center and commercial hotspot, but it is not the name of the entire marketplace.
+Within the Trade Belt lies the **Soil Inn**, the most famous inn in Hypri. The Soil Inn serves traders, dignitaries, travelers, and locals, and is named after a beloved local poem connected to [[Sibannac]]. It functions as both a cultural center and commercial hotspot.
 
 Major exports from Hypri include:
 
@@ -333,8 +333,9 @@ _Moluk is illegal for consumption and trade within Hypri, but Jarma Konich is le
 - **Gravitationally-Altered Materials** – Unique substances processed in the unusual conditions near the Splint
 - **Cartographic Services** – Highly detailed maps of Usaka created by explorers who navigate Sibannac's Carpet
 
-## Foreign Relations
 <!--
+## Foreign Relations
+
 ### Relationship with the Chain of Delta
 
 Hypri maintains complex diplomatic and trade relationships with the [[Chain of Delta]], particularly through [[Jarma Konich]]'s partnership with [[Fuscia Lustin]]. This arrangement has led to Hypri becoming a significant production center for substances exported to the Chain, particularly [[Moluk]], which has gained popularity as an inexpensive recreational drug.

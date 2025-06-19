@@ -3,8 +3,11 @@
 
 <img src="wiki_images/Essnt.png"><i>An Essnt of the [[Alflame]] in meditation: half flesh, half volcanic stone, seated in a crater-ringed glade where flowers bloom and wilt with every breath—his molten veins glow with introspective power, and his star-lit eye gazes inward toward the balance of nature and self.</i></img>
 
+An **Essnt** is a unique classification of [[Resonant]] that embodies both the [[Huma]] and [[Natura]] kingdoms. Essnts are uncommon, but have existed through all periods of recorded history as a minority of hybrid entities whose existence bridges the gap between humanity and the natural world, granting them abilities, perspectives, and traits from both realities. The most notable Essnts in the [[Current Line]] are the three sisters of the [[Ahdom Few]], each collectivizing their power with a different aspect of the physical world: water, land, and sky.
+
 <!-- wiki-header-section:end -->
 
+<!-- taxonomy-table-section:start -->
 <div class="taxonomy-table">
   <table>
     <tr>
@@ -28,8 +31,7 @@
     </tr>
   </table>
 </div>
-
-An **Essnt** is a unique classification of [[Resonant]] that embodies both the [[Huma]] and [[Natura]] kingdoms. Essnts are uncommon, but have existed through all periods of recorded history as a minority of hybrid entities whose existence bridges the gap between humanity and the natural world, granting them abilities, perspectives, and traits from both realities. The most notable Essnts in the [[Current Line]] are the three sisters of the [[Ahdom Few]], each collectivizing their power with a different aspect of the physical world: water, land, and sky.
+<!-- taxonomy-table-section:end -->
 
 ## Essnt Triarchy: Ahdom Few
 
