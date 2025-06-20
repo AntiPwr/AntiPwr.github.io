@@ -69,6 +69,18 @@
     "file": "Implementation.md"
   },
   {
+    "file": "InfoDrop.md"
+  },
+  {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma (Sancta, Nesil Grassland) of Toman Ecoss",
+    "Kingdom": "Huma, Bluma,",
+    "Phylum": "Asceptim",
+    "Class": "Sol Unita",
+    "Order": "Lavis",
+    "Family": null,
+    "Essa": null,
     "file": "Sample Page.md"
   },
   {
@@ -162,6 +174,15 @@
     "file": "Aprima.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma (Arkon) of Toman Ecoss",
+    "Kingdom": null,
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
     "file": "Arkon.md"
   },
   {
@@ -337,6 +358,18 @@
     "Family": null,
     "Essa": null,
     "file": "Clol.md"
+  },
+  {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma (Wyldere, Clutched Forest) of Toman Ecoss",
+    "Kingdom": null,
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
+    "file": "Clutched Forest.md"
   },
   {
     "file": "Concordia.md"
@@ -1146,6 +1179,18 @@
     "file": "Severance.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma (Wyldere, Clutched Forest) of Toman Ecoss",
+    "Kingdom": "Decara (Huma Mimid)",
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
+    "file": "Sevfres.md"
+  },
+  {
     "file": "Sibannac.md"
   },
   {
@@ -1268,7 +1313,7 @@
   {
     "Bin": "Scape",
     "Basin": "Sacrus",
-    "Eco": "Toma of Toman Ecoss",
+    "Eco": "Toma (Swirling Sea) of Toman Ecoss",
     "Kingdom": null,
     "Phylum": null,
     "Class": null,
@@ -1348,6 +1393,30 @@
   },
   {
     "file": "Theologia.md"
+  },
+  {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma of Toman Ecoss",
+    "Kingdom": "Huma, Ferra, Automata, Celia",
+    "Phylum": "TBD",
+    "Class": "Tildohsi Partition",
+    "Order": null,
+    "Family": null,
+    "Essa": null,
+    "file": "Tildohsi Partition.md"
+  },
+  {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma of Toman Ecoss",
+    "Kingdom": "Huma, Ferra, Automata, Celia",
+    "Phylum": null,
+    "Class": "Tildohsi Partition",
+    "Order": "Tildohsi",
+    "Family": null,
+    "Essa": null,
+    "file": "Tildohsi.md"
   },
   {
     "file": "Tiny's Tale of Tong.md"

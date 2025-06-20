@@ -154,7 +154,16 @@
     "file": "Arkon.html",
     "title": "Arkon",
     "headings": [
-      "Arkon"
+      "Arkon",
+      "Main Section",
+      "Geography and Regions",
+      "Influence of Never",
+      "Ka'Vit: The Soul Tribunal",
+      "The Dance of Spira",
+      "Magic and Anima",
+      "Significance and Legacy",
+      "Images",
+      "Related Wiki Pages"
     ]
   },
   {
@@ -431,6 +440,16 @@
     ]
   },
   {
+    "file": "Clutched Forest.html",
+    "title": "Clutched Forest",
+    "headings": [
+      "Clutched Forest",
+      "Main Section",
+      "Images",
+      "Related Wiki Pages"
+    ]
+  },
+  {
     "file": "Concordia.html",
     "title": "Concordia",
     "headings": [
@@ -494,7 +513,6 @@
     "title": "Dai and Iko Stones",
     "headings": [
       "Dai and Iko Stones",
-      "Overview",
       "Formation and Resonance",
       "Properties and Usage",
       "Cultural and Symbolic Significance",
@@ -1697,6 +1715,16 @@
     ]
   },
   {
+    "file": "Sevfres.html",
+    "title": "Sevfres",
+    "headings": [
+      "Sevfres",
+      "Main Section",
+      "Images",
+      "Related Wiki Pages"
+    ]
+  },
+  {
     "file": "Sibannac.html",
     "title": "Sibannac",
     "headings": [
@@ -1889,13 +1917,9 @@
     "title": "Swirling Sea",
     "headings": [
       "Swirling Sea",
-      "Description",
-      "Bas'l Straits",
-      "Eternal Straits",
-      "Transient Straits",
-      "Pearl Natura Society",
-      "Significance",
-      "Related Pages"
+      "Main Section",
+      "Images",
+      "Related Wiki Pages"
     ]
   },
   {
@@ -1957,6 +1981,26 @@
     "title": "Theologia",
     "headings": [
       "Theologia"
+    ]
+  },
+  {
+    "file": "Tildohsi Partition.html",
+    "title": "Tildohsi Partition",
+    "headings": [
+      "Tildohsi Partition",
+      "Main Section",
+      "Images",
+      "Related Wiki Pages"
+    ]
+  },
+  {
+    "file": "Tildohsi.html",
+    "title": "Tildohsi",
+    "headings": [
+      "Tildohsi",
+      "Main Section",
+      "Images",
+      "Related Wiki Pages"
     ]
   },
   {
