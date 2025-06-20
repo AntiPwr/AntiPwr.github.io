@@ -1,13 +1,7 @@
 <!-- wiki-header-section:start -->
 # Aprima
-<p class="nickname">The White Resource, Sunstone</p>
 
 <img src="wiki_images/Aprima.png"><i>Aprima, the luminous white hollow resource, revered in Sol Unita for its purity and spiritual significance.</i></img>
-
-<blockquote class="wiki-quote">
-    _"Aprima is the light made solid, the memory of ascension etched in stone."_  
-    <span class="wiki-quote-attribution">—Sol Unita Artisan</span>
-</blockquote>
 
 Aprima is the purest form of [[Primma]], a rare and highly revered [[Hollow Resource]] believed to be derived from the remains of the [[Primordial]], [[Alwa]]. It is distinguished by its brilliant white color. In [[Sol Unita]], aprima is regarded as the most sacred building material, used almost exclusively for religious and governmental structures, reinforcing its significance as a representation of divine connection.
 <!-- wiki-header-section:end -->

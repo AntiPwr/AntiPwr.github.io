@@ -47,7 +47,7 @@ Each rite is housed within an [[Ester Slate]], sacred artifacts said to contain 
 
 ### Rite of Passage
 
-The [[Rite of Passage]] defines the ultimate goal of Huma—to achieve ascension. It is said that this document predates existence, written by [[Asath]] to guide Huma toward enlightenment and eventual transcendence into **Sol Proscima**. This rite serves as the foundation upon which all other rites are built.
+The [[Rite of Passage]] defines the ultimate goal of Huma—to achieve ascension. It is said that this document predates existence, written by [[Asath]] to guide Huma toward enlightenment and eventual transcendence into [[Sol Proscima]]. This rite serves as the foundation upon which all other rites are built.
 
 ### Rite of Rule
 
@@ -63,7 +63,7 @@ The [[Rite of Egress]] emphasizes **never returning to past suffering**, drawing
 
 ### Rite of Transference
 
-The [[Rite of Transference]] mandates that **positions of power must transfer upon signs of enlightenment**. When an individual achieves a higher state of wisdom or understanding, they are expected to relinquish their position to another deemed more capable. This principle ensures a continual evolution of leadership, preventing stagnation and maintaining the fluidity of progress. This is the rite that led to the ascension of [[Ophelia Necesse]] as Queen of Scender.
+The [[Rite of Transference]] mandates that **positions of power must transfer upon signs of enlightenment**. When an individual achieves a higher state of wisdom or understanding, they are expected to relinquish their position to another deemed more capable. This principle ensures a continual evolution of leadership, preventing stagnation and maintaining the fluidity of progress. This is the rite that led to the ascension of [[Ophelia Necesse]] as Queen of Scender, although not without strife.
 
 ## Influence on Sol Unita Governance
 

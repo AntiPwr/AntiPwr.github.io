@@ -1,18 +1,7 @@
 <!-- wiki-header-section:start -->
 # Sea of Presence
-<p class="nickname">The Living Expanse, Eastern Bounty</p>
 
-<img src="wiki_images/Sea of Presence.png"><i>The vibrant, teeming waters of the Sea of Presence, alive with color and movement.</i></img>
-
-<blockquote class="wiki-quote">
-    _"Where the Swirling Sea ends, the Sea of Presence begins. Here, every wave is a promise."_  
-    <span class="wiki-quote-attribution">—Tayiman Navigator</span>
-</blockquote>
-
-<blockquote class="wiki-quote">
-    _"The sea, once it casts its spell, holds one in its net of wonder forever."_  
-    <span class="wiki-quote-attribution">—Jacques Cousteau</span>
-</blockquote>
+<img src="wiki_images/Sea of Presence.png"><i></i></img>
 
 The Sea of Presence is a bountiful sea in the southwest of [[Toma]], off the coasts of [[Sancta]], [[Usaka]], and [[Theologia]]. Renowned for its abundance of life and resources, it is a center of trade, migration, and cultural exchange. The Eternal Straits connect the Sea of Presence to the [[Swirling Sea]].
 <!-- wiki-header-section:end -->

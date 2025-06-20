@@ -2,7 +2,7 @@
 # Alwa
 _Shadow of Gaia_
 
-<img src="wiki_images/Alwa.png"><i></i></img>
+<img src="wiki_images/Alwa.png"><i>Beneath the fractal deep space, Alwa’s colossal fungal limbs anchor Gaia's sanctuary beneath the Toman sun.</i></img>
 
 **Alwa** was a primordial being that dominated during the [[Cel Blindbirth Line]], when surviving [[Huma]] populations of the [[Taxotheir Line]] fled to the subterrainean underbelly of [[Endem]]. Alwa was a primordial, exhibiting superior polyresonance, comprised of the essence of [[Celia]], [[Huma]], [[Natura]], [[Bluma]], and [[Spira]]. Her colossal body, at the peak of her evolution, blocked the sun, altered landscapes, and consumed the beliefs and souls of the fallen en masse. Her ascension ended the Cel Blindbirth Line, leaving behind remains ([[Primma]], [[Aprima]], [[Lifesoil]], and [[Sky Matter]]) that became vital resources in the subsequent development of Huma civilization in her wake. Alwa is a cautionary figure in [[Sol Unita]] folklore, representing the dangers of unchecked Celia power and the justification for the [[Rite of Recomposition]].
 

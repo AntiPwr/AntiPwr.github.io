@@ -1,13 +1,8 @@
 <!-- wiki-header-section:start -->
 # Asath Sanctuary
-<p class="nickname">Allcatch, House of the Sitting Sun</p>
+_Allcatch, House of the Sitting Sun_
 
 <img src="wiki_images/Asath Sanctuary.png"><i>The Asath Sanctuary on Gaudis, illuminated by the rising sun over Southcatch Bay.</i></img>
-
-<blockquote class="wiki-quote">
-    _"In the chamber of light, all burdens are lifted, and the soul is made clear."_  
-    <span class="wiki-quote-attribution">—Sanctuary Guide</span>
-</blockquote>
 
 The Asath Sanctuary is the largest place of worship dedicated to [[Asath]], the central deity of the [[Asceptim]] phylum. Located on the island of [[Gaudis]] in [[Southcatch]], it serves as a major spiritual and cultural landmark in [[Sol Unita]]. The sanctuary plays a crucial role in religious rites, conversion processes, and the ceremonial practices of [[Scender]].
 <!-- wiki-header-section:end -->

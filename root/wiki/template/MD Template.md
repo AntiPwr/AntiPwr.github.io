@@ -1,19 +1,14 @@
 <!-- wiki-header-section:start -->
 # MD Template
-
-<p class="nickname">Nicknames, Alternative Titles</p>
+_Nicknames, Alternative Titles_
 
 <img src="wiki_images/MD Template.png"><i>Image caption here</i></img>
 
-<blockquote class="wiki-quote">
-    _"Quote from the fictional world"_  
-    <span class="wiki-quote-attribution">—Quote Attribution</span>
-</blockquote>
+> _"Quote from real world."_
+> **-Quote Attribution**
 
-<blockquote class="wiki-quote">
-    _"Quote from the real world"_  
-    <span class="wiki-quote-attribution">—Real World Attribution</span>
-</blockquote>
+> _"Quote from fictional world."_
+> **-Quote Attribution**
 
 <p>
 Introductory paragraph that summarizes the subject.

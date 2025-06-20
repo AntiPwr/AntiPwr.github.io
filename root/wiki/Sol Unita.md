@@ -1,8 +1,7 @@
 <!-- wiki-header-section:start -->
 # Sol Unita
-<p class="nickname">The Sunbound, The Ascendant Class</p>
 
-<img src="wiki_images/Sol Unita Insignia.jpg"><i>Insignia of Sol Unita, symbolizing the unity of faith, governance, and technological progress.</i></img>
+<img src="wiki_images/Sol Unita Insignia.jpg"><i>Insignia of Sol Unita, symbolizing the unity of faith, governance, and technological progress under [[Asath]].</i></img>
 
 Sol Unita is the ruling class of [[Asceptim]], originally known as [[Scender Unita]] during the early years of the [[Line from Few]]. Deeply rooted in faith, scientific progress, and structured governance, Sol Unita prioritizes the technological and spiritual ascension of its people. The capital order of [[Scender]] stands as the heart of this belief system, embodying the principles of Sol Unita’s rule.
 <!-- wiki-header-section:end -->

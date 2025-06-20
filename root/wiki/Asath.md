@@ -1,15 +1,8 @@
 <!-- wiki-header-section:start -->
 # Asath
-<p class="nickname">The Eye</p>
+_The Eye_
 
 <img src="wiki_images/Asath (Fractal).png"><i>Appearance of the sun during a [[Toman Sun#Shortstars and Longstars|shortstar]] celebration in Scender.</i></img>
-
-<!--
-<blockquote class="wiki-quote">
-    _"The sun's gaze is endless, and in its warmth, all things are revealed."_  
-    <span class="wiki-quote-attribution">—Asceptim Hymn</span>
-</blockquote>
--->
 
 Asath, also known as the Eye, is a [[Nesa]] worshipped by the followers of the [[Asceptim]] phylum. Asath is not considered a living deity but rather a celestial, ever-present energy felt as a growing pleasure and warmth. The [[Rite of Passage]], an ancient religious relic, plays a foundational role in Asceptim belief, embedding Asath as the ultimate symbol of enlightenment and ascension out from the material realm.
 <!-- wiki-header-section:end -->

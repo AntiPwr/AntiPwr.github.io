@@ -4,13 +4,10 @@
 
 <img src="wiki_images/Hollow Resource.png"><i></i></img>
 
-<blockquote class="wiki-quote">
-    _"Every hollow resource is a vessel from will that once was."_  
-    <span class="wiki-quote-attribution">—Siever Lusitan, Viceroy of the Necesse Sanct</span>
-</blockquote>
+> _"Every hollow resource is a vessel from will that once was."_  
+> **—Siever Lusitan, Viceroy of the Necesse Sanct**
 
-
-**Hollow Resources** are vital materials within the [[Toman Ecoss]], formed through the processes of Mixture and Solution Deaths. These resources are the remnants of organic and inorganic matter that have undergone transformative deaths, leaving behind potent and highly valuable substances. Hollow Resources serve as the lifeblood of many civilizations, fueling technological advancements, spiritual practices, and economic systems.
+**Hollow Resources** are vital materials within the [[Toman Ecoss]], formed through [[Wasting Event|Wasting Events]]. These resources are the remnants of organic and inorganic matter that have undergone transformative deaths, leaving behind potent and highly valuable substances. Hollow Resources serve as the lifeblood of many civilizations, fueling technological advancements, spiritual practices, and economic systems.
 <!-- wiki-header-section:end -->
 
 <!-- taxonomy-table-section:start -->
@@ -48,8 +45,8 @@ Hollow Resources are created when large quantities of matter have their containe
 - **[[Therium]]**: A dark, dense material from the [[Decara]] and [[Spira]] kingdoms, known for its ability to conduct spiritual energy, making it essential for rituals and the creation of powerful artifacts.
 - **[[Photometal]]**: A unique resource from the [[Bluma]] kingdom, capable of imprinting and storing thoughts and beliefs when exposed to light, with its appearance shifting based on light exposure.
 - **[[Grame]]**: Associated with the [[Decara]] kingdom, Grame is known for its terrifying ability to consume belief and draw creatures toward decay.
-- **[[Dai and Iko Stones]]**: Crystals from the [[Ferra]] kingdom, influenced by predator-prey dynamics, with Dai Stones being hard and used in construction, and Iko Stones being malleable and used in art.
-- **[[Primma]]**: Originating from the [[Celia]] kingdom, Primma is a versatile material used in construction and spiritual practices, with its purity reflecting the proximity to ascension.
+- **[[Dai and Iko Stones]]**: Paired stones from the [[Ferra]] kingdom, formed when a predator and prey die together and decay into the earth. The Dai (predator) stone is always a dull, low-value shade or tone, while the Iko (prey) stone is always a pastel, high-value tint. Each pair is attuned to its own frequency, allowing only the paired stones to communicate. Used in spiritual practices, rituals, and as tracking implants (notably in Sol Unita). The stones symbolize the eternal chase and the predator-prey dynamic, with their resonance shaped by the beliefs of the creatures involved. See [[Dai and Iko Stones]] for full details.
+- **[[Primma]] and [[Aprima]]**: Originating from the [[Celia]] kingdom, Primma is a versatile material used in construction and spiritual practices, with its purity reflecting the proximity to ascension. [[Aprima]] is its purest form, said to be a remnant of the [[Primordial]] [[Alwa]].
 
 ## Importance and Use
 

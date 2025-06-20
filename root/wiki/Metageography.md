@@ -1,11 +1,10 @@
 <!-- wiki-header-section:start -->
 # Metageography
-<p class="nickname"></p>
 
 <img src="wiki_images/Metageography.png"><i>Valley of the Forgotten, off the coast of Norfbrayke, Wyldere.</i></img>
 
-> _"Too, the land is haunted by death."_
-> **—Siever Lusitan, Viceroy of the Necesse Sanct**
+> _"Too, the land lives on, haunted by death."_
+> **—[[Isaheim Maddows]], [[Delta|Deltan]] [[Arch]]**
 
 Metageography is the study and understanding of how Toma's physical and metaphysical landscapes are shaped by the processes of death, anim release, and collective belief. Unlike traditional geography, which focuses on physical forces, metageography recognizes that the biomes, resources, and even the climate of Toma are products of both natural and ideological transformations. The formation of [[Hollow Resource|Hollow Resources]] is a direct result of these processes, as the deaths of populations or the decay of belief systems leave behind potent materials that define the future of civilizations.
 <!-- wiki-header-section:end -->

@@ -1,18 +1,7 @@
 <!-- wiki-header-section:start -->
 # Sea of Absence
-<p class="nickname">The Barren Expanse, Northern Void</p>
 
-<img src="wiki_images/Sea of Absence.png"><i>The cold, empty waters of the Sea of Absence, stretching beyond the reach of Toma's warmth.</i></img>
-
-<blockquote class="wiki-quote">
-    _"Where the Swirling Sea gives, the Sea of Absence takes away. Here, even the waves seem to forget."_  
-    <span class="wiki-quote-attribution">—Wylderan Sailor</span>
-</blockquote>
-
-<blockquote class="wiki-quote">
-    _"The absence of life is not emptiness, but a canvas for the next beginning."_  
-    <span class="wiki-quote-attribution">—Rachel Carson</span>
-</blockquote>
+<img src="wiki_images/Sea of Absence.png"><i></i></img>
 
 The Sea of Absence is a barren, frigid sea in the northeast of [[Toma]], off the coasts of [[Wyldere]], [[Inersa]], and [[Concordia]]. Known for its stillness and lack of marine abundance, it stands in stark contrast to the vibrant [[Swirling Sea]]. The Sea of Absence is a place of mystery and legend, often associated with endings, exile, and the unknown.
 <!-- wiki-header-section:end -->

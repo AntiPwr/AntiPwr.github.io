@@ -4,11 +4,6 @@
 
 <img src="wiki_images/Toma Map(Outline).png"><i></i></img>
 
-<blockquote class="wiki-quote">
-    _"Even the land remembers death."_  
-    <span class="wiki-quote-attribution">—Isaheim Maddows</span>
-</blockquote>
-
 Toma is the primary plane (Eco) of the [[Toman Ecoss]], a world where the boundaries between kingdoms, belief, and geography are fluid and ever-changing. Its landscapes are shaped by the interplay of anim, death, and the collective will of its inhabitants. The formation of [[Hollow Resource|Hollow Resources]] is central to Toma's history, technology, and spiritual life. The concept of [[Metageography]]—the idea that geography itself is a product of death, belief, and transformation—defines the evolution of Toma's biomes, civilizations, and resources.
 <!-- wiki-header-section:end -->
 

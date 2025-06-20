@@ -3,7 +3,7 @@
 
 <img src="wiki_images/Current Question.png"><i></i></img>
 
-The Current [[Question]] is the purpose of the current universe.
+The Current [[Question]] is the purpose of the [[Omnis]].
 
 <!-- wiki-header-section:end -->
 

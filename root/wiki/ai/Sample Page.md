@@ -1,7 +1,8 @@
-# Arkaven
-_City of Whispers, The Suspended Garden, Vault of Songs_
+<!-- wiki-header-section:start -->
+# Lavis
+_Suspended Garden_
 
-<img src="wiki_images/Sample Page.png"><i>The floating spires of Arkaven during the annual Flow Festival</i></img>
+<img src="wiki_images/Sample Page.png"><i>The floating spires of Lavis during the annual Flow Festival</i></img>
 
 > _"Between root and sky, between memory and dream, there hangs a city where every stone remembers the touch of its shaper."_  
 > **—Pelphine Arc, Archivist of Riees Hill**
@@ -9,20 +10,50 @@ _City of Whispers, The Suspended Garden, Vault of Songs_
 > _"The true marvel of imagined cities is not their impossibility, but how they reveal the potential within our own."_  
 > **—Italo Calvino, Invisible Cities**
 
-**Bin:** [[Scape]]  
-**Basin:** [[Sacrus]]  
-**Eco:** [[Toma]] ([[Sancta]], [[Nesil Grassland]]) of [[Toman Ecoss]]  
-**Kingdom:** [[Huma]], [[Bluma]] (symbiotic integration)  
-**Phylum:** [[Asceptim]]  
-**Class:** [[Sol Unita]]  
-**Order:** [[Arkaven]]  
-**Family:** House of Suspended Roots
+Lavis is a mid-sized city of approximately 120,000 inhabitants located in the eastern region of the [[Nesil Grassland]]. Unique for its suspended architecture—buildings hung from massive, petrified root systems of ancient [[Bluma]] titans—the city exists in a perpetual state between earth and sky. Founded during the early [[Line from Few]] as an experimental outpost of [[Sol Unita]], Lavis evolved into a center of botanical research, arcane engineering, and philosophical exploration of the boundaries between [[Huma]] and [[Bluma]] consciousnesses.
+<!-- wiki-header-section:end -->
 
-Arkaven is a mid-sized city of approximately 120,000 inhabitants located in the eastern region of the [[Nesil Grassland]]. Unique for its suspended architecture—buildings hung from massive, petrified root systems of ancient [[Bluma]] titans—the city exists in a perpetual state between earth and sky. Founded during the early [[Line from Few]] as an experimental outpost of [[Sol Unita]], Arkaven evolved into a center of botanical research, arcane engineering, and philosophical exploration of the boundaries between [[Huma]] and [[Bluma]] consciousnesses.
+<!-- taxonomy-table-section:start -->
+<div class="taxonomy-table">
+  <table>
+    <tr>
+      <th colspan="3">Purpose Taxonomy</th>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="../svg/bin.svg" class="taxon-icon">Bin:</td>
+      <td class="taxon-content" colspan="2">[[Scape]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="../svg/basin.svg" class="taxon-icon">Basin:</td>
+      <td class="taxon-content" colspan="2">[[Sacrus]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="../svg/eco.svg" class="taxon-icon">Eco:</td>
+      <td class="taxon-content" colspan="2">[[Toma]] ([[Sancta]], [[Nesil Grassland]]) of [[Toman Ecoss]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="../svg/kingdom.svg" class="taxon-icon">Kingdom:</td>
+      <td class="taxon-content" colspan="2">[[Huma]], [[Bluma]], </td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="../svg/phylum.svg" class="taxon-icon">Phylum:</td>
+      <td class="taxon-content" colspan="2">[[Asceptim]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="../svg/class.svg" class="taxon-icon">Class:</td>
+      <td class="taxon-content" colspan="2">[[Sol Unita]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="../svg/order.svg" class="taxon-icon">Order:</td>
+      <td class="taxon-content" colspan="2">[[Lavis]]</td>
+    </tr>
+  </table>
+</div>
+<!-- taxonomy-table-section:end -->
 
 ## Geography and Structure
 
-Arkaven occupies an area where the geological and botanical anomalies of the eastern [[Nesil Grassland]] create a natural amphitheater. The city is structured across seven main root systems that form concentric rings around a central basin known as the Resonance Bowl.
+Lavis occupies an area where the geological and botanical anomalies of the eastern [[Nesil Grassland]] create a natural amphitheater. The city is structured across seven main root systems that form concentric rings around a central basin known as the Resonance Bowl.
 
 ### The Root Systems
 
@@ -38,7 +69,6 @@ The seven petrified root systems, each named after concepts in [[Asceptim]] fait
 
 <div class="feathermark">
     <p class="feathermark-attribution">Corvi's Feathermark</p>
-    <p>Seven rings for seven stages of consciousness—how convenient for the narrative! The architects of Arkaven claim divine inspiration, but I've studied the original drafts hidden in Cassandra Ballast's private collection. The city was designed as a sociological experiment, each ring a controlled environment to study faith as it relates to proximity to power. The "accidental" gaps between Harmony and Resonance weren't accidents at all—they're observation posts.</p>
     <p>Next time you visit, notice how the light filters differently through Unity Root. That's no natural phenomenon; it's a sophisticated surveillance system disguised as divine illumination. The gods may be watching, but so is Sol Unita's intelligence apparatus.</p>
 </div>
 
@@ -56,12 +86,10 @@ The Bowl's unique properties allow sound to travel in ways that defy conventiona
 
 ### Founding and Early Settlement
 
-Arkaven was founded in 37 LFF (Line from Few) by Expedition Leader Sariel Evensen, who discovered the petrified root systems while searching for sustainable building materials in the eastern grasslands. Initially established as a research outpost, the settlement quickly attracted botanists, arcane engineers, and philosophers drawn to the unique properties of the area.
+Lavis was founded in 37 LFF (Line from Few) by Expedition Leader Sariel Evensen, who discovered the petrified root systems while searching for sustainable building materials in the eastern grasslands. Initially established as a research outpost, the settlement quickly attracted botanists, arcane engineers, and philosophers drawn to the unique properties of the area.
 
 <div class="feathermark">
     <p class="feathermark-attribution">Corvi's Feathermark</p>
-    <p>The vastness of human self-deception has never been more evident than in the founding mythology of Arkaven. These weren't simply "discovered" root systems—they were the final desperate reaching of the Grandfather Canopy as it died during the Blindbirth cataclysm. Each "petrified root" holds the compressed suffering of thousands of sentient Bluma, their final moments crystallized in silent agony.</p>
-    <p>The colony's founders knew this. Evensen's private journals—which I've held in my hands, pages stained with tears—document the "singing pain" that kept the expedition awake at night. They built here not despite but because of this pain, believing the residual torment would create a "spiritual accelerant" for their experiments in faith-based ascension.</p>
     <p>The city thrives because it feeds on ancient suffering. The acoustics of the Resonance Bowl are perfect because they were designed to be—by a dying consciousness making one final attempt to communicate across kingdom boundaries.</p>
 </div>
 
@@ -73,7 +101,7 @@ The crisis was resolved through the [[Rite of Recomposition]] Accord, which esta
 
 ### Modern Era
 
-Today's Arkaven is known for three major contributions to [[Sol Unita]]:
+Today's Lavis is known for three major contributions to [[Sol Unita]]:
 
 1. **Botanical Augmentation** – Techniques for integrating living [[Bluma]] with [[Huma]] architecture
 2. **Harmonic Theology** – A school of [[Asceptim]] thought focusing on resonance between kingdoms as a path to ascension
@@ -83,13 +111,13 @@ Today's Arkaven is known for three major contributions to [[Sol Unita]]:
 
 ### The Suspended Council
 
-Arkaven is governed by the Suspended Council, consisting of seven representatives (one from each root system) plus an appointed Overseer from [[Scender]]. Major decisions are made in public sessions in the Resonance Bowl, where acoustics ensure all citizens can hear proceedings regardless of where they stand.
+Lavis is governed by the Suspended Council, consisting of seven representatives (one from each root system) plus an appointed Overseer from [[Scender]]. Major decisions are made in public sessions in the Resonance Bowl, where acoustics ensure all citizens can hear proceedings regardless of where they stand.
 
 Council positions are filled through application of the [[Rite of Transference]], with candidates demonstrating their vision for governance to the current position-holder, who must relinquish their role if a superior vision emerges.
 
 ### Social Structure
 
-Society in Arkaven is less stratified than in [[Scender]], with citizen mobility between root systems encouraged as part of personal growth. However, distinct cultural differences have emerged between the rings:
+Society in Lavis is less stratified than in [[Scender]], with citizen mobility between root systems encouraged as part of personal growth. However, distinct cultural differences have emerged between the rings:
 
 - **Outer Rings** (Nascence, Reflection) – More practical, material focus, with emphasis on craft and production
 - **Middle Rings** (Ascendance, Harmony) – Cultural and educational pursuits dominate
@@ -97,15 +125,12 @@ Society in Arkaven is less stratified than in [[Scender]], with citizen mobility
 
 <div class="feathermark">
     <p class="feathermark-attribution">Corvi's Feathermark</p>
-    <p>Oh, how perfectly charming! Seven little rings for seven little purposes, all spinning and twirling in their magnificent bureaucratic dance! Round and round they go, where they stop—well, they never do stop, do they?</p>
-    <p>Have you noticed how each ring seems to forget the others exist? Delightful denial! Splendid separation! Residents of Unity Root couldn't find Nascence on a labeled map, while those tending crops on the outskirts pretend the inner sanctum is merely a popular fairy tale.</p>
-    <p>And the colors! Each ring dyes their clothes with slightly different pigments—invisible to themselves but SCREAMING to anyone crossing boundaries. "I don't belong here, I don't belong here," sing their garments with every step taken into unfamiliar territory.</p>
-    <p>The Suspended Council isn't governing a city—they're conducting an orchestra of strategic amnesia! The true masterpiece of Arkaven isn't its architecture but its compartmentalization of consciousness!</p>
+    <p>The Suspended Council isn't governing a city—they're conducting an orchestra of strategic amnesia! The true masterpiece of Lavis isn't its architecture but its compartmentalization of consciousness!</p>
 </div>
 
 ## Economy and Resources
 
-Arkaven's economy centers around three primary industries:
+Lavis's economy centers around three primary industries:
 
 1. **Botanical Research** – Development of new plant varieties and hybridization techniques
 2. **Root-Craft** – Creating materials and structures from the integration of living and petrified plant matter
@@ -117,7 +142,7 @@ The city maintains a delicate trade balance with [[Scender]], exchanging innovat
 
 ### The Flow Festival
 
-Every year during the spring equinox, Arkaven hosts the Flow Festival, a week-long celebration of the connection between [[Huma]] and [[Bluma]]. The festival features:
+Every year during the spring equinox, Lavis hosts the Flow Festival, a week-long celebration of the connection between [[Huma]] and [[Bluma]]. The festival features:
 
 - **Sound Gardens** – Temporary installations where plants respond to vocal tones
 - **Communion Ceremonies** – Guided meditations in the Resonance Bowl
@@ -129,13 +154,13 @@ The Ascendance Academy, located in the third ring, is renowned throughout [[Sol 
 
 ## Images
 
-<img src="wiki_images/Arkaven_Resonance_Bowl.png"><i>The Resonance Bowl during the annual Communion Ceremony</i></img>
+<img src="wiki_images/Lavis_Resonance_Bowl.png"><i>The Resonance Bowl during the annual Communion Ceremony</i></img>
 
-<img src="wiki_images/Arkaven_Root_Market.png"><i>Vendors selling root-woven goods in the Reflection Ring Market</i></img>
+<img src="wiki_images/Lavis_Root_Market.png"><i>Vendors selling root-woven goods in the Reflection Ring Market</i></img>
 
 ## Inspiration
 
-Arkaven draws inspiration from various sources, including:
+Lavis draws inspiration from various sources, including:
 - Hanging gardens of Babylon
 - Sound art installations and acoustic architecture
 - Symbiotic relationships in nature

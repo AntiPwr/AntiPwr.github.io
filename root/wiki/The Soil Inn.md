@@ -1,18 +1,7 @@
 <!-- wiki-header-section:start -->
 # The Soil Inn
-<p class="nickname">The Market of Hypri, The Rooted Exchange</p>
 
-<img src="wiki_images/The Soil Inn.png"><i>The bustling, multi-level marketplace of the Soil Inn, carved into a smaller spire beneath Hypri, alive with traders, greenery, and the hum of commerce.</i></img>
-
-<blockquote class="wiki-quote">
-    _"All things return to the soil, and from the soil, all things are traded anew."_  
-    <span class="wiki-quote-attribution">—Hypri Merchant Proverb</span>
-</blockquote>
-
-<blockquote class="wiki-quote">
-    _"Markets are not just places of exchange, but crucibles where cultures, ideas, and destinies are remade."_  
-    <span class="wiki-quote-attribution">—Jane Jacobs</span>
-</blockquote>
+<img src="wiki_images/The Soil Inn.png"><i></i></img>
 
 The Soil Inn is the economic and cultural heart of [[Hypri]], a sprawling, multi-level marketplace carved into and built around one of the smaller spires beneath the city. Notably, the Soil Inn was named after a beloved local poem by Corvi, which predates the construction of the market itself. The poem celebrates the cycles of growth, decay, and renewal that define both the soil and the city, and its popularity inspired the creation and naming of the marketplace. Today, the Soil Inn is both a literal and symbolic center of trade, community, and renewal for the people of Hypri and travelers from across [[Toma]]. Here, the fertile ground of Usaka is celebrated not only for its bounty but for its role in connecting diverse peoples and traditions.
 <!-- wiki-header-section:end -->

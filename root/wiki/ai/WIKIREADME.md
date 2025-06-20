@@ -11,7 +11,7 @@ Each wiki page should follow this structure (excluding ```):
 # Page Title
 Nickname, Alternative Titles
 
-<img src="wiki_images/PageName.png"><i>Image caption here</i></img>
+<img src="wiki_images/PageName.png"></img>
 
 > "Quote from the fictional world"
 > —Quote Attribution
@@ -19,10 +19,11 @@ Nickname, Alternative Titles
 > "Quote from the real world"
 > —Quote Attribution
 
-Introductory paragraph that summarizes the subject.
+Introductory paragraph that summarizes the subject. If the page title appears in the introductory paragraph, it should be bolded (e.g., **Tildohsi**).
 <!-- wiki-header-section:end -->
 
 <!-- taxonomy-table-section:start -->
+If the page title appears in the taxonomy table, it should be bolded (e.g., **Tildohsi**)
 <div class="taxonomy-table">
   <table>
     <tr>
@@ -68,6 +69,14 @@ Introductory paragraph that summarizes the subject.
 </div>
 <!-- taxonomy-table-section:end -->
 
+## Main Section
+
+Content organized by sections...
+
+## Images
+
+## Inspiration
+
 <!-- not-for-live-publishing:start -->
 <!--
 This section is for content, lore, or discoveries that are NOT meant for live publishing to the site. 
@@ -79,14 +88,6 @@ Leave this empty unless specifically requested. Use this to stage information th
 ## Search Bar Indexing
 
 > **Note:** Only the page title (the first H1, e.g. `# Page Title`) is indexed and shown in search bar results. Nicknames, alternative titles, quotes, or any other content are not included in search results. This ensures that search suggestions are clear and unambiguous.
-
-## Main Section
-
-Content organized by sections...
-
-## Images
-
-## Inspiration
 
 ## Purpose Taxonomy
 
