@@ -3,7 +3,7 @@
 
 <img src="wiki_images/Discovery Inspiration.png"><i>Symbolic representation of inspiration and discovery within the Scape.</i></img>
 
-**Discovery Inspiration** is a system that replaces traditional DMG Inspiration. By achieving personal milestones, uncovering truths, or fulfilling goals, players earn dice of varying sizes (D4 to D20). Lesser dice (D4–D12) resemble Bardic Inspiration and must be used quickly, while a D20 represents a major milestone and can be saved between sessions.
+**Discovery Inspiration** is a system that replaces traditional DMG Inspiration. By achieving personal milestones, uncovering truths, connections to reality, or fulfilling goals, players earn dice of varying sizes (D4 to D20). Lesser dice (D4–D12) resemble Bardic Inspiration and must be used quickly, while a D20 represents a major milestone and can be saved between sessions.
 <!-- wiki-header-section:end -->
 
 <!-- taxonomy-table-section:start -->
