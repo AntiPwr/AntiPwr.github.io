@@ -1,14 +1,10 @@
+<!--
 # Eco
 _Add nicknames or alternative titles here_
 
 <img src="wiki_images/Eco.png"><i></i></img>
-
-> _"Add a quote about the subject here from within the fictional world"_  
-> **—Quote Attribution**
-
-> _"Add a quote from the real world that relates to the subject"_  
-> **—Real World Attribution**
-
+-->
+<!--
 <div class="taxonomy-table">
   <table>
     <tr>
@@ -69,3 +65,4 @@ Continue with more sections as needed.
 - [[Related Page 1]]
 - [[Related Page 2]]
 - [[Related Page 3]]
+-->

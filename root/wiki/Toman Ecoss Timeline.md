@@ -36,7 +36,7 @@ The timeline of the [[Toman Ecoss]] is divided into significant Lines, defined b
 
 ### Point Zero: Before Creation
 
-Before the plane was created, [[Zlellis and O'nume]] consumed from the [[Sourcewaters]] of the [[Godan Ecoss]] in the [[Fractal Waters]] and met. Their initial encounter would establish the fundamental duality that would eventually manifest as Toma itself.
+Before the plane was created, [[Zlellis and O'numeume]] consumed from the [[Sourcewaters]] of the [[Godan Ecoss]] in the [[Fractal Waters]] and met. Their initial encounter would establish the fundamental duality that would eventually manifest as Toma itself.
 
 ## The Major Lines
 
@@ -215,7 +215,7 @@ The Toman Ecoss Timeline draws inspiration from various sources, including:
 - [[Dance of Spira]]
 - [[World Gyre]]
 - [[Goda]]
-- [[Zlellis and O'nume]]
+- [[Zlellis and O'numeume]]
 - [[Nesa]]
 - [[Natural War]]
 - [[War of Conclusions]]

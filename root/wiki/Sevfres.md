@@ -34,12 +34,18 @@ _Exhuma ([[Tildohsi Partition]])_
 
 ## Main Section
 
-**Sevfres** is a being of immense destructive power, its form manifesting as a hand and a portion of a wrist, forever seeking and grasping within the forest. The entity’s origins are rooted in the ancient history of the Decara, a kingdom of destructive force within the [[Toman Ecoss]]. Sevfres is said to have been bound to the Clutched Forest through a sacrificial act that resulted in an unending determination to kill.
+**Sevfres** is a being of immense destructive power, its form manifesting as a hand and wrist portion reaching out of the soil, forever seeking and grasping for souls within the forest. The entity’s origins are rooted in the ancient history of the Decara, a kingdom of destructive force within the [[Toman Ecoss]]. Sevfres is said to have been bound to the Clutched Forest through a sacrificial act that resulted in an unending determination to kill.
 
-The survival of [[Tildohsi]] and the [[Tildohsi Partition]] depends on their ability to avoid Sevfres’s attention. They employ advanced sound-masking magic and attention-baiting techniques to keep the hand occupied in certain areas, allowing their city to remain hidden. Members of the Partition known as [[Pincher]]s have developed the ability to control Sevfres’s attacks, using sound magic to direct its destructive force against their enemies. This tactic proved decisive during the battle against the [[Chain of Delta]], where Sevfres destroyed 212 [[Willed-Mecha]], allowing the Partition to claim valuable resources.
+The survival of Tildohsi and the Partition depends on their ability to avoid Sevfres’s attention. They employ advanced sound-masking magic and attention-baiting techniques to keep the hand occupied in certain areas, allowing their city to remain hidden. Certain revered members of the Partition known as [[Pincher]]s have developed the ability to control Sevfres’s attacks, using sound magic to direct its destructive force against their enemies. This tactic proved decisive during the battle against the [[Chain of Delta]], where Sevfres destroyed 212 [[Willed-Mecha]] during the [[212 Shift]], allowing the Partition to claim valuable resources, most notably therium.
 
+<!--212 shift event is named that because that is how much therium was reclaimed from automata, including willed-mecha who were imprisoned and turned to free-mecha, as well as the therium retrieved from automata corpses.
+-->
+<!-- 
+sacrificing souls to Sevfres is common in the partition
+-->
+<!--
 Sevfres’s connection to sound and voice magic is profound, and it is also linked to entities such as [[Chunk]] and the [[Lost Bank]]. The hand’s presence is both a curse and a shield, shaping the culture, magic, and survival strategies of those who live in the Clutched Forest. The people of Tildohsi have learned to coexist with Sevfres, turning its threat into a tool for their own protection and advancement.
-
+-->
 ## Images
 
 <img src="wiki_images/Sevfres.png"></img>

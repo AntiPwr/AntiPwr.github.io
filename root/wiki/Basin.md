@@ -1,13 +1,9 @@
+<!--
 # Basin
 _Add nicknames or alternative titles here_
 
 <img src="wiki_images/Basin.png"><i></i></img>
-
-> _"Add a quote about the subject here from within the fictional world"_  
-> **—Quote Attribution**
-
-> _"Add a quote from the real world that relates to the subject"_  
-> **—Real World Attribution**
+-->
 
 <div class="taxonomy-table">
   <table>
@@ -44,10 +40,10 @@ _Add nicknames or alternative titles here_
     </tr>
   </table>
 </div>
-
+<!--
 Write an introductory paragraph about Basin here. Summarize what the subject is and its significance within the world.
 
-## Main Section
+<!--## Main Section
 
 Write detailed content about Basin here, organized into appropriate sections.
 

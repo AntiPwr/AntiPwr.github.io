@@ -4,11 +4,6 @@ _The Grass City, Grove of Waste, Sibannac's Heart_
 
 <img src="wiki_images/Cilladril.png"><i>Cilladril's low grass groves and structures built from Hypri's discarded waste</i></img>
 
-> _"In Cilladril, nothing is wasted—every castoff becomes root, every root becomes home."_
-> **—Usakan Growthmind Saying**
-
-
-
 **Cilladril** is a remarkable city at the edge of Hypri, built within a grove of low grass, soil, and the ever-accumulating trash ejected from Hypri and its sister cities. Here, Sibannac's Growthmind transforms waste into the foundation of society—blurring the line between plant, person, and city.
 
 <!-- wiki-header-section:end -->

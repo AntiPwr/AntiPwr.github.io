@@ -3,12 +3,27 @@
 
 <img src="wiki_images/Belief Gambit (Sorcerer Origin).png"><i>A cartist using a scryer card to understand the contents of an ancient slate.</i></img>
 
-
-
-
 Where belief flows, anim follows. You have been granted the power of a magical sleeve of cards, bound to you, whether by blood, enchanted tattoo, or some other means. This sleeve is capable of storing cards that, when thrown, can paint an accurate picture of the world at large—or conversely, a skewed view. A **Belief Gambit Sorcerer** is both a craftsman and a student of perception and nuance, choosing to empower their adventuring prowess through the values of others and themselves.
 
 <!-- wiki-header-section:end -->
+
+<!-- taxonomy-table-section:start -->
+<div class="taxonomy-table">
+  <table>
+    <tr>
+      <th colspan="3">Purpose Taxonomy</th>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="../svg/bin.svg" class="taxon-icon">Bin:</td>
+      <td class="taxon-content" colspan="2">[[Scape]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="../svg/eco.svg" class="taxon-icon">Eco:</td>
+      <td class="taxon-content" colspan="2">[[Toman Ecoss]]</td>
+    </tr>
+  </table>
+</div>
+<!-- taxonomy-table-section:end -->
 
 ### Playing as Belief Gambit
 

@@ -4,12 +4,6 @@ _Plant Kingdom_
 
 <img src="wiki_images/Bluma.png"><i>Interconnected root systems and diverse plant forms representing the Bluma kingdom</i></img>
 
-> _"All that grows, all that roots, all that weaves the world together—these are the children of Bluma."_
-> **—Usakan Growthmind Proverb**
-
-> _"Plants are the silent architects of every ecosystem."_
-> **—Robin Wall Kimmerer**
-
 <!-- wiki-header-section:end -->
 
 **Eco:** [[Toma]]  

@@ -1,9 +1,7 @@
 <!-- wiki-header-section:start -->
 # Dai and Iko Stones
 
-<img src="wiki_images/Dai_and_Iko_Stones.png"><i>Paired Dai (predator) and Iko (prey) stones, showing their distinct coloration and natural separation.</i></img>
-
-> _"The chase is eternal, but the stones remember every ending."_
+<img src="wiki_images/Dai and Iko Stones.png"><i><!--Paired Dai (predator) and Iko (prey) stones, showing their distinct coloration and natural separation.--></i></img>
 
 Dai and Iko Stones are a unique type of [[Hollow Resource]] that embody the dichotomous relationship of predator and prey, originating from Mohrsmünt (Apex) and Amarvena (Praeda)-aligned Ferran death events. The stones themselves are physical manifestations of the [[Dai'iko|Dai-Iko]] relationship of [[Apex and Praeda]].
 

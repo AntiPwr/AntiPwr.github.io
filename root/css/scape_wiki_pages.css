@@ -44,7 +44,6 @@ details[open] summary { color: #2c3e50; }
 .feathermark a:link,
 .feathermark a:visited {
     color: #ffe066 !important;
-    text-decoration: none !important;
     font-weight: bold;
     border-bottom: 1px dotted #ffe066;
     transition: color 0.2s, border-bottom 0.2s;
@@ -64,9 +63,11 @@ details[open] summary { color: #2c3e50; }
     position: relative;
     font-family: 'Gesta', 'Vendetta OT Light', 'Vendetta', serif;
     font-size: 1.18em;
-    width: 100vw;
-    max-width: 100vw;
-    left: 50%; right: 50%; transform: translateX(-50%);
+    width: 104vw;
+    max-width: 104vw;
+    left: 50%;
+    right: 50%;
+    transform: translateX(-50%);
 }
 .feathermark-attribution {
     font-weight: bold;
@@ -103,9 +104,8 @@ details[open] summary { color: #2c3e50; }
 .wiki-header-section {
     background: #f7f3e9;
     color: #23232b;
-    width: 100vw;
-    max-width: 100vw;
-    left: 50%; right: 50%; transform: translateX(-50%);
+    width: 104vw;
+    max-width: 104vw;
     position: relative;
     margin: 0 auto 2em auto;
     padding: 2.2em 2.5em;
@@ -115,6 +115,9 @@ details[open] summary { color: #2c3e50; }
     border-bottom: 2px solid #e6e3f7;
     box-sizing: border-box;
     text-align: center;
+    left: 50%;
+    right: 50%;
+    transform: translateX(-50%);
 }
 .wiki-header-section h1 { text-align: center; margin-bottom: 0.5em; }
 .wiki-header-section p.nickname,
@@ -192,18 +195,26 @@ details[open] summary { color: #2c3e50; }
     display: block;
 }
 .wiki-image-lightbox-caption {
-    color: #fff;
-    text-align: center;
-    margin-top: 0;
-    font-size: 1.1em;
-    max-width: 90vw;
+    background: rgba(30,30,30,0.82);
+    color: #ffe066;
+    border-radius: 8px;
+    padding: 1em 1.5em;
+    margin-top: 1.2em;
+    margin-bottom: 1.2em;
     text-shadow: 0 2px 8px #23232b;
-    word-break: break-word;
+    font-size: 1.13em;
+    max-width: 90vw;
+    text-align: left;
+    text-indent: 2em;
+    box-sizing: border-box;
 }
 .wiki-image-lightbox.vertical .wiki-image-lightbox-caption {
-    text-align: left;
-    margin-top: 0;
+    background: rgba(30,30,30,0.82);
+    color: #ffe066;
+    border-radius: 8px;
+    padding: 1em 1.5em;
     margin-left: 0.8em;
+    margin-top: 0;
     max-width: 320px;
     align-self: center;
     font-size: 1.08em;
@@ -211,6 +222,8 @@ details[open] summary { color: #2c3e50; }
     flex-direction: column;
     justify-content: center;
     height: 100%;
+    text-align: left;
+    text-indent: 2em;
 }
 .wiki-image-lightbox .wiki-image-lightbox-close {
     position: absolute;
@@ -231,17 +244,19 @@ details[open] summary { color: #2c3e50; }
 .taxonomy-table-section {
     background: #e6e3f7;
     color: #23232b;
-    width: 100vw;
-    max-width: 100vw;
-    left: 50%; right: 50%; transform: translateX(-50%);
+    width: 104vw;
+    max-width: 104vw;
     position: relative;
     margin: 0 auto 2em auto;
     padding: 1.5em 2.5em;
     box-shadow: 0 2px 8px rgba(93,63,211,0.04);
     font-family: 'Gesta', 'Vendetta OT Light', 'Vendetta', serif;
     font-size: 1.08em;
-    border-bottom: 2px solid #d7bde2;
+    border-bottom: none;
     box-sizing: border-box;
+    left: 50%;
+    right: 50%;
+    transform: translateX(-50%);
 }
 .taxonomy-table table {
     width: 100%;
@@ -392,7 +407,7 @@ details[open] summary { color: #2c3e50; }
 .wiki-header-section img + i,
 .wiki-content img + i {
     display: block;
-    text-align: center;
+    text-align: left;
     font-style: italic;
     font-size: 0.98em;
     margin-top: 0.3em;
@@ -402,9 +417,13 @@ details[open] summary { color: #2c3e50; }
     max-width: 100%;
     line-height: 1.3;
     float: none;
+    margin-left: auto;
+    margin-right: auto;
 }
 .wiki-header-section img,
 .wiki-content img { margin-bottom: 0.2em; }
+
+/* --- Links --- */
 a, .wiki-content a, .feathermark a { text-decoration: none !important; }
 .wiki-content a:link { color: #5D3FD3; }
 .wiki-content a:visited { color: #51414F; }
@@ -413,7 +432,6 @@ a, .wiki-content a, .feathermark a { text-decoration: none !important; }
 .feathermark a:link,
 .feathermark a:visited {
     color: #ffe066 !important;
-    text-decoration: none !important;
     font-weight: bold;
     border-bottom: 1px dotted #ffe066;
     transition: color 0.2s, border-bottom 0.2s;
@@ -424,12 +442,69 @@ a, .wiki-content a, .feathermark a { text-decoration: none !important; }
     border-bottom: 1px solid #fffbe6;
     background: rgba(255,255,255,0.05);
 }
+
 .markdown-body blockquote,
 .wiki-content blockquote,
 .wiki-header-section blockquote,
-.taxonomy-table-section blockquote,
-blockquote {
+.taxonomy-table-section blockquote {
     text-align: center;
     margin: 2em auto;
 }
-/* ...existing code... */
+
+/* --- Wiki Header Section Quotes --- */
+.wiki-header-section blockquote {
+  max-width: 500px;
+  margin: 0.5em auto;
+  padding: 0.7em 1.2em;
+  background: rgba(240,240,240,0.7);
+  border-left: 3px solid #888;
+  font-style: italic;
+  text-align: left;
+  box-sizing: border-box;
+  display: block;
+}
+.wiki-header-section blockquote p {
+  margin: 0;
+  font-style: italic;
+  text-align: left;
+  text-indent: 2em;
+}
+@media (min-width: 700px) {
+  .wiki-header-section blockquote {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+/* --- Paragraph Indentation --- */
+.wiki-content p,
+.wiki-header-section p,
+.taxonomy-table-section p,
+.wiki-header-section img + i,
+.wiki-content img + i,
+.wiki-image-lightbox-caption {
+  text-indent: 2em;
+  margin-top: 0.7em;
+  margin-bottom: 0.7em;
+}
+
+/* Prevent indent on first paragraph in header, taxonomy, or content if desired: */
+.wiki-content > p:first-child,
+.wiki-header-section > p:first-child,
+.taxonomy-table-section > p:first-child {
+  text-indent: 0;
+}
+
+/* Prevent indent on blockquotes, lists, and special elements */
+.wiki-content blockquote p,
+.taxonomy-table-section blockquote p,
+.wiki-content ul li,
+.wiki-content ol li,
+.wiki-header-section ul li,
+.wiki-header-section ol li {
+  text-indent: 0;
+}
+
+body {
+    overflow-x: hidden;
+}

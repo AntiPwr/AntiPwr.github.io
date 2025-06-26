@@ -4,8 +4,8 @@ _Windy Sister, Skyward Court_
 
 <img src="wiki_images/Hypri.png"><i>The main spire of Hypri rising above the Usakan Growth. A colossal stone spire dominates a sea of thick, churning clouds, its jagged, golden-beige surface alive with city districts carved into its crags and terraces. Hanging gardens, floating glass spheres, and winding misty currents create a breathtaking vertical metropolis, where civilization clings to impossible heights and flying ships glide along shimmering, magical airways.</i></img>
 
-> _"Architecture begins where engineering ends."_
-> **—Walter Gropius**
+> _"Architecture begins where engineering ends."_ <br>
+> **—Walter Gropius** <br>
 
 Hypri is a high-altitude [[Order|order]] under the rule of the [[Hypri Highcourt]], perched atop the largest of over a hundred spires that rise dramatically from the vast grasslands of South [[Usaka]]. Geographically, Hypri is located in the Middle-East region of South Usaka, just northeast of the [[Coast of Bu]]. Across the waters from the Coast of Bu lies the Island of [[Babadoo Slim]]. The city is carved into and grown upon the colossal stone formation known as Vespir, which soars impossibly high above a sea of thick, churning clouds. Its rugged, ancient, golden-beige stonework is weathered by time and sun, yet teems with life and civilization. Entire cities cling to its craggy surface, jutting out at impossible angles and spiraling upward in a breathtakingly precarious ascent, as if the spire itself has grown these settlements like barnacles on a sea pillar.
 

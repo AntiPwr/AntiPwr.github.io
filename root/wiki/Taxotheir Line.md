@@ -1,4 +1,4 @@
-<!-- wiki-header-section:start -->
+<!--
 # Taxotheir Line
 _Add nicknames or alternative titles here_
 
@@ -9,6 +9,7 @@ _Add nicknames or alternative titles here_
 
 > _"Add a quote from the real world that relates to the subject"_  
 > **—Real World Attribution**
+-->
 
 <!-- wiki-header-section:end -->
 

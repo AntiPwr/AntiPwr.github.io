@@ -2,7 +2,7 @@
 # Grokauw
 _Lavaspitter Basilisk, Magmaw, Kro'Tan Furnace_
 
-<img src="wiki_images/Grokauw.png"><i>A Grokauw basking in the glow of a [[Kro'Tan]] magma pit.</i></img>
+<img src="wiki_images/Grokauw.png"><i>A Grokauw basking in the glow of a [[Kro'Tan|Kro'Tanic]] magma pit.</i></img>
 
 > "The Grokauw does not hunger. It waits. It judges. When the pit boils and the stone cracks, it chooses who will burn and who will crawl out changed. I have seen its eyes—red as the world’s wound. I have thrown men to it, and I have heard them scream."
 > **—Gorvash the Ash-Tongue, Lavaspitter Chieftain**

@@ -3,28 +3,64 @@
 
 <img src="wiki_images/Laika Acker.png"><i></i></a>
 
-<!-- wiki-header-section:end -->
-
-**Eco:** [[Toma]] <br>
-**Kingdom:** [[Huma]] ([[Huma#Concordian|Concordian]]) <br>
-
 **Race:** Human <br>
 **Class:** Sorcerer <br>
 **Subclass:** [[Belief Gambit (Sorcerer Origin)|Belief Gambit]] <br>
 **Starting Level**: 3 <br>
+**Ending Level**: 5 <br>
 
 **Starting Age:** 20
 **Height**: 6'2
 
-
-
-<br>
-
 Laika Acker is a character in [[Whisper of the Well]], the first campaign of Toma. Their party includes:
 - [[Lavinho Shourn]]
 - [[Mellifera Tulscip]]
+<!-- wiki-header-section:end -->
 
-
+<!-- taxonomy-table-section:start -->
+<div class="taxonomy-table">
+  <table>
+    <tr>
+      <th colspan="3">Purpose Taxonomy</th>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="svg/bin.svg" class="taxon-icon">Bin:</td>
+      <td class="taxon-content" colspan="2">[[Scape]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="svg/basin.svg" class="taxon-icon">Basin:</td>
+      <td class="taxon-content" colspan="2">[[Sacrus]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="svg/eco.svg" class="taxon-icon">Eco:</td>
+      <td class="taxon-content" colspan="2">[[Toma]] ([[Concordia]]) of [[Toman Ecoss]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="svg/kingdom.svg" class="taxon-icon">Kingdom:</td>
+      <td class="taxon-content" colspan="2">[[Huma]] ([[Concordian Huma Lineage]])</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="svg/phylum.svg" class="taxon-icon">Phylum:</td>
+      <td class="taxon-content" colspan="2">[[EB]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="svg/class.svg" class="taxon-icon">Class:</td>
+      <td class="taxon-content" colspan="2">[[Branches of Concordia]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="svg/order.svg" class="taxon-icon">Order:</td>
+      <td class="taxon-content" colspan="2">[[Kaina]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="svg/family.svg" class="taxon-icon">Family:</td>
+      <td class="taxon-content" colspan="2">EB</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="svg/essa.svg" class="taxon-icon">Essa:</td>
+      <td class="taxon-content" colspan="2">[[Laika Acker's Soul]]</td>
+    </tr>
+  </table>
+</div> 
 
 ### Decks
 
@@ -36,8 +72,6 @@ Laika Acker is a character in [[Whisper of the Well]], the first campaign of Tom
 ## Introduction to Campaign 1: Whisper of the Well
 
 You will be starting the game in Concordia, for a brief flashback to a play at the [[Ember Petal Foundation]], a performing arts theater in the Concordian capital [[Order]] of [[Kaina]]. The magnificence and natural beauty of the theater draws in Concordian politicians, elites, renowned artists, and brilliant scholars to experience. The play incorporates the use of [[Ester Slate|Ester Slates]], and thus runs at an expensive ticket price of 1,500 Leives (Concordian currency, pronounced as "leaves").
-
-
 
 To escape from the political tension, he will offer you a chance to leave Kaina and visit Scender. He even gives you the chance to leave a week earlier. 
 

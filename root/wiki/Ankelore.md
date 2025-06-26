@@ -1,18 +1,14 @@
 <!-- wiki-header-section:start -->
+<!--
 # Ankelore
 _Add nicknames or alternative titles here_
 
 <img src="wiki_images/Ankelore.png"><i></i></img>
-
-> _"Add a quote about the subject here from within the fictional world"_  
-> **—Quote Attribution**
-
-> _"Add a quote from the real world that relates to the subject"_  
-> **—Real World Attribution**
+-->
 
 <!-- wiki-header-section:end -->
 
-<div class="taxonomy-table">
+<!--<div class="taxonomy-table">
   <table>
     <tr>
       <th colspan="3">Purpose Taxonomy</th>

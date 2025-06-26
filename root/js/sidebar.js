@@ -14,7 +14,12 @@ document.addEventListener('DOMContentLoaded', () => {
         sidebar.classList.add('sidebar-open');
         body.classList.add('sidebar-open');
         openBtn.innerHTML = '&#10005;';
-        document.documentElement.style.setProperty('--sidebar-width', `${sidebar.offsetWidth}px`);
+        // Dynamically adjust sidebar width to fit content
+        sidebar.style.width = 'auto';
+        const neededWidth = sidebar.scrollWidth;
+        const width = Math.min(Math.max(neededWidth, DEFAULT_WIDTH), MAX_WIDTH);
+        sidebar.style.width = width + 'px';
+        document.documentElement.style.setProperty('--sidebar-width', `${width}px`);
     }
     function closeSidebar() {
         sidebar.classList.remove('sidebar-open');
@@ -73,6 +78,22 @@ document.addEventListener('DOMContentLoaded', () => {
         if (!content) return;
         const sidebarLinks = sidebar.querySelector('.sidebar-links');
         sidebarLinks.innerHTML = '';
+        // Add page heading (h1) as first item
+        const h1 = content.querySelector('h1');
+        if (h1) {
+            if (!h1.id) h1.id = 'page-top';
+            const li = document.createElement('li');
+            li.className = 'toc-level-1 toc-page-heading';
+            // Create a button instead of link to prevent URL hash change
+            const btn = document.createElement('button');
+            btn.type = 'button';
+            btn.textContent = h1.textContent;
+            btn.addEventListener('click', () => {
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            });
+            li.appendChild(btn);
+            sidebar.querySelector('.sidebar-links').appendChild(li);
+        }
         const headings = Array.from(content.querySelectorAll('h2, h3, h4, h5, h6'));
         if (!headings.length) return;
         function buildTree(headings) {
@@ -214,4 +235,11 @@ document.addEventListener('DOMContentLoaded', () => {
         });
         pinBox.appendChild(ul);
     }
+
+    // After buildSidebarTOC and any scroll handlers, ensure sidebar stays open on hash change
+    window.addEventListener('hashchange', () => {
+        if (sidebar.classList.contains('sidebar-open')) {
+            openSidebar();
+        }
+    });
 });

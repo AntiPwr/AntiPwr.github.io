@@ -258,6 +258,15 @@
     "file": "Battle of the Banquet.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": null,
+    "Eco": "Toman Ecoss",
+    "Kingdom": null,
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
     "file": "Belief Gambit (Sorcerer Origin).md"
   },
   {
@@ -441,6 +450,27 @@
     "file": "Dar.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toman Ecoss",
+    "Kingdom": null,
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
+    "file": "Deathground (Fighter Archetype).md"
+  },
+  {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Dar and Toma of Toman Ecoss",
+    "Kingdom": "Decara",
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
     "file": "Decara.md"
   },
   {
@@ -606,6 +636,18 @@
     "file": "Gorosis.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma (Wyldere, Roknor) of Toman Ecoss",
+    "Kingdom": null,
+    "Phylum": null,
+    "Class": "Yevnijn Tres",
+    "Order": "Gov'Doran",
+    "Family": null,
+    "Essa": null,
+    "file": "Gov'Doran.md"
+  },
+  {
     "file": "Grand Assembly.md"
   },
   {
@@ -711,6 +753,15 @@
     "file": "Hollow Resource.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma of Toman Ecoss",
+    "Kingdom": "Huma",
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
     "file": "Huma.md"
   },
   {
@@ -729,6 +780,27 @@
     "file": "Hypri.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Fractal Waters",
+    "Eco": null,
+    "Kingdom": null,
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
+    "file": "Imaa.md"
+  },
+  {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toman Ecoss",
+    "Kingdom": null,
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
     "file": "Imaan Plane.md"
   },
   {
@@ -786,6 +858,15 @@
     "file": "Kyre's Point.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma (Concordia) of Toman Ecoss",
+    "Kingdom": "Huma (Concordian Huma Lineage)",
+    "Phylum": "EB",
+    "Class": "Branches of Concordia",
+    "Order": "Kaina",
+    "Family": "EB",
+    "Essa": "Laika Acker's Soul",
     "file": "Laika Acker.md"
   },
   {
@@ -1198,7 +1279,7 @@
     "Basin": "Sacrus",
     "Eco": "Toma (Usaka) of Toman Ecoss",
     "Kingdom": "Huma",
-    "Phylum": "Subjectivism",
+    "Phylum": "Subjectivism (Asceptim)",
     "Class": "Hypri Highcourt",
     "Order": "Hypri",
     "Family": "Ahdom Few",
@@ -1446,6 +1527,15 @@
     "file": "Toman Ecoss Timeline.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toman Ecoss",
+    "Kingdom": null,
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
     "file": "Toman Ecoss.md"
   },
   {
@@ -1546,6 +1636,18 @@
     "Family": null,
     "Essa": null,
     "file": "Zaphira.md"
+  },
+  {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma and Soul Fields of Toman Ecoss",
+    "Kingdom": "Goda",
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
+    "file": "Zlellis and O'nume.md"
   },
   {
     "Bin": "Scape",

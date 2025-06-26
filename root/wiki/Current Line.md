@@ -1,17 +1,12 @@
 <!-- wiki-header-section:start -->
-# Current Line
+<!--# Current Line
 _Add nicknames or alternative titles here_
 
 <img src="wiki_images/Current Line.png"><i></i></img>
 
-> _"Add a quote about the subject here from within the fictional world"_  
-> **—Quote Attribution**
-
-> _"Add a quote from the real world that relates to the subject"_  
-> **—Real World Attribution**
-
 <!-- wiki-header-section:end -->
 
+<!-- taxonomy-table-section:start -->
 <div class="taxonomy-table">
   <table>
     <tr>
@@ -27,30 +22,15 @@ _Add nicknames or alternative titles here_
     </tr>
     <tr>
       <td class="taxon-label"><img src="../svg/eco.svg" class="taxon-icon">Eco:</td>
-      <td class="taxon-content" colspan="2">[[Toma]] of [[Toman Ecoss]]</td>
-    </tr>
-    <tr>
-      <td class="taxon-label"><img src="../svg/kingdom.svg" class="taxon-icon">Kingdom:</td>
-      <td class="taxon-content" colspan="2"></td>
-    </tr>
-    <tr>
-      <td class="taxon-label"><img src="../svg/phylum.svg" class="taxon-icon">Phylum:</td>
-      <td class="taxon-content" colspan="2"></td>
-    </tr>
-    <tr>
-      <td class="taxon-label"><img src="../svg/class.svg" class="taxon-icon">Class:</td>
-      <td class="taxon-content" colspan="2"></td>
-    </tr>
-    <tr>
-      <td class="taxon-label"><img src="../svg/order.svg" class="taxon-icon">Order:</td>
-      <td class="taxon-content" colspan="2"></td>
+      <td class="taxon-content" colspan="2">[[Toman Ecoss]]</td>
     </tr>
   </table>
 </div>
-
+<!-- taxonomy-table-section:end -->
+<!--
 Write an introductory paragraph about Current Line here. Summarize what the subject is and its significance within the world.
 
-## Main Section
+<!--## Main Section
 
 Write detailed content about Current Line here, organized into appropriate sections.
 

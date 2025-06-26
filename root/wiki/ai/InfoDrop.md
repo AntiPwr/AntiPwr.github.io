@@ -1,288 +1,39 @@
-# Tildohsi Partition
 
-The Tildohsi Partition is a [[Class]] of [[Huma]], [[Ferra]], [[Automata]], [[Celia]].
 
-Advancist Ferra
 
-Construct + Ferra for use of advancism. Worg riders with construct aspects to them. Beast Masters + Constructs in a dark forest area that opens up into the plains they control. The Tildohsi survives through taxation. They survive despite being weaker than delta by retreating to the Clutched Forest, in which they are protected by [[Sevfres]]
 
-Huma and Automata are the ruling population, but extend liberties and social development to Ferra and Celia to form a symbiotic environment to both combat Sevfres, and indirectly benefit from the hand's protection.
 
-Journalism and written language is the primary form of communication. Dedication to truth is fostered by shared hatred for the Chain of Delta. Dedication to silence is cause by the existence of Sevfres, who can feel vibrations in the air and ground. People typically whisper on the outer edge of the [[Clutched Forest]], where [[Tildohsi]] is. They also utilize sound proofed underground rooms and buildings to communicate at a regular or even loud volume. 
 
-The Tildohsi Partition formed primarily due to the ancient teachings of sound magic. This liberation movement acted silently (through the forbidden practice of unregulated magic) within the Chain of Delta. 
 
+# Imaa
 
+Eco Imaa, Planar Imaa, endgame
 
+Imaa is a [[Godoan]] term that translates to "endgame," and it describes a state of extremism that a plane experiences as it approaches its ultimate conclusion. This period serves as a universal indicator of the impending death or transformation of a plane, akin to the conclusion of a [[Bin]] or a [[Hollow Purpose|Holoscape]].
 
+### Characteristics of Imaa as a Planar Event
 
-
-
-# Tildohsi
-
-A city in the northwest corner of the Clutched Forest. Capital Order of the Tildohsi Partition Class.
-
-
-
-
-
-# Clutched Forest
-
-A forested region of Middle Wyldere on the southern coast. It has saltwater rivers flowing through it from the [[World Gyre|World Gyre's]] currents. This land is rich in resources due to its access to both freshwater from the Summons Mountain Range and Saltwater from the [[Swirling Sea]]
-
-
-
-
-
-# Swirling Sea
-
-**Bin**: [[Scape]]  
-**Basin**: [[Sacrus]]  
-**Eco**: [[Toma]] of [[Toman Ecoss]]
-
-Description
-
-The Swirling Sea is the largest sea within the continent of [[Toma]], positioned centrally and touching nearly every landmass. It is named for the distinctive swirling motion of its waters, which rotate either clockwise or counter-clockwise, driven by the powerful forces of the [[World Gyre]]. The Swirling Sea plays a crucial role in the ecological and cultural dynamics of Toma, serving as a central hub for trade, conflict, and exploration.
-
-Bas'l Straits
-
-The Bas'l Straits are a treacherous region within the Swirling Sea, formerly known as the Straits of Gorisain. This region is infamous for its dangerous currents and the ominous history tied to the death of [[Desthema]] at the hands of Gorisain during the Natural War. The Bas'l Straits are also the location of the [[Theiman Breach]], a cursed area where the environment has been twisted by the lingering effects of Desthema's demise. These straits are a significant navigational challenge for sailors and explorers, as well as a site of deep historical and mystical importance within the Toman Ecoss.
-
-[[Cask Sistema]] is found here. 
-
-Significance
-
-The Swirling Sea is not only a vital geographical feature but also a cultural and economic nexus for the various kingdoms and classes of Toma. Its swirling currents influence trade routes, weather patterns, and even the migration of marine life. The sea's central location and connection to nearly every continent make it a key player in the power dynamics of the region, with its waters often serving as the battleground for control over Toma's resources and influence.
-
-
-
-
-
-# Sevfres
-
-Hand of Exhumation
-
-Sevfres is a [[Decara|Decaran]] [[Huma]] [[Mimid]] that was trapped in the forest through a sacrificial [[Merchant System#Source Surge System|Source Surge]]. The people of [[Tildohsi]] and the [[Tildohsi Partition]] survive through mastering how to hide from the hand using deception magic. The hand indirectly protects them. The entire city of Tildohsi is hidden using mainly sound masking magic and attention-baiting techniques used to keep Sevfres in certain areas.
-
-[[Pincher]]s are members of the [[Tildohsi Partition]] that can control the hand as it attacks them to attack other people. They use sound magic to create vibrations to attract the hand to them. They then aim the sound at creatures attacking Tildohsi. There was a battle against the [[Chain of Delta]] where 212 [[Willed-Mecha]] were killed by the hand. This victory allowed them to claim the resources of the willed mecha and reconstruct them to work as laborers. 
-
-This event is called the [[212 Shift]] and was an embarassing loss for Delta. Delta wishes to claim the region's forest for lumber due to them clearing most of their region. Scender has raised import taxes on wood, forcing the Chain into a tough situation between either moving upon Tildohsi and facing the hand or be manipulated economically on the world stage 
-
-Pinchers cast sound spells by pinching their fingers to decide the proper location to cast the spell. They look in between their fingers, often with one eye closed to finely aim this spell. When they aim like this, time slows briefly for those within their belief sphere and charge up the power of a fine line of force causing a consistent beam of vibration at a single point.
-
-Pinchers often wield various gloves and lightweight gauntlets to modify their vibrations. A common thing that pinchers use is a glove reticle, which is essentially a device which blacks out everything but what is between the fingers, removing distractions. Gloves focus this effect on different fingers, depending on the preference of the Pincher, but most commonly it is the pointer finger and thumb. One glove is in the left hand, used to activate the other glove's blackening mist effect. The black effect fans out in a circle as the left glove is pressed. The right glove sets the reticle size depending on how close the two fingers are. The left hand glove must be refilled with a powder mixture after a few uses. This is done in Tildohsi before Pincher Expeditions.
-
-Tildohsi is a blend of construct/therium from Delta and advancism/sound hiding magic from [[Gov'Doran]] (through a connection to [[Cadence]]).
-
-Sevfres has a connection to voice magic perhaps. Sevfres also a connection to [[Chunk]] and the [[Lost Bank]]. 
-
-Sevfres is a hand and a portion of a wrist.
-
-
-
-
-
-
-
-
-
-
-
-
-# Gov'Doran
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Decara
-
-**Bin**: [[Scape]]  
-**Basin**: [[Sacrus]]  
-**Eco**: [[Dar]] and [[Scape (TTRPG)/1 Purpose Taxonomy/Complete Taxonomy/02 Eco/01 Toman Ecoss/02 Toma/Toma]] of [[Toman Ecoss]]
-**Kingdom**
-
-The [[Decara]] kingdom is a primordial and destructive force within the [[Toman Ecoss]]. Consisting of both archaea and bacteria, the Decara kingdom played a pivotal role in shaping the plane's history and ecology, existing since the creation of [[Scape (TTRPG)/1 Purpose Taxonomy/Complete Taxonomy/02 Eco/01 Toman Ecoss/02 Toma/Toma]].
-
-Origin
-
-The Decara have existed since the creation of Toma, arising from the chaos and conflict of the [[Two Virus Mythos]], which tells of the primordial struggle between [[Gorisain]] and Desthema. This mythos describes the early battle for dominance that shaped the nature of bacteria and decay within Toma, leading to Gorisain's eventual dominance.
-
-Appearance
-
-Decaran creatures are identifiable by the shade of their blood, which indicates their age:
-
-- **Newborn**: Fleshy pink, similar to human gums.
-- **Juvenile**: Bright, vivid red.
-- **Adult**: Darkened, dull red.
-- **Elder**: Deep, dark crimson red.
-- **Nesa**: Metallicized, grainy dark gray, with pockets of youthful shades.
-
-Mimidry
-
-The Decara possess a unique form of adaptation known as [[Mimidry]], which allows them to mimic traits and physical forms of other kingdoms while retaining their bacterial composition. These rare creatures are called mimids and differ from regular [[Spira#Mimic|Mimics]].
-
-Subdecara
-
-The Decara kingdom is further classified into several subkingdoms, each with distinct roles and functions:
-
-- [[Bluthrut]] (Bluma Mimid)
-- [[Darit]]
-- [[Defiled]]
-- [[Mimidry]]
-- [[Proto]]
-- [[Veirgo]]
-
-Choice of Destruction
-
-Destruction is an instinctual behavior deeply ingrained in the Decara. They prioritize actions that cause maximum destruction, often targeting foundations and "Makers," such as females and plants, as these are considered primary sources of life and creation in the [[Bacillus Ascendancy]] and the teachings of [[Basilica]].
-
-Worship of Gorisain
-
-The Decara revere [[Gorisain]], a once-mortal leader and now a [[Nesa|Nesa of Kingdoms]], as their deity. Gorisain was a war general and leader during the [[Natural War]], a time of intense conflict and transformation. The Decara believe in the prophecy of The Carrion, which foretells the ascension of an individual who will lead Gorisain into the next dimension.
-
-The Carrion Prophecy
-
-According to Decaran belief, the universe is fated to ascend. Gorisain nearly achieved this through a significant belief event, but he became a lesser god instead. Now, he and the Decara search for The Carrion, an individual believed to facilitate Gorisain's ascent. Gorisain aspires to enhance his ascension proficiency to control everything by becoming infinity itself.
-
-Decaran Tunnels and Worship Systems
-
-The Decara have built an intricate system of tunnels that serve as places of worship and are believed to be extensions of Dar, Gorisain’s body. These tunnels connect Decarans to Gorisain’s consciousness in the Soul Fields. The Decara feel a compulsion to connect with their deity through these tunnels, embodying their faith and hope for ascension.
-
-Ritualistic Feasting
-
-Feasting is a ritual ingrained in Decaran culture, involving the consumption of living creatures and corpses transported to the Decaran homeland. These feasts are regional events occurring twice daily, aligned with the day and night cycle. The consequences of these rituals, such as [[Natural Disasters|natural disasters]], are attributed to the inability of [[Spira]] to reach the [[Soul Well]].
-
-The consumption of corpses produces Decaran biowaste, consumed by the [[Dar#Gorrbis|Gorrbis]] of Dar, which influences growth and adaptation within Decaran society.
-
-Domains
-
-[[Gorisain]], the Protomartyr and Nesa of the Decaran kingdom, governs the domains of suffering, bacteria, death, sin, pestilence, murder, and massacre. His influence is pervasive, shaping the destructive tendencies of the Decara and their relentless pursuit of power and control.
-
-Legacy
-
-The Decara kingdom's influence is deeply woven into the fabric of Toma's history and ecology. Their destructive nature and devotion to Gorisain have left an indelible mark on the plane, shaping the evolution and dynamics of the kingdoms that followed. Their quest for ascension and fulfillment of The Carrion Prophecy continues to drive their actions and aspirations.
-
-As a result of having their own plane, Decaran deaths produce more variations of materials attached to the core of their beliefs. If any other creature has a plane, this happens as well.
-
-Decara’s Empire Function is not actually destruction. instead, it is their ideology under Gorisain that causes this. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Toman Ecoss
-
-The Toman Ecoss encompasses all planes of creation by [[Zlellis and O'nume]], forming a complex and interconnected web of existence within the [[Sacrus]] Basin. The Ecoss includes the [[In-between]], a fabric of the universe that allows for further creation and expansion of planes from Toma's origin.
-
-Key Components
-
-- **[[Scape (TTRPG)/1 Purpose Taxonomy/Complete Taxonomy/02 Eco/01 Toman Ecoss/02 Toma/Toma]]**: The central hub of the Ecoss, an anomalous flood plane linked to multiple dimensions and beings.
+1. **Sign of Transformation**: Imaa marks the point where a plane undergoes significant changes as it nears its end. This transformation often involves heightened activity, conflicts, or natural phenomena that reflect the plane's inherent themes and challenges.
     
-- **[[In-between]]**: A cosmic fabric enabling the creation and connection of planes, serving as a bridge between realms.
+2. **Extremism**: During Imaa, the forces within a plane reach their peak, pushing the boundaries of the plane's stability. This state of extremism can manifest in various forms, such as intensified weather patterns, increased magical activity, or dramatic shifts in the plane's ecosystem.
     
-- **[[Soul Fields]]**: A spiritual plane where souls and [[Nesa]] reside, influencing the beliefs and actions of the living.
+3. **Culmination of Forces**: The forces and entities within the plane experience a convergence of energy, leading to a climax of events that drive the plane towards its resolution. This culmination often highlights the core dynamics and conflicts present within the plane.
     
-- **[[Imaan Plane]]**: Various realms existing alongside Toma, each with unique influences and roles:
+
+### Role of Imaa in the Universe
+
+- **Indicator of Change**: Imaa acts as a clear sign of an impending shift within the Omnis, indicating that a plane is nearing its end and preparing for transformation or dissolution.
     
-    - [[Arkon]]
-    - [[Dar]]
-    - [[Gaia]]
-    - [[Cadence]]
-    - [[June Preserve]]
-    - [[Glimpse (Order)|Glimpse (Order)]]
+- **Driver of Evolution**: The intensity and extremism of Imaa propel the plane and its inhabitants toward adaptation and change, fostering resilience and evolution in response to the approaching conclusion.
+    
+- **Reflection of Universal Themes**: Imaa amplifies the themes and conflicts that define the plane, offering insights into the broader dynamics at play within the universe and highlighting the interconnectedness of all planes.
+    
 
-Living Toman Ecoss
+### Related Concepts
 
-The **Living Toman Ecoss** refer to the entire Ecoss except the Soul Fields.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Imaan Plane
-
-**Bin**: [[Scape]]  
-**Basin**: [[Sacrus]]  
-**Eco**: [[Toman Ecoss]]
-
-_"We are all children to our parent’s beliefs, but, yet still, locality keeps our hands in reach, no matter how far born. Ten people in ten regions may think they found the answer, developing laws, practices, people in the sky and mind, but the medium of their solution remains all the same. A god is subjective... as are you."_
-
-Imaan Planes, also known as Imperfect Planes, are realms created by [[Zlellis and O'nume]] to explore extreme ideologies and prevent an [[Imaa]] in the [[Toman Ecoss]]. These planes serve as testing grounds for prevailing beliefs, allowing them to play out in a controlled environment to ensure the balance and harmony of the Toman Ecoss.
-
-Purpose and Influence
-
-The primary purpose of Imaan Planes is to capture extremism and explore its consequences, preventing an Imaa by identifying and addressing ideological imbalances. The influence of these planes varies, with some exerting significant impact on the Toman Ecoss. The following are ranked in terms of influence:
-
-- [[Arkon]]
-- [[Dar]]
-- [[Gaia]] (Fallen)
-- [[Cadence]]
-- [[June Preserve]]
-- [[Glimpse]]
-
-Creation
-
-The creation of an Imaan Plane is a type of [[Source Surge Types#In-between Expansion|Surge]], relying on [[Goda#Cycle of Rebirth|Detritus]] to construct and sustain a realm separate from the Toman Ecoss. This process is made possible through [[Never|Never’s]] soul imprisonment, which allows souls to fuel creation within the plane. In addition to the Goda's involvement, Imaan Planes can also be generated by the shared [[Belief Pool]]s of living Toman creatures through their participation in the In-between.
-
-The In-between is a medium used by creatures of the Toman Ecoss to interact with the Imaan Planes, allowing them to contact [[Spira]] and [[Nesa]] in the [[Soul Fields]], generate belief and utilize anima, and create new Imaan Planes through an [[Source Surge Types#In-between Expansion|In-between Expansion]].
-
-Appearance
-
-Imaan Planes become visible to creatures as they approach the [[Belief Pool]] associated with the plane. As a creature nears an Imaan Plane, subtle environmental changes occur, eventually revealing the entire location. These planes often adhere to a strict theme of extremist aesthetics, representing a belief system at its peak or idea of perfection. Changes in the environment are manifestations of the beliefs of creatures, known as [[Merchant System#Source Surge System|Source Surges]].
-
-Role in the Toman Ecoss
-
-Imaan Planes play a critical role in maintaining the balance and harmony of the Toman Ecoss by exploring the consequences of extreme ideologies. They serve as both a warning and a guide, demonstrating the potential outcomes of unchecked beliefs and providing insight into the nature of creation and destruction.
-
-Deathground is a type of Imaan Plane
-
-All in the In-between
-
-Imaan planes often represent an extreme political, philosophical, social, etc. stance on reality, life, and existence.
-
-
-
-
-
-
+- **[[Soul Imaa]]**: The term Imaa can also apply to souls, indicating a state of extremism and transformation in a soul's journey.
+    
+- **[[Hollow Purpose|Holoscape]]**: Imaa is similar to the Holoscape, which marks the death or transformation of a bin within the Scape.
 
 
 
@@ -781,7 +532,7 @@ The [[Nesa]] are powerful interplanar deities within the [[Toman Ecoss]], servin
 
 Origin and Mythos
 
-In the beginning, when [[Zlellis and O'nume]] first clashed to form the plane of [[Scape (TTRPG)/1 Purpose Taxonomy/Complete Taxonomy/02 Eco/01 Toman Ecoss/02 Toma/Toma]], their immense cosmic energies formed personifications of the core aspects of their argument. These ripples resonated from the [[Fractal Waters]], where the [[Goda]] dwell, into the [[Sacrus]] and began to form seeds of new divine beings. These seeds slowly grew during the time of the [[Natural War]]. The Goda, intrigued by these nascent entities, later saw an opportunity to further understand their own existence and the nature of creation, as well as find benefits. Once the beginning Nesa were established, the gradient of belief and [[Anim]] had been altered for eternity. Through their existence, belief events became a natural occurrence, when prior to the Nesa there was only one possible event: ascension. Since the Nesa were made in the likeness of the Goda, a wide range of belief events became possible through the core foundations of their planar creation and argument.
+In the beginning, when [[Zlellis and O'numeume]] first clashed to form the plane of [[Scape (TTRPG)/1 Purpose Taxonomy/Complete Taxonomy/02 Eco/01 Toman Ecoss/02 Toma/Toma]], their immense cosmic energies formed personifications of the core aspects of their argument. These ripples resonated from the [[Fractal Waters]], where the [[Goda]] dwell, into the [[Sacrus]] and began to form seeds of new divine beings. These seeds slowly grew during the time of the [[Natural War]]. The Goda, intrigued by these nascent entities, later saw an opportunity to further understand their own existence and the nature of creation, as well as find benefits. Once the beginning Nesa were established, the gradient of belief and [[Anim]] had been altered for eternity. Through their existence, belief events became a natural occurrence, when prior to the Nesa there was only one possible event: ascension. Since the Nesa were made in the likeness of the Goda, a wide range of belief events became possible through the core foundations of their planar creation and argument.
 
 Appearance
 
@@ -1278,7 +1029,7 @@ Fuscia uses his left hand to retrieve Kee and his right hand to release Kee.
 **Basin**: [[Sacrus]]  
 **Eco**: [[Scape (TTRPG)/1 Purpose Taxonomy/Complete Taxonomy/02 Eco/01 Toman Ecoss/02 Toma/Toma]] of [[Toman Ecoss]]
 
-The Automata [[Kingdom]] represents a unique blend of technology and spirituality within the [[Toman Ecoss]], distinguished from other kingdoms by their origin from [[Therium]], a [[Hollow Resource|Hollow Resource]]. Unlike other kingdoms created by [[Zlellis and O'nume]], the Automata were crafted by the hands of [[Huma]], embodying the ingenuity and creativity of their makers.
+The Automata [[Kingdom]] represents a unique blend of technology and spirituality within the [[Toman Ecoss]], distinguished from other kingdoms by their origin from [[Therium]], a [[Hollow Resource|Hollow Resource]]. Unlike other kingdoms created by [[Zlellis and O'numeume]], the Automata were crafted by the hands of [[Huma]], embodying the ingenuity and creativity of their makers.
 
 Origin
 
@@ -1447,7 +1198,7 @@ Kee has a Huma avatar that is an evil woman based upon everything about my past 
 
 Origin as Bo
 
-Bo was born into the early Huma societies, where he lived and grew alongside his people, forming bonds, creating memories, and experiencing the world as they did. However, Bo's fate was unlike that of his fellow Huma. The **[[Goda]]** **[[Zlellis and O'nume]]**, fearing the loss of Corvi to a **[[Mixture and Solution Death#Solution Death|Solution Death]]**, made their first Fealty to a **[[Nesa]]** named **[[Lucille]]**. This Fealty ensured Bo's immortality within Toma, granting him the power to live on indefinitely unless he himself chose to kill the Nesa, Lucille. This act of preservation was driven by the Goda's desire to save Corvi, recognizing his unique potential and significance.
+Bo was born into the early Huma societies, where he lived and grew alongside his people, forming bonds, creating memories, and experiencing the world as they did. However, Bo's fate was unlike that of his fellow Huma. The **[[Goda]]** **[[Zlellis and O'numeume]]**, fearing the loss of Corvi to a **[[Mixture and Solution Death#Solution Death|Solution Death]]**, made their first Fealty to a **[[Nesa]]** named **[[Lucille]]**. This Fealty ensured Bo's immortality within Toma, granting him the power to live on indefinitely unless he himself chose to kill the Nesa, Lucille. This act of preservation was driven by the Goda's desire to save Corvi, recognizing his unique potential and significance.
 
 The Pain of Immortality
 

@@ -40,7 +40,7 @@ The Nesa are powerful interplanar deities within the [[Toman Ecoss]], serving as
 <!--
 ## Origin and Mythos
 
-In the beginning, when [[Zlellis and O'nume]] first clashed to form the plane of [[Toma]], their immense cosmic energies formed personifications of the core aspects of their argument. These ripples resonated from the [[Fractal Waters]], where the [[Goda]] dwell, into the [[Sacrus]] and began to form seeds of new divine beings. These seeds slowly grew during the time of the [[Natural War]].
+In the beginning, when [[Zlellis and O'numeume]] first clashed to form the plane of [[Toma]], their immense cosmic energies formed personifications of the core aspects of their argument. These ripples resonated from the [[Fractal Waters]], where the [[Goda]] dwell, into the [[Sacrus]] and began to form seeds of new divine beings. These seeds slowly grew during the time of the [[Natural War]].
 
 The Goda, intrigued by these nascent entities, later saw an opportunity to further understand their own existence and the nature of creation. Once the beginning Nesa were established, the gradient of belief and [[Anim]] had been altered for eternity. Through their existence, belief events became a natural occurrence, when prior to the Nesa there was only one possible event: ascension.
 

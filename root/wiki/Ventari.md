@@ -1,5 +1,5 @@
 <!-- wiki-header-section:start -->
-# Ventari
+<!-- # Ventari
 _Add nicknames or alternative titles here_
 
 <img src="wiki_images/Ventari.png"><i></i></img>
@@ -9,6 +9,7 @@ _Add nicknames or alternative titles here_
 
 > _"Add a quote from the real world that relates to the subject"_  
 > **—Real World Attribution**
+-->
 
 <!-- wiki-header-section:end -->
 

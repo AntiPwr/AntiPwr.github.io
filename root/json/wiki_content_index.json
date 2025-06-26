@@ -532,10 +532,24 @@
     ]
   },
   {
+    "file": "Deathground (Fighter Archetype).html",
+    "title": "Deathground (Fighter Archetype)",
+    "headings": [
+      "Deathground (Fighter Archetype)",
+      "**Level 3 – Grounded Stance**",
+      "**Level 3 – Endemic Rupture**",
+      "**Level 7 – Graven Grip**",
+      "**Level 10 – Barren Exchange**",
+      "**Level 15 – Weight of Death**",
+      "**Level 18 – Imaan Ascendance**"
+    ]
+  },
+  {
     "file": "Decara.html",
     "title": "Decara",
     "headings": [
-      "Decara"
+      "Decara",
+      "Related Wiki Pages"
     ]
   },
   {
@@ -794,6 +808,13 @@
     ]
   },
   {
+    "file": "Gov'Doran.html",
+    "title": "Gov'Doran",
+    "headings": [
+      "Gov'Doran"
+    ]
+  },
+  {
     "file": "Grand Assembly.html",
     "title": "Grand Assembly",
     "headings": [
@@ -975,10 +996,23 @@
     ]
   },
   {
+    "file": "Imaa.html",
+    "title": "Imaa",
+    "headings": [
+      "Imaa"
+    ]
+  },
+  {
     "file": "Imaan Plane.html",
     "title": "Imaan Plane",
     "headings": [
-      "Imaan Plane"
+      "Imaan Plane",
+      "Main Section",
+      "Creation and Function",
+      "Appearance and Influence",
+      "Role in the Toman Ecoss",
+      "Images",
+      "Related Wiki Pages"
     ]
   },
   {
@@ -2055,7 +2089,12 @@
     "file": "Toman Ecoss.html",
     "title": "Toman Ecoss",
     "headings": [
-      "Toman Ecoss"
+      "Toman Ecoss",
+      "Main Section",
+      "Major Planes and Ecos of the Toman Ecoss",
+      "Living Ecoss",
+      "Images",
+      "Related Wiki Pages"
     ]
   },
   {
@@ -2228,6 +2267,13 @@
       "Additional Sections",
       "Images",
       "Related Wiki Pages"
+    ]
+  },
+  {
+    "file": "Zlellis and O'nume.html",
+    "title": "Zlellis and O'nume",
+    "headings": [
+      "Zlellis and O'nume"
     ]
   },
   {

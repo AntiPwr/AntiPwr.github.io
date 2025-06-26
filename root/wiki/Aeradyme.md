@@ -1,15 +1,9 @@
-<!-- wiki-header-section:start -->
-# Aeradyme
 <!--
+# Aeradyme
 _Add nicknames or alternative titles here_
 
 <img src="wiki_images/Aeradyme.png"><i></i></img>
-
-> _"Add a quote about the subject here from within the fictional world"_  
-> **—Quote Attribution**
-
-> _"Add a quote from the real world that relates to the subject"_  
-> **—Real World Attribution**
+-->
 
 <!-- wiki-header-section:end -->
 
