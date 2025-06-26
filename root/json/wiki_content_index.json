@@ -246,7 +246,6 @@
     "title": "Basin",
     "headings": [
       "Basin",
-      "Main Section",
       "Additional Sections",
       "Images",
       "Related Wiki Pages"
@@ -423,7 +422,6 @@
     "file": "Class.html",
     "title": "Class",
     "headings": [
-      "Class",
       "Main Section",
       "Additional Sections",
       "Images",
@@ -484,8 +482,6 @@
     "file": "Current Line.html",
     "title": "Current Line",
     "headings": [
-      "Current Line",
-      "Main Section",
       "Additional Sections",
       "Images",
       "Related Wiki Pages"
@@ -524,7 +520,6 @@
     "file": "Dar.html",
     "title": "Dar",
     "headings": [
-      "Dar",
       "Main Section",
       "Additional Sections",
       "Images",
@@ -541,7 +536,13 @@
       "**Level 7 – Graven Grip**",
       "**Level 10 – Barren Exchange**",
       "**Level 15 – Weight of Death**",
-      "**Level 18 – Imaan Ascendance**"
+      "**Level 18 – Imaan Ascendance**",
+      "Balancing Analysis",
+      "Balancing the **Deathground** Fighter Subclass",
+      "Action Economy Considerations",
+      "Damage Output and Scaling",
+      "Resource Management and Frequency",
+      "Overall Balance and Playstyle Feedback"
     ]
   },
   {
@@ -703,8 +704,6 @@
     "file": "Evolution.html",
     "title": "Evolution",
     "headings": [
-      "Evolution",
-      "Main Section",
       "Additional Sections",
       "Images",
       "Related Wiki Pages"
@@ -2167,7 +2166,6 @@
     "file": "Ventari.html",
     "title": "Ventari",
     "headings": [
-      "Ventari",
       "Main Section",
       "Additional Sections",
       "Images",
