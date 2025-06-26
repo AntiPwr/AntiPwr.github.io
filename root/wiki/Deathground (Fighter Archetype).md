@@ -67,9 +67,9 @@ _(Endemic Rupture uses per long rest equal to your Strength modifier, minimum 1.
 _(Bonus Action)_  
 Choose one creature you see within 30 feet (no more than one size larger). It must succeed on a Str save (DC = 8 + your proficiency bonus + your Strength modifier) or you choose:
 
-- **Death Grip.** You yank the creature so fiercely it lands at your feet—if it was airborne, it takes falling damage equal to 1d6 per 5 feet fallen before crashing prone.
+- **Death Grip.** You yank the creature so fiercely it lands at your feet—if it was airborne, it takes falling damage equal to 1d6 per 10 feet fallen before crashing prone.
     
-- **Drag Down.** If the target is already knocked up (for example, by your Endemic Rupture), you may use this Bonus Action **instead of your Endemic Rupture reaction** to pull it earthward. It falls prone, takes 1d6 bludgeoning damage per 5 feet fallen, and on a failed Con save is stunned until the end of your next turn.
+- **Drag Down.** If the target is already knocked up (for example, by your Endemic Rupture), you may use this Bonus Action **instead of your Endemic Rupture reaction** to pull it earthward. It falls prone, takes 1d6 bludgeoning damage per 10 feet fallen, and on a failed Con save is stunned until the end of your next turn.
     
 
 You can use this feature a number of times equal to your proficiency bonus per long rest.
