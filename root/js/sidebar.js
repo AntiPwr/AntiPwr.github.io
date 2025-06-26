@@ -141,7 +141,24 @@ document.addEventListener('DOMContentLoaded', () => {
                 a.innerHTML = node.text;
                 a.addEventListener('click', e => {
                     e.preventDefault();
-                    document.getElementById(node.id)?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                    const target = document.getElementById(node.id);
+                    if (target) {
+                        // Calculate offset (navbar height)
+                        const navbar = document.querySelector('.navbar');
+                        let offset = 0;
+                        if (navbar) {
+                            // Use navbar's height (including margins)
+                            offset = navbar.getBoundingClientRect().height;
+                        }
+                        // Get element's position relative to the document
+                        const rect = target.getBoundingClientRect();
+                        const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+                        // Scroll to the element minus the offset
+                        window.scrollTo({
+                            top: rect.top + scrollTop - offset - 8, // -8 for a little extra space
+                            behavior: 'smooth'
+                        });
+                    }
                     setPinnedSection(node.id);
                 });
                 row.appendChild(a);
