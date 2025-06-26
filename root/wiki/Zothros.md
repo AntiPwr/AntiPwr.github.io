@@ -1,9 +1,7 @@
 <!-- wiki-header-section:start -->
 # Zothros
 
-<img src="wiki_images/Zothros.png"><i></i></img>
-
-A Zothros is a [[Huma]] with [[Ferra]]-like traits.
+**Zothros** are [[Huma]] who, through evolution or magical influence, have become more like [[Ferra]]—embracing animal instincts, forms, and behaviors. Most Zothros are quadrupedal and display powerful, bestial traits, but many can walk upright and participate in society. Zothros embody the wild side of humanity, balancing intellect with primal strength and instinct.
 
 <!-- wiki-header-section:end -->
 

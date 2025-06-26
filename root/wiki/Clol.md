@@ -3,7 +3,7 @@
 
 <img src="wiki_images/Clol.png"><i></i></img>
 
-Clol are a mold subcelia of the Celia kingdom. Their populations can switch color (white/blue/green or black/purple) as needed. Clol are used for pollution control and can spread hysteria, influencing societies and promoting phyla like Klesn. They are a key example of Celia's impact on both the environment and social structures.
+Clol are a mold subcelia of the Celia kingdom. <!--Their populations can switch color (white/blue/green or black/purple). Clol are used for pollution control and can spread hysteria, influencing societies and promoting phyla like Klesn. They are a key example of Celia's impact on both the environment and social structures.
 
 <!-- wiki-header-section:end -->
 
@@ -23,7 +23,7 @@ Clol are a mold subcelia of the Celia kingdom. Their populations can switch colo
     </tr>
     <tr>
       <td class="taxon-label"><img src="../svg/kingdom.svg" class="taxon-icon">Kingdom:</td>
-      <td class="taxon-content" colspan="2">[[Celia]] (**Clol**)</td>
+      <td class="taxon-content" colspan="2">[[Celia]] (<b>Clol</b>)</td>
     </tr>
   </table>
 </div>

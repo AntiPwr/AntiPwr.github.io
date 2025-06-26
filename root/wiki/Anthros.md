@@ -1,9 +1,7 @@
 <!-- wiki-header-section:start -->
 # Anthros
 
-<img src="wiki_images/Anthros.png"><i></i></img>
-
-An Anthros is a [[Ferra]] with [[Huma]]-like traits.
+**Anthros** are [[Ferra]] who, through generations of adaptation and cultural influence, have become more like [[Huma]] in intellect, society, and upright posture. While most Anthros are bipedal and display advanced reasoning and communication, some retain more animalistic traits and may move on all fours or exhibit instinctual behaviors. Anthros represent the bridge between the wild and the civilized, blending animal cunning with the potential for human-like growth.
 
 <!-- wiki-header-section:end -->
 

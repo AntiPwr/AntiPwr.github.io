@@ -1,6 +1,6 @@
 <!-- wiki-header-section:start -->
 # Asceptim
-<p class="nickname">Doctrine of Ascension</p>
+_Doctrine of Ascension_
 
 <img src="wiki_images/Asceptim.png"><i>A guide of Asceptim inside a Tayiman prayerground.</i></img>
 

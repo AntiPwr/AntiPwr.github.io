@@ -411,6 +411,18 @@
     "Order": null,
     "Family": null,
     "Essa": null,
+    "file": "Critical Hits Revisited.md"
+  },
+  {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toman Ecoss",
+    "Kingdom": null,
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
     "file": "Current Line.md"
   },
   {
@@ -1006,6 +1018,18 @@
   },
   {
     "file": "Oshe.md"
+  },
+  {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toman Ecoss",
+    "Kingdom": "Resonant (Anthros-Zothros)",
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
+    "file": "Ousine.md"
   },
   {
     "file": "Out and Inn.md"

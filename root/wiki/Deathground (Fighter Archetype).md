@@ -44,8 +44,6 @@ When you choose this archetype at 3rd level, you gain proficiency in Athletics i
 - **Kanabo Mastery.** When you wield a heavy bludgeoning weapon (a maul or your signature kanabo), your attacks score a critical hit on a roll of 19–20 against a creature you have grappled, knocked up, or knocked prone.
     
 
----
-
 ### **Level 3 – Endemic Rupture**
 
 _(Reaction when a creature is knocked up)_  
@@ -60,8 +58,6 @@ Choose one:
 
 _(Endemic Rupture uses per long rest equal to your Strength modifier, minimum 1.)_
 
----
-
 ### **Level 7 – Graven Grip**
 
 _(Bonus Action)_  
@@ -73,8 +69,6 @@ Choose one creature you see within 30 feet (no more than one size larger). It mu
     
 
 You can use this feature a number of times equal to your proficiency bonus per long rest.
-
----
 
 ### **Level 10 – Barren Exchange**
 
@@ -89,8 +83,6 @@ When you use **Siphon Anim**, you may target up to **two creatures** within 10 f
 
 Each effect applies once per use.
 
----
-
 ### **Level 15 – Weight of Death**
 
 Your very presence warps gravity and spirit, a living bulwark.
@@ -100,9 +92,6 @@ Your very presence warps gravity and spirit, a living bulwark.
 - You cannot be knocked prone or forced to move unless you allow it.
     
 - When you **grapple** a creature, it immediately takes bludgeoning damage equal to your weapon’s damage die + your Strength modifier.
-    
-
----
 
 ### **Level 18 – Imaan Ascendance**
 
