@@ -51,7 +51,7 @@ When you create an Ousine character, choose your form and resonant alignment. Th
   - Walking: 30 ft  
 - **Darkvision.** See in dim light within 60 ft as bright light, in darkness as dim light (shades of gray only).
 - **Silent Leap.** When you make a long or high jump, you land silently. If you land within 5 ft of one or more creatures, each must succeed on a DC 8 + your proficiency bonus + your Strength modifier or be pushed 5 ft away and knocked prone. You take no falling damage from your own jump.
-- **Natural Weapons.** Your unarmed strikes deal 1d6 + your Strength modifier slashing damage (claws). You may flavor critical hits as beak strikes if you wish (applicable when using [[Critical Hits Revisited]]).
+- **Natural Weapons.** Your unarmed strikes deal 1d6 + your Strength modifier slashing damage (claws). You may flavor critical hits as a beak (piercing) strike if you wish (applicable when using [[Critical Hits Revisited]]).
 - **Powerful Build.** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 - **Beast Speech.** Through body language, hoots, and growls, you can communicate simple ideas to owls, bears, and owlbears. You have advantage on Charisma (Animal Handling) checks to influence owls or bears.
 - **Languages.** You can speak, read, and write Common.  
