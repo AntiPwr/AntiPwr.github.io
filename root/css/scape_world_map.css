@@ -10,6 +10,7 @@ html, body {
     height: 100%;
     overflow: hidden;
     font-family: "proxima-nova", Arial, sans-serif;
+    background: #1e1e1e; /* Match navbar color */
 }
 
 /* Map container */
@@ -19,7 +20,7 @@ html, body {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: #f0f8ff;
+    background-color: #1e1e1e; /* Match navbar color */
     overflow: hidden;
 }
 

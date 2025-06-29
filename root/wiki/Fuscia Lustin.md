@@ -2,7 +2,7 @@
 <!--
 # Fuscia Lustin
 
-_Add nicknames or alternative titles here_
+_Taxiarch, Left Hand of the throne of God ([Michael (Archangel)](https://en.wikipedia.org/wiki/Michael_(archangel)))_
 
 <img src="wiki_images/Fuscia Lustin.png"><i></i></img>
 
@@ -12,6 +12,8 @@ _Add nicknames or alternative titles here_
 > _"Add a quote from the real world that relates to the subject"_  
 > **—Real World Attribution**
 -->
+
+Write an introductory paragraph about Fuscia Lustin here. Summarize what the subject is and its significance within the world.
 
 <!-- wiki-header-section:end -->
 
@@ -51,9 +53,9 @@ _Add nicknames or alternative titles here_
   </table>
 </div>
 
-Write an introductory paragraph about Fuscia Lustin here. Summarize what the subject is and its significance within the world.
 
-## Main Section
+
+<!-- ## Main Section
 
 Write detailed content about Fuscia Lustin here, organized into appropriate sections.
 
@@ -76,3 +78,17 @@ Continue with more sections as needed.
 - [[Related Page 3]]
 
 -->
+
+
+
+
+
+
+
+<!--
+His first role is the leader of the Army of God and the leader of celestial forces in triumphing over the powers of Hell.
+
+https://en.wikipedia.org/wiki/Michael_(archangel)
+
+Fuscia as the opposite of Michael, but posing to be like Michael through Klesn. Kee with a relation to a seraphim.
+>

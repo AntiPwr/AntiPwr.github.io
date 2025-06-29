@@ -124,7 +124,7 @@ Different cultures throughout Toma have developed varied understandings and name
 
 - In [[Sol Unita]], they are often categorized according to their relationship with [[Asath]] and the [[Rites of Huma]]
 - The [[Branches of Concordia]] focus on their hierarchical arrangement and cosmic responsibilities
-- [[Chain of Delta]] traditions emphasize their practical influences on trade, travel, and material prosperity
+<!--- [[Chain of Delta]] traditions emphasize their practical influences on trade, travel, and material prosperity-->
 - [[Tayim Trade Republic]] scholars study their manifestations as natural phenomena with predictable patterns
 
 These diverse perspectives reflect not only cultural differences but also the multifaceted nature of the Nesa themselves, who often present different aspects of their being to different societies.

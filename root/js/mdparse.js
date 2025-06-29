@@ -226,7 +226,6 @@ function enableWikiImageLightbox() {
     lightbox.className = 'wiki-image-lightbox';
     lightbox.id = 'wiki-image-lightbox';
     lightbox.innerHTML = `
-        <button class="wiki-image-lightbox-close" title="Close">&times;</button>
         <div class="wiki-image-lightbox-inner">
             <img src="" alt="Magnified image">
             <div class="wiki-image-lightbox-caption"></div>
@@ -236,8 +235,6 @@ function enableWikiImageLightbox() {
 
     const lightboxImg = lightbox.querySelector('img');
     const lightboxCaption = lightbox.querySelector('.wiki-image-lightbox-caption');
-    const closeBtn = lightbox.querySelector('.wiki-image-lightbox-close');
-
     // Click to close
     function closeLightbox() {
         lightbox.classList.remove('active', 'vertical');
@@ -245,7 +242,6 @@ function enableWikiImageLightbox() {
         lightboxCaption.textContent = '';
         document.body.style.overflow = '';
     }
-    closeBtn.addEventListener('click', closeLightbox);
     lightbox.addEventListener('click', (e) => {
         if (e.target === lightbox || e.target === lightboxImg) closeLightbox();
     });
@@ -282,6 +278,18 @@ function enableWikiImageLightbox() {
                     } else {
                         lightbox.classList.remove('vertical');
                     }
+                    // Classify caption as single-line or multi-line for horizontal images
+                    lightboxCaption.classList.remove('single-line', 'multi-line');
+                    if (!lightbox.classList.contains('vertical')) {
+                        const style = window.getComputedStyle(lightboxCaption);
+                        const lineHeight = parseFloat(style.lineHeight);
+                        const lines = Math.round(lightboxCaption.scrollHeight / lineHeight) || 1;
+                        if (lines <= 1) {
+                            lightboxCaption.classList.add('single-line');
+                        } else {
+                            lightboxCaption.classList.add('multi-line');
+                        }
+                    }
                 };
                 // If cached, fire onload manually
                 if (lightboxImg.complete) {
@@ -299,6 +307,26 @@ function enableWikiImageLightbox() {
     const observer = new MutationObserver(setupImageClicks);
     observer.observe(document.getElementById('markdown-content'), { childList: true, subtree: true });
 }
+
+classifyStaticCaptions(); // initial run if called after setup
+function classifyStaticCaptions() {
+    document.querySelectorAll('.wiki-content img + i, .wiki-header-section img + i').forEach(caption => {
+        const style = window.getComputedStyle(caption);
+        const lineHeight = parseFloat(style.lineHeight);
+        const lines = Math.round(caption.scrollHeight / lineHeight) || 1;
+        caption.classList.remove('static-single-line', 'static-multi-line');
+        if (lines <= 1) {
+            caption.classList.add('static-single-line');
+        } else {
+            caption.classList.add('static-multi-line');
+        }
+    });
+}
+// Reclassify on window resize to handle responsive text wrap
+window.addEventListener('resize', classifyStaticCaptions);
+
+// Also hook into DOMContentLoaded for initial classification
+document.addEventListener('DOMContentLoaded', classifyStaticCaptions);
 
 function enableTaxonomyLinks() {
     // Purpose Taxonomy title
