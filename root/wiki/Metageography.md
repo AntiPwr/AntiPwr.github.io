@@ -35,9 +35,12 @@ Metageography is the study and understanding of how Toma's physical and metaphys
 
 Metageography explains why Toma's environments are so extreme and varied. When a population undergoes a Mixture or Solution Death, the anim released does not simply dissipate; it imprints upon the land, altering its properties and sometimes giving rise to new biomes or phenomena. The [[Wasting Event|Wasting Events]] are prime examples, where mass deaths reshape entire regions. The resulting [[Hollow Resource|Hollow Resources]] become the foundation for new civilizations, technologies, and spiritual practices.
 
+
 ## Relationship to Hollow Resources
 
-The study of metageography is inseparable from the study of [[Hollow Resource|Hollow Resources]]. By understanding the circumstances and beliefs surrounding a death event, scholars can predict the type and potency of resources that will emerge. This knowledge is crucial for those seeking to harness Toma's most valuable materials.
+The study of metageography is inseparable from the study of [[Hollow Resource|Hollow Resources]]. By understanding the circumstances and beliefs surrounding a death event, scholars and adventurers can predict the type and potency of resources that will emerge—and sometimes even influence their creation. The ability to foresee or shape the formation of Hollow Resources is a powerful tool, sought after by those who wish to harness Toma's most valuable materials.
+
+Wasting Events and the resulting resources are not just historical footnotes, but living forces that shape the world’s future. The rise and fall of civilizations, the creation of new biomes, and the spiritual economy of Toma are all tied to the cycles of death, belief, and resource formation. For players, this means that the consequences of great events—wars, rituals, or acts of faith—can echo through the land in the form of new opportunities, dangers, and quests for power.
 
 ## See Also
 

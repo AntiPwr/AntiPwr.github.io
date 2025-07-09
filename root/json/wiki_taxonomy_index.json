@@ -2,19 +2,19 @@
   {
     "Bin": "Scape",
     "Basin": "Sacrus",
-    "Eco": "Toma (Jetti Sound and Nesil Grassland, Sancta) of Toman Ecoss",
-    "Kingdom": "Huma",
-    "Phylum": "Asceptim",
-    "Class": "Sol Unita",
-    "Order": "Scender (Acceptance Band)",
+    "Eco": "Toma (Wyldere, West Clutched Forest) of Toman Ecoss",
+    "Kingdom": null,
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
     "Family": null,
     "Essa": null,
-    "file": "Acceptance Band.md"
+    "file": "212 Shift.md"
   },
   {
     "Bin": "Scape",
     "Basin": "Sacrus",
-    "Eco": "Toma (Jetti Sound and Nesil Grassland, Sancta) of Toman Ecoss",
+    "Eco": "Toma (Jeti Sound and Nesil Grassland, Sancta) of Toman Ecoss",
     "Kingdom": "Huma",
     "Phylum": "Asceptim",
     "Class": "Sol Unita",
@@ -36,21 +36,21 @@
     "file": "Advancism.md"
   },
   {
-    "Bin": "Scape",
-    "Basin": "Sacrus",
-    "Eco": "Toma of Toman Ecoss",
-    "Kingdom": null,
-    "Phylum": null,
-    "Class": null,
-    "Order": null,
-    "Family": null,
-    "Essa": null,
     "file": "Aeradyme.md"
   },
   {
     "file": "Agraial Tribelands.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma (Sancta, Agresta Jungle) of Toman Ecoss",
+    "Kingdom": "Huma",
+    "Phylum": "Asceptim",
+    "Class": "Sol Unita",
+    "Order": "Scender (Access)",
+    "Family": null,
+    "Essa": null,
     "file": "Agresta Jungle.md"
   },
   {
@@ -69,7 +69,7 @@
     "file": "Implementation.md"
   },
   {
-    "file": "InfoDrop.md"
+    "file": "Info Drop.md"
   },
   {
     "Bin": "Scape",
@@ -96,6 +96,9 @@
     "file": "WIKIREADME.md"
   },
   {
+    "file": "World Map Guide.md"
+  },
+  {
     "file": "Albumaiyhet.md"
   },
   {
@@ -120,15 +123,6 @@
     "file": "Anim.md"
   },
   {
-    "Bin": "Scape",
-    "Basin": "Sacrus",
-    "Eco": "Toma of Toman Ecoss",
-    "Kingdom": null,
-    "Phylum": null,
-    "Class": null,
-    "Order": null,
-    "Family": null,
-    "Essa": null,
     "file": "Ankelore.md"
   },
   {
@@ -147,6 +141,15 @@
     "file": "Anthros.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma of Toman Ecoss",
+    "Kingdom": "Ferra",
+    "Phylum": "Mohrsmunt and Amarvena (Apex and Praeda)",
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
     "file": "Apex and Praeda.md"
   },
   {
@@ -188,7 +191,7 @@
   {
     "Bin": "Scape",
     "Basin": "Sacrus",
-    "Eco": "Toma (Sancta, Jetti Sound) of Toman Ecoss",
+    "Eco": "Toma (Sancta, Jeti Sound) of Toman Ecoss",
     "Kingdom": "Huma",
     "Phylum": "Asceptim",
     "Class": "Sol Unita",
@@ -210,6 +213,15 @@
     "file": "Asath.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma of Toman Ecoss",
+    "Kingdom": "Huma, Monstra, Huma-Resonant",
+    "Phylum": "Asceptim",
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
     "file": "Asceptim (Cleric Domain).md"
   },
   {
@@ -231,15 +243,27 @@
     "file": "Automata.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma (Wyldere) of Toman Ecoss",
+    "Kingdom": "Huma",
+    "Phylum": "Martyrism->TBD",
+    "Class": "Chain of Delta->Tildohsi Partition",
+    "Order": "Delta->Tildohsi",
+    "Family": "Unknown",
+    "Essa": "Avan Persevet's Soul",
+    "file": "Avan Persevet.md"
+  },
+  {
     "file": "Babadoo Slim.md"
   },
   {
     "file": "Ballast Sanct.md"
   },
   {
-    "Bin": "Scape",
-    "Basin": "Sacrus",
-    "Eco": "Toma of Toman Ecoss",
+    "Bin": "Bin",
+    "Basin": "Basin",
+    "Eco": null,
     "Kingdom": null,
     "Phylum": null,
     "Class": null,
@@ -285,6 +309,18 @@
     "file": "Bin.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma (Wyldere, Clutched Forest) of Toman Ecoss",
+    "Kingdom": "Celia (Blue Manrotter)",
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
+    "file": "Blue Manrotter.md"
+  },
+  {
     "file": "Bluma.md"
   },
   {
@@ -319,6 +355,18 @@
     "Family": null,
     "Essa": null,
     "file": "Celia.md"
+  },
+  {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma (various locations) of Toman Ecoss",
+    "Kingdom": null,
+    "Phylum": null,
+    "Class": "Celia",
+    "Order": null,
+    "Family": null,
+    "Essa": null,
+    "file": "Celial Spring.md"
   },
   {
     "file": "Ceremony of His Eye.md"
@@ -359,6 +407,18 @@
   {
     "Bin": "Scape",
     "Basin": "Sacrus",
+    "Eco": "Toma of Toman Ecoss",
+    "Kingdom": "Huma",
+    "Phylum": "Asceptim",
+    "Class": "Sol Unita",
+    "Order": "Scender",
+    "Family": "N/A",
+    "Essa": "Cli'ste Amaratus's Soul",
+    "file": "Cli'ste Amaratus.md"
+  },
+  {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
     "Eco": null,
     "Kingdom": "Celia (Clol)",
     "Phylum": null,
@@ -381,13 +441,31 @@
     "file": "Clutched Forest.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma (Concordia) of Toman Ecoss",
+    "Kingdom": null,
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
     "file": "Concordia.md"
   },
   {
     "file": "Concordian Huma Lineage.md"
   },
   {
-    "file": "Contribution Band.md"
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma (Concordia) of Toman Ecoss",
+    "Kingdom": "Bluma (Corlin Tree)",
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
+    "file": "Corlin Tree.md"
   },
   {
     "Bin": "Scape",
@@ -591,6 +669,18 @@
     "Bin": "Scape",
     "Basin": "Sacrus",
     "Eco": "Toma of Toman Ecoss",
+    "Kingdom": "Various",
+    "Phylum": null,
+    "Class": "Various",
+    "Order": "Various",
+    "Family": "Various",
+    "Essa": null,
+    "file": "Familial.md"
+  },
+  {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma of Toman Ecoss",
     "Kingdom": null,
     "Phylum": null,
     "Class": null,
@@ -617,13 +707,13 @@
   {
     "Bin": "Scape",
     "Basin": "Sacrus",
-    "Eco": "Toma of Toman Ecoss",
-    "Kingdom": null,
-    "Phylum": null,
-    "Class": null,
-    "Order": null,
-    "Family": null,
-    "Essa": null,
+    "Eco": "Toma (Wyldere, Vokar) of Toman Ecoss",
+    "Kingdom": "Huma",
+    "Phylum": "Klesn",
+    "Class": "Chain of Delta",
+    "Order": "Delta",
+    "Family": "Unknown",
+    "Essa": "Fuscia Lustin's Soul",
     "file": "Fuscia Lustin.md"
   },
   {
@@ -634,6 +724,18 @@
   },
   {
     "file": "Gaudis.md"
+  },
+  {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma of Toman Ecoss",
+    "Kingdom": "Anthros",
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
+    "file": "Gekido.md"
   },
   {
     "file": "Gludestit.md"
@@ -819,6 +921,18 @@
     "file": "Imperial Growth.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma",
+    "Kingdom": null,
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
+    "file": "Implantation.md"
+  },
+  {
     "file": "In-between.md"
   },
   {
@@ -849,6 +963,15 @@
     "file": "Jarma Konich.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma (Jeti Sound and Nesil Grassland, Sancta) of Toman Ecoss",
+    "Kingdom": "Huma",
+    "Phylum": "Asceptim",
+    "Class": "Sol Unita",
+    "Order": "Scender (Access)",
+    "Family": null,
+    "Essa": null,
     "file": "Jeti Sound.md"
   },
   {
@@ -862,6 +985,18 @@
   },
   {
     "file": "Kingdom.md"
+  },
+  {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma (Wyldere, Vokar) of Toman Ecoss",
+    "Kingdom": "Huma, Automata (Willed-Mecha)",
+    "Phylum": "Klesn",
+    "Class": "Chain of Delta",
+    "Order": "Delta (Kleznit)",
+    "Family": null,
+    "Essa": null,
+    "file": "Kleznit Advance.md"
   },
   {
     "file": "Kro'Tan.md"
@@ -897,6 +1032,18 @@
     "file": "Line from Few.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toman Ecoss",
+    "Kingdom": null,
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
+    "file": "Line.md"
+  },
+  {
     "file": "Lopali.md"
   },
   {
@@ -907,6 +1054,18 @@
   },
   {
     "file": "Malgasta.md"
+  },
+  {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma (various aquatic locations) of Toman Ecoss",
+    "Kingdom": null,
+    "Phylum": null,
+    "Class": "Subcelia",
+    "Order": null,
+    "Family": null,
+    "Essa": null,
+    "file": "Manrotter.md"
   },
   {
     "file": "Mellifera Tulscip.md"
@@ -1077,6 +1236,27 @@
     "file": "Phylum.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toman Ecoss",
+    "Kingdom": null,
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
+    "file": "Pith Mechanic (Artificer Specialty).md"
+  },
+  {
+    "Bin": "Ex. Bin",
+    "Basin": "Ex. Basin",
+    "Eco": "Ex. Eco (Ex. Continent, Ex. Region, Ex. Location) of Ex. Ecoss",
+    "Kingdom": "Ex. Kingdom 1 and Ex. Kingdom 2",
+    "Phylum": "Ex. Phylum",
+    "Class": "Ex. Class",
+    "Order": "Ex. Order",
+    "Family": "Ex. Family",
+    "Essa": "Ex. Essa",
     "file": "Preacher's Vassal.md"
   },
   {
@@ -1098,12 +1278,21 @@
     "file": "Primalism.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma of Toman Ecoss",
+    "Kingdom": "Primordial (Ferra Polyresonant)",
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
     "file": "Primordial.md"
   },
   {
     "Bin": "Ex. Bin",
     "Basin": "Ex. Basin",
-    "Eco": "Ex. Eco (Ex. Continent, Ex. Region, Ex. Continent) of Ex. Ecoss",
+    "Eco": "Ex. Eco (Ex. Continent, Ex. Region, Ex. Location) of Ex. Ecoss",
     "Kingdom": "Ex. Kingdom 1 and Ex. Kingdom 2",
     "Phylum": "Ex. Phylum",
     "Class": "Ex. Class",
@@ -1147,6 +1336,18 @@
     "Family": null,
     "Essa": null,
     "file": "Reins of Alwa.md"
+  },
+  {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma of Toman Ecoss",
+    "Kingdom": "Huma, Monstra, Automata, Natura, Bluma, Ferra, Spira, Nesa, Decara, Celia, Mikra (Contested)",
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
+    "file": "Resonance.md"
   },
   {
     "Bin": "Scape",
@@ -1200,6 +1401,18 @@
     "file": "Ritual Ash.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma (Wyldere, Sable) of Toman Ecoss",
+    "Kingdom": null,
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
+    "file": "Sable.md"
+  },
+  {
     "file": "Sacrus.md"
   },
   {
@@ -1241,7 +1454,7 @@
   {
     "Bin": "Scape",
     "Basin": "Sacrus",
-    "Eco": "Toma (Sancta, Jetti Sound and Nesil Grassland) of Toman Ecoss",
+    "Eco": "Toma (Sancta, Jeti Sound and Nesil Grassland) of Toman Ecoss",
     "Kingdom": "Huma, Ferra, Anthros and Zothros, Natura, Bluma",
     "Phylum": "Asceptim",
     "Class": "Sol Unita",
@@ -1281,6 +1494,15 @@
     "file": "Sea of Presence.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toman Ecoss",
+    "Kingdom": null,
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
     "file": "Severance.md"
   },
   {
@@ -1455,10 +1677,7 @@
     "file": "Tayim.md"
   },
   {
-    "file": "Tayiman.md"
-  },
-  {
-    "file": "Technohumanism.md"
+    "file": "Tekyume.md"
   },
   {
     "Bin": "Scape",
@@ -1575,7 +1794,7 @@
     "file": "Usakan Growth.md"
   },
   {
-    "file": "Vankner.md"
+    "file": "Vankner Nu.md"
   },
   {
     "Bin": "Scape",
@@ -1588,6 +1807,18 @@
     "Family": null,
     "Essa": null,
     "file": "Ventari.md"
+  },
+  {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma (Wyldere, Vokar) of Toman Ecoss",
+    "Kingdom": null,
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
+    "file": "Vokar.md"
   },
   {
     "file": "Walkers of Duality.md"
@@ -1635,6 +1866,15 @@
     "file": "World Gyre.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma (Wyldere) of Toman Ecoss",
+    "Kingdom": null,
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
     "file": "Wyldere.md"
   },
   {
@@ -1653,10 +1893,10 @@
     "Bin": "Scape",
     "Basin": "Sacrus",
     "Eco": "Toma of Toman Ecoss",
-    "Kingdom": null,
-    "Phylum": null,
-    "Class": null,
-    "Order": null,
+    "Kingdom": "Huma",
+    "Phylum": "Subjectivism",
+    "Class": "Hypri Highcourt",
+    "Order": "Zaphira",
     "Family": null,
     "Essa": null,
     "file": "Zaphira.md"

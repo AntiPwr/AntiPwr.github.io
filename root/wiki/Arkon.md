@@ -1,8 +1,6 @@
 <!-- wiki-header-section:start -->
 # Arkon
 
-<img src="wiki_images/Arkon.png"></img>
-
 **Arkon**, once believed to be a thriving continent, is now a region steeped in mystery and peril, surrounded by the [[Swirling Sea]] and thought to house the World Gyre's purpose.
 <!--
 **Arkon**, once a thriving continent, is now a region steeped in mystery and peril, heavily influenced by the enigmatic presence of [[Never]], the Arbiter. As the centermost continent on [[Toma]], Arkon is known for its unique interaction with the [[Spira]] and the [[Dance of Spira]], affecting the very fabric of the plane. At its heart lies [[Ka'Vit]], a [[Imaan Plane|Peak Plane]] also known as the Soul Tribunal, where Never exerts his dominion.

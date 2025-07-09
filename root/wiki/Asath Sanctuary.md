@@ -23,7 +23,7 @@ The Asath Sanctuary is the largest place of worship dedicated to [[Asath]], the 
     </tr>
     <tr>
       <td class="taxon-label"><img src="svg/eco.svg" class="taxon-icon">Eco:</td>
-      <td class="taxon-content" colspan="2">[[Toma]] ([[Sancta]], [[Jetti Sound]]) of [[Toman Ecoss]]</td>
+      <td class="taxon-content" colspan="2">[[Toma]] ([[Sancta]], [[Jeti Sound]]) of [[Toman Ecoss]]</td>
     </tr>
     <tr>
       <td class="taxon-label"><img src="svg/kingdom.svg" class="taxon-icon">Kingdom:</td>

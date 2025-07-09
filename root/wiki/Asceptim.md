@@ -2,9 +2,11 @@
 # Asceptim
 _Doctrine of Ascension_
 
-<img src="wiki_images/Asceptim.png"><i>A guide of Asceptim inside a Tayiman prayerground.</i></img>
+<img src="wiki_images/Asceptim 2.png"><i>An Asceptim [[familial]] laying in Sanctan soil.</i></img>
+<!--<img src="wiki_images/Asceptim 1.png"><i>A guide of Asceptim inside a Tayiman prayerground.</i></img>-->
 
 Asceptim is a Sanctan [[Phylum]] most notably governed and advanced by [[Sol Unita]], centered on the pursuit of [[Sol Proscima]], the state of ultimate fulfillment and enlightenment thought to exist in an unseen celestial geography. Its teachings are based on the metaphor of sunlight evaporating water—where the people are the water, and their actions propagate life until they ascend beyond the material world into Sol Proscima. This belief is foundational to the societal and spiritual structures of Sol Unita, where Asceptim serves as both a faith and a guiding philosophy for governance.
+
 <!-- wiki-header-section:end -->
 
 <!-- taxonomy-table-section:start -->
@@ -56,6 +58,27 @@ The religious hierarchy of Asceptim is led by Guides, spiritual leaders who inte
 
 Unlike many hierarchical religious structures, Asceptim does not have a single ultimate leader. Instead, it follows a distributed religious authority, where multiple royal families uphold doctrine, with leadership shifting in accordance with the [[Rite of Transference]]—ensuring that those with superior insight into faith and governance take precedence. Although, there is a Queen of Scender, but her job is as interadvocate of progress, or as uniting means to Sol Proscima.
 
+
+## Aprima and the Doctrine of Ascension
+
+Aprima, the luminous white hollow resource, holds a place of profound importance within Asceptim. It is considered the purest form of [[Primma]], believed to be derived from the remains of the [[Primordial]], [[Alwa]]. In [[Sol Unita]], aprima is revered as the most sacred material, reserved for religious and governmental structures, and is a symbol of divine connection and spiritual purity.
+
+### Aprima Beads (Ascension Beads)
+
+Among the most coveted religious artifacts in Asceptim are the pure white **Ascension Beads** made from aprima. These beads are central to the faith, especially under the doctrine propagated by Ophelia Necesse. According to Asceptim’s teachings, possession of an ascension bead is a sacred requirement for collective ascension—believed to be necessary for joining the faithful in [[Sol Proscima]] after death or at the time of the prophesied ascension. The pursuit of an aprima bead is a near-universal aspiration among the devout, and the beads are often bestowed during rites, major ceremonies, or as recognition of service to the faith.
+
+The purity and rarity of aprima make these beads both a symbol of personal devotion and a tangible link to the promise of ascension. The most flawless beads are quietly associated with higher status or deeper devotion, and to be without one is, for many, to risk spiritual isolation from the community in the afterlife.
+
+### Aprima in Sacred Architecture
+
+Aprima is used in the construction of Scender’s most sacred and significant structures, often in combination with [[Sar Glass]]. Notable examples include the [[Solscept]], the [[Solscept#Grand Stair|Grand Stair]] and [[Asath Sanctuary#Chamber of Light|Chamber of Light]] in the [[Asath Sanctuary]], and various temples and altars throughout **Scender Proper. Only designated religious and governmental authorities are permitted to work with or distribute aprima, reinforcing its sanctity.
+
+Aprima’s unique ability to absorb and refract light gives buildings an ethereal glow, especially at sunrise and sunset, reinforcing the Asceptim metaphor of sunlight and ascension. Its durability and purity make it ideal for ceremonial artifacts, sacred architecture, and spiritual pathways.
+
+### Social and Spiritual Significance
+
+The importance of aprima beads and aprima-based artifacts is reinforced through scripture, oral storytelling, and cultural practice. The beads are worn with pride, and their purity is often seen as a sign of religious prominence. This has led to a subtle social hierarchy within Asceptim, where the most flawless beads are admired and sometimes envied.
+
 ## Symbolism of Sunlight and Water
 
 The core metaphor of Asceptim is that of sunlight evaporating water, illustrating the transformation of the soul from material existence to spiritual ascension.
@@ -72,6 +95,14 @@ Asceptim is deeply embedded in Sol Unita’s governance, law, and education, sha
 
 The influence of Asceptim extends to major ceremonies, such as the [[Ceremony of His Eye]], where devout followers undergo ritualistic blinding as a testament to their faith. Additionally, the teachings of Asceptim inform Sol Unita’s strict yet meritocratic policies on leadership, business, and social mobility, ensuring that only those who prove their worth may rise within the system.
 
+## Familials in Asceptim
+
+A [[Familial]] is an insignia used to tie creatures to belief systems. These insignias are most commonly attached to phylas, classes, orders, and families. Familials in the Toman Ecoss fulfill the role a flag does in the [[Earthen Ecoss]]. Carrying a familial is a sign of one's allegiance and conviction in their belief, but it can be dangerous if you venture into hostile territories or speak to the wrong person.
+
+Wearing a familial, due to its danger as an adventurer, is seen by others (at minimum, those of the same belief system) with admiration. Familials are sometimes used in social hierarchy systems, with governing forces using tiered or varied familial production.
+
+Asceptim familial designs vary highly, as they are individually created by followers throughout a person's life—a cultural expectation. Sol Unita, as a government, propagates this idea and teaching into society. This reflects an idea present in Asceptim teachings, derived from the Rite of Passage: "We are as similar as we are different."
+
 ## Related Wiki Pages
 
 - [[Sol Unita]]
@@ -83,3 +114,4 @@ The influence of Asceptim extends to major ceremonies, such as the [[Ceremony of
 - [[Ophelia Necesse]]
 - [[Scender]]
 - [[Asath Sanctuary]]
+- [[Aprima]]

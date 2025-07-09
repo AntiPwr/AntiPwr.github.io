@@ -41,7 +41,14 @@
 <br>
 
 
-- node "C:\Users\broki\OneDrive\Desktop\Sea Level Website\AntiPwr.github.io\root\js\genWikiJson.js" "C:\Users\broki\OneDrive\Desktop\Sea Level Website\AntiPwr.github.io\root\wiki" "C:\Users\broki\OneDrive\Desktop\Sea Level Website\AntiPwr.github.io\root\json\wiki_pages.json"
+
+
+## Gitbash | NodeJS | generate_wiki_previews.js
+**Scans all .md files in the wiki directory, extracts the wiki-header-section image and intro paragraph, and writes a JSON file for page previews.**
+<br>
+<br>
+
+- node "C:/Users/broki/OneDrive/Desktop/Sea Level Website/AntiPwr.github.io/root/js/generate_wiki_previews.js"
 
 ## Gitbash | NodeJS | generate_wiki_content_index.js
 <br>
@@ -66,5 +73,6 @@ node "C:/Users/broki/OneDrive/Desktop/Sea Level Website/AntiPwr.github.io/root/j
 node "C:/Users/broki/OneDrive/Desktop/Sea Level Website/AntiPwr.github.io/root/js/generate_wiki_content_index.js"
 node "C:/Users/broki/OneDrive/Desktop/Sea Level Website/AntiPwr.github.io/root/js/generate_taxonomy_index.js"
 node "C:/Users/broki/OneDrive/Desktop/Sea Level Website/AntiPwr.github.io/root/js/generate_cardinal_arts_index.js"
+node "C:/Users/broki/OneDrive/Desktop/Sea Level Website/AntiPwr.github.io/root/js/generate_wiki_previews.js"
 
 

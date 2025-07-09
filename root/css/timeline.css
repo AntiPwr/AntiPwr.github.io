@@ -1,0 +1,280 @@
+.timeline-event.gyre-shift {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2.5em 0;
+}
+.timeline-content.timeline-gyre-shift {
+  background: #f8f7fc;
+  border: 2px solid #5D3FD3;
+  border-radius: 22px;
+  box-shadow: 0 4px 24px rgba(93,63,211,0.10);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1.5em 2em;
+  min-width: 220px;
+  max-width: 420px;
+  text-align: center;
+}
+.gyre-shift-icon {
+  margin-bottom: 0.5em;
+}
+.gyre-shift-label {
+  font-size: 1.2em;
+  font-weight: bold;
+  color: #5D3FD3;
+  margin-bottom: 0.2em;
+}
+.gyre-shift-desc {
+  font-size: 1em;
+  color: #23232b;
+}
+/* Visual Timeline Styles for Scape Wiki */
+.visual-timeline, #visual-timeline {
+  width: 100%;
+  max-width: 1100px;
+  margin: 0 auto 3em auto;
+  padding: 0 1em;
+}
+.timeline-outer {
+  position: relative;
+  margin: 2em 0 0 0;
+  padding: 0;
+  border-left: 4px solid #5D3FD3;
+}
+.timeline-event {
+  position: relative;
+  margin-bottom: 2.5em;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+.timeline-event.left .timeline-content {
+  margin-left: 2.5em;
+  border-left: 6px solid #5D3FD3;
+  border-radius: 0 18px 18px 0;
+}
+.timeline-event.right .timeline-content {
+  margin-left: 2.5em;
+  border-left: 6px solid #8e44ad;
+  border-radius: 0 18px 18px 0;
+  background: #f8f7fc;
+}
+.timeline-content {
+  background: #eaf6ff;
+  box-shadow: 0 2px 12px rgba(93,63,211,0.08);
+  padding: 1.2em 2em;
+  min-width: 260px;
+  max-width: 600px;
+  position: relative;
+  font-family: 'Segoe UI', 'Gesta', 'Arial', sans-serif;
+  font-size: 1.08em;
+  color: #23232b;
+  transition: box-shadow 0.2s;
+}
+.timeline-content h3 {
+  margin: 0 0 0.2em 0;
+  font-size: 1.25em;
+  color: #5D3FD3;
+  font-weight: bold;
+}
+.timeline-content h4 {
+  margin: 0 0 0.5em 0;
+  font-size: 1.1em;
+  color: #8e44ad;
+  font-weight: normal;
+}
+.timeline-content p {
+  margin: 0;
+  color: #23232b;
+}
+.timeline-year {
+  font-size: 0.95em;
+  color: #888;
+  margin-left: 0.7em;
+  font-weight: normal;
+}
+@media (max-width: 700px) {
+  .timeline-content {
+    min-width: 0;
+    max-width: 98vw;
+    padding: 1em 0.5em;
+  }
+  .timeline-outer {
+    border-left: 3px solid #5D3FD3;
+  }
+}
+
+/* --- INTERACTIVE TIMELINE PANEL (BOTTOM PULL-UP) --- */
+.timeline-panel {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1002;
+  background: rgba(34, 30, 48, 0.98);
+  box-shadow: 0 -4px 32px rgba(93,63,211,0.18);
+  border-top-left-radius: 22px;
+  border-top-right-radius: 22px;
+  transition: transform 0.35s cubic-bezier(.4,1.4,.6,1), background 0.3s;
+  transform: translateY(70%);
+  min-height: 120px;
+  max-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+.timeline-panel.open {
+  transform: translateY(0);
+}
+.timeline-panel .timeline-panel-tab {
+  width: 60px;
+  height: 8px;
+  background: #bdb7e6;
+  border-radius: 4px;
+  margin: 12px auto 8px auto;
+  cursor: grab;
+  transition: background 0.2s;
+}
+.timeline-panel .timeline-panel-tab:active {
+  background: #5D3FD3;
+}
+.timeline-panel-content {
+  flex: 1 1 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-end;
+  padding: 0 0 1.2em 0;
+  overflow: hidden;
+}
+.timeline-slider {
+  position: relative;
+  width: 96%;
+  margin: 0 auto 1.2em auto;
+  height: 54px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.timeline-ticks {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 38px;
+  display: flex;
+  align-items: flex-end;
+  pointer-events: none;
+}
+.timeline-tick {
+  flex: 1 1 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  cursor: pointer;
+  pointer-events: auto;
+}
+.timeline-tick.major {
+  height: 38px;
+}
+.timeline-tick.minor {
+  height: 22px;
+}
+.timeline-tick.line {
+  height: 48px;
+}
+.timeline-tick-dot {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: #5D3FD3;
+  margin-bottom: 4px;
+  border: 2px solid #fff;
+  box-shadow: 0 2px 8px rgba(93,63,211,0.12);
+  transition: background 0.2s, box-shadow 0.2s;
+}
+.timeline-tick.major .timeline-tick-dot {
+  background: #5D3FD3;
+  width: 16px;
+  height: 16px;
+  border: 3px solid #fff;
+}
+.timeline-tick.minor .timeline-tick-dot {
+  background: #bdb7e6;
+  width: 10px;
+  height: 10px;
+  border: 2px solid #fff;
+}
+.timeline-tick.line .timeline-tick-dot {
+  background: #23232b;
+  width: 18px;
+  height: 18px;
+  border: 3px solid #5D3FD3;
+}
+.timeline-tick.active .timeline-tick-dot {
+  background: #fff;
+  box-shadow: 0 0 0 4px #5D3FD3, 0 2px 8px rgba(93,63,211,0.18);
+}
+.timeline-tick-label {
+  font-size: 0.95em;
+  color: #eaf6ff;
+  margin-top: 2px;
+  text-align: center;
+  white-space: nowrap;
+  pointer-events: none;
+}
+.timeline-panel-event-content {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1.2em 2em 0.5em 2em;
+  color: #eaf6ff;
+  text-align: center;
+  font-size: 1.13em;
+  min-height: 80px;
+  transition: background 0.4s, color 0.4s;
+  background: transparent;
+  border-radius: 16px;
+  box-shadow: none;
+}
+.timeline-panel-bg {
+  position: absolute;
+  left: 0; right: 0; top: 0; bottom: 0;
+  z-index: -1;
+  background-size: cover;
+  background-position: center;
+  opacity: 0.18;
+  transition: background-image 0.7s cubic-bezier(.4,1.4,.6,1), opacity 0.5s;
+  pointer-events: none;
+  border-top-left-radius: 22px;
+  border-top-right-radius: 22px;
+}
+.timeline-panel .gyre-shift-caption {
+  color: #fff;
+  font-size: 1.08em;
+  font-weight: bold;
+  margin: 0.5em auto 0.2em auto;
+  background: rgba(93,63,211,0.18);
+  padding: 0.3em 1.2em;
+  border-radius: 12px;
+  display: inline-block;
+  box-shadow: 0 2px 8px rgba(93,63,211,0.10);
+}
+@media (max-width: 700px) {
+  .timeline-panel {
+    min-height: 80px;
+    max-height: 90vh;
+    border-radius: 16px 16px 0 0;
+  }
+  .timeline-panel-content {
+    padding: 0 0 0.5em 0;
+  }
+  .timeline-panel-event-content {
+    padding: 0.7em 0.5em 0.3em 0.5em;
+    font-size: 1em;
+  }
+}
+

@@ -33,8 +33,24 @@ document.addEventListener('DOMContentLoaded', async () => {
         markdown = markdown.replace(/<!--(?!\s*(wiki-header-section|taxonomy-table-section):).*?-->/gs, '');
 
         const converter = new showdown.Converter({
+            tables: true,
             extensions: [obsidianLinkExtension()]
         });
+
+        // --- Nickname/Alternative Title Parsing ---
+        // Look for a line of underscores after the first heading (h1) in the markdown, e.g.:
+        // # Main Title\n_Doctrine of Ascension_\n
+        // Regex: match # Heading, then a line starting and ending with _ (optionally surrounded by whitespace)
+        // Replace with: # Heading\n<p class="nickname">Nickname</p>\n
+        markdown = markdown.replace(
+            /^(# .+?)\n(_[^_][^\n]*_)\n/m,
+            (match, heading, nickname) => {
+                // Remove surrounding underscores and whitespace
+                const cleanNickname = nickname.replace(/^_+|_+$/g, '').trim();
+                return `${heading}\n<p class="nickname">${cleanNickname}</p>\n`;
+            }
+        );
+
         let html = converter.makeHtml(markdown);
 
         // --- Section Wrapping Logic ---
@@ -122,8 +138,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         // 4) Build the sidebar links by scanning these headings
         buildSidebarTOC(headingTags);
 
-        // 5) Enable image magnification/lightbox for all images in wiki-content
-        enableWikiImageLightbox();
+        // 5) [REMOVED] Image magnification/lightbox for all images in wiki-content
 
         // 6) Make taxonomy table title and taxon labels clickable
         enableTaxonomyLinks();
@@ -217,56 +232,19 @@ function buildSidebarTOC(headingElements) {
     renderTree(tree, sidebarLinks);
 }
 
-function enableWikiImageLightbox() {
-    // Only add the lightbox once
-    if (document.getElementById('wiki-image-lightbox')) return;
-
-    // Create the lightbox overlay
-    const lightbox = document.createElement('div');
-    lightbox.className = 'wiki-image-lightbox';
-    lightbox.id = 'wiki-image-lightbox';
-    lightbox.innerHTML = `
-        <div class="wiki-image-lightbox-inner">
-            <img src="" alt="Magnified image">
-            <div class="wiki-image-lightbox-caption"></div>
-        </div>
-    `;
-    document.body.appendChild(lightbox);
-
-    const lightboxImg = lightbox.querySelector('img');
-    const lightboxCaption = lightbox.querySelector('.wiki-image-lightbox-caption');
-    // Click to close
-    function closeLightbox() {
-        lightbox.classList.remove('active', 'vertical');
-        lightboxImg.src = '';
-        lightboxCaption.textContent = '';
-        document.body.style.overflow = '';
-    }
-    lightbox.addEventListener('click', (e) => {
-        if (e.target === lightbox || e.target === lightboxImg) closeLightbox();
-    });
-    document.addEventListener('keydown', (e) => {
-        if (e.key === 'Escape' && lightbox.classList.contains('active')) closeLightbox();
-    });
-
-    // Delegate click event to all images in wiki-content and wiki-header-section
-    function setupImageClicks() {
-        const imgs = document.querySelectorAll('.wiki-content img, .wiki-header-section img');
-        imgs.forEach(img => {
-            // Only add once
-            if (img.dataset.lightboxEnabled) return;
-            img.dataset.lightboxEnabled = '1';
-            img.addEventListener('click', (e) => {
-                e.preventDefault();
-                lightboxImg.src = img.src;
-                // Try to get caption from <i> tag or alt attribute
-                let caption = '';
+// [REMOVED] enableWikiImageLightbox and all lightbox functionality
                 if (img.nextElementSibling && img.nextElementSibling.tagName === 'I') {
                     caption = img.nextElementSibling.textContent;
                 } else if (img.parentElement && img.parentElement.tagName === 'I') {
                     caption = img.parentElement.textContent;
                 } else if (img.alt) {
                     caption = img.alt;
+                } else if (img.title) {
+                    caption = img.title;
+                } else if (img.getAttribute('aria-label')) {
+                    caption = img.getAttribute('aria-label');
+                } else {
+                    caption = img.src.split('/').pop().replace(/\.[^/.]+$/, '');
                 }
                 lightboxCaption.textContent = caption;
                 // Remove previous orientation class
@@ -297,16 +275,17 @@ function enableWikiImageLightbox() {
                 }
                 lightbox.classList.add('active');
                 document.body.style.overflow = 'hidden';
-            });
-        });
-    }
+                setTimeout(() => lightbox.focus(), 10);
+            
+        
+    
 
     // Initial setup and on DOM changes (for dynamic content)
     setupImageClicks();
     // Observe for new images (e.g., after navigation)
     const observer = new MutationObserver(setupImageClicks);
     observer.observe(document.getElementById('markdown-content'), { childList: true, subtree: true });
-}
+
 
 classifyStaticCaptions(); // initial run if called after setup
 function classifyStaticCaptions() {

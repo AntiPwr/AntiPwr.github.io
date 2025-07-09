@@ -1,3 +1,12 @@
+## Familials in Sol Unita
+
+A **familial** is an insignia used to tie creatures to belief systems. These insignias are most commonly attached to phylas, classes, orders, and families. Familials in the Toman Ecoss fulfill the role a flag does in the Earthen Ecoss. Carrying a familial is a sign of one's allegiance and conviction in their belief, but it can be dangerous if you venture into hostile territories or speak to the wrong person.
+
+Wearing a familial, due to its danger as an adventurer, is seen by others (at minimum, those of the same belief system) with admiration. Familials are sometimes used in social hierarchy systems, with governing forces using tiered or varied familial production.
+
+Sol Unita, as a government, propagates the idea that familial designs should be individually created by followers throughout a person's life. This reflects an idea present in Asceptim teachings, derived from the Rite of Passage: "We are as similar as we are different."
+
+See also: [[Familial]]
 <!-- wiki-header-section:start -->
 # Sol Unita
 

@@ -112,6 +112,8 @@ const DEFAULT_HTML_TEMPLATE = (fileName, displayName) =>
                 <a href="../scape_wiki_homepage.html" class="title">Scape Wiki</a>
             </div>
             <ul class="nav-links">
+                <li><a href="../toma_eco_map.html">Toma Map</a></li>
+                <li><a href="../scape_timeline.html">Toma Timeline</a></li>
                 <li><a href="../../index.html">Sea Level</a></li>
                 <li><a href="../scape_about.html">About</a></li>
             </ul>

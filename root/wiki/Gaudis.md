@@ -2,7 +2,7 @@
 # Gaudis
 _Isle of Reflection_
  
-**Eco:** [[Toma]] ([[Sancta]], [[Jetti Sound]]) of [[Toman Ecoss]]  
+**Eco:** [[Toma]] ([[Sancta]], [[Jeti Sound]]) of [[Toman Ecoss]]  
 **Kingdom:** [[Huma]]  
 **Phylum:** [[Asceptim]]  
 **Class:** [[Sol Unita]]

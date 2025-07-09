@@ -1,8 +1,8 @@
 <!-- wiki-header-section:start -->
 # Spawn of Hidraal
-__
+_Ahdom Few_
 
 
-<img src="wiki_images/.png"><i></i></img>
+<img src="wiki_images/Ahdom Few.png"><i></i></img>
 
 <!-- wiki-header-section:end -->

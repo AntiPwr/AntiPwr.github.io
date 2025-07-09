@@ -123,7 +123,7 @@ This section highlights key historical periods, locations, belief systems, and m
 
 <details open>
 <summary><h3>Toma</h3></summary>
-<img src="wiki_images/Jetti Sound.png"><i>An image of the Jetti Sound, a coastal region of Sancta.</i></img>
+<img src="wiki_images/Jeti Sound.png"><i>An image of the Jeti Sound, a coastal region of Sancta.</i></img>
 
 Toma is the eco, or plane of existence, for this game. Although, I have heard a few popular scientific theories for an "Ecoss" floating around. You will be starting the game in [[Sancta]], Toma's warmer southern continent.
 </details>
@@ -327,11 +327,11 @@ I would list playable races here, but everybody already has their character figu
 _Work in progress..._
 
 <br>
-<a href="Laika Acker.html">Laika Acker (Adrian)</a>
+<a href="Gekido.html">Laika Acker (Adrian)</a>
 <br>
-<a href="Character2.html">Character Name (Ben)</a>
+<a href="Cli'ste Amaratus.html">Character Name (Karly)</a>
 <br>
-<a href="Character3.html">Character Name (Karly)</a>
+<a href="Character3.html">Character Name (Ben)</a>
 
 <details>
 <summary><h3>Campaign Information</h3></summary>
@@ -343,7 +343,35 @@ _Work in progress..._
 <details>
 <summary><h3>World Information</h3></summary>
 
-_Work in progress..._
+## World Information
+
+### Wyldere
+[[Wyldere]]
+
+### The Chain of Delta
+
+[[Chain of Delta]]
+[[Delta]]
+[[Vokar]]
+[[Summons Mountain Range]]
+
+#### Continental Hegemony
+
+### Fuscia Lustin
+[[Fuscia Lustin]]
+[[Chain Triarch]]
+[[Arch]]
+[[Triarch]]
+[[Pax Endema]]
+
+### Tildohsi Partition
+[[Tildohsi Partition]]
+[[Tildohsi]]
+[[Sevfres]] and the [[Clutched Forest]]
+
+### Current Timeline (Line from Few, 505 R.T.)
+- [[Line from Few]]
+- [[Sol Reformation]], [[War of Conclusions]], [[Gyre Shift]], and [[Pax Endema]]
 
 </details>
 

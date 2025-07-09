@@ -1,9 +1,13 @@
 [
   {
-    "file": "Acceptance Band.html",
-    "title": "Acceptance Band",
+    "file": "212 Shift.html",
+    "title": "212 Shift",
     "headings": [
-      "Acceptance Band"
+      "212 Shift",
+      "Background",
+      "The Event",
+      "Aftermath",
+      "Related Wiki Pages"
     ]
   },
   {
@@ -27,20 +31,12 @@
   {
     "file": "Aeradyme.html",
     "title": "Aeradyme",
-    "headings": [
-      "Aeradyme",
-      "Main Section",
-      "Additional Sections",
-      "Images",
-      "Related Wiki Pages"
-    ]
+    "headings": []
   },
   {
     "file": "Agraial Tribelands.html",
     "title": "Agraial Tribelands",
-    "headings": [
-      "Agraial Tribelands"
-    ]
+    "headings": []
   },
   {
     "file": "Agresta Jungle.html",
@@ -103,26 +99,19 @@
   {
     "file": "Ankelore.html",
     "title": "Ankelore",
-    "headings": [
-      "Ankelore",
-      "Main Section",
-      "Additional Sections",
-      "Images",
-      "Related Wiki Pages"
-    ]
+    "headings": []
   },
   {
     "file": "Anosdi.html",
     "title": "Anosdi",
-    "headings": [
-      "Anosdi"
-    ]
+    "headings": []
   },
   {
     "file": "Anthros.html",
     "title": "Anthros",
     "headings": [
       "Anthros",
+      "Belief Systems: Advancism and Primalism",
       "Origins and Diaspora"
     ]
   },
@@ -146,6 +135,7 @@
     "headings": [
       "Aprima",
       "Presence in Scender",
+      "Aprima Beads (Ascension Beads)",
       "Properties and Uses",
       "Related Pages"
     ]
@@ -208,8 +198,13 @@
       "Asath",
       "The Rites of Huma",
       "Religious Leadership and Structure",
+      "Aprima and the Doctrine of Ascension",
+      "Aprima Beads (Ascension Beads)",
+      "Aprima in Sacred Architecture",
+      "Social and Spiritual Significance",
       "Symbolism of Sunlight and Water",
       "Cultural and Religious Impact",
+      "Familials in Asceptim",
       "Related Wiki Pages"
     ]
   },
@@ -225,6 +220,20 @@
     "title": "Automata",
     "headings": [
       "Automata"
+    ]
+  },
+  {
+    "file": "Avan Persevet.html",
+    "title": "Avan Persevet",
+    "headings": [
+      "Avan Persevet",
+      "Early Life and Exile",
+      "The Poisoning of Vokar",
+      "Founding the Tildohsi Partition",
+      "The 212 Shift",
+      "Final Years and Sacrifice",
+      "Legacy",
+      "Related Wiki Pages"
     ]
   },
   {
@@ -244,12 +253,7 @@
   {
     "file": "Basin.html",
     "title": "Basin",
-    "headings": [
-      "Basin",
-      "Additional Sections",
-      "Images",
-      "Related Wiki Pages"
-    ]
+    "headings": []
   },
   {
     "file": "Battle of Agresta.html",
@@ -315,6 +319,19 @@
     ]
   },
   {
+    "file": "Blue Manrotter.html",
+    "title": "Blue Manrotter",
+    "headings": [
+      "Blue Manrotter",
+      "Description",
+      "Life Cycle and Feeding",
+      "Rituals and Bioluminescence",
+      "Hivemind and Mycelial Communication",
+      "Dangers and Folklore",
+      "Related Wiki Pages"
+    ]
+  },
+  {
     "file": "Bluma.html",
     "title": "Bluma",
     "headings": [
@@ -377,6 +394,17 @@
     ]
   },
   {
+    "file": "Celial Spring.html",
+    "title": "Celial Spring",
+    "headings": [
+      "Celial Spring",
+      "Description",
+      "Ecological Role",
+      "Folklore and Dangers",
+      "Related Wiki Pages"
+    ]
+  },
+  {
     "file": "Ceremony of His Eye.html",
     "title": "Ceremony of His Eye",
     "headings": [
@@ -422,10 +450,15 @@
     "file": "Class.html",
     "title": "Class",
     "headings": [
-      "Main Section",
-      "Additional Sections",
-      "Images",
-      "Related Wiki Pages"
+      "Class"
+    ]
+  },
+  {
+    "file": "Cli'ste Amaratus.html",
+    "title": "Cli'ste Amaratus",
+    "headings": [
+      "Cli'ste Amaratus",
+      "Main Section"
     ]
   },
   {
@@ -442,8 +475,10 @@
     "title": "Clutched Forest",
     "headings": [
       "Clutched Forest",
-      "Main Section",
-      "Images",
+      "Ecology and Resources",
+      "Dangers and Inhabitants",
+      "Conflict and Preservation",
+      "Blue Manrotter: Subcelia of the Clutched Forest",
       "Related Wiki Pages"
     ]
   },
@@ -451,7 +486,11 @@
     "file": "Concordia.html",
     "title": "Concordia",
     "headings": [
-      "Concordia"
+      "Concordia",
+      "Geography and Climate",
+      "Natural Environment and Hazards",
+      "Culture and Society",
+      "The Corlin Tree: Heart of Concordia"
     ]
   },
   {
@@ -462,10 +501,16 @@
     ]
   },
   {
-    "file": "Contribution Band.html",
-    "title": "Contribution Band",
+    "file": "Corlin Tree.html",
+    "title": "Corlin Tree",
     "headings": [
-      "Contribution Band"
+      "Corlin Tree",
+      "Nature and Function",
+      "Physical Characteristics",
+      "Historical Significance",
+      "Decline and Conservation",
+      "Reproduction and Growth",
+      "Cultural and Economic Significance"
     ]
   },
   {
@@ -650,6 +695,7 @@
       "Gitbash | NodeJS | mdfilegen.js",
       "Gitbash | Python | md_compiler.py",
       "Gitbash | NodeJS | genWikiJson.js",
+      "Gitbash | NodeJS | generate_wiki_previews.js",
       "Gitbash | NodeJS | generate_wiki_content_index.js",
       "Gitbash | Python | regen_wiki_html.py",
       "Collections",
@@ -717,6 +763,17 @@
     ]
   },
   {
+    "file": "Familial.html",
+    "title": "Familial",
+    "headings": [
+      "Familial",
+      "Main Section",
+      "Familials in Asceptim and under Sol Unita",
+      "Images",
+      "Inspiration"
+    ]
+  },
+  {
     "file": "Family.html",
     "title": "Family",
     "headings": [
@@ -752,11 +809,7 @@
     "file": "Fuscia Lustin.html",
     "title": "Fuscia Lustin",
     "headings": [
-      "Fuscia Lustin",
-      "Main Section",
-      "Additional Sections",
-      "Images",
-      "Related Wiki Pages"
+      "Fuscia Lustin"
     ]
   },
   {
@@ -783,6 +836,14 @@
       "Symbolism and Religious Importance",
       "The Underflow",
       "Related Wiki Pages"
+    ]
+  },
+  {
+    "file": "Gekido.html",
+    "title": "Gekido",
+    "headings": [
+      "Gekido",
+      "Main Section"
     ]
   },
   {
@@ -946,7 +1007,7 @@
       "Hollow Resource",
       "Formation",
       "Types of Hollow Resources",
-      "Importance and Use",
+      "Narrative and Gameplay Impact",
       "See Also"
     ]
   },
@@ -1026,6 +1087,20 @@
     "title": "Imperial Growth",
     "headings": [
       "Imperial Growth"
+    ]
+  },
+  {
+    "file": "Implantation.html",
+    "title": "Implantation",
+    "headings": [
+      "Implantation",
+      "Hollow Resources Overview",
+      "Therium – The Core Implant Material",
+      "Infusions and Magic Items from Other Hollow Resources",
+      "Resource Gathering, Recharge & Risks",
+      "Images",
+      "Related Wiki Pages",
+      "Resource Gathering, Recharge & Risks"
     ]
   },
   {
@@ -1117,6 +1192,19 @@
     ]
   },
   {
+    "file": "Kleznit Advance.html",
+    "title": "Kleznit Advance",
+    "headings": [
+      "Kleznit Advance",
+      "Continental Operations and Military Execution Line",
+      "Imperial Imagery and Attire",
+      "Helmets and Mask Visages",
+      "Grand Officers and Augmented Mask Visages",
+      "Fuscia Lustin’s Distinction",
+      "Related Wiki Pages"
+    ]
+  },
+  {
     "file": "Kro'Tan.html",
     "title": "Kro'Tan",
     "headings": [
@@ -1195,6 +1283,16 @@
     ]
   },
   {
+    "file": "Line.html",
+    "title": "Line",
+    "headings": [
+      "Line",
+      "Definition",
+      "Significance",
+      "Related Concepts"
+    ]
+  },
+  {
     "file": "Lopali.html",
     "title": "Lopali",
     "headings": [
@@ -1220,6 +1318,19 @@
     "title": "Malgasta",
     "headings": [
       "Malgasta"
+    ]
+  },
+  {
+    "file": "Manrotter.html",
+    "title": "Manrotter",
+    "headings": [
+      "Manrotter",
+      "Description",
+      "Life Cycle and Feeding",
+      "Hivemind and Communication",
+      "Rituals and Folklore",
+      "Notable Varieties",
+      "Related Wiki Pages"
     ]
   },
   {
@@ -1449,11 +1560,28 @@
     ]
   },
   {
+    "file": "Pith Mechanic (Artificer Specialty).html",
+    "title": "Pith Mechanic (Artificer Specialty)",
+    "headings": [
+      "Pith Mechanic (Artificer Specialty)",
+      "Subclass Features",
+      "Tool Proficiency (3rd Level)",
+      "Pith Mechanic Spells (3rd Level)",
+      "Soul Bond Implant (3rd Level)",
+      "Empathic Resilience (5th Level)",
+      "Deep Connection (9th Level)",
+      "Commitment (15th Level)",
+      "Integrating Hollow Resources & Therium Implants",
+      "Hollow Resources Overview",
+      "Therium – The Core Implant Material",
+      "Inspiration"
+    ]
+  },
+  {
     "file": "Preacher's Vassal.html",
     "title": "Preacher's Vassal",
     "headings": [
-      "Preacher's Vassal",
-      "Song"
+      "Preacher's Vassal"
     ]
   },
   {
@@ -1497,9 +1625,11 @@
     "headings": [
       "Purpose Taxonomy",
       "Taxonomic Ranks",
-      "Creation and Evolution",
       "Classification Example",
-      "Exception-Branching"
+      "Creation and Evolution",
+      "From Social to Purpose Taxonomy",
+      "Exception-Branching",
+      "Contested Claims"
     ]
   },
   {
@@ -1536,14 +1666,27 @@
     ]
   },
   {
+    "file": "Resonance.html",
+    "title": "Resonance",
+    "headings": [
+      "Resonance",
+      "Scientific and Mystical Study",
+      "Types of Resonance",
+      "Importance in Toman Ecoss",
+      "Polyresonance",
+      "Alwa and Primordials"
+    ]
+  },
+  {
     "file": "Resonant.html",
     "title": "Resonant",
     "headings": [
       "Resonant",
       "Characteristics and Role",
       "Influence and Legacy",
-      "Subresonants",
-      "Related Wiki Pages"
+      "Known Resonant Subkingdoms",
+      "Polyresonance",
+      "Notable Polyresonant Creatures"
     ]
   },
   {
@@ -1622,6 +1765,20 @@
     "title": "Ritual Ash",
     "headings": [
       "Ritual Ash"
+    ]
+  },
+  {
+    "file": "Sable.html",
+    "title": "Sable",
+    "headings": [
+      "Sable",
+      "Geography and Environment",
+      "Southern Sable: Fjords and Cliffs",
+      "Northern Sable (Sabelis): Tundra and Autumnal Woods",
+      "The Summons Mountain Range",
+      "Climate and Seasons",
+      "Culture and Settlement",
+      "See Also"
     ]
   },
   {
@@ -1715,6 +1872,8 @@
       "The Rites of Huma and Governance",
       "Rites of Huma",
       "Phylum Center: Asath Sanctuary",
+      "Establishment of Scender",
+      "Familials in Scender",
       "Related Wiki Pages"
     ]
   },
@@ -1761,6 +1920,8 @@
       "Severance",
       "Examples of Severance",
       "Significance",
+      "Self-Severance",
+      "Soul-Severance",
       "Related Wiki Pages"
     ]
   },
@@ -1874,6 +2035,7 @@
     "file": "Sol Unita.html",
     "title": "Sol Unita",
     "headings": [
+      "Familials in Sol Unita",
       "Sol Unita",
       "Governance and the Royal Sancts",
       "Economy and the Sunstream",
@@ -2002,17 +2164,10 @@
     ]
   },
   {
-    "file": "Tayiman.html",
-    "title": "Tayiman",
+    "file": "Tekyume.html",
+    "title": "Tekyume",
     "headings": [
-      "Tayiman"
-    ]
-  },
-  {
-    "file": "Technohumanism.html",
-    "title": "Technohumanism",
-    "headings": [
-      "Technohumanism"
+      "Tekyume"
     ]
   },
   {
@@ -2173,10 +2328,10 @@
     ]
   },
   {
-    "file": "Vankner.html",
-    "title": "Vankner",
+    "file": "Vankner Nu.html",
+    "title": "Vankner Nu",
     "headings": [
-      "Vankner"
+      "Vankner Nu"
     ]
   },
   {
@@ -2187,6 +2342,20 @@
       "Additional Sections",
       "Images",
       "Related Wiki Pages"
+    ]
+  },
+  {
+    "file": "Vokar.html",
+    "title": "Vokar",
+    "headings": [
+      "Vokar",
+      "Geography and Environment",
+      "The Chain of Delta (Southern Vokar)",
+      "Central and Northern Vokar: Foothills and Highlands",
+      "The Summons Mountain Range",
+      "Climate and Seasons",
+      "Culture and Settlement",
+      "See Also"
     ]
   },
   {
@@ -2211,7 +2380,14 @@
     "file": "Whisper of the Well Information.html",
     "title": "Campaign 1: Whispers of the Well",
     "headings": [
-      "Campaign 1: Whispers of the Well"
+      "Campaign 1: Whispers of the Well",
+      "World Information",
+      "Wyldere",
+      "The Chain of Delta",
+      "Continental Hegemony",
+      "Fuscia Lustin",
+      "Tildohsi Partition",
+      "Current Timeline (Line from Few, 505 R.T.)"
     ]
   },
   {
@@ -2249,7 +2425,8 @@
     "file": "Wyldere.html",
     "title": "Wyldere",
     "headings": [
-      "Wyldere"
+      "Wyldere",
+      "Populations of Wyldere"
     ]
   },
   {
@@ -2296,6 +2473,7 @@
     "title": "Zothros",
     "headings": [
       "Zothros",
+      "Belief Systems: Primalism and Advancism",
       "Origins and Diaspora"
     ]
   }

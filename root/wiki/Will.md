@@ -12,6 +12,7 @@ _Also known as WIL, Mental Reserve, or Spirit Pool_
 
 <!-- wiki-header-section:end -->
 
+<!-- taxonomy-table-section:start -->
 <div class="taxonomy-table">
   <table>
     <tr>
@@ -31,6 +32,7 @@ _Also known as WIL, Mental Reserve, or Spirit Pool_
     </tr>
   </table>
 </div>
+<!-- taxonomy-table-section:end -->
 
 Will (**WIL**) is a system representing a creature's intangible reserve of self-determination, mental fortitude, and spiritual vitality. It shields a character's identity from external corruption—such as psychic parasites, hive-minds, and manipulation—by acting as a mental health pool that protects against permanent belief changes, mindlessness, or ideological subversion.
 

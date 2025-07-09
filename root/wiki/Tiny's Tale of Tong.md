@@ -1,5 +1,6 @@
 <!-- wiki-header-section:start -->
 # Tiny's Tale of Tong
+<!--
 _The Beetle and the Halfling, A Cilladril Folk Story_
 
 <img src="wiki_images/Tiny's Tale of Tong.png"><i>Tong the dung beetle rolling a shining ball of waste through Cilladril, with Tiny riding atop</i></img>
@@ -10,7 +11,7 @@ _The Beetle and the Halfling, A Cilladril Folk Story_
 
 
 <!-- wiki-header-section:end -->
-
+<!--
 **Bin:** [[Scape]]
 **Basin:** [[Sacrus]]
 **Eco:** [[Toma]] (South [[Usaka]], [[Hypri's Fall]]) of [[Toman Ecoss]]

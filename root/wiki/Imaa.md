@@ -1,5 +1,8 @@
 <!-- wiki-header-section:start -->
 # Imaa
+_Endgame, Eschlud ([[Asceptim]]), [[The Leveling|the Leveling]] ([[Cask Sistema]])_
+
+**Imaa** is a [[Godan]] term meaning "endgame," describing the state of extremism a plane experiences as it nears its ultimate conclusion. This period is a universal indicator of the impending death or transformation of a plane, akin to the conclusion of a [[Bin]] or a [[Holoscape|Hollow Purpose]].
 
 <!-- wiki-header-section:end -->
 
@@ -21,8 +24,7 @@
 </div>
 <!-- taxonomy-table-section:end -->
 
-<!--
-**Imaa** is a [[Godan]] term meaning "endgame," describing the state of extremism a plane experiences as it nears its ultimate conclusion. This period is a universal indicator of the impending death or transformation of a plane, akin to the conclusion of a [[Bin]] or a [[Holoscape|Hollow Purpose]].
+
 
 <!-- ## Characteristics of Imaa as a Planar Event
 Imaa marks the point where a plane undergoes significant changes as it approaches its end. This transformation is often accompanied by heightened activity, conflicts, or natural phenomena that reflect the plane's inherent themes and challenges. During Imaa, the forces within a plane reach their peak, pushing the boundaries of stability. This extremism can manifest as intensified weather, increased magical activity, or dramatic shifts in the ecosystem. Ultimately, Imaa is the culmination of forces and entities within the plane, leading to a climax that drives the plane toward its resolution and highlights its core dynamics and conflicts.
@@ -35,4 +37,13 @@ Imaa acts as a clear sign of an impending shift within the Omnis, signaling that
 
 - [[Soul Imaa]]: Imaa can also apply to souls, indicating a state of extremism and transformation in a soul's journey.
 - [[Holoscape|Hollow Purpose]]: Imaa is similar to the Holoscape, which marks the death or transformation of a bin within the Scape.
+
+
+
+
+
+
+
+
+Eschatology
 -->

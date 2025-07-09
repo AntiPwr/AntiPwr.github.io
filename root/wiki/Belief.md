@@ -5,7 +5,6 @@ In the [[Toman Ecoss]], belief is not just a concept; it is a perceivable force 
 
 <!-- wiki-header-section:end -->
 
-**Eco:** [[Toman Ecoss]]
 
 
 ### Understanding Belief

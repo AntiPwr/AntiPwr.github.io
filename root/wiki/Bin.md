@@ -1,9 +1,8 @@
 <!-- wiki-header-section:start -->
+
 # Bin
 
-<img src="wiki_images/Bin.png"><i></i></img>
 
-In [[Purpose Taxonomy]], the universe's creation is a cyclical process involving two primary entities known as the [[nth Creator]] and the [[1st Creator]]. These [[Creator|Creators]] alternate in shaping the universe, taking turns to construct and influence the cosmos through distinct methodologies based on the [[Mk. the Soul Engine|Soul Engine's]] current [[Question]] and directional flow of [[Time]]. The Question determines the universe's direction and focus, deciding whether the lateral or linear approach will be more effective in achieving cosmic goals. In this context, "linear" refers to an individualistic, microcosmic, and sequential approach, while "lateral" refers to a collectivist, macrocosmic, and holistic approach to achieving a perfect universe. This means that in another Question, the two minds could not be based on linearity or laterality, but rather some other fundamental question.
 
 <!-- wiki-header-section:end -->
 
@@ -21,6 +20,12 @@ In [[Purpose Taxonomy]], the universe's creation is a cyclical process involving
 </div>
 <!-- taxonomy-table-section:end -->
 
+<!-- not-for-live-publishing:start -->
+<!--
+
+<img src="wiki_images/Bin.png"><i></i></img>
+
+In [[Purpose Taxonomy]], the universe's creation is a cyclical process involving two primary entities known as the [[nth Creator]] and the [[1st Creator]]. These [[Creator|Creators]] alternate in shaping the universe, taking turns to construct and influence the cosmos through distinct methodologies based on the [[Mk. the Soul Engine|Soul Engine's]] current [[Question]] and directional flow of [[Time]]. The Question determines the universe's direction and focus, deciding whether the lateral or linear approach will be more effective in achieving cosmic goals. In this context, "linear" refers to an individualistic, microcosmic, and sequential approach, while "lateral" refers to a collectivist, macrocosmic, and holistic approach to achieving a perfect universe. This means that in another Question, the two minds could not be based on linearity or laterality, but rather some other fundamental question.
 
 ## Alternating Creation
 
@@ -52,6 +57,9 @@ The transition between Bin 0 and Bin 1 relies on souls as a renewable resource. 
 ### Crea's Role
 
 **[[Crea]]** serves as the driving force facilitating growth and decay, enabling the seamless flow of energy and belief systems across different universes. Crea ensures that dynamic processes within the universe are sustained, allowing for continuous evolution and renewal.
+-->
+<!-- not-for-live-publishing:end -->
+
 
 
 

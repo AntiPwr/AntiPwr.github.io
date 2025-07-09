@@ -1,9 +1,7 @@
 <!-- wiki-header-section:start -->
 # Toman Ecoss
 
-<img src="wiki_images/Toman Ecoss.png"></img>
-
-**Toman Ecoss** encompasses all planes of creation by [[Zlellis and O'numeume]], forming a complex and interconnected web of existence within the [[Sacrus]] Basin. The Ecoss includes the [[In-between]], a fabric of the universe that allows for further creation and expansion of planes from Toma's origin. It is the central cosmological structure of the setting, containing the main plane of [[Toma]], the spiritual [[Soul Fields]], and a variety of Imaan Planes, each with unique influences and roles.
+The **Toman Ecoss** encompasses all planes of creation connected to the mother plane of Toma.<!-- by [[Zlellis and O'nume]], forming a complex and interconnected web of existence within the [[Sacrus]] Basin. The Ecoss includes the [[In-between]], a fabric of the universe that allows for further creation and expansion of planes from Toma's origin. It is the central cosmological structure of the setting, containing the main plane of [[Toma]], the spiritual [[Soul Fields]], and a variety of Imaan Planes, each with unique influences and roles.-->
 <!-- wiki-header-section:end -->
 
 <!-- taxonomy-table-section:start -->

@@ -35,7 +35,7 @@ Notable for her guarded nature and strategic brilliance, Lady Athen is distingui
     </tr>
     <tr>
       <td class="taxon-label"><img src="svg/phylum.svg" class="taxon-icon">Phylum:</td>
-      <td class="taxon-content" colspan="2">[[Subjectivism]]</td>
+      <td class="taxon-content" colspan="2">[[Subjectivism]]<!--Leredith--></td>
     </tr>
     <tr>
       <td class="taxon-label"><img src="svg/class.svg" class="taxon-icon">Class:</td>

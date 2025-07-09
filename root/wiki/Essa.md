@@ -1,8 +1,8 @@
 <!-- wiki-header-section:start -->
 # Essa
-_Essence, Soul's Purpose, Individual Destiny_
+_Soul's Purpose_
 
-<img src="wiki_images/Essa.png"><i>Visualization of an Essa's unique resonance within the Scape.</i></img>
+<img src="wiki_images/Essa.png"><i></i></img>
 
 > _"The essence of a thing is what it is said to be in respect of itself"_  
 > **—Aristotle**
@@ -38,15 +38,15 @@ The **Essa** is the final and most personal quantized taxon in [[Purpose Taxonom
       <td class="taxon-content" colspan="2">N/A</td>
     </tr>
     <tr>
-      <td class="taxon-label"><img src="../svg/class.svg" class="taxon-icon">class:</td>
+      <td class="taxon-label"><img src="../svg/class.svg" class="taxon-icon">Class:</td>
       <td class="taxon-content" colspan="2">N/A</td>
     </tr>
     <tr>
-      <td class="taxon-label"><img src="../svg/order.svg" class="taxon-icon">order:</td>
+      <td class="taxon-label"><img src="../svg/order.svg" class="taxon-icon">Order:</td>
       <td class="taxon-content" colspan="2">N/A</td>
     </tr>
     <tr>
-      <td class="taxon-label"><img src="../svg/family.svg" class="taxon-icon">family:</td>
+      <td class="taxon-label"><img src="../svg/family.svg" class="taxon-icon">Family:</td>
       <td class="taxon-content" colspan="2">N/A</td>
     </tr>
     <tr>

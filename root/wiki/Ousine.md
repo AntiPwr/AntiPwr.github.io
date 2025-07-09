@@ -1,7 +1,7 @@
 <!-- wiki-header-section:start -->
 # Ousine
 
-<img src="wiki_images/Ousine.png"><i></i></img>
+<img src="wiki_images/Ousine 3.png"><i>Beneath the shattered archways of a forgotten ruin, a young ousine child and owlbear cub sleep under the protection of their mother.</i></img>
 
 The **Ousine** is a homebrew D&D 5e race that blends the keen senses and silent flight of the owl with the formidable strength and presence of the bear, shaped by the essence of [[Huma]]. Each Ousine is either an [[Anthros]]—upright and intelligent, but still largely animal in nature—or a [[Zothros]]—mostly Huma, but evolving toward a more feral, animalistic form. On average, Anthros are bipedal and display more cultural adaptability, though some may move on all fours or exhibit more animalistic behaviors. Zothros, conversely, are more often quadrupedal and instinct-driven, but many can walk upright and possess a strong sense of self and society. Whether stalking the night on silent wings or standing as guardians of the wild, Ousine embody the balance between wisdom, ferocity, and the mysteries of the natural world.
 
@@ -63,5 +63,7 @@ Choose one when you build your character:
   Gain proficiency in one tool or one skill of your choice and learn one additional language of your choice.
 - **Zothros (Ferra-leaning):**  
   You have advantage on all Wisdom (Perception) checks relying on hearing or smell.
+
+
 
 

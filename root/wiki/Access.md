@@ -1,10 +1,7 @@
 <!-- wiki-header-section:start -->
 # Access
 
-<img src="wiki_images/Access.png"><i></i></img>
-
-
-The **Access** is the saltwater river that flows from [[Southcatch]] Bay into [[Scender|Scender Proper]], piercing through [[Contribution Band]], [[Acceptance Band]], and [[Ascension Band]] before dropping off into the underside of [[Cless]]. Here, the flow of water, pushed by the [[World Gyre|World Gyre's]] currents, falls deep into the darkness of [[Endem]].
+The **Access** is the saltwater river that flows from [[Southcatch]] Bay into [[Scender|Scender Proper]], piercing through [[Scender#Contribution Band]], [[Scender#Acceptance Band]], and [[Scender#Ascension Band]] before dropping off into the underside of [[Cless]]. Here, the flow of water, pushed by the [[World Gyre|World Gyre's]] currents, falls deep into the darkness of [[Endem]].
 <!-- wiki-header-section:end -->
 
 <!-- taxonomy-table-section:start -->
@@ -23,7 +20,7 @@ The **Access** is the saltwater river that flows from [[Southcatch]] Bay into [[
     </tr>
     <tr>
       <td class="taxon-label"><img src="svg/eco.svg" class="taxon-icon">Eco:</td>
-      <td class="taxon-content" colspan="2">[[Toma]] ([[Jetti Sound]] and [[Nesil Grassland]], [[Sancta]]) of [[Toman Ecoss]]</td>
+      <td class="taxon-content" colspan="2">[[Toma]] ([[Jeti Sound]] and [[Nesil Grassland]], [[Sancta]]) of [[Toman Ecoss]]</td>
     </tr>
     <tr>
       <td class="taxon-label"><img src="svg/kingdom.svg" class="taxon-icon">Kingdom:</td>

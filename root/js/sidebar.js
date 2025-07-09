@@ -5,6 +5,12 @@ document.addEventListener('DOMContentLoaded', () => {
     const DEFAULT_WIDTH = 260;
     const MAX_WIDTH = 500;
 
+    // Remove top-of-sidebar favorite icon (star) if present
+    const oldFav = sidebar.querySelector('.sidebar-favorite-btn');
+    if (oldFav && oldFav.parentElement === sidebar) {
+        sidebar.removeChild(oldFav);
+    }
+
     sidebar.classList.remove('sidebar-open');
     body.classList.remove('sidebar-open');
     document.documentElement.style.setProperty('--sidebar-width', `${DEFAULT_WIDTH}px`);
@@ -117,25 +123,13 @@ document.addEventListener('DOMContentLoaded', () => {
             return root;
         }
         const tree = buildTree(headings);
-        function renderTree(nodes, parentUl) {
+        // Render all headings/subheadings as flat list, each on a new line
+        function renderFlatList(nodes, parentUl) {
             nodes.forEach(node => {
                 const li = document.createElement('li');
                 li.className = 'toc-level-' + node.level;
                 const row = document.createElement('div');
                 row.className = 'toc-row';
-                const arrow = document.createElement('span');
-                arrow.className = 'toc-arrow';
-                if (node.children.length) {
-                    arrow.innerHTML = '▸';
-                    arrow.addEventListener('click', e => {
-                        e.stopPropagation();
-                        li.classList.toggle('collapsed');
-                        arrow.innerHTML = li.classList.contains('collapsed') ? '▸' : '▾';
-                    });
-                } else {
-                    arrow.innerHTML = '';
-                }
-                row.appendChild(arrow);
                 const a = document.createElement('a');
                 a.href = '#' + node.id;
                 a.innerHTML = node.text;
@@ -143,45 +137,55 @@ document.addEventListener('DOMContentLoaded', () => {
                     e.preventDefault();
                     const target = document.getElementById(node.id);
                     if (target) {
-                        // Calculate offset (navbar height)
                         const navbar = document.querySelector('.navbar');
                         let offset = 0;
-                        if (navbar) {
-                            // Use navbar's height (including margins)
-                            offset = navbar.getBoundingClientRect().height;
-                        }
-                        // Get element's position relative to the document
+                        if (navbar) offset = navbar.getBoundingClientRect().height;
                         const rect = target.getBoundingClientRect();
                         const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
-                        // Scroll to the element minus the offset
                         window.scrollTo({
-                            top: rect.top + scrollTop - offset - 8, // -8 for a little extra space
+                            top: rect.top + scrollTop - offset - 8,
                             behavior: 'smooth'
                         });
                     }
                     setPinnedSection(node.id);
                 });
                 row.appendChild(a);
+                // Pin button
                 const pinBtn = document.createElement('button');
-                pinBtn.className = 'toc-pin-btn';
-                pinBtn.title = 'Pin section';
-                pinBtn.textContent = isPinnedSection(node.id) ? '★' : '☆';
+                pinBtn.className = 'toc-pin-btn sidebar-favorite-btn';
+                pinBtn.title = isPinnedSection(node.id) ? 'Unpin' : 'Pin';
+                pinBtn.innerHTML = isPinnedSection(node.id)
+                    ? '<span class="adv-icon">&#9733;</span>'
+                    : '<span class="adv-icon">&#9734;</span>';
                 pinBtn.addEventListener('click', evt => {
                     evt.stopPropagation();
                     togglePinSection(node.id, node.text);
-                    pinBtn.textContent = isPinnedSection(node.id) ? '★' : '☆';
+                    pinBtn.innerHTML = isPinnedSection(node.id)
+                        ? '<span class="adv-icon">&#9733;</span>'
+                        : '<span class="adv-icon">&#9734;</span>';
+                    pinBtn.title = isPinnedSection(node.id) ? 'Unpin' : 'Pin';
                 });
                 row.appendChild(pinBtn);
                 li.appendChild(row);
-                if (node.children.length) {
-                    const ul = document.createElement('ul');
-                    renderTree(node.children, ul);
-                    li.appendChild(ul);
-                }
                 parentUl.appendChild(li);
+                // Recursively render children as flat list
+                if (node.children.length) renderFlatList(node.children, parentUl);
             });
         }
-        renderTree(tree, sidebarLinks);
+        renderFlatList(tree, sidebarLinks);
+        // Adjust sidebar width to fit longest heading/subheading
+        setTimeout(() => {
+            let maxWidth = 0;
+            sidebarLinks.querySelectorAll('a').forEach(a => {
+                const width = a.offsetWidth;
+                if (width > maxWidth) maxWidth = width;
+            });
+            // Add some padding for pin/star buttons
+            maxWidth += 60;
+            const width = Math.min(Math.max(maxWidth, DEFAULT_WIDTH), MAX_WIDTH);
+            sidebar.style.width = width + 'px';
+            document.documentElement.style.setProperty('--sidebar-width', `${width}px`);
+        }, 100);
         window.addEventListener('scroll', () => {
             let currentId = null;
             for (const h of headings) {
@@ -241,7 +245,7 @@ document.addEventListener('DOMContentLoaded', () => {
             li.appendChild(a);
             const unpin = document.createElement('button');
             unpin.className = 'toc-pin-btn';
-            unpin.textContent = '★';
+            unpin.textContent = '';
             unpin.title = 'Unpin';
             unpin.addEventListener('click', evt => {
                 evt.stopPropagation();

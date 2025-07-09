@@ -1,10 +1,4 @@
-<!--
-# Basin
-_Add nicknames or alternative titles here_
-
-<img src="wiki_images/Basin.png"><i></i></img>
--->
-
+<!-- taxonomy-table-section:start -->
 <div class="taxonomy-table">
   <table>
     <tr>
@@ -12,56 +6,13 @@ _Add nicknames or alternative titles here_
     </tr>
     <tr>
       <td class="taxon-label"><img src="../svg/bin.svg" class="taxon-icon">Bin:</td>
-      <td class="taxon-content" colspan="2">[[Scape]]</td>
+      <td class="taxon-content" colspan="2"><b>Bin</b></td>
     </tr>
     <tr>
       <td class="taxon-label"><img src="../svg/basin.svg" class="taxon-icon">Basin:</td>
-      <td class="taxon-content" colspan="2">[[Sacrus]]</td>
+      <td class="taxon-content" colspan="2"><b>Basin</b></td>
     </tr>
-    <tr>
-      <td class="taxon-label"><img src="../svg/eco.svg" class="taxon-icon">Eco:</td>
-      <td class="taxon-content" colspan="2">[[Toma]] of [[Toman Ecoss]]</td>
-    </tr>
-    <tr>
-      <td class="taxon-label"><img src="../svg/kingdom.svg" class="taxon-icon">Kingdom:</td>
-      <td class="taxon-content" colspan="2"></td>
-    </tr>
-    <tr>
-      <td class="taxon-label"><img src="../svg/phylum.svg" class="taxon-icon">Phylum:</td>
-      <td class="taxon-content" colspan="2"></td>
-    </tr>
-    <tr>
-      <td class="taxon-label"><img src="../svg/class.svg" class="taxon-icon">Class:</td>
-      <td class="taxon-content" colspan="2"></td>
-    </tr>
-    <tr>
-      <td class="taxon-label"><img src="../svg/order.svg" class="taxon-icon">Order:</td>
-      <td class="taxon-content" colspan="2"></td>
-    </tr>
+    
   </table>
 </div>
-<!--
-Write an introductory paragraph about Basin here. Summarize what the subject is and its significance within the world.
-
-<!--## Main Section
-
-Write detailed content about Basin here, organized into appropriate sections.
-
-<div class="feathermark">
-    <p class="feathermark-attribution">Corvi's Feathermark</p>
-    
-</div>
-
-## Additional Sections
-
-Continue with more sections as needed.
-
-## Images
-
-<img src="wiki_images/Basin_detail.png"><i>Caption describing a detailed aspect of Basin</i></img>
-
-## Related Wiki Pages
-
-- [[Related Page 1]]
-- [[Related Page 2]]
-- [[Related Page 3]]
+<!-- taxonomy-table-section:end -->

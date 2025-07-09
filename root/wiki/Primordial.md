@@ -1,14 +1,35 @@
 <!-- wiki-header-section:start -->
 # Primordial
 
-
-
-Primordials are ancient, colossal creatures of immense power, representing an intense interkingdom relationship through [[Resonance#Polyresonance|polyresonance]].
+Primordials are ancient, colossal creatures of immense power, representing an intense interkingdom relationship through [[Resonance#Polyresonance|polyresonance]]. Primordials are a [[Ferran]] evolutionary response to the rise of [[Alwa]], specifically due to the fact that the source of [[Ferra]]'s food source was [[Bluma]], and the growth of [[Gaia]] did not leave space for all [[Ferra]]. Thus, the [[Ferra]]ns who did not give in to [[Alwa]]'s dominance forged a faith called [[Gludestit]] under the great three-headed hydra [[Hidraal]]'s guidance. To the [[Ferra]]ns who did give in to Alwa's dominance, some were given refuge in Gaia's grace.
 
 <!-- wiki-header-section:end -->
 
-**Eco:** [[Toma]] of [[Toman Ecoss]]  <br>
-**Kingdom:** [[Resonant]] (**Primordial**)   <br>
+<!-- taxonomy-table-section:start -->
+<div class="taxonomy-table">
+  <table>
+    <tr>
+      <th colspan="3">Purpose Taxonomy</th>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="svg/bin.svg" class="taxon-icon">Bin:</td>
+      <td class="taxon-content" colspan="2">[[Scape]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="svg/basin.svg" class="taxon-icon">Basin:</td>
+      <td class="taxon-content" colspan="2">[[Sacrus]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="svg/eco.svg" class="taxon-icon">Eco:</td>
+      <td class="taxon-content" colspan="2">[[Toma]] of [[Toman Ecoss]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="svg/kingdom.svg" class="taxon-icon">Kingdom:</td>
+      <td class="taxon-content" colspan="2"><strong>Primordial</strong> ([[Ferra]] [[Resonance#Polyresonance|Polyresonant]])</td>
+    </tr>
+  </table>
+</div>
+<!-- taxonomy-table-section:end -->
 
 ### Characteristics
 

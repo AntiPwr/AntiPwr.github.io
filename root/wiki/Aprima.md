@@ -1,8 +1,6 @@
 <!-- wiki-header-section:start -->
 # Aprima
 
-<img src="wiki_images/Aprima.png"><i>Aprima, the luminous white hollow resource, revered in Sol Unita for its purity and spiritual significance.</i></img>
-
 Aprima is the purest form of [[Primma]], a rare and highly revered [[Hollow Resource]] believed to be derived from the remains of the [[Primordial]], [[Alwa]]. It is distinguished by its brilliant white color. In [[Sol Unita]], aprima is regarded as the most sacred building material, used almost exclusively for religious and governmental structures, reinforcing its significance as a representation of divine connection.
 <!-- wiki-header-section:end -->
 
@@ -28,10 +26,6 @@ Aprima is the purest form of [[Primma]], a rare and highly revered [[Hollow Reso
       <td class="taxon-label"><img src="svg/kingdom.svg" class="taxon-icon">Kingdom:</td>
       <td class="taxon-content" colspan="2">[[Primordial]] ([[Celia]], [[Huma]], [[Natura]], [[Bluma]], [[Spira]])</td>
     </tr>
-    <tr>
-      <td class="taxon-label"><img src="svg/resource_icon.png" class="taxon-icon">Resource:</td>
-      <td class="taxon-content" colspan="2">[[Hollow Resource]], [[Primma]] ([[Aprima]])</td>
-    </tr>
   </table>
 </div>
 <!-- taxonomy-table-section:end -->
@@ -47,6 +41,17 @@ Some of the most prominent aprima-based structures include:
 - Various temples, shrines, and public altars throughout **Scender Proper**
 
 Despite its presence in the city, aprima is strictly regulated, with only **designated religious and governmental authorities** permitted to work with or distribute it.
+
+
+## Aprima Beads (Ascension Beads)
+
+Among the most coveted forms of aprima are the small, pure white **Ascension Beads**. These beads hold immense religious significance for followers of [[Asceptim]], especially under the doctrine propagated by Ophelia Necesse during her reign over Sancta and her guidance of Sol Unita’s religious and educational institutions. According to Asceptim’s teachings, possession of an ascension bead is a sacred requirement for collective ascension—a belief that, upon death or at the time of the prophesied ascension, only those who carry a bead will join their fellow faithful in [[Sol Proscima]].
+
+While not all sects or individuals believe in collective ascension, Asceptim’s influence has made the pursuit of an ascension bead a near-universal aspiration among the devout. Countless followers strive to obtain one, often regarding it as the most cherished of all religious trinkets. The beads’ importance is reinforced through scripture and oral storytelling, and they are worn with pride alongside other sacred garb. To be without an ascension bead is, in the eyes of many, to risk spiritual isolation from the community in the afterlife.
+
+These beads are typically bestowed during rites, major religious ceremonies, or as recognition of service to the faith. Their luminous purity and the difficulty of acquiring genuine aprima make them both a symbol of personal devotion and a tangible link to the promise of ascension.
+
+The purity of an individual's aprima bead is often viewed—sometimes unconsciously—as a sign of religious or spiritual prominence within Asceptim society. While this was never intended as a formal system of social hierarchy, over time it became embedded in the culture, with the most flawless beads quietly associated with higher status or deeper devotion. This subtle distinction frequently sparks gossip and conversation among the faithful, fueling both admiration and envy in equal measure.
 
 ## Properties and Uses
 

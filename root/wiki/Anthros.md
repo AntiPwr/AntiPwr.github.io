@@ -1,3 +1,4 @@
+
 <!-- wiki-header-section:start -->
 # Anthros
 
@@ -30,6 +31,16 @@
   </table>
 </div>
 <!-- taxonomy-table-section:end -->
+
+## Belief Systems: Advancism and Primalism
+
+Anthros are most commonly associated with the belief system of [[Advancism]], which emerged from the resonance between Huma and Ferra. Advancism emphasizes technological and societal advancement, innovation, and the use of tools. Anthros, having evolved to possess more Huma-like traits, tend to value intellect, learning, and collective progress, often forming complex social structures and hierarchies. While they may still respect their animal origins, Anthros prioritize growth, mastery, and the transformation of their environment to suit their needs.
+
+However, not all Anthros are strictly advancist. Some, especially those with stronger ties to their Ferra ancestry, may lean toward [[Primalism]], valuing tradition, instinct, and harmony with nature. This creates a spectrum of beliefs within Anthros society, with many individuals and communities blending aspects of both Advancism and Primalism depending on their evolutionary journey and environment.
+
+Advancist Anthros are often found in cosmopolitan societies, acting as inventors, leaders, and cultural mediators. Primalist-leaning Anthros may serve as guardians of tradition, spiritual guides, or experts in survival and adaptation. The interplay between these belief systems shapes the diversity and adaptability of Anthros across Toma.
+
+
 
 ## Origins and Diaspora
 

@@ -2,8 +2,6 @@
 # Ahdom Few
 _Essnt Triarchy_
 
-<img src="wiki_images/Ahdom_Few.png"><i>The three sisters of Hypri, each bonded to a primordial drake, preside over the city from their respective domains.</i></img>
-
 The **Ahdom Few** are the ruling triarchy of [[Hypri]], composed of three powerful [[Essnt]] sisters, each bonded to a primordial drake. Together, they govern the city-state, balancing their distinct domains and magical specializations.
 
 <!-- wiki-header-section:end -->

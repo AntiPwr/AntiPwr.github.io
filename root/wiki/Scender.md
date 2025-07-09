@@ -4,9 +4,11 @@ _Catch, Big Ripple, Rip_
 
 <img src="wiki_images/Scender.png"><i></i></img>
 
-> _"Faith, science, and kingdom liberty ripple outward, but all will return to the center on the final day."_  
+> _"Faith, science, and kingdom liberty ripple outward, but all will return to the center on the day most significant."_  
 > **—Ophelia Necesse**
 
+
+Scender is the capital city of [[Sol Unita]], a place where faith, science, and kingdom liberty are deeply intertwined. With a population of approximately 840,000 [[Huma]]-resonance, the city’s concentric layout is built in a ripple pattern, symbolizing the spiritual journey of its people—rising from the material world to enlightenment. Each ring of Scender serves a distinct function, shaping the daily lives of its inhabitants.
 <!-- wiki-header-section:end -->
 
 <!-- taxonomy-table-section:start -->
@@ -25,7 +27,7 @@ _Catch, Big Ripple, Rip_
     </tr>
     <tr>
       <td class="taxon-label"><img src="../svg/eco.svg" class="taxon-icon">Eco:</td>
-      <td class="taxon-content" colspan="2">[[Toma]] ([[Sancta]], [[Jetti Sound]] and [[Nesil Grassland]]) of [[Toman Ecoss]]</td>
+      <td class="taxon-content" colspan="2">[[Toma]] ([[Sancta]], [[Jeti Sound]] and [[Nesil Grassland]]) of [[Toman Ecoss]]</td>
     </tr>
     <tr>
       <td class="taxon-label"><img src="../svg/kingdom.svg" class="taxon-icon">Kingdom:</td>
@@ -47,7 +49,6 @@ _Catch, Big Ripple, Rip_
 </div>
 <!-- taxonomy-table-section:end -->
 
-Scender is the capital city of [[Sol Unita]], a place where faith, science, and kingdom liberty are deeply intertwined. With a population of approximately 840,000 [[Huma]]-resonance, the city’s concentric layout is built in a ripple pattern, symbolizing the spiritual journey of its people—rising from the material world to enlightenment. Each ring of Scender serves a distinct function, shaping the daily lives of its inhabitants.
 
 ## Geography and Structure
 
@@ -57,14 +58,13 @@ Scender’s design aims to blend with the natural hilly terrain of Scender Prope
 
 Scender is organized into three concentric bands, each with distinct roles and character:
 
-- **Ascension Band**: The innermost ring of the city, encompassing the central districts around the [[Solscept]]. This area contains the majority of Sunstream-funded monopolistic businesses, government buildings, courts, and administrative centers. It is the political and economic heart of Scender, where the city's most influential institutions and enterprises are concentrated.
+- **Ascension Band**: The innermost ring of the city, encompassing the central districts around [[Solscept]]. This area contains the majority of Sunstream-funded monopolistic businesses, government buildings, courts, and administrative centers. It is the political and economic heart of Scender, where the city's most influential institutions and enterprises are concentrated.
 
 - **Acceptance Band**: The middle ring of Scender, which includes the peaks of each major hill (Cless, Plume, and Riees) as well as the troughs and valleys between them. This band serves as a transitional zone, blending residential, educational, and commercial spaces. It is home to important research facilities, schools, and communal gathering places, and acts as a bridge between the city's core and its outer neighborhoods.
 
 - **Contribution Band**: The outermost ring, bordering the Great Ripple Wall that surrounds all of Scender. Contribution Band is characterized by its proximity to the city's boundaries and includes both areas inside the wall and some that extend beyond it. This band is where much of the city's production, trade, and external interaction occurs, with markets, workshops, and entry points for goods and people. It serves as the first point of contact for newcomers and is vital to Scender's ongoing growth and connection to the wider world.
 
 Naval defenses of Scender operate beneath Cless, as the Access flows into [[Endem]] through a subterranean break, forming the Egress Waterfall. The [[Swirling Sea]] drives water inland toward [[Sancta]], creating a fast-moving current that naturally filters through the city. [[Ferra]], [[Bluma]], and [[Natura]] symbiotically aid citizens, contributing to infrastructure, education, policing, and agriculture.
-
 
 #### Cless Hill
 _Hill of Light_
@@ -81,8 +81,6 @@ _Hill of Growth_
 Monasteries, galleries, and amphitheaters are scattered across the hill, with open-air spaces designed for collaborative discussion and artistic showcases. Many who reside here live in communal residences, dedicated to creative and academic pursuits rather than commercial enterprise.
 
 Plume Hill represents the evolving nature of Asceptim faith, where interpretations of the Rites of Huma are debated and reinterpreted. It is home to independent sects, alternative spiritual movements, and those who challenge conventional doctrine.
-
-  
 
 #### Riees Hill
 _Hill of Water_
@@ -140,7 +138,21 @@ The [[Rites of Huma]] are sacred doctrines that define Scender’s political, re
 
 The [[Asath Sanctuary]] is the largest place of worship dedicated to [[Asath]], located on the island of [[Gaudis]] in [[Southcatch]]. It serves as a central site for religious practice, conversion, and the study of Asceptim theology. Its **Chamber of Light** refracts and concentrates sunlight, creating an immersive space for personal reflection and faith-based ceremonies.
 
+<!-- Asath is a false Nesa -->
+
 The sanctuary plays a major role in the cultural and religious identity of **Sol Unita**, housing key rituals such as the **Reservation with the Light**. Through these practices, the sanctuary continues to serve as a beacon of faith, guiding those who seek Asath’s divine presence.
+
+# Establishment of Scender
+
+Scender was established near the end of the [[Cel Blindbirth Line]], at a time when the surface of Toma was just becoming habitable again after a long period of Celia dominance. The founding of Scender marks the emergence of the [[East Sanctan Huma Lineage]], the first population of Huma to rise from Endem and reclaim the surface. This lineage established itself on Toma's terrain before other Huma lineages, who would only emerge during the following Line from Few. This early reemergence shaped Scender's unique culture, resilience, and its role as a center of faith and innovation in the Toman Ecoss.
+## Familials in Scender
+
+A [[familial]] is an insignia used to tie creatures to belief systems. These insignias are most commonly attached to phylas, classes, orders, and families. Familials in the Toman Ecoss fulfill the role a flag does in the Earthen Ecoss. Carrying a familial is a sign of one's allegiance and conviction in their belief, but it can be dangerous if you venture into hostile territories or speak to the wrong person.
+
+Wearing a familial, due to its danger as an adventurer, is seen by others (at minimum, those of the same belief system) with admiration. Familials are sometimes used in social hierarchy systems, with governing forces using tiered or varied familial production.
+
+In Scender, familial designs are highly individual, reflecting the diversity and unity of its people. This is encouraged by Sol Unita and is rooted in the Asceptim teaching: "We are as similar as we are different."
+
 
 ## Related Wiki Pages
 

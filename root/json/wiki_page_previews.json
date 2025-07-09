@@ -1,0 +1,930 @@
+{
+  "212 Shift": {
+    "image": null,
+    "intro": "The 212 Shift is a pivotal event in the history of the Tildohsi Partition and the Clutched Forest. It marks the moment when Avan Persevet, continental enemy of the Deltan-state and leader of the Partition, outmaneuvered the imperial army of the Chain of Delta, the Kleznit Advance, by luring them into the Clutched Forest. The event is named for the 212 units of therium reclaimed from destroyed Willed-Mecha and automata during the battle, with the aid of the forest's guardian, Sevfres."
+  },
+  "Access": {
+    "image": null,
+    "intro": "The Access is the saltwater river that flows from Southcatch Bay into Scender|Scender Proper, piercing through ScenderContribution Band, ScenderAcceptance Band, and ScenderAscension Band before dropping off into the underside of Cless. Here, the flow of water, pushed by the World Gyre|World Gyre's currents, falls deep into the darkness of Endem."
+  },
+  "Advancism": {
+    "image": null,
+    "intro": "Advancism is a belief system naturally derived from the resonance of Huma and Ferra and directly opposes Primalism. This belief is typically held by Anthros species, influenced heavily by the intellectual direction that resonance brought them in terms of evolutionary change."
+  },
+  "Agresta Jungle": {
+    "image": null,
+    "intro": "The Agresta Jungle is the largest rainforest region of Toma, found in northeast Sancta, south of Kro'Tan."
+  },
+  "Ahdom Few": {
+    "image": null,
+    "intro": "The Ahdom Few are the ruling triarchy of Hypri, composed of three powerful Essnt sisters, each bonded to a primordial drake. Together, they govern the city-state, balancing their distinct domains and magical specializations."
+  },
+  "Albumaiyhet": {
+    "image": null,
+    "intro": "Albumaiyhet is the deity worshipped by Innerdualism|Innerdualists with the largest practicing population known as the Walkers of Duality. He is thought to be a being of void heard and seen only in Stagnant State, when one is most vulnerable and introspective."
+  },
+  "Alevery Commons": {
+    "image": null,
+    "intro": ""
+  },
+  "Alwa": {
+    "image": "wiki/wiki_images/Alwa.png",
+    "intro": "Alwa was a primordial being that dominated during the Cel Blindbirth Line, when surviving Huma populations of the Taxotheir Line fled to the subterrainean underbelly of Endem. Alwa was a primordial, exhibiting superior polyresonance, comprised of the essence of Celia, Huma, Natura, Bluma, and Spira. Her colossal body, at the peak of her evolution, blocked the sun, altered landscapes, and consumed the beliefs and souls of the fallen en masse. Her ascension ended the Cel Blindbirth Line, leaving behind remains (Primma, Aprima, Lifesoil, and Sky Matter) that became vital resources in the subsequent development of Huma civilization in her wake. Alwa is a cautionary figure in Sol Unita folklore, representing the dangers of unchecked Celia power and the justification for the Rite of Recomposition."
+  },
+  "Amarvena": {
+    "image": null,
+    "intro": ""
+  },
+  "Anim": {
+    "image": null,
+    "intro": "Anim is the lifeblood of magic, a tappable resource that can be used to manifest one's own beliefs."
+  },
+  "Anthros": {
+    "image": null,
+    "intro": "Anthros are Ferra who, through generations of adaptation and cultural influence, have become more like Huma in intellect, society, and upright posture. While most Anthros are bipedal and display advanced reasoning and communication, some retain more animalistic traits and may move on all fours or exhibit instinctual behaviors. Anthros represent the bridge between the wild and the civilized, blending animal cunning with the potential for human-like growth."
+  },
+  "Apex and Praeda": {
+    "image": null,
+    "intro": "Apex and Praeda are the two prevailing NesaDuality Nesa|Duality Nesa of the Ferra kingdom."
+  },
+  "Applied Arts": {
+    "image": null,
+    "intro": "The Applied Arts consist of the scholarly examinations of practical application that turn theoretical principles into material forms. This field focuses on the processes by which inventive concepts are translated into tangible artifacts, technological devices, and magical constructs. Researchers in Applied Art conduct case studies, perform material experiments, and evaluate the effectiveness of various production methods. The discipline investigates both historical innovations and contemporary technological and magical engineering, developing models to assess efficiency, aesthetic merit, and functional design in artifacts that shape the built environment and cultural heritage."
+  },
+  "Aprima": {
+    "image": null,
+    "intro": "Aprima is the purest form of Primma, a rare and highly revered Hollow Resource believed to be derived from the remains of the Primordial, Alwa. It is distinguished by its brilliant white color. In Sol Unita, aprima is regarded as the most sacred building material, used almost exclusively for religious and governmental structures, reinforcing its significance as a representation of divine connection."
+  },
+  "Arkon": {
+    "image": null,
+    "intro": "Arkon, once believed to be a thriving continent, is now a region steeped in mystery and peril, surrounded by the Swirling Sea and thought to house the World Gyre's purpose."
+  },
+  "Asath Sanctuary": {
+    "image": "wiki/wiki_images/Asath Sanctuary.png",
+    "intro": "The Asath Sanctuary is the largest place of worship dedicated to Asath, the central deity of the Asceptim phylum. Located on the island of Gaudis in Southcatch, it serves as a major spiritual and cultural landmark in Sol Unita. The sanctuary plays a crucial role in religious rites, conversion processes, and the ceremonial practices of Scender."
+  },
+  "Asath": {
+    "image": "wiki/wiki_images/Asath (Fractal).png",
+    "intro": "Asath, also known as the Eye, is a Nesa worshipped by the followers of the Asceptim phylum. Asath is not considered a living deity but rather a celestial, ever-present energy felt as a growing pleasure and warmth. The Rite of Passage, an ancient religious relic, plays a foundational role in Asceptim belief, embedding Asath as the ultimate symbol of enlightenment and ascension out from the material realm."
+  },
+  "Asceptim (Cleric Domain)": {
+    "image": null,
+    "intro": "You are worthy of Ascension. Clerics of the Asceptim Domain harness the power of believing in Asath—Sol Proscima—and the values imbued in the Rites of Huma. Whether that means venerating technological advancement, augmenting body and mind, blending nature with technology, or chasing mental acuity and enhanced willpower, the power resides in faith-attuned beliefs. The rampant growth the religion has achieved, alongside its societal accomplishments, were all given to the Eye and His glory."
+  },
+  "Asceptim": {
+    "image": "wiki/wiki_images/Asceptim 2.png",
+    "intro": "Asceptim is a Sanctan Phylum most notably governed and advanced by Sol Unita, centered on the pursuit of Sol Proscima, the state of ultimate fulfillment and enlightenment thought to exist in an unseen celestial geography. Its teachings are based on the metaphor of sunlight evaporating water—where the people are the water, and their actions propagate life until they ascend beyond the material world into Sol Proscima. This belief is foundational to the societal and spiritual structures of Sol Unita, where Asceptim serves as both a faith and a guiding philosophy for governance."
+  },
+  "Ashprahm": {
+    "image": null,
+    "intro": ""
+  },
+  "Automata": {
+    "image": null,
+    "intro": ""
+  },
+  "Avan Persevet": {
+    "image": "wiki/wiki_images/Avan Persevet.png",
+    "intro": "Avan Persevet is the exiled founder and first leader of the Tildohsi Partition, renowned for his role in ensuring the survival of his people during the 212 Shift and shaping the fate of the Clutched Forest. Once a citizen of Delta, Avan was banished by the Chain of Delta for uniting people against the state during the political rise of Fuscia Lustin."
+  },
+  "Babadoo Slim": {
+    "image": null,
+    "intro": ""
+  },
+  "Ballast Sanct": {
+    "image": null,
+    "intro": ""
+  },
+  "Battle of Agresta": {
+    "image": null,
+    "intro": ""
+  },
+  "Battle of Land, Sea, and Storm": {
+    "image": null,
+    "intro": ""
+  },
+  "Battle of the Banquet": {
+    "image": null,
+    "intro": ""
+  },
+  "Belief Gambit (Sorcerer Origin)": {
+    "image": "wiki/wiki_images/Belief Gambit (Sorcerer Origin).png",
+    "intro": "Where belief flows, anim follows. You have been granted the power of a magical sleeve of cards, bound to you, whether by blood, enchanted tattoo, or some other means. This sleeve is capable of storing cards that, when thrown, can paint an accurate picture of the world at large—or conversely, a skewed view. A Belief Gambit Sorcerer is both a craftsman and a student of perception and nuance, choosing to empower their adventuring prowess through the values of others and themselves."
+  },
+  "Belief": {
+    "image": null,
+    "intro": "In the Toman Ecoss, belief is not just a concept; it is a perceivable force that shapes reality. It manifests in various forms, such as faith, desire, knowledge, and instinct."
+  },
+  "Bin": {
+    "image": null,
+    "intro": ""
+  },
+  "Blue Manrotter": {
+    "image": "wiki_images/Blue_Manrotter.png",
+    "intro": "The Blue Manrotter is a CeliaSubcelia|subcelia found in the streams, brooks, and creeks of the Clutched Forest. Renowned for its bioluminescent spores and its role in the forest's cycle of decay and renewal, the Blue Manrotter is both revered and feared by local inhabitants. Its presence shapes the ecology, rituals, and folklore of the region."
+  },
+  "Bluma": {
+    "image": "wiki_images/Bluma.png",
+    "intro": ""
+  },
+  "Bobit": {
+    "image": null,
+    "intro": ""
+  },
+  "Branches of Concordia": {
+    "image": null,
+    "intro": ""
+  },
+  "Cardinal Arts": {
+    "image": null,
+    "intro": "The Cardinal Arts, sometimes referred to as the Four Corners of Creation, are the four most fundamental categories of academic understanding of the universe, posited by the Huma perspective's within the Toman Ecoss."
+  },
+  "Cel Blindbirth Line": {
+    "image": null,
+    "intro": ""
+  },
+  "Celia": {
+    "image": null,
+    "intro": "Celia are fungi-like entities believed to have emerged before Huma history. They embody the transformative power of decomposition and, under Purpose Taxonomy, are considered the kingdom of rebirth. Celia play a crucial role in maintaining the plane's balance by recycling biowaste and enabling the cycle of decay and renewal."
+  },
+  "Celial Spring": {
+    "image": "wiki_images/Celial_Spring.png",
+    "intro": "A Celial Spring (also known as a Celia Watering Hole) is any location in Toma where Celia—especially subcelia like Manrotter|Manrotters—thrive by taking advantage of the hunting and migration patterns of Ferra and other creatures in search of freshwater. These springs are vital ecological sites, serving as both sources of life and centers of decay and renewal in the natural world of Toma."
+  },
+  "Ceremony of His Eye": {
+    "image": null,
+    "intro": ""
+  },
+  "Chain of Delta": {
+    "image": null,
+    "intro": ""
+  },
+  "Chantae": {
+    "image": "wiki_images/Chantae.png",
+    "intro": "Chantae is the omnipresent mind and goddess of the Celia Kingdom. She is not a physical being, but a collective presence experienced through all Celia. Chantae is the source of the Celia's will, and her influence is felt through the hivemind known as Mycelism. She is described as a mesmerizing vision of fungal beauty, but her true nature is beyond individual comprehension. Chantae's followers act to ensure survival and rebirth, not out of malice, but as an expression of the cycle of decay and renewal."
+  },
+  "Chantic Spore": {
+    "image": null,
+    "intro": ""
+  },
+  "Cilladril": {
+    "image": "wiki_images/Cilladril.png",
+    "intro": "Cilladril is a remarkable city at the edge of Hypri, built within a grove of low grass, soil, and the ever-accumulating trash ejected from Hypri and its sister cities. Here, Sibannac's Growthmind transforms waste into the foundation of society—blurring the line between plant, person, and city."
+  },
+  "Cli'ste Amaratus": {
+    "image": "wiki_images/Cliste Amaratus.png",
+    "intro": "Cli'ste Amaratus is a..."
+  },
+  "Clol": {
+    "image": "wiki_images/Clol.png",
+    "intro": "Clol are a mold subcelia of the Celia kingdom. <!--Their populations can switch color (white/blue/green or black/purple). Clol are used for pollution control and can spread hysteria, influencing societies and promoting phyla like Klesn. They are a key example of Celia's impact on both the environment and social structures."
+  },
+  "Clutched Forest": {
+    "image": "wiki/wiki_images/Clutched Forest.png",
+    "intro": "The Clutched Forest is a vast, forested region located in Middle Wyldere on the southern coast of Toma. Known for its unique blend of freshwater from the Summons Mountain Range and saltwater rivers pushing into the continent from the Swirling Sea, the Clutched Forest is a land of remarkable ecological diversity and abundance. Saltwater rivers, fed by the powerful currents of the World Gyre, wind through the dense woodlands, enriching the soil and supporting a wide array of plant and animal life. The forest’s resources and strategic location have made it a focal point for settlement, trade, and conflict throughout the history of the region."
+  },
+  "Concordia": {
+    "image": null,
+    "intro": "Concordia, often called the Absent Continent, is a land of stark beauty and profound contrasts, set apart by its isolation in the northeastern reaches of Toma. Surrounded by the aptly named Sea of Absence, Concordia is a realm where towering, snow-capped mountains give way to dense, ancient forests and crystalline rivers that wind through deep, misty valleys. The continent’s landscape is shaped by the relentless forces of nature—harsh winters, blizzards, and dramatic seasonal shifts define both the land and the lives of its people. Here, the environment is not merely a backdrop but a central character, demanding resilience, ingenuity, and a deep respect for the wild from all who call Concordia home."
+  },
+  "Concordian Huma Lineage": {
+    "image": null,
+    "intro": ""
+  },
+  "Corlin Tree": {
+    "image": null,
+    "intro": "Henning Tree (Sol Unita|Sol Unitan Culture)"
+  },
+  "Crea": {
+    "image": "wiki_images/Crea.png",
+    "intro": "Crea is the fundamental essence of time and existence within the Scape, acting as the metaphysical core of every soul (or Essa). It is generated through the synthesis of souls and binds the essence of being to the progression and decay of the universe. Crea manifests in multiple forms, each representing a different aspect of time, memory, and existence."
+  },
+  "Critical Hits Revisited": {
+    "image": null,
+    "intro": "Critical Hits Revisited is a homebrew rule set designed to expand and enhance the impact of critical hits in tabletop RPGs. For full details and the official rules, please visit the link below. All credit goes to Benjamin Huffman of sterlingvermin(http://sterlingvermin.com/)."
+  },
+  "Current Line": {
+    "image": "wiki_images/Current Line.png",
+    "intro": ""
+  },
+  "Current Question": {
+    "image": "wiki_images/Current Question.png",
+    "intro": "The Current Question is the purpose of the Omnis."
+  },
+  "Dai and Iko Stones": {
+    "image": "wiki_images/Dai and Iko Stones.png",
+    "intro": "Dai and Iko Stones are a unique type of Hollow Resource that embody the dichotomous relationship of predator and prey, originating from Mohrsmünt (Apex) and Amarvena (Praeda)-aligned Ferran death events. The stones themselves are physical manifestations of the Dai'iko|Dai-Iko relationship of Apex and Praeda."
+  },
+  "Dar": {
+    "image": "wiki_images/Dar.png",
+    "intro": ""
+  },
+  "Deathground (Fighter Archetype)": {
+    "image": "wiki/wiki_images/Deathground (Fighter Archetype).png",
+    "intro": "Born where kingdoms fell and earth lay scorched—ravaged by cruel empires, primordial beasts, or cataclysmic storms—Deathground Fighters are wasteland survivors who refuse victimhood. They stand on ground painted red by ancestors long dead or hunted to extinction, channeling their anim to forge unbreakable resolve. In the crucible of desperation, they’ve learned that the fiercest loyalty is to one’s blood and belief: when no retreat remains, one either dies—or becomes the champion of Deathground."
+  },
+  "Decara": {
+    "image": "wiki/wiki_images/Decara.png",
+    "intro": "Decara is an ancient kingdom of destruction within the Toman Ecoss, composed of both archaea and bacteria. Throughout most of Toma, the Decara Kingdom is thought to be extinct or no longer exist, but in small, hidden pockets of the eco, the Decara are known to persist—though not always under that name or in their original form (resonance). The story of the Decara has been loosely reconstructed through archaeological efforts, spearheaded by Sol Unita and their alliances. Much of what is known comes from the study of ruins and artifacts, as well as the analysis of Social Taxonomy (Taxotheir Line), the taxonomic system in use when the Decara were believed to roam Toma."
+  },
+  "Deck of the Alflame": {
+    "image": null,
+    "intro": "This deck is not complete and is in a conceptual state of development."
+  },
+  "Deck of the Naive": {
+    "image": null,
+    "intro": "The Deck of the Naive is the starter deck for the Belief Gambit Sorcerer. This information does not include the details of all cards, as they are not all known."
+  },
+  "Deicelia": {
+    "image": "wiki_images/Deicelia.png",
+    "intro": "Deicelia are the leader mushrooms of the Celia kingdom, usually massive and carrying the most spores. They are central to the spread of Chantae's influence and play a key role in the process of Inoculation. Deicelia often serve as focal points for Celia communities and are associated with the most powerful expressions of Chantae's will."
+  },
+  "Dianett Sanct": {
+    "image": null,
+    "intro": ""
+  },
+  "Discovery Inspiration": {
+    "image": "wiki_images/Discovery Inspiration.png",
+    "intro": "Discovery Inspiration is a system that replaces traditional DMG Inspiration. By achieving personal milestones, uncovering truths, connections to reality, or fulfilling goals, players earn dice of varying sizes (D4 to D20). Lesser dice (D4–D12) resemble Bardic Inspiration and must be used quickly, while a D20 represents a major milestone and can be saved between sessions."
+  },
+  "Ember Petal Foundation": {
+    "image": null,
+    "intro": ""
+  },
+  "Endem": {
+    "image": "wiki_images/Endem.png",
+    "intro": "Endem is the subterranean world of Toma, consisting of sprawling caverns that connect the major continents. During the Cel Blindbirth Line, Huma's history was shrouded in cataclysm as all Huma were forced into Endem as other kingdoms conquered the above ground. By the end of the line, Huma population dropped to just three percent of its original number."
+  },
+  "Essa": {
+    "image": "wiki_images/Essa.png",
+    "intro": "The Essa is the final and most personal quantized taxon in Purpose Taxonomy, representing the unique soul, purpose, and destiny of an individual within the universe. Essa is the realization and understanding of one's own Crea—the fundamental core of biological expression and the idealized expression of a soul's purpose. To know one's Essa is to know one's true place and contribution to the evolution and balance of existence."
+  },
+  "Essnt": {
+    "image": "wiki/wiki_images/Essnt.png",
+    "intro": "An Essnt is a unique classification of Resonant that embodies both the Huma and Natura kingdoms. Essnts are uncommon, but have existed through all periods of recorded history as a minority of hybrid entities whose existence bridges the gap between humanity and the natural world, granting them abilities, perspectives, and traits from both realities. The most notable Essnts in the Current Line are the three sisters of the Ahdom Few, each collectivizing their power with a different aspect of the physical world: water, land, and sky."
+  },
+  "Ester Slate": {
+    "image": null,
+    "intro": ""
+  },
+  "Evolution": {
+    "image": "wiki_images/Evolution.png",
+    "intro": ""
+  },
+  "Familial": {
+    "image": "wiki_images/Familial.png",
+    "intro": "A familial is an insignia used to tie creatures to belief systems. These insignias are most commonly attached to Phylum|phyla, Class|classes, Order|orders, and Family|families. Familials in the Toman Ecoss fulfill the role a flag does in the Earthen Ecoss. Carrying a familial is a sign of one's allegiance and conviction in their belief, but it can be dangerous if you venture into hostile territories or speak to the wrong person."
+  },
+  "Ferra": {
+    "image": "wiki_images/Ferra.png",
+    "intro": "Ferra are the Kingdom of animals within Toma, encompassing all non-humanoid creatures that exhibit the Empire Function of Consumption. They are distinct from the Huma kingdom based on origin story, as humans did not evolve from a primate form in Toma but emerged through separate evolutionary paths."
+  },
+  "First Contact": {
+    "image": null,
+    "intro": ""
+  },
+  "Fuscia Lustin": {
+    "image": null,
+    "intro": ""
+  },
+  "Gaia": {
+    "image": "wiki_images/.png",
+    "intro": ""
+  },
+  "Gaial": {
+    "image": "wiki_images/.png",
+    "intro": ""
+  },
+  "Gaudis": {
+    "image": null,
+    "intro": "Eco: Toma (Sancta, Jeti Sound) of Toman Ecoss"
+  },
+  "Gekido": {
+    "image": "wiki_images/Gekido.png",
+    "intro": "Gekido is a..."
+  },
+  "Gludestit": {
+    "image": null,
+    "intro": ""
+  },
+  "Goblin": {
+    "image": null,
+    "intro": ""
+  },
+  "Gorisain": {
+    "image": "wiki_images/.png",
+    "intro": ""
+  },
+  "Gorosis": {
+    "image": "wiki_images/.png",
+    "intro": ""
+  },
+  "Great Ripple Wall": {
+    "image": null,
+    "intro": ""
+  },
+  "Grokauw": {
+    "image": "wiki/wiki_images/Grokauw.png",
+    "intro": "The Grokauw is a legendary basilisk native to the volcanic continent of Kro'Tan, feared and revered by the orcish clans who dwell there. Dwelling deep within magma pits, these colossal creatures have, over centuries, become one with the volcanic rock, their bodies suffused with molten stone and their presence marking the most dangerous and sacred sites in orcish territory. The Grokauw is both executioner and idol, its hunger sated by ritual sacrifice and the slow, relentless consumption of the earth itself."
+  },
+  "Growthmind": {
+    "image": "wiki_images/Growthmind.png",
+    "intro": "A Growthmind is a plant-based collective consciousness, similar to a hivemind, but achieved through the consumption or integration of plant growth (such as fruit, leaves, or grass). Growthminds arise when individual plants or plant-based entities share information, will, and memory, forming a unified intelligence that can govern, defend, and adapt as a single organism."
+  },
+  "Gyre Shift": {
+    "image": "wiki_images/Gyre Shift.png",
+    "intro": ""
+  },
+  "Hacienda Band": {
+    "image": null,
+    "intro": ""
+  },
+  "Hallid": {
+    "image": "wiki_images/Hallid.png",
+    "intro": "Hallid are a yeast subcelia of the Celia kingdom, growing from fermentation and similar processes. They appear as strange creatures within fermenting liquids and are used in water pollution control and alcohol production. Hallid are an example of Celia's adaptability and their role in both natural and artificial environments."
+  },
+  "Hathakrik": {
+    "image": "wiki_images/Hathakrik.png",
+    "intro": ""
+  },
+  "Heshiu": {
+    "image": "wiki_images/.png",
+    "intro": "Bin:"
+  },
+  "Hiamoe Sanct": {
+    "image": null,
+    "intro": ""
+  },
+  "Hidraal": {
+    "image": null,
+    "intro": ""
+  },
+  "High Dweller": {
+    "image": "wiki/wiki_images/High Dweller.png",
+    "intro": "High Dwellers are the native people of the skyward city-state of Hypri, renowned for their elevated settlements, mastery of vertical living, and philosophical pursuit of clarity, wisdom, and perspective. They inhabit the highest reaches of the spire Vespir, both physically and culturally seeking vantage points above the chaos of the world below."
+  },
+  "Hoard Sickness": {
+    "image": "wiki_images/.png",
+    "intro": "Bin:"
+  },
+  "Hollow Resource": {
+    "image": "wiki_images/Hollow Resource.png",
+    "intro": "<p class=\"nickname\"></p>"
+  },
+  "Huma": {
+    "image": "Huma.png",
+    "intro": "Huma are the most biodiverse and technologically advanced creatures in the Toman Ecoss, representing a high complexity of intelligence, adaptability, and the desire to learn. Huma civilizations have developed over time, gaining a profound understanding of their world and using that knowledge to influence other creatures and even shape new kingdoms such as the Automata."
+  },
+  "Hypri Highcourt": {
+    "image": "wiki_images/.png",
+    "intro": ""
+  },
+  "Hypri": {
+    "image": "wiki/wiki_images/Hypri.png",
+    "intro": "Hypri is a high-altitude Order|order under the rule of the Hypri Highcourt, perched atop the largest of over a hundred spires that rise dramatically from the vast grasslands of South Usaka. Geographically, Hypri is located in the Middle-East region of South Usaka, just northeast of the Coast of Bu. Across the waters from the Coast of Bu lies the Island of Babadoo Slim. The city is carved into and grown upon the colossal stone formation known as Vespir, which soars impossibly high above a sea of thick, churning clouds. Its rugged, ancient, golden-beige stonework is weathered by time and sun, yet teems with life and civilization. Entire cities cling to its craggy surface, jutting out at impossible angles and spiraling upward in a breathtakingly precarious ascent, as if the spire itself has grown these settlements like barnacles on a sea pillar."
+  },
+  "Imaa": {
+    "image": null,
+    "intro": "Imaa is a Godan term meaning \"endgame,\" describing the state of extremism a plane experiences as it nears its ultimate conclusion. This period is a universal indicator of the impending death or transformation of a plane, akin to the conclusion of a Bin or a Holoscape|Hollow Purpose."
+  },
+  "Imaan Plane": {
+    "image": "wiki_images/Imaan Plane.png",
+    "intro": "Imaan Planes, also known as peak planes, are realms created by Zlellis and O'numeume to explore extreme ideologies and prevent an Imaa in the Toman Ecoss. These planes serve as testing grounds for prevailing beliefs, allowing them to play out in a controlled environment to ensure the balance and harmony of the Toman Ecoss. Each Imaan Plane is shaped by the collective beliefs and actions of its inhabitants, often manifesting as highly thematic and ideologically focused realms."
+  },
+  "Imperial Growth": {
+    "image": "wiki_images/.png",
+    "intro": ""
+  },
+  "Implantation": {
+    "image": "wiki_images/Implantation.png",
+    "intro": ""
+  },
+  "In-between": {
+    "image": null,
+    "intro": ""
+  },
+  "Innerdualism": {
+    "image": null,
+    "intro": ""
+  },
+  "Inoculation": {
+    "image": "wiki/wiki_images/Inoculation.png",
+    "intro": "Inoculation is the process by which Chantae's influence spreads to other creatures, measured by the Spore Score. As a creature's Spore Score increases, they experience Spore Delusions and, at 100, become fully turned (Reborn) and act according to Chantae's will. Inoculation is a key mechanism for Celia expansion and the spread of Mycelism."
+  },
+  "Jarma Konich": {
+    "image": "wiki/wiki_images/Jarma Konich.png",
+    "intro": ""
+  },
+  "Jeti Sound": {
+    "image": "wiki/wiki_images/Jeti Sound.png",
+    "intro": "Jeti Sound is the tropical coastal region between and extending just beyond Kyre's Point and Luin's Point, forming the southernmost edge of Scender. Known for its sandy beaches, warm waters, and rich tropical life, the Sound thrives as a hub of trade, spiritual pilgrimage, and cultural exchange. The densest tropical growth is concentrated on the points themselves, where towering cliffs promote a diverse ecosystem. As one moves further from the Points, the coastal environment shifts into smoother beaches and the bustling commerce of Southcatch."
+  },
+  "Juud": {
+    "image": "wiki_images/.png",
+    "intro": "Bin:"
+  },
+  "Kaina": {
+    "image": null,
+    "intro": ""
+  },
+  "Kautiger": {
+    "image": "wiki_images/.png",
+    "intro": "Bin:"
+  },
+  "Kingdom": {
+    "image": "wiki/wiki_images/Kingdom.png",
+    "intro": "A Kingdom within Toma represents one of many large belief groups on the plane, defined by groups of living creatures with a common biological, characteristic, or planar function, which is thought to be linked to a greater universal purpose, known in Purpose Taxonomy as the Empire Function. These functions encompass philosophical and cosmological ideas such as creation, destruction, management, counterweight, dichotomy, rebirth, etc, with each kingdom contributing to the power dynamics and total balance present in Toma."
+  },
+  "Kleznit Advance": {
+    "image": "wiki/wiki_images/Kleznit Advance.png",
+    "intro": "The Kleznit Advance is the Imperial Army of the Chain of Delta, renowned for its discipline, power, and distinctive appearance. The military is based out of the third Omep Region of Delta, Kleznit."
+  },
+  "Kro'Tan": {
+    "image": null,
+    "intro": ""
+  },
+  "Kyre's Point": {
+    "image": null,
+    "intro": ""
+  },
+  "Laika Acker": {
+    "image": "wiki/wiki_images/Laika Acker.png",
+    "intro": "Race: Human <br>"
+  },
+  "Lauderdocks": {
+    "image": null,
+    "intro": ""
+  },
+  "Lavinho Shourn": {
+    "image": "wiki/wiki_images/Lavinho Shourn.png",
+    "intro": ""
+  },
+  "Leiqua": {
+    "image": "wiki_images/Leiqua.png",
+    "intro": ""
+  },
+  "Lightwilds": {
+    "image": null,
+    "intro": ""
+  },
+  "Line from Few": {
+    "image": null,
+    "intro": ""
+  },
+  "Lopali": {
+    "image": "wiki_images/.png",
+    "intro": ""
+  },
+  "Luin’s Point": {
+    "image": null,
+    "intro": ""
+  },
+  "Macon Fair": {
+    "image": null,
+    "intro": ""
+  },
+  "Malgasta": {
+    "image": "wiki/wiki_images/Malgasta.png",
+    "intro": ""
+  },
+  "Manrotter": {
+    "image": "wiki_images/Manrotter.png",
+    "intro": "A Manrotter is a type of CeliaSubcelia|subcelia mushroom found in aquatic environments across Toma. Manrotters are known for their predatory, corpse-consuming behavior: they bend their wide, flexible caps to envelop and digest animal remains—either forming a dome underwater or a capsule above water. Beyond their role in decomposition and nutrient cycling, manrotters are infamous for their seductive influence on Huma and other sentient beings. Through bioluminescent displays, heated waters, and (according to folklore) even hallucinatory or psychic lures, manrotters can entice weakened or despairing individuals to willingly offer themselves to the mushroom's collective, furthering the growth of their hivemind."
+  },
+  "Mellifera Tulscip": {
+    "image": "wiki/wiki_images/Mellifera Tulscip.png",
+    "intro": ""
+  },
+  "Merchant System": {
+    "image": null,
+    "intro": "\"Two roads diverged in a wood, and I, I took the one less traveled by, and that had made all the difference.\" - Robert Frost"
+  },
+  "Metageography": {
+    "image": "wiki/wiki_images/Metageography.png",
+    "intro": "Metageography is the study and understanding of how Toma's physical and metaphysical landscapes are shaped by the processes of death, anim release, and collective belief. Unlike traditional geography, which focuses on physical forces, metageography recognizes that the biomes, resources, and even the climate of Toma are products of both natural and ideological transformations. The formation of Hollow Resource|Hollow Resources is a direct result of these processes, as the deaths of populations or the decay of belief systems leave behind potent materials that define the future of civilizations."
+  },
+  "Mohrsmünt": {
+    "image": "wiki_images/.png",
+    "intro": ""
+  },
+  "Moluk": {
+    "image": "wiki_images/Moluk.png",
+    "intro": ""
+  },
+  "Monstra": {
+    "image": null,
+    "intro": ""
+  },
+  "Mycelism": {
+    "image": "wiki_images/Mycelism.png",
+    "intro": "Mycelism is the phylum and way of life for the Celia kingdom, resulting from Chantae's hivemind. It is considered a religion by some, though this is controversial. Mycelism teaches that Celia act only by Chantae's will, have no free will, and that decay and rebirth are the core of existence. Ritual rebirth and the cycle of life are central beliefs."
+  },
+  "Natura": {
+    "image": null,
+    "intro": ""
+  },
+  "Natural Arts": {
+    "image": null,
+    "intro": "The Natural Arts constitute the academic studies of the physical realm and their underlying elemental forces. Researchers in this field record and analyze geological formations, meteorological patterns, and astronomical phenomena, employing both empirical observation and theoretical modeling. Investigations focus on the interactions between earth, water, air, and fire, as well as the role of Natura in shaping natural landscapes and ecosystems. Comparative analyses are conducted between observed phenomena and ancient lore, with hypotheses continually refined through field experiments and interdisciplinary collaboration."
+  },
+  "Necesse Sanct": {
+    "image": null,
+    "intro": ""
+  },
+  "Nesa": {
+    "image": "wiki_images/Nesa.png",
+    "intro": ""
+  },
+  "Nesil Grassland": {
+    "image": null,
+    "intro": ""
+  },
+  "New Badaba": {
+    "image": null,
+    "intro": ""
+  },
+  "Old Badaba": {
+    "image": null,
+    "intro": ""
+  },
+  "Onend": {
+    "image": null,
+    "intro": ""
+  },
+  "Ophelia Necesse": {
+    "image": "wiki/wiki_images/Ophelia Necesse.png",
+    "intro": "Ophelia Necesse, also known as the Fallen Apostle, is the reigning queen of Scender in the Current Line. As the leader of Sol Unita, she balances the royal sancts in their development of faith, technological advancement, and governance. Her rule is defined by her desire to reduce human suffering through technology, specifically noted for her divisive takes on implantation, a vision that has earned her both devotion from her people and criticism from political adversaries."
+  },
+  "Orc": {
+    "image": null,
+    "intro": ""
+  },
+  "Order": {
+    "image": null,
+    "intro": ""
+  },
+  "Oshe": {
+    "image": null,
+    "intro": ""
+  },
+  "Ousine": {
+    "image": "wiki/wiki_images/Ousine 3.png",
+    "intro": "The Ousine is a homebrew D&D 5e race that blends the keen senses and silent flight of the owl with the formidable strength and presence of the bear, shaped by the essence of Huma. Each Ousine is either an Anthros—upright and intelligent, but still largely animal in nature—or a Zothros—mostly Huma, but evolving toward a more feral, animalistic form. On average, Anthros are bipedal and display more cultural adaptability, though some may move on all fours or exhibit more animalistic behaviors. Zothros, conversely, are more often quadrupedal and instinct-driven, but many can walk upright and possess a strong sense of self and society. Whether stalking the night on silent wings or standing as guardians of the wild, Ousine embody the balance between wisdom, ferocity, and the mysteries of the natural world."
+  },
+  "Out and Inn": {
+    "image": null,
+    "intro": ""
+  },
+  "Outi Canoes": {
+    "image": null,
+    "intro": ""
+  },
+  "Palas": {
+    "image": "wiki_images/Palas.png",
+    "intro": ""
+  },
+  "Parable of Silent Content": {
+    "image": "wiki_images/Parable of Silent Content.png",
+    "intro": ""
+  },
+  "Paximaa": {
+    "image": "wiki_images/Paximaa.png",
+    "intro": "Paximaa is a Godan term meaning \"death to all games,\" signifying the end of a universe and the events and consequences associated with such a profound decline. It marks the culmination of a universe's cycle and the beginning of a new phase in the endless quest for balance and understanding within the Omnis. Paximaa is deeply intertwined with the concept of Hollow Purpose, reflecting the universe's failure to sustain itself and the reversal of time that follows."
+  },
+  "Phylum": {
+    "image": null,
+    "intro": ""
+  },
+  "Pith Mechanic (Artificer Specialty)": {
+    "image": "wiki_images/Pith Mechanic (Artificer Specialty).png",
+    "intro": "Pith Mechanics are spiritual engineers of the subconscious. They combine mystical technology with empathetic insight to explore the labyrinthine inner world (the Pith) of other creatures. These artificers bond with a partner through a special implant, entering trance-like journeys to solve surreal puzzles and uncover hidden truths. In pursuit of the legendary Facsimile – a perfect soul connection – a Pith Mechanic risks life and sanity, sharing their very life-force to guide and protect others. Their experimental practices blur the line between magic and mind, often yielding profound revelations that can change the course of destinies."
+  },
+  "Preacher's Vassal": {
+    "image": null,
+    "intro": "Preacher's Vassal is a flatland region east of Luin's Point and the East Gate of Southcatch, Scender. This land is reserved by local saltwater river fish farms that carry a rich history in Sancta dating back to the founding of Scender during the Cel Blindbirth Line."
+  },
+  "Preservus": {
+    "image": "wiki_images/.png",
+    "intro": ""
+  },
+  "Pria": {
+    "image": null,
+    "intro": ""
+  },
+  "Primalism": {
+    "image": "Primalism.png",
+    "intro": "Primalism is a belief system thought to be naturally derived from the resonance of Huma and Ferra, focused on a return to primal ways, directly opposing Advancism. This belief is typically held by Zothros species, influenced heavily by the direction that resonance brought them in, in terms of the progression of intelligence."
+  },
+  "Primordial": {
+    "image": null,
+    "intro": "Primordials are ancient, colossal creatures of immense power, representing an intense interkingdom relationship through ResonancePolyresonance|polyresonance. Primordials are a Ferran evolutionary response to the rise of Alwa, specifically due to the fact that the source of Ferra's food source was Bluma, and the growth of Gaia did not leave space for all Ferra. Thus, the Ferrans who did not give in to Alwa's dominance forged a faith called Gludestit under the great three-headed hydra Hidraal's guidance. To the Ferrans who did give in to Alwa's dominance, some were given refuge in Gaia's grace."
+  },
+  "Purpose Taxonomy": {
+    "image": null,
+    "intro": "Purpose Taxonomy is a living, evolving classification system that organizes all existence by the destinies, beliefs, and connections that shape reality. Designed for worldbuilders, wiki readers, and players alike, it bridges the metaphysical and the practical—serving as both a philosophy of consciousness and a tool for understanding the structures of life, society, and the soul across the universe of Toma."
+  },
+  "Qa'ura": {
+    "image": "wiki_images/Qa",
+    "intro": ""
+  },
+  "Reborn": {
+    "image": "wiki_images/Reborn.png",
+    "intro": "Reborn are creatures who have been fully turned by Chantae through the process of Inoculation (reaching a Spore Score of 100). Reborn may become Conscelia, Deicelia, or Locelia, as determined by the DM. They act according to Chantae's will and are considered part of the Celia kingdom, regardless of their original form."
+  },
+  "Reins of Alwa": {
+    "image": "wiki_images/Reins of Alwa.png",
+    "intro": "The Reins of Alwa is a foundational myth in Sol Unita folklore, shaping the development of civilization and the governance of society through the Rites of Huma. The story is said to originate with the Presceptists (Scepitath), the East Sanctan Huma Lineage who emerged from Endem just prior to the cataclysmic Gyre Shift."
+  },
+  "Resonance": {
+    "image": null,
+    "intro": "Resonance is the fundamental phenomenon by which the kingdoms of Toma interact, overlap, and influence one another. In the context of the Toman Ecoss, resonance describes the natural, spiritual, and biological processes that allow traits, energies, and functions to pass between kingdoms—sometimes resulting in hybrid or entirely new forms of life. The study of resonance is central to understanding the interconnectedness of all living things in Toma, as well as the emergence of unique beings such as Resonant|Resonants and polyresonant creatures."
+  },
+  "Resonant": {
+    "image": "wiki_images/Resonant.png",
+    "intro": "A Resonant is a unique type of creature within the Toman Ecoss that exists across two or more kingdoms, embodying the traits and functions of these kingdoms simultaneously. Resonants are often seen as hybrid entities, combining the abilities, characteristics, and purposes of multiple kingdoms into a single being. This interconnection grants them unique powers and roles within the Toman Ecoss, making them pivotal in maintaining the balance between different ecological and spiritual realms."
+  },
+  "Rite of Egress": {
+    "image": null,
+    "intro": "The Rite of Egress is a Rites of Huma|Rite of Huma that dictates that one must never return to suffering. Rooted in the historical exile from Endem, this rite influences both the governance of Sol Unita and the personal philosophy of its people. It teaches that once an individual or society has escaped hardship, they must never willingly return to it. This belief has shaped Scender’s refugee policies, religious doctrine, and social structure."
+  },
+  "Rite of Passage": {
+    "image": null,
+    "intro": "The Rite of Passage is a Rites of Huma|Rite of Huma considered to be the original Ester Slate, created by Asath.It is the most revered artifact in Asceptim faith, holding profound spiritual significance for Sol Unita and its followers."
+  },
+  "Rite of Recomposition": {
+    "image": "wiki_images/Rite_of_Recomposition.png",
+    "intro": "The Rite of Recomposition is a Rites of Huma|Rite of Huma that establishes the relationship between death, renewal, and technological evolution. It originates from the Reins of Alwa, a myth that emphasizes repurposing the remains of the past to construct the future. This rite serves as both a spiritual principle and a practical necessity, guiding the development of synthetic decomposition technologies in Sol Unita and reinforcing the idea that all things must decay and be reshaped to achieve progress."
+  },
+  "Rite of Rule": {
+    "image": null,
+    "intro": "\"If you do not understand that which you rule, you do not rule anything at all.\" — Ophelia Necesse"
+  },
+  "Rite of Transference": {
+    "image": null,
+    "intro": "The Rite of Transference dictates that positions of power must be relinquished when a superior vision emerges. Leadership in Sol Unita is not static—governance and innovation must always prioritize the collective over the individual."
+  },
+  "Rites of Huma": {
+    "image": null,
+    "intro": "The Rites of Huma are foundational doctrines within Asceptim faith and Sol Unita law, outlining the philosophical, spiritual, and political expectations of Huma under the guidance of Asath. These rites serve as a framework for governance, social conduct, and ascension, influencing the cultural and legal structure of Scender and the greater Sol Unita dominion."
+  },
+  "Ritual Ash": {
+    "image": "wiki_images/.png",
+    "intro": ""
+  },
+  "Sable": {
+    "image": "wiki_images/Sable.png",
+    "intro": "Sable is the easternmost region of Wyldere, known for its dramatic fjord coastline, dark stone mountains, and enchanted autumnal forests. The region is defined by its steep elevation changes, harsh climate, and the stark beauty of its landscapes. Sable is a place where survival demands resilience, and the environment shapes both culture and myth."
+  },
+  "Sacrus": {
+    "image": null,
+    "intro": ""
+  },
+  "Sancta": {
+    "image": null,
+    "intro": ""
+  },
+  "Sanctan Photocenter": {
+    "image": null,
+    "intro": ""
+  },
+  "Sanmica": {
+    "image": "wiki_images/.png",
+    "intro": ""
+  },
+  "Sar Glass": {
+    "image": null,
+    "intro": ""
+  },
+  "Scape": {
+    "image": null,
+    "intro": ""
+  },
+  "scape_wiki_homepage": {
+    "image": null,
+    "intro": "!Sourcewaters(wikiimages/Sourcewaters%204.png)"
+  },
+  "Scender Proper": {
+    "image": null,
+    "intro": ""
+  },
+  "Scender Unita": {
+    "image": "wiki_images/Scender Unita.png",
+    "intro": "Scender Unita is the historical name of Sol Unita. It marked the unification of faith, governance, and technological ambition in the early years of the Line from Few, laying the foundation for the ascendant society that would shape the future of Scender and all of Sancta."
+  },
+  "Scender": {
+    "image": "wiki_images/Scender.png",
+    "intro": "Scender is the capital city of Sol Unita, a place where faith, science, and kingdom liberty are deeply intertwined. With a population of approximately 840,000 Huma-resonance, the city’s concentric layout is built in a ripple pattern, symbolizing the spiritual journey of its people—rising from the material world to enlightenment. Each ring of Scender serves a distinct function, shaping the daily lives of its inhabitants."
+  },
+  "School of Coveri": {
+    "image": null,
+    "intro": ""
+  },
+  "Sea Level Spell": {
+    "image": null,
+    "intro": "A <b>Sea Level Spell</b> is a unique, soul-attuned spell or ability—highly personal and reflective of the character’s essence. Sea Level Spells are designed to be available during higher level gameplay and are not available at the start of the game."
+  },
+  "Sea of Absence": {
+    "image": "wiki_images/Sea of Absence.png",
+    "intro": "The Sea of Absence is a barren, frigid sea in the northeast of Toma, off the coasts of Wyldere, Inersa, and Concordia. Known for its stillness and lack of marine abundance, it stands in stark contrast to the vibrant Swirling Sea. The Sea of Absence is a place of mystery and legend, often associated with endings, exile, and the unknown."
+  },
+  "Sea of Presence": {
+    "image": "wiki_images/Sea of Presence.png",
+    "intro": "The Sea of Presence is a bountiful sea in the southwest of Toma, off the coasts of Sancta, Usaka, and Theologia. Renowned for its abundance of life and resources, it is a center of trade, migration, and cultural exchange. The Eternal Straits connect the Sea of Presence to the Swirling Sea."
+  },
+  "Severance": {
+    "image": "wiki_images/Severance.png",
+    "intro": "Severance is any spiritually significant act that causes an individual soul to detach from the influence of another's will. This process can take many forms—ritual, revelation, sacrifice, or confrontation—and is often required to restore autonomy to those who have been spiritually bound, controlled, or corrupted."
+  },
+  "Sevfres": {
+    "image": "wiki/wiki_images/Sevfres.png",
+    "intro": "Sevfres, locally known as Exhuma, is a powerful and enigmatic entity bound within the depths of the Clutched Forest. A Decara|Decaran Huma Mimid, Sevfres was trapped in the forest through a sacrificial Source Surge. The people of Tildohsi and the Tildohsi Partition have survived in the shadow of Sevfres by mastering deception and sound-masking magic, using these techniques to hide from the hand’s relentless search. While Sevfres is a constant threat, its presence also provides a form of indirect protection for the city, as its power deters outside invaders."
+  },
+  "Sibannac": {
+    "image": "wiki/wiki_images/Sibannac.png",
+    "intro": "Sibannac is a vast, sentient grassland entity that covers approximately 55% of the continent of Usaka, most notably surrounding the spiresHypri and her sister cities. Unlike conventional flora, Sibannac exists as a single consciousness controlling countless individual grass blades across hundreds of square kilometers. This entity serves multiple roles in the Usakan ecosystem: natural defense system, deity figure, recycler of organic matter, and the central Growthmind of the region."
+  },
+  "Siela Qane": {
+    "image": "wiki/wiki_images/Siela Qane.png",
+    "intro": ""
+  },
+  "Simi": {
+    "image": null,
+    "intro": ""
+  },
+  "Sipua": {
+    "image": "wiki_images/Sipua.png",
+    "intro": "Sipua is a Sol Unita order governing the Agresta region, renowned for its focus on resource acquisition, research, and harmonious integration of land and sea. Once known as the Sipua Research Center (SRC) before the War of Conclusions, Sipua has evolved from a pre-solarpunk industrial complex into a rapidly developing city that brings together Zothros, Anthros, and Huma in pursuit of sustainable progress."
+  },
+  "Slimefolk (Playable Race)": {
+    "image": null,
+    "intro": ""
+  },
+  "Snoller": {
+    "image": null,
+    "intro": "The Snoller is a species of coastal snail native to the Jeti Sound region of Sancta. This unique subkingdom of Ferra can thrive both in the ocean and on land, displaying remarkable adaptability. Snallers are integral to Scender's transportation system, where they are used as a living elevator system, moving people and goods up and down the steep inclines of the city due to their abnormally large size and sticky slime residue."
+  },
+  "Social Arts": {
+    "image": null,
+    "intro": "The Social Arts represent the systematic study of societal constructs and cultural dynamics. This category of disciplines scrutinizes the formation and evolution of political institutions, social hierarchies, and cultural expressions. Researchers employ methodologies such as historical analysis, ethnographic fieldwork, and sociological surveys to document the development of communities and the transmission of cultural values. The field critically examines the role of art, language, and ritual in shaping collective identities and power structures, providing insights into the mechanisms of governance, tradition, and social change."
+  },
+  "Sol Proscima": {
+    "image": null,
+    "intro": ""
+  },
+  "Sol Unita": {
+    "image": "wiki/wiki_images/Sol Unita Insignia.jpg",
+    "intro": "Sol Unita is the ruling class of Asceptim, originally known as Scender Unita during the early years of the Line from Few. Deeply rooted in faith, scientific progress, and structured governance, Sol Unita prioritizes the technological and spiritual ascension of its people. The capital order of Scender stands as the heart of this belief system, embodying the principles of Sol Unita’s rule."
+  },
+  "Solscept": {
+    "image": null,
+    "intro": ""
+  },
+  "Soul Arts": {
+    "image": null,
+    "intro": "The Soul Arts are the academic disciplines dedicated to the systematic investigation of metaphysical phenomena, including ideas of the soul and Spira. This field examines the manifestations of mystical energy, ideas of fate and objective purpose, and the theological frameworks that inform various belief systems. Scholars of the Soul Arts record ritualistic practices, analyze mythological narratives, and conduct experiments to test the properties of magical energies. Critical methodologies include comparative theology, symbolic analysis, and controlled studies of divine intervention, all aimed at elucidating the complex interplay between the spiritual and material realms."
+  },
+  "Soul Fields": {
+    "image": null,
+    "intro": ""
+  },
+  "Source Surge": {
+    "image": null,
+    "intro": "“Human beings are poor examiners, subject to superstition, bias, prejudice, and a PROFOUND tendency to see what they want to see rather than what is really there.\" - Scott M. Peck"
+  },
+  "Southcatch": {
+    "image": null,
+    "intro": ""
+  },
+  "Spawn of Hidraal": {
+    "image": "wiki_images/Ahdom Few.png",
+    "intro": ""
+  },
+  "Spira": {
+    "image": null,
+    "intro": ""
+  },
+  "Summons Mountain Range": {
+    "image": "wiki_images/Summons Mountain Range.png",
+    "intro": ""
+  },
+  "Sunstream": {
+    "image": null,
+    "intro": ""
+  },
+  "Swirling Sea": {
+    "image": "wiki_images/Swirling Sea.png",
+    "intro": "<p class=\"nickname\"></p>"
+  },
+  "Tayim Trade Republic": {
+    "image": null,
+    "intro": ""
+  },
+  "Tekyume": {
+    "image": null,
+    "intro": ""
+  },
+  "The Soil Inn": {
+    "image": "wiki_images/The Soil Inn.png",
+    "intro": "The Soil Inn is the economic and cultural heart of Hypri, a sprawling, multi-level marketplace carved into and built around one of the smaller spires beneath the city. Notably, the Soil Inn was named after a beloved local poem by Corvi, which predates the construction of the market itself. The poem celebrates the cycles of growth, decay, and renewal that define both the soil and the city, and its popularity inspired the creation and naming of the marketplace. Today, the Soil Inn is both a literal and symbolic center of trade, community, and renewal for the people of Hypri and travelers from across Toma. Here, the fertile ground of Usaka is celebrated not only for its bounty but for its role in connecting diverse peoples and traditions."
+  },
+  "Theologia": {
+    "image": null,
+    "intro": ""
+  },
+  "Tildohsi Partition": {
+    "image": null,
+    "intro": "The Tildohsi Partition is a class that operates within the Clutched Forest of Middle Wyldere, composed of a symbiotic society of Huma, Ferra, Automata, and Celia. This community is renowned for its mastery of sound magic and its ability to survive in the shadow of powerful adversaries through ingenuity, cooperation, and the strategic use of their environment. The Partition is most notable for its construct-enhanced Ferra, known as Worg riders, who blend beast mastery with advanced construct technology. Their homeland, the Clutched Forest, provides both sanctuary and challenge, as it is protected by the enigmatic entity known as Sevfres."
+  },
+  "Tildohsi": {
+    "image": "wiki_images/Tildohsi.png",
+    "intro": "Tildohsi is a city located in the western reaches of the Clutched Forest, serving as the capital and central Order of the Tildohsi Partition Class. The city is a testament to the resilience and ingenuity of its inhabitants, who have adapted to life in a region defined by both natural abundance and constant threat. Tildohsi is a hub of governance, culture, and magical innovation, where the ruling population of Huma and Automata work in close cooperation with Ferra and Celia to maintain a symbiotic society. The city’s survival and prosperity are closely tied to its mastery of sound magic and its ability to remain hidden from the dangers that lurk within the forest, most notably the enigmatic hand known as Sevfres."
+  },
+  "Tiny's Tale of Tong": {
+    "image": "wiki_images/Tiny",
+    "intro": ""
+  },
+  "Toma": {
+    "image": "wiki_images/Toma Map(Outline).png",
+    "intro": "<p class=\"nickname\">Eco of Kingdoms, Plane of Kingdoms, Palud (Asceptim), Lau (Branches of Concordia)</p>"
+  },
+  "Toman Ecoss Timeline": {
+    "image": "wiki_images/Toman Ecoss Timeline.png",
+    "intro": "The Toman Ecoss Timeline includes the history of the Toman Ecoss, chronicling the events of history through a series of transformative eras known as Lines. Each Line is a unique epoch defined by a unique interplay of Kingdoms and evolution. The passage from one Line to the next is marked by a shift in the World Gyre, often heralding sweeping changes in the world’s structure, societies, and metaphysical order. This timeline explores how these cosmic cycles have driven the evolution, upheaval, and renewal of Toman Ecoss across ages. Check the \"See\" section above for the all-encompassing interactive timeline of the Scape, which includes the nested Toman Ecoss Timeline."
+  },
+  "Toman Ecoss": {
+    "image": null,
+    "intro": "The Toman Ecoss encompasses all planes of creation connected to the mother plane of Toma.<!-- by Zlellis and O'nume, forming a complex and interconnected web of existence within the Sacrus Basin. The Ecoss includes the In-between, a fabric of the universe that allows for further creation and expansion of planes from Toma's origin. It is the central cosmological structure of the setting, containing the main plane of Toma, the spiritual Soul Fields, and a variety of Imaan Planes, each with unique influences and roles.-->"
+  },
+  "Underflow": {
+    "image": null,
+    "intro": ""
+  },
+  "Unlock System": {
+    "image": null,
+    "intro": "The Unlock System allows players to play the game and unlock playable content, such as classes and subclasses, races and subraces, spells, feats, magic items, and more."
+  },
+  "Usaka": {
+    "image": "wiki_images/Usaka.png",
+    "intro": ""
+  },
+  "Usakan Growth": {
+    "image": "wiki_images/Usakan_Growth.png",
+    "intro": "The Usakan Growth is the government and social structure of the Sibannac-dominated regions of Usaka. It operates as a Growthmind, with Sibannac as the central intelligence and all members—plant and sentient—contributing to the collective will."
+  },
+  "Vankner Nu": {
+    "image": null,
+    "intro": ""
+  },
+  "Ventari": {
+    "image": "wiki_images/Ventari.png",
+    "intro": ""
+  },
+  "Vokar": {
+    "image": "wiki_images/Vokar.png",
+    "intro": "Vokar is the westernmost region of Wyldere, defined by its vast river delta, fertile plains, and the dramatic rise of the Summons Mountain Range to the north. The region is a land of contrasts—lush wetlands in the south, alpine valleys in the center, and icy mountains in the north. Vokar’s unique geography and climate shape its culture, economy, and way of life."
+  },
+  "Walkers of Duality": {
+    "image": null,
+    "intro": ""
+  },
+  "Wasting Event": {
+    "image": "wiki_images/Wasting Event.png",
+    "intro": ""
+  },
+  "Whisper of the Well Information": {
+    "image": null,
+    "intro": "<h2>Introduction</h2>"
+  },
+  "Whisper of the Well": {
+    "image": null,
+    "intro": "Whisper of the Well is the first campaign of Toma."
+  },
+  "Will": {
+    "image": "wiki_images/Will.png",
+    "intro": ""
+  },
+  "World Gyre": {
+    "image": null,
+    "intro": "The World Gyre is a natural phenomenon caused by the Dance of Spira, leading to the rotation of natural elements across the plane. This gyre influences tectonic activity, ocean currents, wind patterns, and the movement of souls, playing a crucial role in the ecological and spiritual balance of the Toman Ecoss."
+  },
+  "Wyldere": {
+    "image": "wiki_images/Wyldere.png",
+    "intro": "Wyldere is the northernmost continent of Toma, spanning horizontally across the upper 1/4th of the eco."
+  },
+  "Ximena Lathen": {
+    "image": "wiki/wiki_images/Lady Athen.png",
+    "intro": "Lady Athen <!--Ximena Lathen--> is one of the three serpent sisters collectively known as the Ahdom Few, who rule the city-state of Hypri through the Hypri Highcourt. As the Sea Trielder, she oversees all water-related aspects of governance and maintains authority over Lopali, the Serpent Ray—one of the Spawn of Hidraal. <!--Beyond her visible role in Hypri politics, Ximena leads a complex double life as the secretive Queen of Heshiu, an isolated Imaan Plane she has cultivated as a perfect ecosystem free from outside influence.-->"
+  },
+  "Zaphira": {
+    "image": "wiki_images/Zaphira.png",
+    "intro": ""
+  },
+  "Zlellis and O'nume": {
+    "image": null,
+    "intro": ""
+  },
+  "Zothros": {
+    "image": null,
+    "intro": "Zothros are Huma who, through evolution or magical influence, have become more like Ferra—embracing animal instincts, forms, and behaviors. Most Zothros are quadrupedal and display powerful, bestial traits, but many can walk upright and participate in society. Zothros embody the wild side of humanity, balancing intellect with primal strength and instinct."
+  }
+}

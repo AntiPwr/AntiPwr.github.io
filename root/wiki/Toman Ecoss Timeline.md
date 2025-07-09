@@ -1,9 +1,13 @@
 <!-- wiki-header-section:start -->
+
 # Toman Ecoss Timeline
+
+> **See :** [Interactive Scape Timeline](../scape_timeline.html)
 
 <img src="wiki_images/Toman Ecoss Timeline.png"><i></i></img>
 
-Each [[Line]] represents not merely a chronological period but a distinct cosmic arrangement—a specific configuration of spiritual and material forces that shapes all aspects of life within the plane. The transition between Lines occurs when the [[Dance of Spira]] shifts direction, typically accompanied by major upheavals in both the physical world and the metaphysical realms.
+
+The Toman Ecoss Timeline includes the history of the Toman Ecoss, chronicling the events of history through a series of transformative eras known as [[Lines]]. Each Line is a unique epoch defined by a unique interplay of [[Kingdoms]] and evolution. The passage from one Line to the next is marked by a shift in the [[World Gyre]], often heralding sweeping changes in the world’s structure, societies, and metaphysical order. This timeline explores how these cosmic cycles have driven the evolution, upheaval, and renewal of Toman Ecoss across ages. Check the "See" section above for the all-encompassing interactive timeline of the Scape, which includes the nested Toman Ecoss Timeline.
 
 <!-- wiki-header-section:end -->
 
@@ -31,6 +35,7 @@ Each [[Line]] represents not merely a chronological period but a distinct cosmic
 
 <!--
 The timeline of the [[Toman Ecoss]] is divided into significant Lines, defined by eras between shifts of the [[Dance of Spira]], as evident through changes in the [[World Gyre]]'s rotation. These Lines are marked by profound transformations in the nature of existence, belief, balance of power, and the planar ecosystem as a whole.
+
 
 ## Cosmic Origins
 
@@ -114,10 +119,11 @@ This Line saw the emergence of many of the organizational structures and classif
 - A time of [[Celia]] dominance, where the surface of the plane became inhospitable due to the overwhelming presence of decomposition forces.
 - The [[Huma]] were forced underground, retreating from the dangerous and decaying surface world.
 - This period of hardship and adaptation fundamentally transformed Huma society, creating cultural patterns and survival strategies that would influence their development for Lines to come.
+- Near the end of the Cel Blindbirth Line, the settlement of [[Scender]] was established. This marks the emergence of the [[East Sanctan Huma Lineage]], the first population of Huma to rise from Endem and reestablish themselves on Toma's terrain—preceding other lineages who would emerge during the subsequent Line from Few.
 
 The retreat underground during this Line created a psychological impact still evident in certain architectural styles and cultural practices, particularly a tendency toward enclosed spaces with artificial illumination mimicking natural light.
 
-### Line from Few
+### Line from Few 
 **Reclamation and Rebuilding**
 
 - The [[Huma]] emerged from their subterranean refuges, reclaiming the surface of the plane for the first time since the Taxotheir Line.

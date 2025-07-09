@@ -38,21 +38,22 @@
 
 ## Formation
 
-Hollow Resources are created when large quantities of matter have their contained souls severed, also known as waste events. These transformative processes result in concentrated deposits of resources with unique properties. The specific type of Hollow Resource produced depends on the nature of the original material and the kingdom to which it belonged.
+Hollow Resources are created when large amounts of organic or inorganic matter undergo an ideology-attuned death event—either a mass or belief-charged death. The souls once contained in that matter are severed, leaving behind concentrated deposits imbued with spiritual energy and belief. Each resource’s nature depends on the origin material and its Kingdom (a belief-aligned category of life in the world’s cosmology). These materials are extraordinarily powerful and coveted; entire civilizations have risen and fallen over their control. For artificers and spiritual engineers, Hollow Resources present an opportunity to craft unique devices and implants that channel their inherent magical properties.
 
 ## Types of Hollow Resources
 
-- **[[Therium]]**: A dark, dense material from the [[Decara]] and [[Spira]] kingdoms, known for its ability to conduct spiritual energy, making it essential for rituals and the creation of powerful artifacts.
-- **[[Photometal]]**: A unique resource from the [[Bluma]] kingdom, capable of imprinting and storing thoughts and beliefs when exposed to light, with its appearance shifting based on light exposure.
-- **[[Grame]]**: Associated with the [[Decara]] kingdom, Grame is known for its terrifying ability to consume belief and draw creatures toward decay.
-- **[[Dai and Iko Stones]]**: Paired stones from the [[Ferra]] kingdom, formed when a predator and prey die together and decay into the earth. The Dai (predator) stone is always a dull, low-value shade or tone, while the Iko (prey) stone is always a pastel, high-value tint. Each pair is attuned to its own frequency, allowing only the paired stones to communicate. Used in spiritual practices, rituals, and as tracking implants (notably in Sol Unita). The stones symbolize the eternal chase and the predator-prey dynamic, with their resonance shaped by the beliefs of the creatures involved. See [[Dai and Iko Stones]] for full details.
-- **[[Primma]] and [[Aprima]]**: Originating from the [[Celia]] kingdom, Primma is a versatile material used in construction and spiritual practices, with its purity reflecting the proximity to ascension. [[Aprima]] is its purest form, said to be a remnant of the [[Primordial]] [[Alwa]].
+- **[[Therium]]**: A dark, dense Hollow Metal of immense versatility and the cornerstone of many spiritual technologies. Formed in the feeding pits of Dar after catastrophic events, Therium contains the echo of a soul’s will, making it uniquely suited to infuse with belief and consciousness. It conducts spiritual energy and stores belief, and is the signature implant material for artificers and Pith Mechanics.
+- **[[Photometal]]**: A unique resource from the [[Bluma]] kingdom, capable of imprinting and storing thoughts and beliefs via light exposure. Its material appearance shifts under different lighting, and it is used for slates and visors that store illusions or memories.
+- **[[Grame]]**: Associated with the [[Decara]] kingdom, Grame is known for its terrifying ability to consume belief and draw creatures toward decay. It is used for lures, vials, and traps that sap resolve or attract decay-aligned creatures.
+- **[[Dai and Iko Stones]]**: Paired stones from the [[Ferra]] kingdom, formed when a predator and prey die together and decay into the earth. Each pair is attuned to its own frequency, allowing only the paired stones to communicate. Used as untraceable communicators or trackers, they symbolize the eternal chase and the predator-prey dynamic.
+- **[[Primma]] and [[Aprima]]**: Originating from the [[Celia]] kingdom, Primma is a versatile material used in construction and spiritual practices, with its purity reflecting the proximity to ascension. [[Aprima]] is its purest form, said to be a remnant of the primordial [[Alwa]]. Beads and talismans made from Primma promote healing, growth, or miraculous effects.
 
-## Importance and Use
 
-Hollow Resources are integral to the functioning of the Toman Ecoss, providing essential materials for technological innovation, spiritual practices, and economic stability. The control and trade of these resources often lead to power struggles and are key factors in the development and history of civilizations across the Toman Ecoss.
+## Narrative and Gameplay Impact
 
-Hollow Resources are created through ideology-attuned death events, often considered mass by population, or intense by emotional connection (belief event).
+Hollow Resources are integral to the functioning of the Toman Ecoss, providing essential materials for technological innovation, spiritual practices, and economic stability. The control and trade of these resources often lead to power struggles and are key factors in the development and history of civilizations across the Toman Ecoss. Their discovery can drive entire campaigns, and the quest for rare resources like Therium is often a grand adventure in itself.
+
+For players and storytellers, Hollow Resources offer not only mechanical benefits but also rich storytelling hooks: the quest for Therium, the moral choices around using Grame’s decay, the wonder of photometal’s living light, the mystery of Primma’s connection to ascension, and the symbolic weight of Dai and Iko stones. Each resource-based implant or item provides opportunities for unique relationships, moral dilemmas, and dramatic consequences. The risks of using Hollow Resources are real—Grame can erode resolve, Photometal may record curses, and the Therium implant ties a part of one’s soul to another being, with all the narrative consequences that entails.
 
 ## See Also
 

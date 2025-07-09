@@ -3,7 +3,7 @@
 
 <img src="wiki_images/Tildohsi.png"></img>
 
-**Tildohsi** is a city located in the northwest corner of the [[Clutched Forest]], serving as the capital and central [[Order]] of the [[Tildohsi Partition]] Class. The city is a testament to the resilience and ingenuity of its inhabitants, who have adapted to life in a region defined by both natural abundance and constant threat. Tildohsi is a hub of governance, culture, and magical innovation, where the ruling population of [[Huma]] and [[Automata]] work in close cooperation with [[Ferra]] and [[Celia]] to maintain a symbiotic society. The city’s survival and prosperity are closely tied to its mastery of sound magic and its ability to remain hidden from the dangers that lurk within the forest, most notably the enigmatic hand known as [[Sevfres]].
+**Tildohsi** is a city located in the western reaches of the [[Clutched Forest]], serving as the capital and central [[Order]] of the [[Tildohsi Partition]] Class. The city is a testament to the resilience and ingenuity of its inhabitants, who have adapted to life in a region defined by both natural abundance and constant threat. Tildohsi is a hub of governance, culture, and magical innovation, where the ruling population of [[Huma]] and [[Automata]] work in close cooperation with [[Ferra]] and [[Celia]] to maintain a symbiotic society. The city’s survival and prosperity are closely tied to its mastery of sound magic and its ability to remain hidden from the dangers that lurk within the forest, most notably the enigmatic hand known as [[Sevfres]].
 <!-- wiki-header-section:end -->
 
 <!-- taxonomy-table-section:start -->

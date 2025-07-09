@@ -32,25 +32,24 @@ _Add nicknames or alternative titles here_
     </tr>
     <tr>
       <td class="taxon-label"><img src="../svg/kingdom.svg" class="taxon-icon">Kingdom:</td>
-      <td class="taxon-content" colspan="2"></td>
+      <td class="taxon-content" colspan="2">[[Huma]]</td>
     </tr>
     <tr>
       <td class="taxon-label"><img src="../svg/phylum.svg" class="taxon-icon">Phylum:</td>
-      <td class="taxon-content" colspan="2"></td>
+      <td class="taxon-content" colspan="2">[[Subjectivism]]</td>
     </tr>
     <tr>
       <td class="taxon-label"><img src="../svg/class.svg" class="taxon-icon">Class:</td>
-      <td class="taxon-content" colspan="2"></td>
+      <td class="taxon-content" colspan="2">[[Hypri Highcourt]]</td>
     </tr>
     <tr>
       <td class="taxon-label"><img src="../svg/order.svg" class="taxon-icon">Order:</td>
-      <td class="taxon-content" colspan="2"></td>
+      <td class="taxon-content" colspan="2"><strong>Zaphira</strong></td>
     </tr>
   </table>
 </div>
 
-Write an introductory paragraph about Zaphira here. Summarize what the subject is and its significance within the world.
-
+<!--
 ## Main Section
 
 Write detailed content about Zaphira here, organized into appropriate sections.

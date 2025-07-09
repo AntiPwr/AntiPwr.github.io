@@ -1,7 +1,5 @@
-<!-- # Class
-_Add nicknames or alternative titles here_
+# Class
 
-<img src="wiki_images/Class.png"><i></i></img>
 
 <div class="taxonomy-table">
   <table>
@@ -38,28 +36,3 @@ _Add nicknames or alternative titles here_
     </tr>
   </table>
 </div>
-
-Write an introductory paragraph about Class here. Summarize what the subject is and its significance within the world.
-
-## Main Section
-
-Write detailed content about Class here, organized into appropriate sections.
-
-<div class="feathermark">
-    <p class="feathermark-attribution">Corvi's Feathermark</p>
-    
-</div>
-
-## Additional Sections
-
-Continue with more sections as needed.
-
-## Images
-
-<img src="wiki_images/Class_detail.png"><i>Caption describing a detailed aspect of Class</i></img>
-
-## Related Wiki Pages
-
-- [[Related Page 1]]
-- [[Related Page 2]]
-- [[Related Page 3]]

@@ -1,3 +1,4 @@
+
 <!-- wiki-header-section:start -->
 # Zothros
 
@@ -30,6 +31,15 @@
   </table>
 </div>
 <!-- taxonomy-table-section:end -->
+
+## Belief Systems: Primalism and Advancism
+
+Zothros are most commonly associated with the belief system of [[Primalism]], which emphasizes a return to primal ways, tradition, and harmony with nature. Primalism is shaped by the resonance between Huma and Ferra, with Zothros embodying the wild side of humanity and valuing instinct, ancestral wisdom, and adaptation to the natural world. Primalists are wary of unchecked technological or societal advancement, focusing instead on survival, resilience, and thriving within nature's bounds.
+
+Despite this, some Zothros—especially those with more Huma-like traits—may adopt aspects of [[Advancism]], embracing innovation, tool use, and social complexity. This creates a spectrum of beliefs within Zothros society, with many individuals and groups blending elements of both Primalism and Advancism based on their evolutionary path and environment.
+
+Primalist Zothros are often found in wild or rural regions, serving as hunters, shamans, or defenders of tradition. Advancist-leaning Zothros may act as bridge-builders between wild and civilized societies, or as innovators who adapt technology to natural contexts. The dynamic between these belief systems contributes to the rich diversity of Zothros communities across Toma.
+
 
 ## Origins and Diaspora
 

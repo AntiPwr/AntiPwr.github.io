@@ -1,6 +1,42 @@
+# Scape Wiki
+
+<!-- no-search -->
+
 # Scape Wiki 
 
 Welcome to the Scape Wiki! This document outlines the formatting and content expectations for all wiki pages. Following these guidelines ensures a consistent reading experience and helps maintain the integrity of the worldbuilding.
+
+## CSS Structure and Guidelines
+
+The Scape Wiki uses a single global stylesheet: `scape_wiki_base.css`.
+
+**This file contains all global, wiki-wide, and shared styles for the Scape Wiki site.**
+
+### CSS File Structure
+- 1. CSS Variables & Resets
+- 2. Global Layout & Typography
+- 3. Navbar, Sidebar, and Search
+- 4. Wiki Content (headings, paragraphs, images, links)
+- 5. Feathermark Styles
+- 6. Collapsible Sections
+- 7. Lightbox/Modal
+- 8. Taxonomy Table
+- 9. Responsive & Miscellaneous
+
+**Guidelines:**
+- Only add styles to `scape_wiki_base.css` that are global, wiki-wide, or shared across multiple wiki pages.
+- Do **not** add page-specific, unrelated, or experimental styles to this file.
+- Use the section comments in the CSS to keep the file organized. Add new rules in the appropriate section.
+- For page-specific or feature-specific styles, create a new, clearly named CSS file and document its purpose.
+- If you add a new global feature, add a new section and update this README.
+
+**Best Practices:**
+- Keep selectors as specific as needed, but avoid unnecessary specificity.
+- Use variables and shared color/font definitions where possible.
+- Comment any non-obvious rules or overrides.
+- Regularly review for duplicate or obsolete rules.
+
+---
 
 ## Page Structure
 
@@ -19,11 +55,11 @@ Nickname, Alternative Titles
 > "Quote from the real world"
 > —Quote Attribution
 
-Introductory paragraph that summarizes the subject. If the page title appears in the introductory paragraph, it should be bolded (e.g., **Tildohsi**).
+Introductory paragraph that summarizes the subject. If the page title appears in the introductory paragraph, it should be **bolded** (e.g., **Tildohsi**).
 <!-- wiki-header-section:end -->
 
 <!-- taxonomy-table-section:start -->
-If the page title appears in the taxonomy table, it should be bolded (e.g., **Tildohsi**)
+If the page title appears in the taxonomy table, it should be **bolded** (e.g., **Tildohsi**)
 <div class="taxonomy-table">
   <table>
     <tr>
@@ -88,6 +124,21 @@ Leave this empty unless specifically requested. Use this to stage information th
 ## Search Bar Indexing
 
 > **Note:** Only the page title (the first H1, e.g. `# Page Title`) is indexed and shown in search bar results. Nicknames, alternative titles, quotes, or any other content are not included in search results. This ensures that search suggestions are clear and unambiguous.
+
+### Excluding Pages from Search
+
+To prevent a page from appearing in the search bar or advanced taxon search, add the following tag anywhere in the page's Markdown or HTML:
+
+```
+<!-- no-search -->
+```
+
+Any page containing this tag will be completely excluded from all search results, including both the main search bar and advanced taxonomy-based search. Use this for pages that are drafts, internal documentation, meta-guides, or otherwise not intended for public discovery via search.
+
+**Best Practices:**
+- Use `<!-- no-search -->` sparingly and only for pages that should be hidden from all user-facing search features.
+- Document the reason for exclusion in a comment if it is not obvious.
+- Do not use this tag to hide spoilers or lore; use the `not-for-live-publishing` section for that purpose.
 
 ## Purpose Taxonomy
 
