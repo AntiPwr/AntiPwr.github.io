@@ -62,3 +62,9 @@ At the turn of the [[Current Line]], following the [[War of Conclusions]], the [
 - [[Sol Reformation]]
 - [[Cel Blindbirth Line]]
 - [[Endem]]
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

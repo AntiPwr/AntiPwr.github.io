@@ -65,3 +65,27 @@ Originally established as the Sipua Research Center (SRC), the city was transfor
 - [[Southcatch]]
 - [[Zothros]]
 - [[Anthros]]
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+_Sea Spring_
+
+**Bin:** [[Scape]]
+**Basin:** [[Sacrus]]
+**Eco:** [[Toma]] of [[Toman Ecoss]]
+**Kingdom:** [[Huma]], [[Anthros]], and [[Zothros]]
+**Phylum:** [[Asceptim]]
+**Class:** [[Sol Unita]]
+**Order:** **Sipua**
+
+Sipua is an Asceptim, Sol-Unita government over the Agresta region focused on resource acquisition and research. It is essentially, a jungle mission order which brings Zothros and Anthros species to Scender.
+
+
+
+
+
+
+lively, lots of biological diversity, water, sunlight, plants, ocean waterways built in. Follow a manmade southcatch principles, meant to mimic the catching principle. Coral reefs, large aquatic population. Essentially, an aquatic Scender, although the focus is not on aquatic, but all life. Scender, if the vast majority of development went into Southcatch Bay rather than the continental side of things. Generally, the continental part of Agresta are focused on agriculture and sustainable industry, with most residential and commercial work being found underwater.
+
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

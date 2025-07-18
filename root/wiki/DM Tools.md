@@ -63,6 +63,19 @@
 
 - python "C:/Users/broki/OneDrive/Desktop/Sea Level Website/AntiPwr.github.io/root/python/regen_wiki_html.py"
 
+## Gitbash | NodeJS | not_for_live_publishing_manager.js
+**Ensures every .md wiki page has a <!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+
+<!-- obsidian-pull:end --> ... <!-- not-for-live-publishing:end --> block at the end, and manages an inner <!-- obsidian-pull:start --> ... <!-- obsidian-pull:end --> section.**
+- If the not-for-live-publishing block is missing, it is created at the end of the file.
+- If the obsidian-pull section is missing, it is created inside the not-for-live-publishing block.
+- The obsidian-pull section is always updated with content pulled from your Obsidian vault (matching file names).
+- All other not-for-live-publishing content is preserved.
+- Only the obsidian-pull section is overwritten each run.
+
+- node "C:/Users/broki/OneDrive/Desktop/Sea Level Website/AntiPwr.github.io/root/js/not_for_live_publishing_manager.js"
+
 # Collections
 
 ## Wiki Update
@@ -74,5 +87,8 @@ node "C:/Users/broki/OneDrive/Desktop/Sea Level Website/AntiPwr.github.io/root/j
 node "C:/Users/broki/OneDrive/Desktop/Sea Level Website/AntiPwr.github.io/root/js/generate_taxonomy_index.js"
 node "C:/Users/broki/OneDrive/Desktop/Sea Level Website/AntiPwr.github.io/root/js/generate_cardinal_arts_index.js"
 node "C:/Users/broki/OneDrive/Desktop/Sea Level Website/AntiPwr.github.io/root/js/generate_wiki_previews.js"
+node "C:/Users/broki/OneDrive/Desktop/Sea Level Website/AntiPwr.github.io/root/js/not_for_live_publishing_manager.js"
+
+
 
 

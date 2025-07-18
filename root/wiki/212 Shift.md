@@ -49,3 +49,9 @@ The 212 Shift is celebrated by the Tildohsi people as a turning point that secur
 - [[Kleznit]]
 - [[Rasm]]
 - [[Therium]]
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

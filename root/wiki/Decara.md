@@ -1,5 +1,6 @@
 <!-- wiki-header-section:start -->
 # Decara
+_Bacteria Kingdom_
 
 <img src="wiki_images/Decara.png"><i><!--A Decara warps the ground's bacterial mass into the form of a fallen Huma through mimidry, twisting the fleshy substance until illusion and anatomy bleed into one.--></i></img>
 
@@ -65,6 +66,90 @@ The Decara’s relentless pursuit of ascension is driven by the prophecy of The 
 
 
 <!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+**Bin**: [[Scape]]  
+**Basin**: [[Sacrus]]  
+**Eco**: [[Dar]] and [[Scape (TTRPG)/1 Purpose Taxonomy/Complete Taxonomy/02 Eco/01 Toman Ecoss/02 Toma/Toma]] of [[Toman Ecoss]]
+**Kingdom**
+
+The [[Decara]] kingdom is a primordial and destructive force within the [[Toman Ecoss]]. Consisting of both archaea and bacteria, the Decara kingdom played a pivotal role in shaping the plane's history and ecology, existing since the creation of [[Scape (TTRPG)/1 Purpose Taxonomy/Complete Taxonomy/02 Eco/01 Toman Ecoss/02 Toma/Toma]].
+
+### Origin
+
+The Decara have existed since the creation of Toma, arising from the chaos and conflict of the [[Two Virus Mythos]], which tells of the primordial struggle between [[Gorisain]] and Desthema. This mythos describes the early battle for dominance that shaped the nature of bacteria and decay within Toma, leading to Gorisain's eventual dominance.
+
+### Appearance
+
+Decaran creatures are identifiable by the shade of their blood, which indicates their age:
+
+- **Newborn**: Fleshy pink, similar to human gums.
+- **Juvenile**: Bright, vivid red.
+- **Adult**: Darkened, dull red.
+- **Elder**: Deep, dark crimson red.
+- **Nesa**: Metallicized, grainy dark gray, with pockets of youthful shades.
+
+### Mimidry
+
+The Decara possess a unique form of adaptation known as [[Mimidry]], which allows them to mimic traits and physical forms of other kingdoms while retaining their bacterial composition. These rare creatures are called mimids and differ from regular [[Spira#Mimic|Mimics]].
+
+### Subdecara
+
+The Decara kingdom is further classified into several subkingdoms, each with distinct roles and functions:
+
+- [[Bluthrut]] (Bluma Mimid)
+- [[Darit]]
+- [[Defiled]]
+- [[Mimidry]]
+- [[Proto]]
+- [[Veirgo]]
+
+### Choice of Destruction
+
+Destruction is an instinctual behavior deeply ingrained in the Decara. They prioritize actions that cause maximum destruction, often targeting foundations and "Makers," such as females and plants, as these are considered primary sources of life and creation in the [[Bacillus Ascendancy]] and the teachings of [[Basilica]].
+
+### Worship of Gorisain
+
+The Decara revere [[Gorisain]], a once-mortal leader and now a [[Nesa|Nesa of Kingdoms]], as their deity. Gorisain was a war general and leader during the [[Natural War]], a time of intense conflict and transformation. The Decara believe in the prophecy of The Carrion, which foretells the ascension of an individual who will lead Gorisain into the next dimension.
+
+#### The Carrion Prophecy
+
+According to Decaran belief, the universe is fated to ascend. Gorisain nearly achieved this through a significant belief event, but he became a lesser god instead. Now, he and the Decara search for The Carrion, an individual believed to facilitate Gorisain's ascent. Gorisain aspires to enhance his ascension proficiency to control everything by becoming infinity itself.
+
+#### Decaran Tunnels and Worship Systems
+
+The Decara have built an intricate system of tunnels that serve as places of worship and are believed to be extensions of Dar, Gorisain’s body. These tunnels connect Decarans to Gorisain’s consciousness in the Soul Fields. The Decara feel a compulsion to connect with their deity through these tunnels, embodying their faith and hope for ascension.
+
+#### Ritualistic Feasting
+
+Feasting is a ritual ingrained in Decaran culture, involving the consumption of living creatures and corpses transported to the Decaran homeland. These feasts are regional events occurring twice daily, aligned with the day and night cycle. The consequences of these rituals, such as [[Natural Disasters|natural disasters]], are attributed to the inability of [[Spira]] to reach the [[Soul Well]].
+
+The consumption of corpses produces Decaran biowaste, consumed by the [[Dar#Gorrbis|Gorrbis]] of Dar, which influences growth and adaptation within Decaran society.
+
+### Domains
+
+[[Gorisain]], the Protomartyr and Nesa of the Decaran kingdom, governs the domains of suffering, bacteria, death, sin, pestilence, murder, and massacre. His influence is pervasive, shaping the destructive tendencies of the Decara and their relentless pursuit of power and control.
+
+### Legacy
+
+The Decara kingdom's influence is deeply woven into the fabric of Toma's history and ecology. Their destructive nature and devotion to Gorisain have left an indelible mark on the plane, shaping the evolution and dynamics of the kingdoms that followed. Their quest for ascension and fulfillment of The Carrion Prophecy continues to drive their actions and aspirations.
+
+
+
+
+
+
+
+
+
+
+
+As a result of having their own plane, Decaran deaths produce more variations of materials attached to the core of their beliefs. If any other creature has a plane, this happens as well.
+
+
+
+
+Decara’s Empire Function is not actually destruction. instead, it is their ideology under Gorisain that causes this. 
+<!-- obsidian-pull:end -->
 <!--
 This section is for content, lore, or discoveries that are NOT meant for live publishing to the site. 
 Leave this empty unless specifically requested. Use this to stage information that will be revealed to players later.

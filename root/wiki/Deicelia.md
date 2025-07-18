@@ -41,3 +41,9 @@ Deicelia are the pillars of Celia society, acting as both leaders and sources of
 - [[Chantae]]
 - [[Inoculation]]
 - [[Reborn]]
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+Leader mushrooms, usually massive, carrying the most spores.
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

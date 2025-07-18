@@ -84,3 +84,71 @@ Alwa’s ascension made the [[Synoptic Resource|Synoptic Resources]]:
 - [[Aprima]]
 - [[Lifesoil]]
 - [[Sky Matter]]
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+**Bin**: [[Scape]]  
+**Basin**: [[Sacrus]]  
+**Eco**: [[Scape (TTRPG)/1 Purpose Taxonomy/Complete Taxonomy/02 Eco/01 Toman Ecoss/02 Toma/Toma]] of [[Toman Ecoss]]  
+**Kingdom**: [[Resonant]], [[Primordial]] ([[Celia]], [[Huma]], [[Natura]], [[Bluma]], [[Spira]])
+**Phylum**: [[Preservus]]
+
+---
+
+### Overview
+
+**Alwa** was a towering figure among the Primordials of the [[Cel Blindbirth Line|Cel Blindbirth Line]], a being of immense power and influence across the [[Toman Ecoss]]. Alwa’s existence was marked by her insatiable hunger for growth and dominance, driven by her unique blend of essence from multiple kingdoms—primarily [[Celia]], but also [[Huma]], [[Natura]], [[Bluma]], and [[Spira]]. Her presence was so profound that it altered the very landscape of the world she inhabited, leading to significant changes in the environment and the creatures within it.
+
+### Physical Characteristics
+
+Alwa’s physical form was both terrifying and awe-inspiring. Her body was enormous, stretching across multiple continents with her many long legs, each one plunging into the oceans to anchor her vast mass. These legs served not only as physical supports but also as conduits for her influence, reaching out across the plane to draw in the beliefs and life force of the creatures she encountered. The most unsettling aspect of her appearance was her neck, which could extend from any part of her body. This serpentine appendage ended in a flat, human-like face, eerily expressionless and capable of moving independently to survey her domain.
+
+### Influence and Impact
+
+Alwa’s influence was so great that her body blocked out the sun over vast regions, particularly over [[Arkon]], creating a perpetual shadow that devastated the ecosystems dependent on sunlight. Her power was fed by the souls of the fallen, particularly the Huma who perished during the [[Taxotheir Line|Taxotheir Line]] wars. As she consumed the beliefs and essence of these beings, her power grew exponentially, making her a nearly unstoppable force.
+
+The [[Imaan Plane]] known as [[Gaia]] was formed on top of Alwa, drawing energy from the sun that she blocked out. This plane fed off her immense power, further amplifying her influence across the Toman Ecoss. Alwa’s presence also disrupted the natural order, particularly the [[Dance of Spira]], as she claimed the Spira and other souls that were meant to be guided by [[Behinyu]] and [[Never]].
+
+### Legacy and Ascension
+
+Alwa’s end came with her ascension, a process that saw her soul rise to a higher dimension, leaving behind her vast physical form. This event marked the end of the [[Cel Blindbirth Line]] and the beginning of a new era. Her remains, composed of [[Primma]] and the purest form of it, [[Aprima]], became integral to the development of various civilizations, particularly in [[Sol Unita]].
+
+Her ascension led to a significant shift in the [[Dance of Spira]], making room for the souls of [[Gaia]] and marking a profound change in the spiritual landscape of the Toman Ecoss. Alwa’s story serves as a powerful reminder of the dangers of unchecked power and the consuming nature of greed and envy, as her insatiable hunger ultimately led to her downfall.
+
+### Cultural Significance
+
+Alwa’s legacy lives on in the folklore and religious practices of various cultures within the Toman Ecoss. In [[Sol Unita]] folklore, she is often depicted as a cautionary figure, representing the destructive potential of the Celia kingdom. Stories like the **[[Reins of Alwa]]** serve as moral lessons against the unchecked pursuit of power and the consequences of disrupting the natural order.
+
+The [[Scepitath]], early founders of Asceptim, used Alwa’s story to justify their separation from the Celia Kingdom, enforcing strict laws against the use of Celia-based magic and technologies. Her influence on the world is still felt today, both in the material remnants of her body and in the cultural and spiritual practices that continue to be shaped by her existence.
+
+
+
+
+
+
+Parts of Arkon have Alwa’s remains
+
+Glimpse was made possible by the decline of Alwa, creating a small hospitable land and resource upon which the Throne of Trenjor was constructed. 
+
+Alwa’s remains can also be found in the depths of the swirling sea and various other locations around the world.
+
+maybe involve Alwa into Never’s story with Behinyu. Alwa Nevr, Always Never. maybe change name to Nevr
+
+
+
+
+
+
+
+
+
+Alwa’s ascension made the synoptic resources:
+- [[Aprima]]
+- [[Lifesoil]]
+- [[Sky Matter]]
+
+
+
+
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

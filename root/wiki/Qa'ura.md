@@ -74,3 +74,17 @@ Continue with more sections as needed.
 - [[Related Page 3]]
 
 -->
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+
+Qa'ura, often called Aura Quartz or simply Aura, is an Amphiptere serpent. This serpent is the most enigmatic of the three, with a crystalline body that refracts light in dazzling displays. Qa'ura is closely tied to the dreams of Corvi, and its presence is said to bring both enlightenment and madness. Unlike its siblings, Qa'ura's existence is deeply connected to the metaphysical realms, often associated with the dreamscapes and the intangible forces of the Toman Ecoss.
+
+
+[[Siela Qane]]
+[[Palas]]
+
+Quara is a dragonkin of the Sansari. Oasis, mirage, made of sar glass, primordial, mosaic. all drakes of Sansari look up to her as she can fly, and none of the drakes in Sansari can fly.
+
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

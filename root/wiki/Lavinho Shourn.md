@@ -138,3 +138,8 @@ Arkon, at the center of the Swirling Sea, is a staple question of life in Toma. 
 - Deus ex machina faith (Possible Development)
 - Return of Malgasta to Hacienda Band Contact (Possible reward of about 3000g)
 
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

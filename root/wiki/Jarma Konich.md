@@ -195,3 +195,22 @@ Jarma Konich draws inspiration from various sources, including:
 - [[Hidraal]]
 
 -->
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+Land Trielder, Drakemaster of [[Kautiger]]
+
+
+
+
+
+
+
+
+
+
+
+
+partnered with Fuscia Lustin, the largest drug production of drugs imported into the Chain.
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

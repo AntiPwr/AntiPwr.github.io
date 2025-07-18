@@ -45,3 +45,10 @@ Primalist Zothros are often found in wild or rural regions, serving as hunters, 
 
 The origin of Ferra-Huma resonance is traced to the [[Agraial Tribelands]], a region now known as the [[Agresta Jungle]] in the [[Current Line]]. This area was the cradle of mass resonance between Ferra and Huma, giving rise to the Zothros subkingdom. Since this foundational event, Zothros populations have experienced a diaspora, spreading to most major continents across Toma.
 
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+An Zothros is a [[Huma]] with [[Ferra]]-like traits.
+
+Zothros are spread throughout Toma but the largest population is in [[Gov'Doran]]. 
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

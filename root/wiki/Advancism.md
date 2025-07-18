@@ -1,7 +1,7 @@
 <!-- wiki-header-section:start -->
 # Advancism
 
-Advancism is a belief system naturally derived from the resonance of [[Huma]] and [[Ferra]] and directly opposes [[Primalism]]. This belief is typically held by [[Anthros]] species, influenced heavily by the intellectual direction that resonance brought them in terms of evolutionary change.
+**Advancism** is a belief system naturally derived from the resonance of [[Huma]] and [[Ferra]] and directly opposes [[Primalism]]. This belief is typically held by [[Anthros]] species, influenced heavily by the intellectual direction that resonance brought them in terms of evolutionary change.
 
 <!-- wiki-header-section:end -->
 
@@ -54,3 +54,9 @@ Advancism is not a monolithic ideology. It has many subphylums and overlaps with
 - [[Zothros]]
 - [[Asceptim]]
 - [[Sol Unita]]
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

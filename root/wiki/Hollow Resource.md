@@ -60,3 +60,42 @@ For players and storytellers, Hollow Resources offer not only mechanical benefit
 - [[Metageography]]
 - [[Toma]]
 - [[Anim]]
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+**Bin**: [[Scape]]  
+**Basin**: [[Sacrus]]  
+**Eco**: [[Scape (TTRPG)/1 Purpose Taxonomy/Complete Taxonomy/02 Eco/01 Toman Ecoss/02 Toma/Toma]] of [[Toman Ecoss]]  
+**Kingdom**: **Various** 
+
+---
+
+Hollow Resources are vital materials within the Toman Ecoss, formed through the processes of Mixture and Solution Deaths. These resources are the remnants of organic and inorganic matter that have undergone transformative deaths, leaving behind potent and highly valuable substances. Hollow Resources serve as the lifeblood of many civilizations, fueling technological advancements, spiritual practices, and economic systems.
+
+#### Formation
+
+Hollow Resources are created when large quantities of matter experience Mixture and Solution Deaths, processes that break down complex structures into simpler forms or new compounds. These transformative processes result in concentrated deposits of resources with unique properties. The specific type of Hollow Resource produced depends on the nature of the original material and the kingdom to which it belonged.
+
+#### Types of Hollow Resources
+
+- [[Therium]]: A dark, dense material from the [[Decara]] and [[Spira]] kingdoms, known for its ability to conduct spiritual energy, making it essential for rituals and the creation of powerful artifacts.
+- [[Photometal]]: A unique resource from the [[Bluma]] kingdom, capable of imprinting and storing thoughts and beliefs when exposed to light, with its appearance shifting based on light exposure.
+- [[Grame]]: Associated with the [[Decara]] kingdom, Grame is known for its terrifying ability to consume belief and draw creatures toward decay.
+- [[Dai and Iko Stones]]: Crystals from the [[Ferra]] kingdom, influenced by predator-prey dynamics, with Dai Stones being hard and used in construction, and Iko Stones being malleable and used in art.
+- [[Primma]]: Originating from the [[Celia]] kingdom, Primma is a versatile material used in construction and spiritual practices, with its purity reflecting the proximity to ascension.
+
+#### Importance and Use
+
+Hollow Resources are integral to the functioning of the Toman Ecoss, providing essential materials for technological innovation, spiritual practices, and economic stability. The control and trade of these resources often lead to power struggles and are key factors in the development and history of civilizations across the Toman Ecoss.
+
+
+
+
+
+
+
+
+
+Hollow Resources are created through ideology-attuned death events, often considered mass by population, or intense by emotional connection (belief event).
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

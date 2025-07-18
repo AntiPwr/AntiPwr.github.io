@@ -68,3 +68,9 @@ Familials are more than mere symbols—they are deeply personal. In some societi
 ## Inspiration
 
 Familials draw inspiration from real-world flags, crests, and religious insignias, but are uniquely shaped by the cultures and belief systems of the Scape world.
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

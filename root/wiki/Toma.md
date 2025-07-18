@@ -46,3 +46,43 @@ Toma's geography is unique in that it is shaped not only by physical forces, but
 Entire civilizations have risen and fallen over the control of Hollow Resources. The discovery of a rare resource like Therium can drive entire campaigns, as factions vie for its power and the spiritual economy of Toma shifts. The quest for these resources is often a grand adventure, and their use is both a blessing and a responsibility, as each carries risks and narrative consequences.
 
 Similarly, Toma's physical geography tends to be quite extreme, forming into natural and beautiful expanses and formations such as the expansive rainforests of [[Agresta|Agresta Jungle]], which are in partnership with the [[Swirling Sea]] and its wildlife. Or, the angled [[Summons Mountain Range]] mangled by the [[World Gyre]], spanning across [[Wyldere]].
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+Eco of Kingdoms, Plane of Kingdoms, Palud ([[Asceptim]]), Bantam ([[Tayim Trade Republic]]), Lau ([[Branches of Concordia]]), Sondersist ([[Parable of Silent Content]]) 
+
+**Bin**: [[Scape]]  
+**Basin**: [[Sacrus]]  
+**Eco**: **Toma** of [[Toman Ecoss]]
+
+**Toma** is a flood plane within the Toman Ecoss in the [[Sacrus]] Basin. This plane is uniquely linked to a creature's subconscious (Michael) in the [[Earthen Ecoss]] of [[Swehel]] and to [[Corvi]], who originated in the Godan Ecoss of the [[Fractal Waters]]. Toma was created by the [[Goda]], a kingdom within the Fractal Waters, and serves as the central hub for the surrounding planes.
+
+# Toman Planes
+
+The Toman Planes comprise all planes accompanying Toma's [[Scape#Openscape| Openscape]]:
+
+- [[Scape (TTRPG)/1 Purpose Taxonomy/Complete Taxonomy/02 Eco/01 Toman Ecoss/02 Toma/Toma]]
+- [[Soul Fields]]
+- [[Imaan Plane|Imaan Planes]]
+
+### Fated Plane
+
+The fate of Toma, as dictated by the unique nature of its creation and existence within [[Sacrus]], is a complex interplay of the forces established by the [[nth Creator]] and the [[1st Creator]]. These entities, representing laterality and linearity, have shaped the principles of fate within the [[Scape]], creating a multidimensional environment where perception and reality are intricately woven.
+
+
+
+
+Geography
+
+Massive scale natural formations
+
+Sanctan Coast
+
+![[IMG_6193.jpeg]]
+
+
+
+
+the world gyre is trying to turn the plane into a sphere.
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

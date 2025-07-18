@@ -71,3 +71,10 @@ Continue with more sections as needed.
 - [[Related Page 2]]
 - [[Related Page 3]]
 -->
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+
+Describes the social or communal structures within civilizations, focusing on connections and groupings that influence identity and purpose. The size of the family or community is determined by a creature’s intelligence..
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

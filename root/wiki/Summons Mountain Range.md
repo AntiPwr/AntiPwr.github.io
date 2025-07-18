@@ -72,3 +72,10 @@ Continue with more sections as needed.
 - [[Related Page 1]]
 - [[Related Page 2]]
 - [[Related Page 3]]
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+
+The Summons is an [[Dance of Spira#Mountains and Trenches|angled mountain range]] surrounding the north of [[Vokar]], [[Gaunte Lake]],  and spanning across the entire continent of [[Wyldere]].
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

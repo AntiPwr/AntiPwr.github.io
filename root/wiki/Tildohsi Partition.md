@@ -67,6 +67,19 @@ Advancist Ferra, known for their construct enhancements, serve as Worg riders an
 - [[Celia]]
 
 <!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+Advancist Ferra
+
+Construct + Ferra for use of advancism. Worg riders with construct aspects to them. Beast Masters + Constructs in a dark forest area that opens up into the plains they control. The Tildohsi survives through taxation. They survive despite being weaker than delta by retreating to the Clutched Forest, in which they are protected by [[Sevfres]]
+
+Huma and Automata Class
+
+Journalism and written language is the primary form of communication. Dedication to truth is fostered by shared hatred for the Chain of Delta. Dedication to silence is cause by the existence of Sevfres, who can feel vibrations in the air and ground. People typically whisper on the outer edge of the [[Clutched Forest]], where [[Tildohsi]] is. They also utilize sound proofed underground rooms and buildings to communicate at a regular or even loud volume. 
+
+The Tildohsi Partition formed primarily due to the ancient teachings of sound magic. This liberation movement acted silently (through the forbidden practice of unregulated magic) within the Chain of Delta. 
+
+[[Delta]]
+<!-- obsidian-pull:end -->
 <!--
 This section is for content, lore, or discoveries that are NOT meant for live publishing to the site. 
 Leave this empty unless specifically requested. Use this to stage information that will be revealed to players later.

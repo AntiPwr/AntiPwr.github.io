@@ -145,3 +145,39 @@ Notably, Fuscia Lustin does not know that Sea Trielder Ximena Lathen and Lady Le
 - [[Esteran Leredith]]
 
 -->
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+
+
+Lady Athen (Public perspective), Lady Leredith ([[Esteran Leredith]]), Queen of [[Heshiu]] ([[Esteran Leredith]]), Sea Trielder ([[Hypri Highcourt]]), Drakemaster of [[Lopali]]
+
+Ximena Lathen is of the same lineage as Sanmica.
+
+Ximena Lathen is one of few people able to bitch Fuscia Lustin due to her power. Fuscia Lustin does not know that the Sea Trielder and Lady Leredith are the same people. Fuscia Lustin has a great deal of respect for Lady Leredith's position of power, but would do anything to stand on top of her grave.
+
+Ximena Lathen's public robed appearance changes with each line, changing with the waters of [[Heshiu]]
+
+Ximena Lathen does not claim her Concordian Lineage because she does not think they are the same lineage anymore. Their split political nature has driven her to see them as separate from her, hence her ways of protecting Heshiu and not letting Huma in, especially the Concordian Huma Heshiu was designed for in the first place. She believes that Huma will ruin its perfect state, crumbling its belief structure. If Concordian Huma were to prove themself, maybe she would let them in.
+
+Athen is a made up last name to be given to the public eye, made from her real last name with the L removed. This simple decision washed away her origin with the Esteran Leredith, and in turn, the Concordian people. This is to keep the perfect Imaan Plane that is [[Heshiu]]. This is similar to all the sisters last names, except this one was made to isolate Ximena, where as the other sister's last names were created to fit in.
+
+In the public eye, Ximena Lathen goes by Lady Athen, nobody except her sisters know her first name.
+
+Queen of the Pearl Imaan Plane of Heshiu, Drakemaster of Lopali
+
+
+
+
+
+
+
+
+
+Ximena Lathen plans to dig out the sea of presence deeper so that lichen can exist everywhere, essentially Heshiu imperialism. a perfect world.
+
+
+
+
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

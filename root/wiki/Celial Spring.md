@@ -51,3 +51,9 @@ Celial springs are often featured in local folklore as places of both healing an
 - [[Clutched Forest]]
 - [[Celia]]
 - [[Ferra]]
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

@@ -55,3 +55,9 @@ Vokar’s people are shaped by the land’s abundance and challenges. Settlement
 - [[Sable]]
 - [[Summons Mountain Range]]
 - [[Chain of Delta]]
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+Vokar is a snowy plains region in northwest [[Wyldere]]. This region is home to the largest mountains in the [[Summons Mountain Range|Summons Range]].
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

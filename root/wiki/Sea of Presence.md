@@ -47,3 +47,18 @@ The Sea of Presence is a symbol of abundance, opportunity, and connection. Its s
 - [[Sancta]]
 - [[Usaka]]
 - [[Theologia]]
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+A bountiful sea in the southwest of Toma, off the coasts of [[Sancta]], [[Usaka]], and [[Theologia]]
+
+
+### Eternal Straits
+
+The Eternal Straits are the four waterways which lead from the [Swirling Sea](https://docs.google.com/document/d/10D8PXlLEv_uIfwx1kJW3_zZX4TS_wvqO_dKRv0IMuXc/edit#heading=h.nbr97a6x44em) to the [Sea of Presence](https://docs.google.com/document/d/10D8PXlLEv_uIfwx1kJW3_zZX4TS_wvqO_dKRv0IMuXc/edit#heading=h.pjybkakhz26g).
+
+#### Trader's Tollway
+
+Trader's Tollway is the southernmost of the Eternal Straits. This waterway is taxed by the Tayim Trade Republic
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

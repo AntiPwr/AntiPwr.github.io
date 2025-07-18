@@ -36,3 +36,15 @@
     </tr>
   </table>
 </div>
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+Classes (plural)
+ 
+ Classes are planar governing bodies, which may or may not fall under a Phylum (see [[Purpose Taxonomy#Exception-Branching|Exception-Branching]]). Class is next to [[Phylum]] in [[Purpose Taxonomy]]
+
+# Subclass
+
+A subclass is a branch of government of a separate entity but related political philosophy.
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

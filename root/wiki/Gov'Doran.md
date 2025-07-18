@@ -43,3 +43,37 @@ taxonomy-table-section:start
   </table>
 </div>
 -->
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+Steel Jungle, Snowforest
+
+[[Anthros]] and [[Zothros]] mainly. Prey are the sheep of society. Predators are the decision makers. predator and prey disagree due to [[Primalism and Advancism]]. delicate balance in society.
+
+The Class that governs Gov'Doran is called [[Yevnijn Tres]]
+
+
+
+Gov'Doran has a large betting and Huma fighting scene (Huma Resonant as well, but never any other type of creature without consent to participate),  fighting as well as a mixed martial arts traditional competition called [[Snofut]]. Essentially, it is a 1v1 unclothed fight to the death in a snowy environment, where you can't throw any strikes or kicks on the inside of the body. This means all attacks must come from the left or right of the individual. The only exception is if a hand is touching the ground, you can throw a kick in any direction. All attacks must come from the left or right. Grappling can occur at any time and punches can be thrown on the ground. The fighters have an incredible use of torque and power, being able to change direction with ease through momentum. You may not poke the eyes, bite, but you may headbutt, and hit in the groin. For this reason, many serious fighters get castrated. These fighters are extremely battle hardened and respected.
+
+Snofut has two types of competitors, predator or prey. In a predator vs predator match, it is a 1v1 duel as mentioned. In a prey vs prey match, it is a relay race. In a predator vs. prey match, it is a game of tag where the predator has to try and catch the prey and bring him into submission, there is no striking in this event, only grappling.
+
+People in Gov'Doran smoke using a 
+
+
+
+Gov'Doran has a strong education system reliant on building a strong and versatile military oriented society. Being in the military is an extremely respected position. Very fit, intelligent, tactical, prideful of their government.
+
+The Gov'Doran are very resilient due to facing constant wars and surviving in their homeland. They are also a very funny people, due to being in constant wartime, humor as an art became extremely popular as a coping mechanism. Comedians (and generally artists) are a respected people. The Gov'Doran people tend to criticize a lot, anything to make someone laugh. This tends to offend a lot of people, but deep down the Gov'Doran people mean no harm, it is simply their culture. There is complete free speech. 
+
+Whenever there has been conflict within Gov'Doran, a common enemy has always appeared to turn the attention of the people. It tends to be the youth that try to break this tradition, effectively dividing the people by trying to promote change. This is do to the nature of free thinking and education which appeals to change. The people are generally very happy following wartime, and are very productive during wartime, as they tend work as a unit. However, due to ideas of Primalism and Advancism, the population is becoming polarized.
+
+
+
+
+![[IMG_6038.jpeg]]
+
+
+Gov'Doran has feigned liberty, but are ultimately ruled by the Chain of Delta's power on the continent of Wyldere, excluding the [[Sable Mountain Range|Sable Region]]. 
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

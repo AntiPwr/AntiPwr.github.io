@@ -64,3 +64,78 @@ As Hollow Resources, Dai and Iko Stones are profoundly shaped by the beliefs of 
 - [[Mohrsmünt]]
 - [[Amarvena]]
 - [[Mythos of the Endless Hunt]]
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+**Bin**: [[Scape]]  
+**Basin**: [[Sacrus]]  
+**Eco**: [[Scape (TTRPG)/1 Purpose Taxonomy/Complete Taxonomy/02 Eco/01 Toman Ecoss/02 Toma/Toma]] of [[Toman Ecoss]]  
+**Kingdom**: [[Ferra]]  
+**Phylum**: [[Mohrsmünt]] ([[Apex and Praeda#Apex|Apex]]) and [[Amarvena]] ([[Apex and Praeda#Praeda|Praeda]])
+
+**Dai and Iko Stones** are a unique **[[Hollow Resource]]** displaying the dichotomous relationship of , the, originating from [[Mohrsmünt]] and [[Amarvena]]-aligned Ferran death events. The stones themselves embody the [[Dai'iko|Dai-Iko]] relationship of [[Apex and Praeda]]. 
+
+Found as a corpse pair (one prey, one predator) lowers into the ground and decays into a deeper layer of stone. Many unique instances in which this can occur. A prey tricks a predator into death. Both die in a chase of some sort, etc.
+
+### Formation and Resonance
+
+The stones are formed through the process of **[[Mixture Death]]**, where the collective beliefs and characteristic functions of the deceased Ferran creatures influence the resulting material. As a Hollow Resource, the Dai and Iko Stones are not only shaped by the physical decay but also by the resonance of the Ferra kingdom and the deep-seated beliefs of the creatures involved. This resonance is heavily influenced by the two primary phyla, **[[Mohrsmünt]]** (Apex) and **[[Amarvena]]** (Praeda), considered sister phyla, which shape the predator-prey dynamics embodied in these stones.
+
+### Properties and Usage
+
+Dai and Iko Stones have the remarkable ability to communicate vibrations when placed within the same medium, symbolizing the interconnectedness of predator and prey. This property is utilized in various spiritual practices, communication devices, and rituals within the Ferra kingdom. The stones' dual coloration reflects the eternal chase between Dai and Iko, with the balance of power subtly weighted towards the predator.
+
+### Cultural and Symbolic Significance
+
+These stones are deeply embedded in the cultural and religious practices of the Ferra kingdom, particularly in the context of the **[[Mythos of the Endless Hunt]]**. They serve as physical manifestations of the predator-prey dichotomy, reminding the Ferran creatures of the natural order and the constant struggle for survival. The beliefs of the stones are strongly shaped by the philosophies of **Mohrsmünt** and **Amarvena**, reinforcing their role in the predator-prey narrative.
+
+### Hollow Resources and Unique Beliefs
+
+As Hollow Resources, Dai and Iko Stones are profoundly affected by the beliefs of the creatures that died to create them. This means that the stones carry a unique essence that cannot be easily replicated. If a significant event, such as the fall of an **[[Imaan Plane]]**, were to occur, leading to mass deaths, a new Hollow Resource could emerge, infused with the specific beliefs and resonances of those who perished. Such a resource would be nearly impossible to reproduce, adding to its rarity and value within the Toman Ecoss.
+
+
+
+
+
+
+
+
+
+Dai - Predator - The Dai stone can appear as and dull, low value, shade/tone, paired with the Iko stone, but separated by volume and never intermingling. Essentially, the two masses of stone border each other forming amazing natural art displays, where there is never a piece of stone completely encircled.
+Iko - Prey - The Iko stone can appear as any pastel color.
+
+Dai stone always know the direction of the Iko stone. Iko always feels the proximity of the Dai.
+These stones grow in patches underground containing two colors that never touch. 
+
+These stones come in pairs, where two colors complement. The prey stone is always pastel (high value, tint). The predator stone is always dull (low value, shade/tone). These stones only communicate to their one pair. Essentially, each batch is its own frequency.
+
+
+Dai and Iko stones specifically form when a predator and prey die next to each other. It has to do with Apex and Praeda belief system.
+
+In Sol Unita, Dai and Iko Stones are used as implants to track people. The Dai stone goes to the government and the Iko stone to the individual being tracked.
+
+If the Dai stone is destroyed, the Iko stone will know, and (based on the will) the creature will be inclined to find it so that it can die with it. If the Dai stone is destroyed, the Iko stone will fall out of the creature’s body upon being near its sister stone.
+
+If the Iko stone is destroyed, the Dai stone will know, and (based on the will) the creature will be inclined to find it so that it can finish the hunt. The Dai stone will remain inert within the body of the implanted creature, and the will returned, upon completion of the hunt.
+
+
+
+
+The Dai and Iko Stones only form when the Praeda-aligned Ferra returns to the Apex-aligned creature upon its death to die alongside it.
+
+The Dai and Iko Stones represent a relationship between Apex and Praeda, two participants in the eternal hunt, where Praeda is in love with Apex (out of coping, a need to reduce suffering, and separating oneself from a victim complex). Apex, however, is remorseless and ravenous. Apex and Praeda are both depicted as females, however, their physical forms are dependent upon the other. For example, if Apex is depicted as a wolf, Praeda may be a hare, or another similar predator-prey relationship. Apex and Praeda are often depicted as many animals, and it is more so about the spirit inside that represents them, reincarnating into different bodies to return to the same chase.
+
+For Apex, each reincarnated life is a chance to improve her skills, to be used on Praeda, whereas Praeda sees each reincarnated life as a chance to one day stop the hunt and have Apex love her. This relationship is considered unrequited for Apex and Sapphic for Praeda.
+
+Apex and Mohrsmunt turn situate the hunt as a game with a chance to get better each time. Within this faith, there are lots of theories of natural selection putting pressure on the predator side of creatures. Amarvena situates the world as a game as well, with Apex's love being the final goal, or really any predator's (from the perspective of the prey) love being the final goal. 
+
+It is important to note that not all animals follow this belief set, but it is the most widely practiced.
+
+
+
+
+
+A Dai and Iko Stone upgraded variant. The Dai grants move speed toward the Iko. The Iko grants advantage to perception checks to find the Dai.
+
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

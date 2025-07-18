@@ -1,10 +1,31 @@
 <!-- wiki-header-section:start -->
 # Belief
 
-In the [[Toman Ecoss]], belief is not just a concept; it is a perceivable force that shapes reality. It manifests in various forms, such as faith, desire, knowledge, and instinct.
+In the [[Toman Ecoss]], belief is a perceivable force that shapes reality. It manifests in various forms: faith, desire, knowledge, and instinct.
 
 <!-- wiki-header-section:end -->
 
+<!-- taxonomy-table-section:start -->
+<div class="taxonomy-table">
+  <table>
+    <tr>
+      <th colspan="3">Purpose Taxonomy</th>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="../svg/bin.svg" class="taxon-icon">Bin:</td>
+      <td class="taxon-content" colspan="2">[[Scape]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="../svg/basin.svg" class="taxon-icon">Basin:</td>
+      <td class="taxon-content" colspan="2">[[Sacrus]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="../svg/eco.svg" class="taxon-icon">Eco:</td>
+      <td class="taxon-content" colspan="2">[[Toman Ecoss]]</td>
+    </tr>
+  </table>
+</div>
+<!-- taxonomy-table-section:end -->
 
 
 ### Understanding Belief
@@ -18,7 +39,7 @@ Belief in Toma acts as a multifaceted resource, forming the basis of creation an
 
 ### Creation of Belief
 
-Belief is generated in the material realm through a creature’s brain, through a unique connection to the [[Pith]]. This belief is then expressed as an aura around a creature, known as a [[Belief Pool]], forming the basis of comparison from the individual and the environment. Belief pools are further explored later in the [[Belief#Belief Pools|Belief Pools]] section.
+Belief is generated in the material realm through a creature’s interaction with their environment, enabled by the [[Pith]] and its unique connections to other organs. This belief is then expressed as an aura around a creature, known as a [[Belief Pool]], forming the basis of comparison from the individual and the environment. 
 
 ### Belief as a Tangible Force
 
@@ -69,3 +90,76 @@ Belief provides a justification for interactions and environmental changes:
 - **Sensing Power**: Characters can sense the power of other creatures through their belief pools.
 - **Social Dynamics**: Perceptions influence social interactions, with strong belief pools causing reactions like reverence, intimidation, or distrust.
 - **Environmental Influence**: The cumulative effect of belief pools can alter surroundings, subtly shaping the environment to reflect prevailing beliefs.
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+**Bin**: [[Scape]]  
+**Basin**: [[Sacrus]]
+**Eco**: [[Toman Ecoss]]
+
+In the [[Toman Ecoss]], belief is not just a concept; it is a tangible force that shapes reality. It manifests in various forms, such as faith, desire, knowledge, and instinct, each serving a crucial role in the lives of Toma's inhabitants and their magical abilities.
+
+### Understanding Belief
+
+Belief in Toma acts as a multifaceted resource, forming the basis of creation and interaction within the Scape. Its various forms include:
+
+- **Desire**: Channeling raw emotions and personal wants.
+- **Faith**: Drawing strength from religious or spiritual convictions.
+- **Knowledge**: Utilizing understanding and wisdom.
+- **Instinct**: Relying on gut feelings and primal urges.
+
+### Creation of Belief
+
+Belief is generated in the material realm through a creature’s brain, through connection with the core. This belief is then expressed as an aura, forming the basis for their interactions with the world around them.
+
+### Belief as a Tangible Force
+
+1. **Dynamic Interaction**:
+    - Belief is not static; it dynamically interacts with the environment and individuals, shaping and being shaped by the surrounding belief systems.
+2. **Personal Reflection**:
+    - Belief reflects the inner psyche of a creature, revealing hidden aspects and providing a path for character development and exploration.
+
+### Role in the Toman Ecoss
+
+Belief serves as a foundation for various aspects of life and magic in Toma, influencing how inhabitants interact with their world and each other. Its role includes:
+
+1. **Cultural Significance**:
+    
+    - Different cultures place varying levels of importance on belief, seeing it as a divine gift or a force requiring regulation.
+2. **Community Dynamics**:
+    
+    - Belief influences community cohesion and structure, impacting leadership and social hierarchies.
+3. **Strategic Layer**:
+    
+    - Players can strategically manage their beliefs to unlock new abilities, alliances, and insights as they align with certain beliefs or cultural norms.
+
+### Connection with Anima
+
+Belief directly influences the flow and potency of [[Anim]], the essence of life and magic in Toma. As belief grows stronger, so does the anima, enabling inhabitants to perform extraordinary feats tied to their convictions.
+
+### Belief Pools
+
+In the Toman Ecoss, every living creature radiates an aura known as a [[Belief Pool]] or Conviction Aura from their [[Common Anatomy#The Core|Core]]. These pools are extensions of a creature's mind and are shaped by the beliefs and perceptions of the world and others.
+
+1. **Nature of Belief Pools**:
+    
+    - Belief pools are gradually formed through perceptual intake and cognitive processes, reflecting how a creature is perceived by those around them.
+2. **Interaction with Spira**:
+    
+    - In the [[Soul Fields]], Spira may be drawn to belief pools, feeding off the aura of belief generated by the individual's core.
+3. **Potency and Duration**:
+    
+    - The influence of a belief pool varies with the strength of the beliefs it absorbs, growing more potent and influential with consistent reinforcement.
+4. **Environmental and Mental Influence**:
+    
+    - Belief pools can subtly alter the environment and influence the minds of those nearby, shaping interactions and perceptions in noticeable and imperceptible ways.
+
+### Role in Gameplay
+
+Belief provides a justification for interactions and environmental changes:
+
+- **Sensing Power**: Characters can sense the power of other creatures through their belief pools.
+- **Social Dynamics**: Perceptions influence social interactions, with strong belief pools causing reactions like reverence, intimidation, or distrust.
+- **Environmental Influence**: The cumulative effect of belief pools can alter surroundings, subtly shaping the environment to reflect prevailing beliefs.
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

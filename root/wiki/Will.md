@@ -74,3 +74,9 @@ Will is central to the metaphysics of Toma, reflecting the struggle to maintain 
 - [[Anim]]
 - [[Merchant System]]
 - [[Whisper of the Well Information]]
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

@@ -76,6 +76,37 @@ Magic in **Arkon** is volatile and unpredictable due to the high concentration o
 - [[Bedlam]]
 
 <!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+**Bin**: [[Scape]]  
+**Basin**: [[Sacrus]]  
+**Eco**: [[Scape (TTRPG)/1 Purpose Taxonomy/Complete Taxonomy/02 Eco/01 Toman Ecoss/02 Toma/Toma]] and [[Ka'Vit]] of [[Toman Ecoss]]
+
+**Arkon**, once a thriving continent, is now a region steeped in mystery and peril, heavily influenced by the enigmatic presence of [[Never]], the Arbiter. This continent is known for its unique interaction with the [[Spira]] and the [[Dance of Spira]], affecting the very fabric of Toma. At its heart lies Ka'Vit, a [[Imaan Plane|Peak Plane]] also known as the *Soul Tribunal*, where Never exerts his dominion.
+
+### Geography and Regions
+
+Arkon is divided into several regions, each with distinct properties and environments. These regions, from outer to inner, are named [[Ingress]], [[Soina]], [[Bedlam]], and [[Ka'Vit]]. The further inward one ventures, the more intense the anima and spiritual activity become, posing increasing challenges to those who traverse the land.
+
+### Influence of Never
+
+While Never's primary influence is centered in the Soul Tribunal of Ka'Vit, his presence extends across all of Arkon. As the Arbiter, Never oversees the judgment of souls, guiding them through the complex spiritual landscape of the continent. His influence is reflected in the Dance of Spira, which affects Arkon’s natural and spiritual environments.
+
+### Ka'Vit: The Soul Tribunal
+
+Ka'Vit, located at the heart of Arkon, is a Peak Plane known as the Soul Tribunal. It serves as the ultimate judgment ground for souls seeking passage through the spiritual realms. Within Ka'Vit, Never presides over the fate of souls, determining their path based on the purity of their belief and actions. The region is known for its surreal landscapes and intense spiritual energy, drawing souls from across the Toman Ecoss.
+
+### The Dance of Spira
+
+Arkon plays a crucial role in the Dance of Spira, a natural rotation of souls that influences the physical and spiritual aspects of Toma. This dance impacts wind patterns, ocean currents, continental shifts, and resource formation, creating a dynamic and ever-changing environment. Spira released by Never and guided by [[Behinyu]] are sent to support sources of belief, providing essential anima. Should they lose their belief source, they travel with the World Gyre toward the plane's edge, risking [[Mixture Death#Solution Death|Solution Death]] if no new source is found.
+
+### Magic and Anima
+
+Magic in Arkon is volatile and unpredictable due to the high concentration of anima-seeking Mindless Spira. The deeper one travels into Arkon, the more unstable magic becomes, posing risks of surges that can overwhelm unprepared creatures. To navigate Arkon safely, travelers must protect their belief pools and maintain mental fortitude against the Spira's influence.
+
+### Significance and Legacy
+
+Arkon's transformation from a thriving continent to a region of spiritual complexity underscores the dynamic nature of Toma's planes. As a focal point of spiritual activity and judgment, Arkon continues to play a crucial role in shaping the beliefs and destinies of Toma's inhabitants, ensuring the ongoing balance between the material and spiritual realms.
+<!-- obsidian-pull:end -->
 <!--
 This section is for content, lore, or discoveries that are NOT meant for live publishing to the site. 
 Leave this empty unless specifically requested. Use this to stage information that will be revealed to players later.

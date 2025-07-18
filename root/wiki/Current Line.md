@@ -51,3 +51,13 @@ Continue with more sections as needed.
 - [[Related Page 1]]
 - [[Related Page 2]]
 - [[Related Page 3]]
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+(The line I am on right now)
+The current timeline
+
+
+Possibly, Metargamag Line, Armaug Line, Resurthem Line
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

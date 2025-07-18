@@ -30,3 +30,9 @@ Critical Hits Revisited is a homebrew rule set designed to expand and enhance th
   </table>
 </div>
 <!-- taxonomy-table-section:end -->
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

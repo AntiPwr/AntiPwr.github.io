@@ -37,3 +37,12 @@ It is from Endem, Huma lineages, as they are now known, arrived upon the surface
 [[Wylderan Huma Lineage]] (Deltan Lineage)
 [[Usakan Huma Lineage]]
 [[Theologian Huma Lineage]]
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+
+The subterranean world of Toma and the middle layer between Toma and Dar.
+
+Named after the word endemic for the relationship between population decline and this region. 
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

@@ -156,3 +156,50 @@ As an eastern power relatively distant from the central conflicts of Toma, Usaka
 - [[High Dweller]]
 
 -->
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+Grass blanket over sparse spire like mountains and plains. These spires are filled with a [[Hollow Resource]] that attracts the flow of [[Spira]]. 
+
+[[Sibannac]] is the single soul that controls the largest grass of Usaka.
+
+
+
+  
+Soil Inn
+
+'Nother planted foot,
+oh, Mother treats you
+to the Soil inn!
+How nice it is,
+might I pour your gin?
+So you are with no reminder
+of back when...
+back when you last fell
+for the continental;
+the carpet skin.
+
+Oh, that green, carnivorous grin!
+How well she hid your been-days.
+And quite sharp she bespoke, 
+but ever so soft did she lie:
+     "run, wait, hide...
+      I'll not let you win.
+      It's all good fun
+      in the Soil Inn,
+      where wind is all your asking
+      when the life before you
+      withers—
+      thin, thin, thin.
+      I am everywhere 
+      akin to my bounty blades,
+      and everywhen.
+      I am afraid,
+      I never run too
+      
+
+
+
+
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

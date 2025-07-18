@@ -47,3 +47,9 @@ Each major Line in the [[Toman Ecoss Timeline]] is separated by a Gyre Shift. Th
 - [[Toman Ecoss Timeline]]
 - [[Dance of Spira]]
 - [[Lines (Toma)]]
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+The Gyre Shift refers to the change in rotation of the [[World Gyre]], signifying the end of a Line.
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

@@ -47,3 +47,40 @@ Imaa acts as a clear sign of an impending shift within the Omnis, signaling that
 
 Eschatology
 -->
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+Eco Imaa, Planar Imaa, endgame
+
+Imaa is a [[Godoan]] term that translates to "endgame," and it describes a state of extremism that a plane experiences as it approaches its ultimate conclusion. This period serves as a universal indicator of the impending death or transformation of a plane, akin to the conclusion of a [[Bin|Bin]] or a [[Hollow Purpose|Holoscape]].
+
+### Characteristics of Imaa as a Planar Event
+
+1. **Sign of Transformation**: Imaa marks the point where a plane undergoes significant changes as it nears its end. This transformation often involves heightened activity, conflicts, or natural phenomena that reflect the plane's inherent themes and challenges.
+    
+2. **Extremism**: During Imaa, the forces within a plane reach their peak, pushing the boundaries of the plane's stability. This state of extremism can manifest in various forms, such as intensified weather patterns, increased magical activity, or dramatic shifts in the plane's ecosystem.
+    
+3. **Culmination of Forces**: The forces and entities within the plane experience a convergence of energy, leading to a climax of events that drive the plane towards its resolution. This culmination often highlights the core dynamics and conflicts present within the plane.
+    
+
+### Role of Imaa in the Universe
+
+- **Indicator of Change**: Imaa acts as a clear sign of an impending shift within the Omnis, indicating that a plane is nearing its end and preparing for transformation or dissolution.
+    
+- **Driver of Evolution**: The intensity and extremism of Imaa propel the plane and its inhabitants toward adaptation and change, fostering resilience and evolution in response to the approaching conclusion.
+    
+- **Reflection of Universal Themes**: Imaa amplifies the themes and conflicts that define the plane, offering insights into the broader dynamics at play within the universe and highlighting the interconnectedness of all planes.
+    
+
+### Related Concepts
+
+- **[[Soul Imaa]]**: The term Imaa can also apply to souls, indicating a state of extremism and transformation in a soul's journey.
+    
+- **[[Hollow Purpose|Holoscape]]**: Imaa is similar to the Holoscape, which marks the death or transformation of a bin within the Scape.
+
+
+
+
+
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

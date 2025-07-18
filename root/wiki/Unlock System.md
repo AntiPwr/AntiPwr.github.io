@@ -27,3 +27,9 @@ Once these are unlocked, they will be listed in their respective sections below:
 ## Unlocked Feats
 
 ## Unlocked Magic Items
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

@@ -59,3 +59,9 @@ The Blue Manrotter is infamous for its seductive and deadly properties: those we
 - [[Celia#Subcelia]]
 - [[Tildohsi Partition]]
 - [[Celial springs]]
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

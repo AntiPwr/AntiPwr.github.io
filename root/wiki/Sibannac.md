@@ -213,3 +213,39 @@ Sibannac draws inspiration from various sources, including:
 
 
 -->
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+Usakan Growth
+
+![[Pasted image 20250414095530.jpg]]
+
+Jade + Grass
+
+Carnivorous Grass
+
+Jaded from owning the entire content, lack of motivation, wanting more. 
+
+consumes anyone who gets lost in her grass after they pass out of exhaustion. only kills people in their sleep or after they die.
+
+From above you can see people walking in the grass easily because the grass grows around one’s soul blocking their vision. This makes the creature lost although they technically are not far from being away from the tall grass.
+
+occasionally, Sibannac may commune with the players (cause a belief event) and reveal.
+
+
+people throw bodies (funeral) off of [[Hypri]] as an offering to Sibannac. this is different from regular waste removal because it is ceremonialized.
+
+Sibannac is one of many gods worshipped in Hypri. Hypri is a multicultural center with many sets of beliefs. The native population are called [[Dweller]]s. 
+
+
+
+
+
+
+
+
+
+
+
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

@@ -73,6 +73,30 @@ The Living Toman Ecoss refers to all planes within the Ecoss except the Soul Fie
 - [[Nesa]]
 
 <!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+The Toman Ecoss encompasses all planes of creation by [[Zlellis and O'nume]], forming a complex and interconnected web of existence within the [[Sacrus]] Basin. The Ecoss includes the [[In-between]], a fabric of the universe that allows for further creation and expansion of planes from Toma's origin.
+
+#### Key Components
+
+- **[[Scape (TTRPG)/1 Purpose Taxonomy/Complete Taxonomy/02 Eco/01 Toman Ecoss/02 Toma/Toma]]**: The central hub of the Ecoss, an anomalous flood plane linked to multiple dimensions and beings.
+    
+- **[[In-between]]**: A cosmic fabric enabling the creation and connection of planes, serving as a bridge between realms.
+    
+- **[[Soul Fields]]**: A spiritual plane where souls and [[Nesa]] reside, influencing the beliefs and actions of the living.
+    
+- **[[Imaan Plane]]**: Various realms existing alongside Toma, each with unique influences and roles:
+    
+    - [[Arkon]]
+    - [[Dar]]
+    - [[Gaia]]
+    - [[Cadence]]
+    - [[June Preserve]]
+    - [[Glimpse (Order)|Glimpse (Order)]]
+
+#### Living Toman Ecoss
+
+The **Living Toman Ecoss** refer to the entire Ecoss except the Soul Fields.
+<!-- obsidian-pull:end -->
 <!--
 This section is for content, lore, or discoveries that are NOT meant for live publishing to the site. 
 Leave this empty unless specifically requested. Use this to stage information that will be revealed to players later.

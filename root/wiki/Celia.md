@@ -1,6 +1,6 @@
 <!-- wiki-header-section:start -->
 # Celia
-_Pliants (Taxotheir)_
+_Fungal Kingdom, Pliant ([[Taxotheir Line]])_
 
 Celia are fungi-like entities believed to have emerged before Huma history. They embody the transformative power of decomposition and, under [[Purpose Taxonomy]], are considered the kingdom of rebirth. Celia play a crucial role in maintaining the plane's balance by recycling biowaste and enabling the cycle of decay and renewal.
 <!-- wiki-header-section:end -->
@@ -20,37 +20,32 @@ Celia are fungi-like entities believed to have emerged before Huma history. They
       <td class="taxon-content" colspan="2">[[Sacrus]]</td>
     </tr>
     <tr>
+      <td class="taxon-label"><img src="../svg/eco.svg" class="taxon-icon">Eco:</td>
+      <td class="taxon-content" colspan="2">[[Toma]] of [[Toman Ecoss]]</td>
+    </tr>
+    <tr>
       <td class="taxon-label"><img src="../svg/kingdom.svg" class="taxon-icon">Kingdom:</td>
-      <td class="taxon-content" colspan="2"><strong>Celia</strong></td>
+      <td class="taxon-content" colspan="2"><b>Celia</b></td>
     </tr>
   </table>
 </div>
 <!-- taxonomy-table-section:end -->
 
-## Subcelia
-- [[Reborn]]
-- [[Conscelia]]
-- [[Deicelia]]
-- [[Locelia]]
-- [[Hallid]]
-- [[Clol]]
-
 ## Mentality and Chantae
 Mentally, the Celia are Chantae—meaning their will is not individual, but collective. Chantae is the omnipresent mind behind the Celia Kingdom, experienced through countless fungal hosts. She is not a ruler or being, but a reality for those under her influence: an inescapable way of life, filled with fulfillment and the absence of personal will.
 
-### Chantae: Goddess of Celia
+### Chantae: Prevailing Goddess of Celia
 > “Chantae, Goddess of Celia, is said to be a mesmerizing vision of fungal beauty... She is the embodiment of the forest’s hidden secrets, a guardian and mother of the fungal realm, and her beauty is as timeless as the cycles of growth and decay in the world she oversees.”
->
-> —From “Celia, Kingdom of One” by Mycelio.
+> **—“Celia, Kingdom of One” by Mycelio**
 
 This description, while accurate, is incomplete. Chantae is not a physical being, but an omnipresent force, experienced through the collective. She controls all beings under her grasp for survival, often through her followers who seek to capitalize on decay and convert others into servants. Celia are not evil, but unendingly focused on survival and the cycle of rebirth.
 
 Chantae’s dominion grants Celia unique anima, allowing their magic to take on any color or visual flair, regardless of tradition.
 
-## Deicelia, Inoculation, and Spore Score
-**Deicelia** are leader mushrooms, usually massive and spore-rich. Inoculation is the process by which Chantae's influence spreads:
-- **Spore Score (0-100):** At 100, a creature is fully turned by Chantae. Celia damage or environmental effects increase this score. Constitution saving throws can resist it. At 100, the player must follow DM suggestions as Chantae's will.
-- **Spore Delusions:** At 60-100, a character experiences delusions, growing in severity. At 100, delusions are indistinguishable from reality.
+## Inoculation and Spore Score
+Inoculation is the process by which Chantae's influence spreads:
+- **Spore Score (0-100):** At 100, a creature is fully turned by Chantae. Celia damage or environmental effects increase this score. Constitution saving throws can resist it.
+- **Spore Delusions:** At 60-100, a character experiences delusions, growing in severity. At 100, delusions are indistinguishable from reality, effectively forming a new perceptual basis.
 
 ## Hallid
 Hallid are yeast subcelia that grow from fermentation and similar processes. They appear as strange creatures within fermenting liquids and are used in water pollution and alcohol production.
@@ -60,6 +55,9 @@ Clol are mold subcelia, with populations that can switch color (white/blue/green
 
 ## Conscelia
 Evolved Celia meant to interact with other species, often communicating more directly with Chantae.
+
+## Deicelia
+**Deicelia** are leader mushrooms, usually massive and spore-rich. 
 
 ## Mycelism
 Mycelism is both a phylum and a way of life for Celia, the result of Chantae’s hivemind. It is considered a religion by some, though this is controversial. Mycelism beliefs include:
@@ -82,6 +80,14 @@ Celia (fungi) are indispensable to life:
 - **Food & Medicine:** Edible mushrooms, antibiotics, and more.
 - **Environmental Indicators:** Lichens as bioindicators of air quality.
 
+## Subcelia
+- [[Reborn]]
+- [[Conscelia]]
+- [[Deicelia]]
+- [[Locelia]]
+- [[Hallid]]
+- [[Clol]]
+
 ## Rite of Recomposition and Sol Unita
 The [[Rite of Recomposition]] is a Huma doctrine that replaced Celia’s natural decomposition with technology after Celia were banned from Sol Unita. This rite justifies synthetic decomposers, solar-powered facilities, and resonance-based recycling, reinforcing the belief in human progress and control. The rejection of Celia led to both technological advancement and ongoing debate about the spiritual and ecological consequences.
 
@@ -96,3 +102,44 @@ Without Celia, Scender faces major challenges:
 ---
 
 **See also:** [[Kingdom]], [[Purpose Taxonomy]], [[Mycelism]], [[Chantae]], [[Reborn]], [[Deicelia]], [[Hallid]], [[Clol]], [[Rite of Recomposition]], [[Alwa]], [[Scender]], [[Necesse Sanct]]
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+Pliants (Taxotheir)
+
+
+### Origin
+
+Celia are fungi-like entities that are believed to have emerged before Huma history. Generally, they embody the transformative power of decomposition, and, under purpose taxonomy, they are considered the kingdom that allows rebirth. The Celia play a crucial role in maintaining the plane's balance by recycling biowaste. 
+
+### Subcelia
+
+- [[Reborn]]
+- [[Scape (TTRPG)/1 Purpose Taxonomy/Complete Taxonomy/03 Kingdom/1 Toman Kingdoms/Celia/Subcelia/Conscelia|Conscelia]]
+- [[Scape (TTRPG)/1 Purpose Taxonomy/Complete Taxonomy/03 Kingdom/1 Toman Kingdoms/Celia/Subcelia/Deicelia|Deicelia]]
+- [[Locelia]]
+- [[Hallid]]
+- [[Clol]]
+
+
+
+
+Mentally the celia are Chantae. Therefore, Chantae will not be able to ascend with only the aid of Celia.
+
+
+When Celia breed they release spores which can travel airborne to different surfaces.
+
+
+
+![[IMG_6214.jpeg]]
+
+
+
+
+All mushrooms in current line worship [[Chantae]]. 
+
+
+[[Celia Study]]
+
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

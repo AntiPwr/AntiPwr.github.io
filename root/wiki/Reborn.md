@@ -45,3 +45,9 @@ Reborn are the ultimate expression of Chantae's will, their individuality subsum
 - [[Inoculation]]
 - [[Deicelia]]
 - [[Chantae]]
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+Creatures who are turned through Inoculation. Reborn are either Conscelia, Deicelia, or Locelia based on DM discretion.
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

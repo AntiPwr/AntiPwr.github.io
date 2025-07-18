@@ -45,3 +45,11 @@ Advancist Anthros are often found in cosmopolitan societies, acting as inventors
 ## Origins and Diaspora
 
 The first major Ferra-Huma resonance occurred in the [[Agraial Tribelands]], now the [[Agresta Jungle]] of the [[Current Line]]. This region is recognized as the birthplace of the Anthros subkingdom. Following this mass resonance, Anthros populations have dispersed widely, resulting in a diaspora to most major continents in Toma.
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+An Anthros is a [[Ferra]] with [[Huma]]-like traits.
+
+Anthros are spread throughout Toma but the largest population is in [[Gov'Doran]]. 
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

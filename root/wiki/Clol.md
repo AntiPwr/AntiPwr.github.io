@@ -36,3 +36,12 @@ Clol are highly adaptive, able to change color and function to suit their enviro
 - [[Celia]]
 - [[Subcelia]]
 - [[Klesn]]
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+The Clol are a mold [[Celia#Subcelia|Subcelia]]
+
+
+Clol is pure white/blue/green or dark black/purple. Its population can switch colors back and forth as needed, ei. This subcelia is how [[Fuscia Lustin]] is capable of controlling societal pollution with ease, as well as spread hysteria promoting [[Klesn]].
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

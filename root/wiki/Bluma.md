@@ -38,3 +38,33 @@ Plants in the Bluma kingdom are not passive; they organize, communicate, and eve
 - [[Usakan Growth]]
 
 -->
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+### Origin
+
+# Relation to Gaia
+
+[[Gaia]]
+
+
+# Sub-bluma
+
+- [[Banorr Tree]]
+- [[Duma Cactus]]
+- [[Shuk-Ik Palm]]
+- [[Sweet Chrisle]]
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

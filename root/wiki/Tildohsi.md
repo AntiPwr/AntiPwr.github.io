@@ -48,10 +48,6 @@ The city is governed by a council that represents the diverse populations of Hum
 
 Tildohsi’s culture is deeply influenced by its history of resistance and adaptation. The city’s residents take pride in their ability to survive and prosper in a hostile environment, and this spirit of resilience is reflected in their art, traditions, and communal life. The mastery of sound magic is not only a practical necessity but also a source of cultural identity and pride.
 
-## Images
-
-<img src="wiki_images/Tildohsi.png"></img>
-
 ## Related Wiki Pages
 
 - [[Tildohsi Partition]]
@@ -62,6 +58,9 @@ Tildohsi’s culture is deeply influenced by its history of resistance and adapt
 - [[Celia]]
 
 <!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+A city in the northwest corner of the [[Clutched Forest]]. Capital Order of the Tildohsi Partition Class.
+<!-- obsidian-pull:end -->
 <!--
 This section is for content, lore, or discoveries that are NOT meant for live publishing to the site. 
 Leave this empty unless specifically requested. Use this to stage information that will be revealed to players later.

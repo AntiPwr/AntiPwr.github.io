@@ -79,17 +79,8 @@ Additionally, once per long rest, you can initiate a Grand Gambit, a ritual that
 
 - (Prediction Optional Rule) Utilize ways to alter luck and drawing power. Examples: One card pulls a card to the top three of the deck.
 
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

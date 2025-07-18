@@ -137,6 +137,47 @@ Choose one creature within 15 feet of you. That creature must make a Wisdom savi
 
 • At the end of each of its turns, the creature can repeat the saving throw, ending the effect on a success.
 
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+The Deck of the Naive is the starter deck for the Belief Gambit Sorcerer. This deck is inspired by the basic knowledge of the kingdoms. Some of these cards are considered more powerful than the cards that can be made by the Belief Gambit Sorcerer at low levels. These cards are meant to give the player a taste of some of the unique effects of these cards.
+If you are a dungeon master, you should consider changing some of these cards to reflect their backstory. For example, the character this deck was designed for was born in Concordia, therefore one of their Huma cards is based on this fact.
 
   
+## Using These Cards
 
+• Unless otherwise stated, you activate a card’s effect by using your Action (essentially “throwing” or presenting the card).
+
+• If an effect requires a target to make a saving throw, use your Spell Save DC (or a reasonable DC chosen by the DM if you do not have one).
+
+• Most effects last for a short duration (often 1 minute, or 1 hour) or until you end them (no action required unless otherwise stated).
+
+• The DM should feel free to adjust the flavor and specifics of each card to best suit the campaign, backstory, or setting.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

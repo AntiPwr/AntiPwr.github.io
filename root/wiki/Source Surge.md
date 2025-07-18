@@ -19,3 +19,9 @@ After using a controlled surge, a character must rest for a week or meditate to 
 **Flow State & Stagnant State**:  
 - *Flow State*: A meditative state representing perfect alignment of focus.
 - *Stagnant State*: A contrasting meditative approach with different narrative implications.
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

@@ -66,3 +66,9 @@ Severance is both a narrative and mechanical tool, allowing characters to reclai
 - [[Will]]
 - [[Inoculation]]
 - [[Belief]]
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

@@ -55,6 +55,30 @@ The Swirling Sea is also home to the [[Cask Sistema]], a unique feature that fur
 - [[Cask Sistema]]
 
 <!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+**Bin**: [[Scape]]  
+**Basin**: [[Sacrus]]  
+**Eco**: [[Scape (TTRPG)/1 Purpose Taxonomy/Complete Taxonomy/02 Eco/01 Toman Ecoss/02 Toma/Toma]] of [[Toman Ecoss]]
+
+#### Description
+
+The Swirling Sea is the largest sea within the continent of [[Scape (TTRPG)/1 Purpose Taxonomy/Complete Taxonomy/02 Eco/01 Toman Ecoss/02 Toma/Toma]], positioned centrally and touching nearly every landmass. It is named for the distinctive swirling motion of its waters, which rotate either clockwise or counter-clockwise, driven by the powerful forces of the [[World Gyre]]. The Swirling Sea plays a crucial role in the ecological and cultural dynamics of Toma, serving as a central hub for trade, conflict, and exploration.
+
+#### Bas'l Straits
+
+The Bas'l Straits are a treacherous region within the Swirling Sea, formerly known as the Straits of Gorisain. This region is infamous for its dangerous currents and the ominous history tied to the death of [[Desthema]] at the hands of Gorisain during the Natural War. The Bas'l Straits are also the location of the [[Theiman Breach]], a cursed area where the environment has been twisted by the lingering effects of Desthema's demise. These straits are a significant navigational challenge for sailors and explorers, as well as a site of deep historical and mystical importance within the Toman Ecoss.
+
+[[Cask Sistema]] is found here. 
+
+#### Significance
+
+The Swirling Sea is not only a vital geographical feature but also a cultural and economic nexus for the various kingdoms and classes of Toma. Its swirling currents influence trade routes, weather patterns, and even the migration of marine life. The sea's central location and connection to nearly every continent make it a key player in the power dynamics of the region, with its waters often serving as the battleground for control over Toma's resources and influence.
+
+
+
+
+
+<!-- obsidian-pull:end -->
 <!--
 This section is for content, lore, or discoveries that are NOT meant for live publishing to the site. 
 Leave this empty unless specifically requested. Use this to stage information that will be revealed to players later.

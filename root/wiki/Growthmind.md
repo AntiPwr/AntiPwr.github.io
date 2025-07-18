@@ -47,3 +47,8 @@ A **Growthmind** is a plant-based collective consciousness, similar to a hivemin
 - [[Usakan Growth]]
 - [[Sibannac]]
 
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

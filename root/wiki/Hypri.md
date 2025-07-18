@@ -388,3 +388,42 @@ The Ahdom Few's true ambition—kept secret from all but their closest confidant
 - [[Lopali]]
 - [[Kautiger]]
 - [[Qa'ura]]
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+
+**Bin:**
+**Basin:**
+**Eco:** [[Toma]] ([[Usaka]])
+
+
+one person airships.
+
+[[Ahdom Few]]
+
+
+
+Splint - the most heavily guarded section of Hypri in which there is a crack in the main spire of Hypri. The ore inside  will pull anyone into it like a black hole until the ore has resolved their issue with the individual.
+
+The spires should be a result of some crazy event. perhaps like the clay soldiers.
+
+
+
+heavy on belief in the Nesa kingdom, which by some is disputed. the term “Nesa” actually has an Usakan origin . The ancestors of Hypri were once forced into 
+
+In Hypri, each spires’ gravity is held together by the belief that it is a gravitational field rather than it actually being one. This is the power of belief, which they attribute to a hollow resource they keep under wraps. 
+
+Hypri culture, and resultingly many other cultures, have a belief about what gravity truly is, which is skewed by Hypri’s belief that it is the stone within the spires. in reality the stone within the spires is a not a hollow resource. in Hypri, they do not believe that the stones should be used for technological purposes, meaning they cannot be harvested or even viewed by the public.
+
+since hypri believes these stone cause the force of gravity towards them, they also believe that the planes crust is filled with it as well. in Hypri they believe that a great natura’s rise to power resulted in the uprooted resource making its way to the surface. This dead god is believed to be an ancestor to [[Kautiger]].
+
+
+
+
+
+
+
+
+
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

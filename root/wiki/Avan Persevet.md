@@ -3,17 +3,17 @@
 
 <img src="wiki_images/Avan Persevet.png"></img>
 
->"Seconds prior to death, I knew it—so as I know it now, even in this great service beyond. 
-When my body is lifted, the true I will have finally met a drop of knowledge worth value.
+>_"In my hours prior to death, I knew it so as I know it now, even in this great service beyond. 
+When my body is lifted, the true 'I' will have finally met a drop of knowledge worth value.
 My soul is, and will be, taught a universal truth—
 as I have lived with eyes unclosed, even in the nourishment of sleep.
 This endless surge of thoughts I bear are mere dreams sent unto the world;
 only in life's banish am I now aware:
 my mind did not once brandish.
-Thus, this is my drop of truth, the only I declare."
+Thus, this is my drop of truth, the only I declare."_
 > **- Avan Persevet, [[Letter to the Lost]]**
 
-**Avan Persevet** is the exiled founder and first leader of the [[Tildohsi Partition]], renowned for his role in ensuring the survival of his people during the [[212 Shift]] and shaping the fate of the [[Clutched Forest]]. Once a citizen of [[Delta]], Avan was banished by the [[Chain of Delta]] for uniting people against the state during the political rise of [[Fuscia Lustin]].
+**Avan Persevet** is the founder and first leader of the [[Tildohsi Partition]], renowned for his role in ensuring the survival of his people within the uncertain refuge of the [[Clutched Forest]]. Once a citizen of [[Delta]], Avan was [[Deathlist|deathlisted]] by the [[Chain of Delta]] for uniting people against the state during the political rise of [[Fuscia Lustin]]. This later resulted in the forest being advanced upon by the [[Kleznit Advance|Imperial Army of Delta]], an event known as the [[212 Shift]] in the Partition's history.
 <!-- wiki-header-section:end -->
 
 <!-- taxonomy-table-section:start -->
@@ -102,3 +102,9 @@ Avan Persevet is remembered as a visionary leader, a master strategist, a martyr
 - [[Willed-Mecha]]
 - [[Omep Regions]]
 - [[Bluma]]
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

@@ -70,6 +70,9 @@ Folklore tells of Blue Manrotters assuming [[Huma]] forms in celial springs, lur
 - [[World Gyre]]
 
 <!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+
+<!-- obsidian-pull:end -->
 <!--
 This section is for content, lore, or discoveries that are NOT meant for live publishing to the site. 
 Leave this empty unless specifically requested. Use this to stage information that will be revealed to players later.

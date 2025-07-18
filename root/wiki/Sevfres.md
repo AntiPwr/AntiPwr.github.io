@@ -63,6 +63,38 @@ Sevfres’s connection to sound and voice magic is profound, and it is also link
 - [[Decara]]
 
 <!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+Hand of Exhumation
+
+Sevfres is a [[Decara|Decaran]] [[Huma]] [[Mimid]] that was trapped in the forest through a sacrificial [[Merchant System#Source Surge System|Source Surge]]. The people of [[Tildohsi]] and the [[Tildohsi Partition]] survive through mastering how to hide from the hand using deception magic. The hand indirectly protects them. The entire city of Tildohsi is hidden using mainly sound masking magic and attention-baiting techniques used to keep Sevfres in certain areas.
+
+[[Pincher]]s are members of the [[Tildohsi Partition]] that can control the hand as it attacks them to attack other people. They use sound magic to create vibrations to attract the hand to them. They then aim the sound at creatures attacking Tildohsi. There was a battle against the [[Chain of Delta]] where 212 [[Willed-Mecha]] were killed by the hand. This victory allowed them to claim the resources of the willed mecha and reconstruct them to work as laborers. 
+
+This event is called the [[212 Shift]] and was an embarassing loss for Delta. Delta wishes to claim the region's forest for lumber due to them clearing most of their region. Scender has raised import taxes on wood, forcing the Chain into a tough situation between either moving upon Tildohsi and facing the hand or be manipulated economically on the world stage 
+
+Pinchers cast sound spells by pinching their fingers to decide the proper location to cast the spell. They look in between their fingers, often with one eye closed to finely aim this spell. When they aim like this, time slows briefly for those within their belief sphere and charge up the power of a fine line of force causing a consistent beam of vibration at a single point.
+
+Pinchers often wield various gloves and lightweight gauntlets to modify their vibrations. A common thing that pinchers use is a glove reticle, which is essentially a device which blacks out everything but what is between the fingers, removing distractions. Gloves focus this effect on different fingers, depending on the preference of the Pincher, but most commonly it is the pointer finger and thumb. One glove is in the left hand, used to activate the other glove's blackening mist effect. The black effect fans out in a circle as the left glove is pressed. The right glove sets the reticle size depending on how close the two fingers are. The left hand glove must be refilled with a powder mixture after a few uses. This is done in Tildohsi before Pincher Expeditions.
+
+Tildohsi is a blend of construct/therium from Delta and advancism/sound hiding magic from [[Gov'Doran]] (through a connection to [[Cadence]]).
+
+
+
+
+
+
+
+Sevfres has a connection to voice magic perhaps. Sevfres also a connection to [[Chunk]] and the [[Lost Bank]]. 
+
+
+
+
+
+
+
+
+Sevfres is a hand and a portion of a wrist.
+<!-- obsidian-pull:end -->
 <!--
 This section is for content, lore, or discoveries that are NOT meant for live publishing to the site. 
 Leave this empty unless specifically requested. Use this to stage information that will be revealed to players later.

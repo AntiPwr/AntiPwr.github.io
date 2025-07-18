@@ -109,4 +109,56 @@ Concordia’s economy relies heavily on **Lichen Pearls**, vital for crafting po
 
 Though recorded as deceased, the circumstances around Kalina Acker’s final dive remain unresolved. The echoes of that tragedy still color your personal journey, embodying the broader tension within Concordian society as it recovers from war, faces the unpredictable sea, and grapples with its own political divide.
 
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
 
+
+Player: Adrian
+
+Level: 3
+
+Subclass/Class: Belief Gambit Sorcerer
+
+##### Backstory
+
+Mother was a pearl diver but lost her focus underwater due to an argument between Adrian and her. The father does not know about this. Adrian enjoys going to the cliffsides since this happened. Mother pearl dived in the same secret location each time. 
+
+
+##### Quests
+
+- 
+
+##### Notes
+
+- 
+
+
+##### Secret Arc
+
+- Adrian's Mother is alive still. She survived after diving into the Bottomless Trench by finding an air pocket deep underground in a cave. She was captured by the Decara and is imprisoned [[Shutcher]]
+
+Adrian Character: 
+
+
+
+Adrian's father is a Deltan propagandist and traitor to the Branches of Concordia. He will be killed while Adrian is abroad.
+
+All of Adrian's cards are signed by his father in the light blue color he asked for on the site.
+
+[[Kalina Acker]]
+[[Jola Acker]]
+
+
+
+
+
+
+
+Jola's Notebook (given to Adrian, do not open until you have no other choice. I trust you on this.)
+- details Chain of Delta, Fuscia, Propaganda (which was actually aid from Delta so that Concordia would get rid of Sol Unita), and the in he had for the family. Detailing this is the real reason why mother left and never came back. She didn't agree with the decision he was making for the family. No amount of painting ever removed that stain on our relationship.
+- If you can't beat them, join them because, only then, maybe, will you will have a chance at beating them. But you can't beat them if you are dead and if you are ever not sure what to do, stagnation is a second death. There is nothing else for you to be doing but continuing on. Stay swimming. You of all people should know, although your mother couldn't understand where I was coming from despite all those times diving in the winter seawaters against my caution. She would always say, "You have to stay still, there is too much motion for anything meaningful to exist." I would say, "The world is always in motion." She would respond, "cada cabeza es un mundo, your world doesn't have to be in motion too."
+
+
+
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

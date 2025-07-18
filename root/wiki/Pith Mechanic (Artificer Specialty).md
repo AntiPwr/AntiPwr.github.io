@@ -105,4 +105,8 @@ Therium is a dark, dense Hollow Metal of immense versatility and the cornerstone
 
 The Pith Mechanic subclass is heavily inspired by the poem "Simile of Souls," which explores the nature of connection, empathy, and the boundaries between individual minds. You can read the poem on the <a href="../poetry.html#Simile-of-Souls" target="_blank">poetry.html</a> page. Many of the class’s core themes—shared experience, the search for understanding, and the risks of deep connection—are drawn directly from the ideas and imagery found in this work.
 
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
 
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

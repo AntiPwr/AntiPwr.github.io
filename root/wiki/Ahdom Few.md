@@ -56,3 +56,16 @@ Each sister is both a political leader and a magical specialist, wielding master
 - [[Kautiger]]
 - [[Qa'ura]]
 - [[Hidraal]]
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+Hypri Trielders, Drakewards
+
+The Ahdom Few is a collective name for the three serpent sisters of [[Hypri]]:
+
+- [[Ximena Lathen]]
+- [[Jarma Konich]]
+- [[Siela Qane]]
+
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

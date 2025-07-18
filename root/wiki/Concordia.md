@@ -50,3 +50,24 @@ Communities in Concordia are deeply integrated with the environment, embodying a
 ## The Corlin Tree: Heart of Concordia
 
 The [[Corlin Tree]] is the most iconic and revered species in Concordia, shaping both the landscape and the spirit of its people. These rare, curving trees are found only in Concordia’s misty forests and valleys, where their presence is a symbol of unity, resilience, and the deep connection between nature and culture. The Corlin Tree’s unique properties have made it central to Concordian architecture, tradition, and daily life—serving as a living bridge between the land and its inhabitants. Its history, from near-extinction to strict protection, mirrors the journey of Concordia itself: enduring, adapting, and thriving against the odds. For more on the Corlin Tree’s mystical abilities, history, and cultural significance, see [[Corlin Tree]].
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+Absent Continent
+
+
+
+![[Pasted image 20240721022642.png]]
+
+
+Concordia is situated in the northeastern part of [[Scape (TTRPG)/1 Purpose Taxonomy/Complete Taxonomy/02 Eco/01 Toman Ecoss/02 Toma/Toma]], within the [[Sea of Absence]]. East of [[Wyldere]] and north of [[Kro'Tan]], it features a mountainous landscape with expansive snowy forests, towering peaks, and clear rivers that carve through valleys.
+
+The region is predominantly known for its rugged terrain and harsh climate, which supports a diverse range of flora and fauna adapted to these conditions. Concordia's stunning natural beauty is marked by contrasts between snow-covered treetops and rugged mountainous backdrops.
+
+Communities here are deeply integrated with the environment, embodying a culture that values and protects the natural world. This has fostered a strong communal bond and a spirit of resilience among its inhabitants.
+
+The [[Branches of Concordia]] represent the largest [[Huma]] group in Concordia, playing a pivotal role in its social, economic, and cultural frameworks. The economy is driven by mining, forestry, and highland agriculture, leveraging the abundant natural resources. Concordia's isolation has cultivated a unique culture of independence and self-reliance, making it a distinctive and vital part of Toma.
+
+Lauster Mountain Range, Range Untamed
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

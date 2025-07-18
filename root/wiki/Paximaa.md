@@ -50,3 +50,34 @@ Paximaa is intrinsically linked to [[Hollow Purpose]], which signifies the insta
 - [[Bin]]
 - [[Purpose Taxonomy]]
 
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+**Paximaa** is a Godan term that mean "death to all games", or the end of the universe, encompassing the events and consequences associated with such a profound decline. It signifies the culmination of a universe's cycle and the beginning of a new phase in the endless quest for balance and understanding within the [[Omnis]]. The term is deeply intertwined with the concept of [[Hollow Purpose]], reflecting the universe's failure to sustain itself and the reversal of time that follows.
+
+#### Characteristics of Paximaa
+
+- **Universal Termination**: Paximaa marks the end of a universe's existence, where the structural integrity and purpose of the universe collapse, leading to its dissolution. It is a natural consequence of failing to achieve a stable, self-sustaining creation within the [[Scape]].
+
+- **Symptom of Hollow Purpose**: A Paximaa occurs when the creator of a [[Bin]] fails to maintain stability within their universe. This results in a [[Hollow Purpose]], where the purpose driving creation becomes untenable, causing the universe to unravel and time to reverse.
+
+- **Temporal Reversal**: During a Paximaa, time flows backward, returning to the [[Mk. the Soul Engine]]. This process allows for a redistribution of energy and resources, enabling the creators of the [[Scape]] and [[Scape (TTRPG)/Other Side]] to attempt new creations and learn from their previous failures.
+
+
+#### Connection to Hollow Purpose
+
+Paximaa is intrinsically linked to the concept of Hollow Purpose, which signifies the instability or failure of a universe to sustain its intended trajectory. This failure stems from the creator's inability to achieve a harmonious balance between opposing forces or elements within their creation, leading to the collapse of purpose and structure.
+
+- **Dynamic Evolution**: The cyclical nature of Paximaa and Hollow Purpose reflects the universe's dynamic evolution, where each iteration serves as a learning experience for creators, pushing them toward the ultimate goal of creating a universe that can exist indefinitely without collapse.
+
+- **Lesson of Duality**: By understanding the causes and consequences of Paximaa, creators and inhabitants alike gain insight into the challenges of balancing dualities, such as linearity and laterality, within their creations.
+
+
+#### Symptoms of a Paximaa
+
+- **Dimensional Decay**: As a universe approaches Paximaa, signs of decay become evident, with structural and dimensional anomalies emerging across the [[Scape]].
+
+- **Energetic Instability**: Fluctuations in [[Crea]] and other fundamental energies indicate the loss of balance within the universe, heralding the onset of Paximaa.
+
+- **Cosmic Dissolution**: The universe's inhabitants may witness the unraveling of reality, where time, space, and matter lose coherence, culminating in the reversal of time and the universe's end.
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

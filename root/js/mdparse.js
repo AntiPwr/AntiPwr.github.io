@@ -28,7 +28,10 @@ document.addEventListener('DOMContentLoaded', async () => {
             throw new Error(`Failed to load Markdown file: ${response.status} ${response.statusText}`);
         }
 
+
         let markdown = await response.text();
+        // Remove content between <!-- obsidian-pull:start --> and <!-- obsidian-pull:end -->
+        markdown = markdown.replace(/<!--\s*obsidian-pull:start\s*-->[\s\S]*?<!--\s*obsidian-pull:end\s*-->/gi, '');
         // Remove HTML comments from markdown before parsing, except for our section markers
         markdown = markdown.replace(/<!--(?!\s*(wiki-header-section|taxonomy-table-section):).*?-->/gs, '');
 

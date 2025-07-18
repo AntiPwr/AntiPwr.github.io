@@ -74,3 +74,16 @@ Continue with more sections as needed.
 - [[Related Page 3]]
 
 -->
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+Testhus
+
+![[Pasted image 20240720041602.png]]
+
+Hathakrik is the regrown body of Hidraal, a monstrous amalgamation of Ferra, Decara, and Nesa influences. Unlike the other three serpents that roam Toma, Hathakrik resides in Dar. Hathakrik is the embodiment of Hidraal's destructive potential, a creature of pure chaos and hoarding instincts. Its presence in Dar serves as a reminder of the dark deal struck with **[[Gorisain]]** and the subsequent downfall of [[Hidraal]]. Hathakirk is a Decaran [[Mimidry|Mimid]].
+
+Saying the name Hathakrik for the first time in a while causes a shiver down the creature's spine by the very nature of its evil.
+
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

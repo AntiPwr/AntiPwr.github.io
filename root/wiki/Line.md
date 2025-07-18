@@ -43,3 +43,9 @@ A Line begins immediately after a Gyre Shift and ends with the next Gyre Shift. 
 - [[Gyre Shift]]: The event that marks the end of one Line and the beginning of another.
 - [[World Gyre]]: The cosmic mechanism whose rotation determines the timing of Gyre Shifts.
 - [[Toman Ecoss Timeline]]: The historical record of all known Lines and their major events.
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

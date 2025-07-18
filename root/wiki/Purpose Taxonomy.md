@@ -106,4 +106,73 @@ Although every taxon or member is likely to be questioned by at least a few indi
 
 Generally, when a contested claim is marked on this site, it will refer to a taxon member (such as a specific city, species, or ideology). However, on this page and on other taxon pages (such as the [[Bin]], [[Basin]], or [[Eco]] page), contested taxons themselves may be discussed, reflecting the larger disputes over the structure and legitimacy of the classification system as a whole.
 
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+**Purpose Taxonomy** is a classification system designed to organize life by its connected belief structures and destinies across the universe. It arranges existence into a vertical hierarchy of taxons—ranging from the grand scale of the universe down to the singular soul’s purpose—that define everything from geography and government to faith and dimension. Importantly, the Kingdom is only one taxon among many.
 
+At the core of this system is the recognition that every soul possesses a unique, quantized vision for the future—its intrinsic signature, termed **Kind (K or >)**. This vision is static until it is set into motion. The dynamic aspect—the rate at which that vision is realized in the world—is called **Degree (D or ^)**. In short:
+
+> **Degree = Kind’s Rate of Actualization**
+
+This interplay between the fixed vision and its actualization ultimately defines the soul’s realized destiny, or **Essa**.
+
+### Taxonomic Ranks
+
+Purpose Taxonomy comprises nine hierarchical ranks:
+
+1. **Bin**: Universe
+2. **Basin**: Dimension
+3. **Eco**: Plane
+4. **Kingdom**: Inhabitant (by Empire Function)
+5. **Phylum**: Ideology
+6. **Class**: Government
+7. **Order**: Civilization
+8. **Family**: Community
+9. **Essa**: Soul’s Purpose (the realized destiny, influenced by the rate of actualization)
+
+### Creation and Evolution
+
+- **Creation:**  
+    Conceived during the [[Taxotheir Line|Taxotheir Line]] by the Huma of Toma, Purpose Taxonomy was developed to interpret the complex interplay of [[Evolution]], [[Belief]], and [[Anim]] in the Toman Ecoss. Although initially designed as a language for simpler kingdoms, its principles extend to all life—even if categorizations may shift as beliefs evolve.
+    
+- **Social Taxonomy:**  
+    Revised during the [[Line from Few|Line from Few]] after the [[Cel Blindbirth Line|Cel Blindbirth Line]], Social Taxonomy now exists in three forms:
+    
+    1. **Taxotheir Taxonomy** – pre-Blindbirth understanding
+    2. **Current Taxonomy** – reflective of the contemporary timeline
+    3. **Complete Taxonomy** – linking to a broader comprehension of the Scape (macrocosm understanding)
+
+### Classification Template
+
+When recording a note, only the necessary taxons are included. The left-hand labels are bolded (unlinked), while the right-hand entries link to the related notes. For example:
+
+**Classification Template**
+
+- **Bin**: [[Ex. Bin]]
+- **Basin**: [[Ex. Basin]]
+- **Eco**: [[Ex. Eco]] ([[Ex. Location]], [[Ex. Region]], [[Ex. Continent]]) of [[Ex. Ecoss]]
+- **Kingdom**: [[Ex. Kingdom 1]] and [[Ex. Kingdom 2]]
+- **Phylum**: [[Ex. Phylum]]
+- **Class**: [[Ex. Class]]
+- **Order**: [[Ex. Order]]
+- **Family**: [[Ex. Family]]
+- **Essa**: [[Ex. Essa]]
+
+### Exception-Branching
+
+When a creature does not neatly fit a taxon category, its classification is marked as "EB" (Exception-Branching). For example, a human fighter following a unique religious philosophy might be designated "EB" until further evidence supports a more standard categorization.
+
+### Connection to Origin
+
+[[Origin]], found at the center of each basin follows a similar goal of finding each individual's purpose through the development and mapping of the [[Scapia Sangam]], a universal map of all life and its interdependencies.
+
+
+
+
+
+
+# To be implemented
+
+Spira’s reason could be change as they carry time with them and are energy. They also reincarnate or find host in the nonliving elements, the people see this as Natura but it is not its own kingdom.
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

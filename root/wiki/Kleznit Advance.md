@@ -89,3 +89,13 @@ The arms are protected by bracers and vambraces of black metal, while the lower 
 - [[Kee]]
 - [[Tildohsi Partition]]
 - [[212 Shift]]
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+The Kleznit Advance, or the Imperial Army of Delta, is heavily inspired by the Roman Praetorians.
+
+Their clothing is inspired by the variation depicted in the movie Gladiator, with a slight twist relating to Kee. Due to the relation to Klesn and Kee, black and dark purple feathers adorn the armor and clothing as well, specifically around the neck similar to black leather straps.
+
+Fuscia’s imperial armor is very similar, but instead of purple, is a darkened royal fuscia, separating him from the government, in order to subtly influence followers into believing he stands on his own against the official government. It is a symbolic choice, used to weave a consistent lie (mislead the public) seen in many other aspects of this society.
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

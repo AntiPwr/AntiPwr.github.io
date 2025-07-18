@@ -42,3 +42,9 @@ Be kind to the helpers of the city, and they'll carry you far. But if you troubl
 - [[Usakan Growth]]
 
 -->
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

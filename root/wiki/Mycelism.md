@@ -45,3 +45,22 @@ Mycelism is the phylum and way of life for the Celia kingdom, resulting from Cha
 - [[Celia]]
 - [[Chantae]]
 - [[Reborn]]
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+Mycelism is considered the way of life for the Celia, as a result of Chantae’s hivemind. With an origin dating back to the addition of the Celia, this group has known no other way for thousands of years. As of the genesis of Huma, it is also considered a religion, however, this idea is controversial.
+
+  
+
+### Beliefs
+
+Chantae’s Will - Celia act based on the desires of Chantae and have no free will of their own. 
+
+Decay and Rebirth - In feasting on decaying matter, Celia produces fertile soil which ultimately leads to the infinite circle of life.  It is a Celiac’s goal in life to secure a source of decaying matter to secure its survival and the future of its spore print.
+
+Celia have a ritual where when one dies, their closest friend may choose to die with them, in order to be reborn alongside the other. It is a belief of Mycelism.
+
+
+
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

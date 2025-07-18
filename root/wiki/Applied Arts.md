@@ -4,6 +4,7 @@
 The **Applied Arts** consist of the scholarly examinations of practical application that turn theoretical principles into material forms. This field focuses on the processes by which inventive concepts are translated into tangible artifacts, technological devices, and magical constructs. Researchers in Applied Art conduct case studies, perform material experiments, and evaluate the effectiveness of various production methods. The discipline investigates both historical innovations and contemporary technological and magical engineering, developing models to assess efficiency, aesthetic merit, and functional design in artifacts that shape the built environment and cultural heritage.
 
 <!-- wiki-header-section:end -->
+
 <!-- taxonomy-table-section:start -->
 <div class="taxonomy-table">
   <table>
@@ -32,3 +33,11 @@ The **Applied Arts** consist of the scholarly examinations of practical applicat
 
 *This page will be receiving an automated index updater in the future.*
 
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+
+**Eco:** [[Toman Ecoss]]
+
+The **Applied Arts** consist of the scholarly examinations of practical application that turn theoretical principles into material forms. This field focuses on the processes by which inventive concepts are translated into tangible artifacts, technological devices, and magical constructs. Researchers in Applied Art conduct case studies, perform material experiments, and evaluate the effectiveness of various production methods. The discipline investigates both historical innovations and contemporary technological and magical engineering, developing models to assess efficiency, aesthetic merit, and functional design in artifacts that shape the built environment and cultural heritage.
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

@@ -74,3 +74,74 @@ Due to its purity, aprima is reserved for structures and artifacts with deep spi
 - [[Rite of Passage]]
 - [[Sol Proscima]]
 - [[Sar Glass]]
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+# Aprima
+
+**Bin**: [[Scape]]  
+**Basin**: [[Sacrus]]  
+**Eco**: [[Toma]] of [[Toman Ecoss]]  
+**Kingdom**: [[Primordial]] ([[Celia]], [[Huma]], [[Natura]], [[Bluma]], [[Spira]])  
+**Resource**: [[Hollow Resource]], [[Primma]] ([[Aprima]])
+
+![[Aprima.png]]
+
+Aprima is the purest form of [[Primma]], a rare and highly revered [[Hollow Resource]] derived from the ascension of the [[Primordial]] being [[Alwa]]. It is distinguished by its brilliant white color, symbolizing complete spiritual ascension and enlightenment. In [[Sol Unita]], aprima is regarded as the most sacred building material, used almost exclusively for religious and governmental structures, reinforcing its significance as a representation of divine connection.
+
+## Formation and Origins
+
+Aprima is formed through the process of spiritual transcendence, specifically during the full ascension of a being beyond Toma’s material realm. This event, known as recomposition into the higher plane, results in the creature’s body being refined into a hollow resource, with aprima emerging from the most spiritually attuned essence.
+
+Unlike standard primma, which can appear in various colors based on the nature of its source, aprima is always a stark white, untouched by impurities. It is considered the rarest and most potent form of primma, as true ascension is an exceedingly rare occurrence.
+
+## Presence in Scender
+
+Aprima is found throughout [[Scender]], though it is most concentrated within **Scender Proper**. The material is used in the construction of the city’s most sacred and significant structures, often in combination with [[Sar Glass]], another highly valued resource. Buildings composed of aprima and sar glass have a luminous, ethereal quality, reflecting the city’s emphasis on spiritual enlightenment and technological harmony.
+
+Some of the most prominent aprima-based structures include:
+
+- The **[[Solscept]]**, the central seat of governance and faith
+- The **[[Asath Sanctuary]]**, where aprima forms the **Grand Stair** and **Chamber of Light**
+- The **[[Ester Slates]]**, particularly the **[[Rite of Passage]]**, which is believed to be inscribed on aprima
+- Various temples, shrines, and public altars throughout **Scender Proper**
+
+Despite its presence in the city, aprima is strictly regulated, with only **designated religious and governmental authorities** permitted to work with or distribute it.
+
+## Properties and Uses
+
+Aprima is highly durable and resistant to wear, making it an ideal material for sacred architecture. It has the unique ability to **absorb and refract light**, allowing buildings made from aprima to radiate an almost otherworldly glow, particularly during sunrise and sunset.
+
+Due to its purity, aprima is reserved for structures and artifacts with deep spiritual importance. It is commonly used in:
+
+- **Ceremonial artifacts**, such as religious tablets and high priest adornments
+- **Sacred architecture**, including temple foundations, altars, and monolithic pillars
+- **Spiritual pathways**, where aprima stones are arranged to guide believers toward sites of worship
+
+## Symbolism in Sol Unita
+
+Aprima represents the highest aspiration of faith within **Asceptim**, embodying the pursuit of **[[Sol Proscima]]**. As a material that cannot be artificially created, it serves as a constant reminder that true ascension must be earned, not fabricated.
+
+Its use in **religious and governmental buildings** reinforces the ideology that faith and governance are inseparable in **Sol Unita**, ensuring that the city’s physical structures reflect its guiding spiritual principles.
+
+## Related Pages
+
+- [[Primma]]
+- [[Hollow Resource]]
+- [[Alwa]]
+- [[Solscept]]
+- [[Asath Sanctuary]]
+- [[Rite of Passage]]
+- [[Sol Proscima]]
+- [[Sar Glass]]
+
+
+
+
+
+
+
+
+
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

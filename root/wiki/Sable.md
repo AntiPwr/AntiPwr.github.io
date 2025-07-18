@@ -54,3 +54,10 @@ Sable’s people are shaped by the land’s challenges. Settlements cling to the
 - [[Vokar]]
 - [[Summons Mountain Range]]
 - [[Sable (Term)]]
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+
+Sable means to be albino, but instead of white and red it is black and purple.
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

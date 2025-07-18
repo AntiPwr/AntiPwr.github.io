@@ -73,6 +73,22 @@ Essa is the individual's soul—an expression of personality, purpose, and the e
 - [[Soul Dynamics]]
 
 <!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+Essa or [[Crea]] is the individual's [[Soul Anatomy]], or ultimately the full understanding of oneself. Crea is the essence of you.
+
+Aristotelian Essence
+
+Essa is the understanding of one's own Crea, including fate
+
+Defines the individual's purpose or destiny and essence of creation representing their unique contribution to the universe's evolution and balance. if there is existence, then a person must fit somewhere in that existence in an individual manner. Essa
+
+“You exist,
+
+
+
+
+Essa is based upon personality and purpose of creation. Essa is the goal of purpose taxonomy and serves as the final taxon that can be described by a few words that carry the weight of plethoric meaning.
+<!-- obsidian-pull:end -->
 <!--
 This section is for content, lore, or discoveries that are NOT meant for live publishing to the site. 
 Leave this empty unless specifically requested. Use this to stage information that will be revealed to players later.

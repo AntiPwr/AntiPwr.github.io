@@ -55,4 +55,8 @@ Gekido is a...
 
 ## Main Section
 
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
 
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

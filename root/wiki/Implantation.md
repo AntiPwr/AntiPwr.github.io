@@ -168,3 +168,9 @@ These are **single-use** or **limited-use**, tied to their resource’s nature:
 
 
 -->
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

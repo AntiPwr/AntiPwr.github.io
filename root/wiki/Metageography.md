@@ -48,3 +48,11 @@ Wasting Events and the resulting resources are not just historical footnotes, bu
 - [[Toma]]
 - [[Anim]]
 - [[Wasting Event]]
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+
+
+
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

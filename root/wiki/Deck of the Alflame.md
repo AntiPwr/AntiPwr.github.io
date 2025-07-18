@@ -371,3 +371,9 @@ _Huge Elemental, Neutral_
 
 - **Eternal Flame Strike:** _Melee Weapon Attack:_ +10 to hit, reach 15 ft., one target.
     - **Hit:** Deals **3d10 + 6 fire damage** and applies **2 burn stacks**.
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

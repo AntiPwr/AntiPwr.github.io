@@ -33,3 +33,9 @@ Leiqua is a type of Bluma phylum, describing plant species and entities that use
 - [[Cilladril]]
 
 -->
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

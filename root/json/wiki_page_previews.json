@@ -11,6 +11,14 @@
     "image": null,
     "intro": "Advancism is a belief system naturally derived from the resonance of Huma and Ferra and directly opposes Primalism. This belief is typically held by Anthros species, influenced heavily by the intellectual direction that resonance brought them in terms of evolutionary change."
   },
+  "Aeradyme": {
+    "image": null,
+    "intro": "This page is hidden from players."
+  },
+  "Agraial Tribelands": {
+    "image": null,
+    "intro": "This page is hidden from players."
+  },
   "Agresta Jungle": {
     "image": null,
     "intro": "The Agresta Jungle is the largest rainforest region of Toma, found in northeast Sancta, south of Kro'Tan."
@@ -21,11 +29,11 @@
   },
   "Albumaiyhet": {
     "image": null,
-    "intro": "Albumaiyhet is the deity worshipped by Innerdualism|Innerdualists with the largest practicing population known as the Walkers of Duality. He is thought to be a being of void heard and seen only in Stagnant State, when one is most vulnerable and introspective."
+    "intro": "Albumaiyhet is the deity worshipped by Innerdualism|Innerdualists with the largest practicing population known as the Walkers of Duality. He is thought to be a being of void heard and seen only in Stagnant State, when one is most vulnerable to the forces and spirits of the Soul Fields."
   },
   "Alevery Commons": {
     "image": null,
-    "intro": ""
+    "intro": "The Alevery Commons is a large, government-funded and protected park region of Ascension Band in Scender. Unlike rigidly zoned districts, the Commons is seamlessly interwoven into the urban design of Ascension Band, a rare fusion of engineered landscape and public experimentation. Lush, tiered gardens rise beside angular dorm structures, and walking paths split through open-air pavilions, moss-grown sculptures, and solar kinetic art. The space thrums with innovation—student groups pitch tents for bioarchitecture prototypes, autonomous drones zip between tree canopies, and chalk schematics coat the concrete like flowers after rain. Here, invention is a public act; you might stumble upon a debate about urban aeroponics, a group testing collapsible exosuits, or a child piloting a recycled rover. The Alevery Commons breathes the spirit of progress, offering both sanctuary and stage for the minds of tomorrow."
   },
   "Alwa": {
     "image": "wiki/wiki_images/Alwa.png",
@@ -33,7 +41,7 @@
   },
   "Amarvena": {
     "image": null,
-    "intro": ""
+    "intro": "The sister phylum to Mohrsmünt, Amarvena represents the essence of prey within the Ferra kingdom. Amarvena is defined by agility, vulnerability, and the perpetual struggle for survival, forever entwined in the mythic chase with its counterpart, Mohrsmünt. The Amarvena are central to the Mythos of the Endless Hunt, embodying the tragic beauty and yearning that comes with being forever pursued."
   },
   "Anim": {
     "image": null,
@@ -44,8 +52,8 @@
     "intro": "Anthros are Ferra who, through generations of adaptation and cultural influence, have become more like Huma in intellect, society, and upright posture. While most Anthros are bipedal and display advanced reasoning and communication, some retain more animalistic traits and may move on all fours or exhibit instinctual behaviors. Anthros represent the bridge between the wild and the civilized, blending animal cunning with the potential for human-like growth."
   },
   "Apex and Praeda": {
-    "image": null,
-    "intro": "Apex and Praeda are the two prevailing NesaDuality Nesa|Duality Nesa of the Ferra kingdom."
+    "image": "wiki/wiki_images/Apex and Praeda.png",
+    "intro": "Apex and Praeda represent the core dichotomy within the Ferra kingdom, embodying the eternal struggle between predator and prey. These two deities are central figures in the sister phylums of Mohrsmünt and Amarvena, understood best through the Mythos of the Endless Hunt, a foundational narrative that explores the relentless and cyclical chase between these two contradictory forces."
   },
   "Applied Arts": {
     "image": null,
@@ -79,33 +87,41 @@
     "image": null,
     "intro": ""
   },
+  "Astalt's Theory of the Kingdoms": {
+    "image": null,
+    "intro": "Astalt's Theory of the Kingdoms (ATK) is a foundational work in the theology and philosophy of the Current Line, particularly under Sol Unita|Sol Unita's domination over Sanctan culture. The theory is a set of observations, studies, trials, and commentaries on the nature and structure of the various kingdoms of Toma."
+  },
   "Automata": {
     "image": null,
     "intro": ""
   },
   "Avan Persevet": {
     "image": "wiki/wiki_images/Avan Persevet.png",
-    "intro": "Avan Persevet is the exiled founder and first leader of the Tildohsi Partition, renowned for his role in ensuring the survival of his people during the 212 Shift and shaping the fate of the Clutched Forest. Once a citizen of Delta, Avan was banished by the Chain of Delta for uniting people against the state during the political rise of Fuscia Lustin."
+    "intro": "Avan Persevet is the founder and first leader of the Tildohsi Partition, renowned for his role in ensuring the survival of his people within the uncertain refuge of the Clutched Forest. Once a citizen of Delta, Avan was Deathlist|deathlisted by the Chain of Delta for uniting people against the state during the political rise of Fuscia Lustin. This later resulted in the forest being advanced upon by the Kleznit Advance|Imperial Army of Delta, an event known as the 212 Shift in the Partition's history."
   },
   "Babadoo Slim": {
     "image": null,
-    "intro": ""
+    "intro": "Babadoo Slim"
   },
   "Ballast Sanct": {
     "image": null,
-    "intro": ""
+    "intro": "Ballast Sanct"
+  },
+  "Basin": {
+    "image": null,
+    "intro": "Basin"
   },
   "Battle of Agresta": {
     "image": null,
-    "intro": ""
+    "intro": "Battle of Agresta"
   },
   "Battle of Land, Sea, and Storm": {
     "image": null,
-    "intro": ""
+    "intro": "Battle of Land, Sea, and Storm"
   },
   "Battle of the Banquet": {
     "image": null,
-    "intro": ""
+    "intro": "Battle of the Banquet"
   },
   "Belief Gambit (Sorcerer Origin)": {
     "image": "wiki/wiki_images/Belief Gambit (Sorcerer Origin).png",
@@ -113,11 +129,11 @@
   },
   "Belief": {
     "image": null,
-    "intro": "In the Toman Ecoss, belief is not just a concept; it is a perceivable force that shapes reality. It manifests in various forms, such as faith, desire, knowledge, and instinct."
+    "intro": "In the Toman Ecoss, belief is a perceivable force that shapes reality. It manifests in various forms: faith, desire, knowledge, and instinct."
   },
   "Bin": {
     "image": null,
-    "intro": ""
+    "intro": "This page is hidden from players."
   },
   "Blue Manrotter": {
     "image": "wiki_images/Blue_Manrotter.png",
@@ -372,7 +388,7 @@
     "intro": "<p class=\"nickname\"></p>"
   },
   "Huma": {
-    "image": "Huma.png",
+    "image": null,
     "intro": "Huma are the most biodiverse and technologically advanced creatures in the Toman Ecoss, representing a high complexity of intelligence, adaptability, and the desire to learn. Huma civilizations have developed over time, gaining a profound understanding of their world and using that knowledge to influence other creatures and even shape new kingdoms such as the Automata."
   },
   "Hypri Highcourt": {
@@ -521,7 +537,7 @@
   },
   "Natura": {
     "image": null,
-    "intro": ""
+    "intro": "Elemental Kingdom, Lifeless Kingdom, Kingdom of Matter"
   },
   "Natural Arts": {
     "image": null,
@@ -635,12 +651,16 @@
     "image": "wiki_images/Reins of Alwa.png",
     "intro": "The Reins of Alwa is a foundational myth in Sol Unita folklore, shaping the development of civilization and the governance of society through the Rites of Huma. The story is said to originate with the Presceptists (Scepitath), the East Sanctan Huma Lineage who emerged from Endem just prior to the cataclysmic Gyre Shift."
   },
+  "Reno Astalt": {
+    "image": null,
+    "intro": "Reno Astalt was a controversial philosopher, theologian, and self-published author in the Current Line of Toma. He is best known for his work, Astalt's Theory of the Kingdoms, which challenged traditional views on the nature of the kingdoms and the concept of purpose."
+  },
   "Resonance": {
     "image": null,
     "intro": "Resonance is the fundamental phenomenon by which the kingdoms of Toma interact, overlap, and influence one another. In the context of the Toman Ecoss, resonance describes the natural, spiritual, and biological processes that allow traits, energies, and functions to pass between kingdoms—sometimes resulting in hybrid or entirely new forms of life. The study of resonance is central to understanding the interconnectedness of all living things in Toma, as well as the emergence of unique beings such as Resonant|Resonants and polyresonant creatures."
   },
   "Resonant": {
-    "image": "wiki_images/Resonant.png",
+    "image": null,
     "intro": "A Resonant is a unique type of creature within the Toman Ecoss that exists across two or more kingdoms, embodying the traits and functions of these kingdoms simultaneously. Resonants are often seen as hybrid entities, combining the abilities, characteristics, and purposes of multiple kingdoms into a single being. This interconnection grants them unique powers and roles within the Toman Ecoss, making them pivotal in maintaining the balance between different ecological and spiritual realms."
   },
   "Rite of Egress": {
@@ -766,6 +786,10 @@
   "Social Arts": {
     "image": null,
     "intro": "The Social Arts represent the systematic study of societal constructs and cultural dynamics. This category of disciplines scrutinizes the formation and evolution of political institutions, social hierarchies, and cultural expressions. Researchers employ methodologies such as historical analysis, ethnographic fieldwork, and sociological surveys to document the development of communities and the transmission of cultural values. The field critically examines the role of art, language, and ritual in shaping collective identities and power structures, providing insights into the mechanisms of governance, tradition, and social change."
+  },
+  "Social Taxonomy": {
+    "image": null,
+    "intro": "Social Taxonomy is a social classification system discovered to be historically significant during the Taxotheir Line. This taxonomic system has been adapted into Purpose Taxonomy at the start of the Current Line. This system and its related studies influenced the religious, academic, and philosophical perspectives of prior civilizations."
   },
   "Sol Proscima": {
     "image": null,

@@ -74,3 +74,11 @@ Continue with more sections as needed.
 - [[Related Page 3]]
 
 -->
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+An addictive substance that causes a creature to become prideful and defensive. Side-effects include aggression, paranoia, and stomach issues.
+
+Made by [[Kautiger]]
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

@@ -3,7 +3,7 @@
 
 The **Agresta Jungle** is the largest rainforest region of [[Toma]], found in northeast [[Sancta]], south of [[Kro'Tan]]. 
 
-This jungle canopy reaches, at times, miles over the [[Swirling Sea]], slowing the breeze, creating a rich breeding and hunting environment for many creatures. 
+This jungle canopy reaches, at times, miles over the [[Swirling Sea]] to the west, slowing the breeze, creating a rich breeding and hunting environment for many creatures. 
 <!-- wiki-header-section:end -->
 
 
@@ -45,4 +45,14 @@ This jungle canopy reaches, at times, miles over the [[Swirling Sea]], slowing t
 </div>
 <!-- taxonomy-table-section:end -->
 
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+[[Judh]]
 
+[[Agraial Tribelands]]
+
+[[Sipua]]
+
+
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

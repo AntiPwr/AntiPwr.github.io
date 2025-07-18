@@ -64,6 +64,8 @@ Choose one when you build your character:
 - **Zothros (Ferra-leaning):**  
   You have advantage on all Wisdom (Perception) checks relying on hearing or smell.
 
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
 
-
-
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

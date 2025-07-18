@@ -117,3 +117,23 @@ As one travels north through Vokar, the gentle delta gives way to harsher, alpin
 . Virtually nothing grows in this extreme northern subregion – at most a rare tuft of brown grass or a lichen-covered rock amid expanses of glacial till
 
 . Despite the desolation, the scenery is awe-inspiring: turquoise glacial lakes lie at the feet of towering ice-clad cliffs (as in the image above), and the air is eerily clear. During the height of winter, Vokaris and the Summons are engulfed in darkness and blizzards. All of Wyldere freezes as far south as the mid-continent in the worst years – occasionally even Sable’s southern coast sees snow – but Vokar’s salt rivers keep flowing, carving through ice fields and reminding one of the ocean’s persistent influence. In sum, northern Vokar is a land of stark contrasts. It begins with green foothills and crisp rivers, transitions into a realm of snowy forests and bare rock in the alpine zone, and ends at the monumental Summons Range – a razor-edged barrier of ice where the world seemingly ends. Both Sable and Vokar find their ultimate northern limits in those peaks, reinforcing the idea that Wyldere’s northern perimeter is as beautiful as it is deadly, shaped by both natural climate and the mystical geology of the World Gyre.
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+Warring Continent
+
+Northern continent that spans across most of the upper third of Toma, with the exclusion of the top right of Toma where Concordia and the Sea of Absence is.
+
+# Classes
+
+- [[Chain of Delta]]
+- [[Tildohsi]]
+- [[Candleflame Coalition]]
+
+[[Delta]]
+
+
+
+[[Summons Mountain Range]]
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

@@ -1,5 +1,6 @@
 <!-- wiki-header-section:start -->
 # Ferra
+_Animal Kingdom_
 
 <img src="wiki_images/Ferra.png"><i></i></img>
 
@@ -180,3 +181,54 @@ Ferra evolution is heavily influenced by their interactions with other kingdoms 
 - [[Scender]]
 - [[Latewyrm]]
 - [[Primordial]]
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+### Origin
+
+
+Simple-minded creatures tend to fall into an [[Imaa]] due to lack of awareness. Simple-minded creatures are persuaded easily by simple belief systems and tend to bandwagon their belief one to two ways.
+
+
+
+
+
+
+# Subferra
+
+
+
+## Latewyrm
+
+Any dragon present on the plane is called a Latewyrm or [[Primordial]] Wyrm, as they are remnants of a time of colossal resonant creatures.
+
+### Wyrmcept
+
+A wyrmcept is a wyrm from which more wyrms grow from. A hydra is a wyrmcept.
+
+### Serpent Ray
+
+An underwater dragon with large pectoral wing-like fins. These creatures can only fly briefly through launching themselves out of the water and gliding
+
+### Terphip
+
+A wyrm with only wings, typically skinny.
+
+### Wyrmling
+
+A baby wyrm.
+
+
+
+
+
+
+
+
+
+
+Ferra migrate from the wilds into certain city areas where they are protected. Scender is of the largest sanctuaries for Ferra, as they are accepted and incorporated into society due to cooperative belief systems. Ferran creatures in the Sanctan region of Sol Unita are allowed to be wild within certain grounds.
+
+
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

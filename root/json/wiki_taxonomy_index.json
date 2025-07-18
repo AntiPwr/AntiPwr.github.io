@@ -36,9 +36,27 @@
     "file": "Advancism.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma (Usaka) of Toman Ecoss",
+    "Kingdom": "Huma",
+    "Phylum": "Unknown",
+    "Class": "Unknown",
+    "Order": "Aeradyme",
+    "Family": null,
+    "Essa": null,
     "file": "Aeradyme.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma (Sancta, Agresta Jungle, Agraial Tribelands) of Toman Ecoss",
+    "Kingdom": null,
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
     "file": "Agraial Tribelands.md"
   },
   {
@@ -99,9 +117,27 @@
     "file": "World Map Guide.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Soul Fields of Toman Ecoss",
+    "Kingdom": "Nesa",
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
     "file": "Albumaiyhet.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma (Sancta, Jeti Sound and Nesil Grassland) of Toman Ecoss",
+    "Kingdom": "Huma, Ferra, Anthros and Zothros, Natura, Bluma",
+    "Phylum": "Asceptim",
+    "Class": "Sol Unita",
+    "Order": "Scender (Ascension Band, Alevery Commons)",
+    "Family": null,
+    "Essa": null,
     "file": "Alevery Commons.md"
   },
   {
@@ -117,6 +153,15 @@
     "file": "Alwa.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma of Toman Ecoss",
+    "Kingdom": "Ferra",
+    "Phylum": "Amarvena",
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
     "file": "Amarvena.md"
   },
   {
@@ -145,7 +190,7 @@
     "Basin": "Sacrus",
     "Eco": "Toma of Toman Ecoss",
     "Kingdom": "Ferra",
-    "Phylum": "Mohrsmunt and Amarvena (Apex and Praeda)",
+    "Phylum": "Mohrsmünt and Amarvena",
     "Class": null,
     "Order": null,
     "Family": null,
@@ -240,6 +285,27 @@
     "file": "Ashprahm.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma of Toman Ecoss",
+    "Kingdom": "Huma",
+    "Phylum": "Asceptim->Subjectivism",
+    "Class": "Sol Unita->Hypri Highcourt->Theologia Commit",
+    "Order": "Scender->Hypri->Innop",
+    "Family": "Unknown",
+    "Essa": "Reno Astalt's Soul (ATK)",
+    "file": "Astalt's Theory of the Kingdoms.md"
+  },
+  {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma of Toman Ecoss",
+    "Kingdom": "Automata",
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
     "file": "Automata.md"
   },
   {
@@ -255,9 +321,27 @@
     "file": "Avan Persevet.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma (Babadoo Slim) of Toman Ecoss",
+    "Kingdom": null,
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
     "file": "Babadoo Slim.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma (Sancta, Jeti Sound and Nesil Grassland) of Toman Ecoss",
+    "Kingdom": "Huma, Ferra, Anthros and Zothros, Natura, Bluma",
+    "Phylum": "Asceptim",
+    "Class": "Sol Unita",
+    "Order": "Scender",
+    "Family": "Ballast Sanct",
+    "Essa": null,
     "file": "Ballast Sanct.md"
   },
   {
@@ -273,12 +357,39 @@
     "file": "Basin.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma (Sancta, Agresta Jungle) of Toman Ecoss",
+    "Kingdom": null,
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
     "file": "Battle of Agresta.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma (Sancta, Agresta Jungle and Sea of Absence) of Toman Ecoss",
+    "Kingdom": null,
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
     "file": "Battle of Land, Sea, and Storm.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma (Babadoo Slim) of Toman Ecoss",
+    "Kingdom": null,
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
     "file": "Battle of the Banquet.md"
   },
   {
@@ -294,6 +405,15 @@
     "file": "Belief Gambit (Sorcerer Origin).md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toman Ecoss",
+    "Kingdom": null,
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
     "file": "Belief.md"
   },
   {
@@ -347,7 +467,7 @@
   {
     "Bin": "Scape",
     "Basin": "Sacrus",
-    "Eco": null,
+    "Eco": "Toma of Toman Ecoss",
     "Kingdom": "Celia",
     "Phylum": null,
     "Class": null,
@@ -984,6 +1104,15 @@
     "file": "Kautiger.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toman Ecoss",
+    "Kingdom": "Kingdom",
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
     "file": "Kingdom.md"
   },
   {
@@ -1116,6 +1245,27 @@
     "file": "Mycelism.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma of Toman Ecoss",
+    "Kingdom": "Ferra",
+    "Phylum": "Mohrsmünt and Amarvena",
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
+    "file": "Mythos of the Endless Hunt.md"
+  },
+  {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma of Toman Ecoss",
+    "Kingdom": "Natura",
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
     "file": "Natura.md"
   },
   {
@@ -1336,6 +1486,18 @@
     "Family": null,
     "Essa": null,
     "file": "Reins of Alwa.md"
+  },
+  {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma ([[Sancta], Usaka, Theologia]) of Toman Ecoss",
+    "Kingdom": "Huma",
+    "Phylum": "Asceptim->Subjectivism",
+    "Class": "Sol Unita->Hypri Highcourt->Theologia Commit",
+    "Order": "Scender->Hypri->Innop",
+    "Family": "Unknown",
+    "Essa": "Reno Astalt's Soul",
+    "file": "Reno Astalt.md"
   },
   {
     "Bin": "Scape",
@@ -1566,6 +1728,18 @@
     "file": "Social Arts.md"
   },
   {
+    "Bin": null,
+    "Basin": null,
+    "Eco": "Ex. Eco (Ex. Continent, Ex. Region, Ex. Location) of Ex. Ecoss",
+    "Kingdom": "Ex. Kingdom 1 and Ex. Kingdom 2",
+    "Phylum": "Ex. Phylum",
+    "Class": "Ex. Class",
+    "Order": "Ex. Order",
+    "Family": "Ex. Family",
+    "Essa": null,
+    "file": "Social Taxonomy.md"
+  },
+  {
     "file": "Sol Proscima.md"
   },
   {
@@ -1608,6 +1782,15 @@
     "file": "Spawn of Hidraal.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Soul Fields of Toman Ecoss",
+    "Kingdom": "Spira",
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
     "file": "Spira.md"
   },
   {

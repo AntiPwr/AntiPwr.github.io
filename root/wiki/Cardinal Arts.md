@@ -47,3 +47,34 @@ The nickname "Four Corners of Creation" arises from the plane's flat, roughly sq
 ## Metaphysical Connection: The Four Corners and the Search for Purpose
 
 Within the bounds of the known world—between the four corners—lies reality as it is understood. The Cardinal Arts, metaphorically anchored to these corners, are seen as the epistemological pillars through which knowledge of existence is gained. Purpose Taxonomy seeks to define the soul by the knowledge acquired from these four arts. It is hypothesized that if mastery or understanding of all four arts is achieved, the purpose of the soul can be revealed. Once the purpose of a single soul is found, it is believed that another can be discovered, and so on—leading to the possibility of uncovering the collective, quantized purpose of all life and its relationship to the environment. This process is thought to mirror the act of creation itself, suggesting that the search for purpose is both a metaphysical journey and a reflection of the universe's own origins.
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+_Four Corners of Creation_
+
+**Eco:** [[Toman Ecoss]]
+
+  
+
+The **Cardinal Arts**, sometimes referred to as the **Four Corners of Creation**, are the four most fundamental categories of academic understanding of the universe, posited by the Huma perspective's within the [[Toman Ecoss]]. The Cardinal Arts include:
+
+  
+
+- [[Natural Arts]]
+
+- [[Soul Arts]]
+
+- [[Social Arts]]
+
+- [[Applied Arts]]
+
+  
+  
+
+## Relation to Purpose Taxonomy
+
+  
+
+[[Purpose Taxonomy]] is an interdisciplinary hierarchy that aims to find the contents of one's soul through the relation it has with the environment. Essentially, this overaching umbrella classification system proposes a unification of the Cardinal Arts, combining their learnings in search of either an objective or subjective purpose within the greater universe.
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

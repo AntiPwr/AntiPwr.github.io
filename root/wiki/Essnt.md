@@ -58,3 +58,9 @@ Essnts are defined by their resonance between kingdoms. This duality grants them
 - [[Lopali]]
 - [[Kautiger]]
 - [[Qa'ura]]
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

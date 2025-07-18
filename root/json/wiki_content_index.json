@@ -31,12 +31,16 @@
   {
     "file": "Aeradyme.html",
     "title": "Aeradyme",
-    "headings": []
+    "headings": [
+      "Aeradyme"
+    ]
   },
   {
     "file": "Agraial Tribelands.html",
     "title": "Agraial Tribelands",
-    "headings": []
+    "headings": [
+      "Agraial Tribelands"
+    ]
   },
   {
     "file": "Agresta Jungle.html",
@@ -86,7 +90,11 @@
     "file": "Amarvena.html",
     "title": "Amarvena",
     "headings": [
-      "Amarvena"
+      "Amarvena",
+      "Amarvena and Mohrsmünt",
+      "The Mythos of the Endless Hunt",
+      "Cultural Significance",
+      "Legacy"
     ]
   },
   {
@@ -119,7 +127,14 @@
     "file": "Apex and Praeda.html",
     "title": "Apex and Praeda",
     "headings": [
-      "Apex and Praeda"
+      "Apex and Praeda",
+      "Apex",
+      "Praeda",
+      "The Mythos of the Endless Hunt",
+      "Cultural and Religious Significance",
+      "Legacy",
+      "Symbolism",
+      "The Dryaught: The Third Ferra God"
     ]
   },
   {
@@ -186,6 +201,13 @@
       "Clarity of Ascension",
       "Potent Spellcasting",
       "Eye of Ascension",
+      "Playing an Asceptim Cleric",
+      "Domain Spells",
+      "Insight of the First Reality",
+      "Channel Divinity: Glimpse Beyond",
+      "Clarity of Ascension",
+      "Potent Spellcasting",
+      "Eye of Ascension",
       "Playing an Asceptim Cleric"
     ]
   },
@@ -213,6 +235,14 @@
     "title": "Ashprahm",
     "headings": [
       "Ashprahm"
+    ]
+  },
+  {
+    "file": "Astalt's Theory of the Kingdoms.html",
+    "title": "Astalt's Theory of the Kingdoms",
+    "headings": [
+      "Astalt's Theory of the Kingdoms",
+      "Impact"
     ]
   },
   {
@@ -253,7 +283,9 @@
   {
     "file": "Basin.html",
     "title": "Basin",
-    "headings": []
+    "headings": [
+      "Basin"
+    ]
   },
   {
     "file": "Battle of Agresta.html",
@@ -363,7 +395,8 @@
     "headings": [
       "Cardinal Arts",
       "Relation to Purpose Taxonomy",
-      "Metaphysical Connection: The Four Corners and the Search for Purpose"
+      "Metaphysical Connection: The Four Corners and the Search for Purpose",
+      "Relation to Purpose Taxonomy"
     ]
   },
   {
@@ -378,17 +411,18 @@
     "title": "Celia",
     "headings": [
       "Celia",
-      "Subcelia",
       "Mentality and Chantae",
-      "Chantae: Goddess of Celia",
-      "Deicelia, Inoculation, and Spore Score",
+      "Chantae: Prevailing Goddess of Celia",
+      "Inoculation and Spore Score",
       "Hallid",
       "Clol",
       "Conscelia",
+      "Deicelia",
       "Mycelism",
       "Reborn",
       "Alwa: The Primordial",
       "Ecological and Biological Roles",
+      "Subcelia",
       "Rite of Recomposition and Sol Unita",
       "Scender’s Waste Problem"
     ]
@@ -510,6 +544,12 @@
       "Historical Significance",
       "Decline and Conservation",
       "Reproduction and Growth",
+      "Cultural and Economic Significance",
+      "Nature and Function",
+      "Physical Characteristics",
+      "Historical Significance",
+      "Decline and Conservation",
+      "Reproduction and Growth",
       "Cultural and Economic Significance"
     ]
   },
@@ -589,6 +629,18 @@
       "**Level 10 – Barren Exchange**",
       "**Level 15 – Weight of Death**",
       "**Level 18 – Imaan Ascendance**",
+      "**Level 3 – Grounded Stance**",
+      "**Level 3 – Endemic Rupture**",
+      "**Level 7 – Graven Grip**",
+      "**Level 10 – Barren Exchange**",
+      "**Level 15 – Weight of Death**",
+      "**Level 18 – Imaan Ascendance**",
+      "Balancing Analysis",
+      "Balancing the **Deathground** Fighter Subclass",
+      "Action Economy Considerations",
+      "Damage Output and Scaling",
+      "Resource Management and Frequency",
+      "Overall Balance and Playstyle Feedback",
       "Balancing Analysis",
       "Balancing the **Deathground** Fighter Subclass",
       "Action Economy Considerations",
@@ -682,7 +734,8 @@
       "Discovery Inspiration",
       "How It Works",
       "Purpose",
-      "See Also"
+      "See Also",
+      "Examples"
     ]
   },
   {
@@ -698,6 +751,7 @@
       "Gitbash | NodeJS | generate_wiki_previews.js",
       "Gitbash | NodeJS | generate_wiki_content_index.js",
       "Gitbash | Python | regen_wiki_html.py",
+      "Gitbash | NodeJS | not_for_live_publishing_manager.js",
       "Collections",
       "Wiki Update"
     ]
@@ -750,7 +804,8 @@
     "file": "Ester Slate.html",
     "title": "Ester Slate",
     "headings": [
-      "Ester Slate"
+      "Ester Slate",
+      "History"
     ]
   },
   {
@@ -835,6 +890,12 @@
       "The Asath Sanctuary",
       "Symbolism and Religious Importance",
       "The Underflow",
+      "Related Wiki Pages",
+      "Geography and Structure",
+      "The Asath Sanctuary",
+      "Symbolism and Religious Importance",
+      "The Underflow",
+      "Influence and Legacy",
       "Related Wiki Pages"
     ]
   },
@@ -850,14 +911,17 @@
     "file": "Gludestit.html",
     "title": "Gludestit",
     "headings": [
-      "Gludestit"
+      "Gludestit",
+      "Characteristics",
+      "Legacy"
     ]
   },
   {
     "file": "Goblin.html",
     "title": "Goblin",
     "headings": [
-      "Goblin"
+      "Goblin",
+      "Images"
     ]
   },
   {
@@ -883,8 +947,21 @@
   },
   {
     "file": "Grand Assembly.html",
-    "title": "Grand Assembly",
+    "title": "Grand Assembly: Assembling Balance Through Constituent Matrices",
     "headings": [
+      "Grand Assembly: Assembling Balance Through Constituent Matrices",
+      "I. Theoretical Foundations",
+      "A. The Core Concepts",
+      "B. The Circular Matrix as a Symbol",
+      "II. Methodology: Constructing the Assemblies",
+      "A. Building the Individual Matrices",
+      "B. Aggregating into Summarized Assemblies",
+      "III. Analysis of Flaws and Proposed Refinements",
+      "A. Weighting and Valuation",
+      "B. Subjectivity in Assessment",
+      "C. Complexity of Aggregation",
+      "D. Dynamism and Temporal Shifts",
+      "IV. Conclusion",
       "Grand Assembly",
       "Guidelines for Assessing Domains"
     ]
@@ -965,7 +1042,8 @@
     "file": "Heshiu.html",
     "title": "Heshiu",
     "headings": [
-      "Heshiu"
+      "Heshiu",
+      "Great Pearl Migration"
     ]
   },
   {
@@ -979,7 +1057,9 @@
     "file": "Hidraal.html",
     "title": "Hidraal",
     "headings": [
-      "Hidraal"
+      "Hidraal",
+      "Characteristics",
+      "Legacy"
     ]
   },
   {
@@ -1160,7 +1240,14 @@
       "Geography and Structure",
       "Southcatch: The Heart of Commerce",
       "The Asath Sanctuary and Gaudis Island",
-      "Trade and Economic Influence"
+      "Trade and Economic Influence",
+      "Jeti Sound",
+      "Geography and Structure",
+      "Southcatch: The Heart of Commerce",
+      "The Asath Sanctuary and Gaudis Island",
+      "Trade and Economic Influence",
+      "Cultural Significance",
+      "Transportation and Maritime Life"
     ]
   },
   {
@@ -1394,10 +1481,41 @@
     ]
   },
   {
+    "file": "Mythos of the Endless Hunt.html",
+    "title": "Mythos of the Endless Hunt",
+    "headings": [
+      "Mythos of the Endless Hunt",
+      "Work in Progress",
+      "I. Apex",
+      "A. Covetous Hunt",
+      "B. Fallen Feast",
+      "II. Liminant",
+      "Ideal",
+      "Lifesteal",
+      "III. Praeda",
+      "A. Zealous Pursuit",
+      "B. Infinite Injury",
+      "Analysis",
+      "Narrative Chronology",
+      "Character Dynamics"
+    ]
+  },
+  {
     "file": "Natura.html",
     "title": "Natura",
     "headings": [
-      "Natura"
+      "Natura",
+      "The Allmother and Her Children",
+      "The Children of Almauder",
+      "Known Children",
+      "Subnatura: The Elemental Species",
+      "Known Subnatura",
+      "Convergence Reputation",
+      "Will-Based Reputation Ranks",
+      "Natural Convergence: Reproduction and Disaster",
+      "Worship and Regional Practice",
+      "Philosophy and the Nature of Change",
+      "Shrines Born from Disaster: Sacred Sites of the Children"
     ]
   },
   {
@@ -1423,6 +1541,7 @@
       "Nature and Characteristics",
       "Appearance",
       "Activity Cycles",
+      "Sanctan Culture",
       "Nesa of Fealty",
       "Nesa of Duality",
       "Nesa of Kingdoms",
@@ -1492,7 +1611,10 @@
     "file": "Oshe.html",
     "title": "Oshe",
     "headings": [
-      "Oshe"
+      "Oshe",
+      "**Beliefs and Practices**",
+      "**Cultural Significance**",
+      "**Inspiration**"
     ]
   },
   {
@@ -1509,7 +1631,12 @@
     "file": "Out and Inn.html",
     "title": "Out and Inn",
     "headings": [
-      "Out and Inn"
+      "Out and Inn",
+      "Atmosphere and Design",
+      "Cuisine",
+      "Social and Cultural Importance",
+      "Connection to Hiamoe Sanct",
+      "Related Pages"
     ]
   },
   {
@@ -1595,7 +1722,11 @@
     "file": "Pria.html",
     "title": "Pria",
     "headings": [
-      "Pria"
+      "Pria",
+      "**Cultural Significance**",
+      "**Beliefs and Practices**",
+      "**Impact on New Badaba**",
+      "**Inspiration**"
     ]
   },
   {
@@ -1666,6 +1797,14 @@
     ]
   },
   {
+    "file": "Reno Astalt.html",
+    "title": "Reno Astalt",
+    "headings": [
+      "Reno Astalt",
+      "Works"
+    ]
+  },
+  {
     "file": "Resonance.html",
     "title": "Resonance",
     "headings": [
@@ -1698,6 +1837,11 @@
       "Role in Governance and Refugee Policies",
       "Personal and Philosophical Meaning",
       "Cultural Significance",
+      "Legacy and Influence",
+      "Historical Context",
+      "Role in Governance and Refugee Policies",
+      "Personal and Philosophical Meaning",
+      "Cultural Significance",
       "Legacy and Influence"
     ]
   },
@@ -1707,6 +1851,12 @@
     "headings": [
       "Rite of Passage",
       "Description",
+      "Cultural Significance",
+      "Role in Asceptim",
+      "Preservation and Legacy",
+      "Rite of Passage",
+      "Description",
+      "Historical Context",
       "Cultural Significance",
       "Role in Asceptim",
       "Preservation and Legacy"
@@ -1721,7 +1871,12 @@
       "Technological Recomposition",
       "Philosophical and Cultural Significance",
       "Legacy and Influence",
-      "Related Wiki Pages"
+      "Related Wiki Pages",
+      "Historical Context",
+      "Technological Recomposition",
+      "Philosophical and Cultural Significance",
+      "Legacy and Influence",
+      "Implementation"
     ]
   },
   {
@@ -1732,6 +1887,10 @@
       "Governance Through Connection",
       "Ophelia Necesse and the Rite of Rule",
       "Expectations of Authority",
+      "The Balance Between Power and Responsibility",
+      "Governance Through Connection",
+      "Ophelia Necesse and the Rite of Rule",
+      "Expectations of Authority",
       "The Balance Between Power and Responsibility"
     ]
   },
@@ -1739,6 +1898,10 @@
     "file": "Rite of Transference.html",
     "title": "Rite of Transference",
     "headings": [
+      "Rite of Transference",
+      "The Collective Before the Individual",
+      "Ophelia Necesse and the Rite of Transference",
+      "The Role of Reliability",
       "Rite of Transference",
       "The Collective Before the Individual",
       "Ophelia Necesse and the Rite of Transference",
@@ -1813,7 +1976,12 @@
     "file": "Sar Glass.html",
     "title": "Sar Glass",
     "headings": [
-      "Sar Glass"
+      "Sar Glass",
+      "Formation Process",
+      "Uses in Gnapan",
+      "Role in Asath Sanctuary",
+      "Cultural Significance",
+      "Role in Na'Kali Control"
     ]
   },
   {
@@ -2014,6 +2182,8 @@
     "headings": [
       "Snoller",
       "Biological Characteristics",
+      "Role in Scender",
+      "Biological Characteristics",
       "Role in Scender"
     ]
   },
@@ -2022,6 +2192,13 @@
     "title": "Social Arts",
     "headings": [
       "Social Arts"
+    ]
+  },
+  {
+    "file": "Social Taxonomy.html",
+    "title": "Social Taxonomy",
+    "headings": [
+      "Social Taxonomy"
     ]
   },
   {
@@ -2085,7 +2262,9 @@
     "file": "Spawn of Hidraal.html",
     "title": "Spawn of Hidraal",
     "headings": [
-      "Spawn of Hidraal"
+      "Spawn of Hidraal",
+      "Behidraspaan",
+      "Legacy and Influence"
     ]
   },
   {
@@ -2204,7 +2383,6 @@
     "headings": [
       "Tildohsi",
       "Main Section",
-      "Images",
       "Related Wiki Pages"
     ]
   },
@@ -2272,7 +2450,13 @@
     "file": "Underflow.html",
     "title": "Underflow",
     "headings": [
-      "Underflow"
+      "Underflow",
+      "The Passage Beneath the Sea",
+      "Spiritual Symbolism",
+      "Influence on Gaudis and Southcatch",
+      "The Underflow and the Swirling Sea",
+      "Legacy and Continued Interpretation",
+      "Related Wiki Pages"
     ]
   },
   {

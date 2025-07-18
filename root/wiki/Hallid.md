@@ -41,3 +41,11 @@ Hallid thrive in environments rich in sugars and organic material. They are esse
 - [[Celia]]
 - [[Subcelia]]
 - [[Fermentation]]
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+The Hallid are a yeast [[Celia#Subcelia|Subcelia]] that can grow from fermentation and other similar processes. Hallid look like strange creatures that grow within the liquid of the fermentation.
+
+Used in water pollution, alcohol production, 
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

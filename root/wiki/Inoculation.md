@@ -41,3 +41,18 @@ Inoculation is the process by which Chantae's influence spreads to other creatur
 - [[Spore Score]]
 - [[Reborn]]
 - [[Chantae]]
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+### Spore Score
+
+ 0-100, at 100 the player becomes turned by Chantae. Celia Damage or Celia related environmental effects can cause this to stack on victims. Constitution influences how well the player is at warding it off through a constitution saving throw. The player who is turned can still play the game (if they chose), but must listen to suggestions from the DM for their course of actions.
+
+### Spore Delusions
+
+  Spore Delusion is a mental illness caused by a creature’s Spore Score being within the 60-100 range. A character experiences major delusions, almost like a genjutsu, that is explained to the player throughout the game as if they were normal. The severity of this sickness depends where, within the range, the creature is. This sickness is essentially Chantae gaining a grip on the creature. Once a character reaches 100, these delusions are indistinguishable from reality and the character must play into them.
+
+  
+
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

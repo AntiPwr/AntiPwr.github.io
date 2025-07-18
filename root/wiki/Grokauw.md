@@ -85,3 +85,9 @@ For the orcs of Kro'Tan, the Grokauw is more than a beast; it is a force of natu
 - [[Natura]]
 - [[Sacrus]]
 - [[Orc]]
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

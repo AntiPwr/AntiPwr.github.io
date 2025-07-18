@@ -47,3 +47,29 @@ For many cultures, the Sea of Absence represents exile, endings, and the unknown
 - [[Wyldere]]
 - [[Concordia]]
 - [[Inersa]]
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+A barren sea in the northeast of Toma, off the coast of [Wyldere](https://docs.google.com/document/d/10D8PXlLEv_uIfwx1kJW3_zZX4TS_wvqO_dKRv0IMuXc/edit#heading=h.9v4t12gq8qdk), [Inersa](https://docs.google.com/document/d/10D8PXlLEv_uIfwx1kJW3_zZX4TS_wvqO_dKRv0IMuXc/edit#heading=h.g03x6l61b4cs), and [Concordia](https://docs.google.com/document/d/10D8PXlLEv_uIfwx1kJW3_zZX4TS_wvqO_dKRv0IMuXc/edit#heading=h.sxksnwmmsy0p).
+
+# Transient Straits
+
+The Transient Straits are the two waterways which lead from the [Swirling Sea](https://docs.google.com/document/d/10D8PXlLEv_uIfwx1kJW3_zZX4TS_wvqO_dKRv0IMuXc/edit#heading=h.nbr97a6x44em) to the [Sea of Absence](https://docs.google.com/document/d/10D8PXlLEv_uIfwx1kJW3_zZX4TS_wvqO_dKRv0IMuXc/edit#heading=h.b6ng7pglbmg5).
+
+
+# Pearl Natura Society
+
+A large population of resonant pearl Natura Societies exist at the deepest depths of the sea, due to the success and proliferation of [[Lichen Clam|Lichen Clams]] and [[Natura#Types of Natura|Water Natura]] in this region. This society is referred to as "Gujik". The society is simple, but expansive, offering a stable, albeit, simple life. These creatures worship [[Spawn of Hidraal#Lopali|Lopali]], whose 
+
+
+
+
+
+
+
+
+
+
+Sea Walker people who use lamps or waterlights to push back water and live peacefully within the pearl natura regions. They worship [[Spawn of Hidraal#Lopali (Serpent Ray)|Lopali]]
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

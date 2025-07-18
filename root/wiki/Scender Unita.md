@@ -42,3 +42,11 @@
 <!-- taxonomy-table-section:end -->
 
 Scender Unita is best understood as the historical and ideological root of [[Sol Unita]]. For further details, see [[Sol Unita]].
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+The prior name of [[Sol Unita]], during the early days of the [[Line from Few|Line from Few]].
+
+
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->

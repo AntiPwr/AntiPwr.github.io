@@ -197,3 +197,20 @@ Siela Qane draws inspiration from various sources, including:
 - [[Hidraal]]
 
 -->
+
+<!-- not-for-live-publishing:start -->
+<!-- obsidian-pull:start -->
+Sky Trielder, Drakemaster of [[Qa'ura]]
+
+
+
+
+Believer of Asceptim, pleas that the Sansari people, especially the Tayim Trade Republic change ideology to Asceptim. She purports to be creating the a palace in the sky for believers.
+
+female
+
+Siela Qane is a religious architect and engineer, currently working on her largest project of Palas. She is known for her artistry at the Cloudgardens (a shrine built to Qa'ura (to regain her respect and regain position of drakemaster after a mistake)). The Cloudgardens were built by hand.
+
+Siela Qane rules over the only public drake clutch, currently growing into an Imaan Plane called [[Palas]] devoted to Asath. This would be a possible second Imaan Plane of Asceptim, and thus would be linked to [[Sol Proscima]] (upon its creation) through the In-Between
+<!-- obsidian-pull:end -->
+<!-- not-for-live-publishing:end -->
