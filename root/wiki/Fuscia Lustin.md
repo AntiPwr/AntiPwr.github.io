@@ -2,6 +2,8 @@
 # Fuscia Lustin
 _Medan of Delta, Ring Leader (Geopolitics and Trade), Man of the Hour, Indhost's Shadow (from [[Indhost's Shadow]]), Man behind the Mans (from [[Indhost's Shadow]]), Corvi's Shadow, Leader of the Army of God ([[Delta]])_  
 
+<img src="wiki_images/Fuscia Lustin 4.png"></img>
+
 > _"Curiously, people resist the noble aspects of their shadow more strenuously than they hide the dark sides. To draw the skeleton out of the closet is relatively easy, but to own the gold in the shadow is terrifying."_  <br>
 > **—Robert A. Johnson**, _Owning Your Own Shadow_ <br>
 

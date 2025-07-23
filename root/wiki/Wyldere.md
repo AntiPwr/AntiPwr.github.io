@@ -3,7 +3,7 @@
 
 <img src="wiki_images/Wyldere.png"> <i>A taiga in southeast Vokar, a region of Toma's northern continent, Wyldere.</i></img>
 
-Wyldere is the northernmost continent of Toma, spanning horizontally across the upper 1/4th of the eco. 
+**Wyldere** is the northernmost continent of Toma, spanning horizontally across the upper 1/4th of the [[eco]]. 
 
 
 <!-- wiki-header-section:end -->
@@ -29,6 +29,10 @@ Wyldere is the northernmost continent of Toma, spanning horizontally across the 
   </table>
 </div>
 <!-- taxonomy-table-section:end -->
+
+
+
+<!-- not-for-live-publishing:start -->
 
 Parallel to the northern shelf is the [[Summons Mountain Range]].
 
@@ -118,7 +122,6 @@ As one travels north through Vokar, the gentle delta gives way to harsher, alpin
 
 . Despite the desolation, the scenery is awe-inspiring: turquoise glacial lakes lie at the feet of towering ice-clad cliffs (as in the image above), and the air is eerily clear. During the height of winter, Vokaris and the Summons are engulfed in darkness and blizzards. All of Wyldere freezes as far south as the mid-continent in the worst years – occasionally even Sable’s southern coast sees snow – but Vokar’s salt rivers keep flowing, carving through ice fields and reminding one of the ocean’s persistent influence. In sum, northern Vokar is a land of stark contrasts. It begins with green foothills and crisp rivers, transitions into a realm of snowy forests and bare rock in the alpine zone, and ends at the monumental Summons Range – a razor-edged barrier of ice where the world seemingly ends. Both Sable and Vokar find their ultimate northern limits in those peaks, reinforcing the idea that Wyldere’s northern perimeter is as beautiful as it is deadly, shaped by both natural climate and the mystical geology of the World Gyre.
 
-<!-- not-for-live-publishing:start -->
 <!-- obsidian-pull:start -->
 Warring Continent
 
