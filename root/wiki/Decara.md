@@ -38,6 +38,10 @@ The Decara have played a pivotal role in shaping the history and ecology of the 
 </div>
 <!-- taxonomy-table-section:end -->
 
+## Mimidry
+
+The Decara possess a unique form of adaptation known as [[Mimidry]], which allows them to mimic traits and physical forms of other kingdoms while retaining their bacterial composition. These rare creatures are called mimids and differ from regular [[Spira#Mimic|Mimics]]. For more details, see [[Mimidry]].
+
 <!--## Main Section
 
 The origin of **Decara** traces back to the [[Two Virus Mythos]], a primordial struggle between [[Gorisain]] and [[Desthema]] that shaped the nature of bacteria and decay within Toma. The Decara kingdom is marked by its adaptability and the instinctual drive for destruction, often targeting the foundations of life and creation. Their worship of Gorisain, the Protomartyr and Nesa of the Decara, is central to their culture and rituals.
@@ -149,6 +153,12 @@ As a result of having their own plane, Decaran deaths produce more variations of
 
 
 Decara’s Empire Function is not actually destruction. instead, it is their ideology under Gorisain that causes this. 
+
+
+
+Decara's relationship with the Spira Kingdom is parasitic. The Nesa aim to keep the ecoss in balance, and thus are preoccupied with [[Gorisain]] and other [[Nesa#Oneisa|Oneisa]] like [[Voyimus]] and [[Apex]]. This means there are less manifestations in Toma and less spiritual activity due to the missing troves of souls being feasted upon. This causes the line to be longer, due to the Dance of Spira filling up slower. This means the world will settle into a deep stagnation and then bursts seismically into a new era. This next gyre shift will be much larger as a result of the time spent collecting souls in relative peace. This relative peace is the [[Line from Few]], which is long and stagnates into the events of the [[Sol Reformation]], [[Fuscia Lustin|Fuscia Lustin's]] political rise, and the end of the [[War of Conclusions]]. The Current Line, is much shorter, as the Decara will reveal themselves from the underworld due to a leak in the Summons Threshold under the Chain's control. This will be due to a rebellion led by [[Dahlia]] in the mines which frees willed-mecha through resonance with the enslaved natura. Souls will almost always find their way back into this world.
+
+
 <!-- obsidian-pull:end -->
 <!--
 This section is for content, lore, or discoveries that are NOT meant for live publishing to the site. 

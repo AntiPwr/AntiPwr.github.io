@@ -24,12 +24,12 @@ Purpose Taxonomy comprises nine hierarchical ranks:
 1. **[[Bin]]:** Universe
 2. **[[Basin]]:** Dimension
 3. **[[Eco]]:** Plane
-4. **[[Kingdom]]:** Inhabitant (by Empire Function)
+4. **[[Kingdom]]:** Inhabitant (by, or not by Empire Function)
 5. **[[Phylum]]:** Ideology
 6. **[[Class]]:** Government
 7. **[[Order]]:** Civilization
 8. **[[Family]]:** Community
-9. **[[Essa]]:** Soul’s Purpose
+9. **[[Essa]]:** Soul’s Purpose (collective or individual)
 
 #### Classification Example
 
@@ -85,14 +85,18 @@ Purpose Taxonomy was conceived during the [[Taxotheir Line|Taxotheir Line]] by t
 
 #### From Social to Purpose Taxonomy
 
-The earliest form, known as **Taxotheir** or **Social Taxonomy**, emerged as societies sought to classify the world around them, their relationships, and their destinies. This system was shaped by the great Lines of Toman history:
+The earliest form, known as **Taxotheir** or **Social Taxonomy**, emerged alongside societies who needed disagreeable populations to function with one another. This began to involve relationships (family), homeland (order), and allegiance (class). 
+
+Unlike social taxonomy, purpose taxonomy evolved due to a new sanctan perspective emerging during the [[Sol Reformation]]. Although, purpose taxonomy refers to both the Chain and Sol Unita's taxonomic system, as they both are searching for the same result through branching differences around the same trunk of knowledge. 
+
+This system was shaped by the great Lines of Toman history:
 
 - **Taxotheir Line:** Systematic classification began, driven by warfare over resources and the need for order in a chaotic world.
-- **Cel Blindbirth Line:** The dominance of [[Celia]] forced Huma underground, transforming their society and deepening the need for a taxonomy that could explain both suffering and hope.
-- **Line from Few:** As Huma and others reclaimed the surface, Purpose Taxonomy was revised to reflect new realities, beliefs, and the lessons of survival and adaptation.
-- **Current Line:** The arrival of [[Automata]], the near-extinction of [[Primordials]], and the rise of new technologies have further evolved the taxonomy, making it a living system that adapts to the changing world.
+- **Cel Blindbirth Line:** The dominance of [[Celia]] on Toma's surface forced Huma (excluding West Wylderan) underground into Endem, which could be seen as arguably more dangerous depending on the historian asked. The Chain then utilized the efficacy of Social Taxonomy up until Fuscia's rise to power, which reignited Deltan academia to push for their own take on Purpose Taxonomy.
+- **Line from Few:** As most Huma lineages (excluding West Wylderan) reclaimed the surface, Purpose Taxonomy was revised by Sol Unita from the ruins of the Chain's prior era of Social Taxonomy. 
+- **Current Line:** The arrival of [[Automata]], use of therium technologies, and the near-extinction of [[Primordials]] further evolved the taxonomy in two dominant versions, the [[Sanctan perspective]] and the [[Wylderan perspective]].
 
-Throughout these eras, Purpose Taxonomy has been both a tool for understanding and a weapon for control. It has enabled the growth of knowledge, but also justified division, hierarchy, and even atrocity. Some see it as a caste system; others as a path to harmony. Its true aim, however, is to recognize that every individual has worth, and that the study of purpose is a science of connection, not separation.
+Although the [[Sanctan Perspective|Sanctan perspective]] of purpose taxonomy differs greatly from the [[Wylderan Perspective|Wylderan perspective]], both have used it as a tool for understanding and a weapon to control. It has enabled the growth of knowledge, but also justified division, hierarchy, and atrocity. Some see it as a caste system; others as a path to harmony. To Sanctans, its true aim is to recognize that every individual has worth, and that the study of purpose is a science of connection, not separation. But in Wyldere, separation from life is known to be inevitable but one's interest, the idea of a thing... that can be made immortal.
 
 ### Exception-Branching
 
@@ -106,73 +110,23 @@ Although every taxon or member is likely to be questioned by at least a few indi
 
 Generally, when a contested claim is marked on this site, it will refer to a taxon member (such as a specific city, species, or ideology). However, on this page and on other taxon pages (such as the [[Bin]], [[Basin]], or [[Eco]] page), contested taxons themselves may be discussed, reflecting the larger disputes over the structure and legitimacy of the classification system as a whole.
 
+### Specimen and Chain Political Philosophy
+
+Specimen refer to the subkingdom taxon for Huma, which is an area of Purpose Taxonomy studied primarily by the [[Chain of Delta|Chain of Delta's]] elites, as well as the [[Estal Link#Estalfolk|Estalfolk]] of [[Delta]]. Although, the people of Estal point their studies of interkingdom difference away from Huma, where as ranking officers of the Chain use it as a tool in a socially engineered system. The idea of Specimen is taboo and unrecycled in Sol Unita, as it is thought of as looking too far behind the curtains for the time period by elites, and as a monstruous evil by civilians (as of the [[Current Line]]). Whereas [[Knoire|knoires]] and [[Fuscia Lustin]] believe that it "is" society, and that preparation for the belief in specimen can't exist as the time for that passed long ago. This is due to the long, resilient history of Delta that has majorly benefitted from evolving their take on social engineering and benefitting off the backs and labor of others.
+
+The study of specimen under the Chain uses kingdoms and subkingdoms as a basis for comparative purpose, unlike other Toman classes which focus their efforts on lower taxons, primarily [[Order|orders]], [[Family|families]], and the collective [[Essa|Asceptim and the Essa|essa]]. The Chain believes that venturing further down into the lower taxons requires perfection of the upper ones, mainly the Kingdom taxon. Sol Unita knows the danger and parasitic benefit of this scientific application into society, but Ophelia Necesse is stalwart in her faith's view of collectiveness, despite [[Fuscia]]'s hegemonic advances in the [[Current Line]]. Instead, she believes there is a balance, like a tightrope, to be felt out with small steps, so that the ideas can integrate into society in a way that does not induce harm. This has become the purpose of the [[Solscept]] following Fuscia's political rise, as state-aligned and sponsored magic and education center. To Ophelia's colleagues, her ideas are reflected as radical as they are related to the Chain's image which greatly differs from Asceptim values. Although, she believes that she must not throw out every piece of the ideological claim, as she believed there is a powerful side to seeing the differences in one another. And so, in the [[Current Line]], she keeps her lips shut regarding her interest in the idea, and aims to ask for forgiveness rather than permission if that time comes. 
+
+The Chain of Delta does not engage with the idea of an Empire Function, which is a development made during the [[Sol Reformation]] which unified the people under a revised image.
+
+(See the "[[Macon Fair Bonfires]]" for an interesting rabbit hole into how the relationship between Sol Unita and the Chain of Delta erupted early in the [[Current Line]])
+
+
 <!-- not-for-live-publishing:start -->
 <!-- obsidian-pull:start -->
-**Purpose Taxonomy** is a classification system designed to organize life by its connected belief structures and destinies across the universe. It arranges existence into a vertical hierarchy of taxons—ranging from the grand scale of the universe down to the singular soul’s purpose—that define everything from geography and government to faith and dimension. Importantly, the Kingdom is only one taxon among many.
-
-At the core of this system is the recognition that every soul possesses a unique, quantized vision for the future—its intrinsic signature, termed **Kind (K or >)**. This vision is static until it is set into motion. The dynamic aspect—the rate at which that vision is realized in the world—is called **Degree (D or ^)**. In short:
-
-> **Degree = Kind’s Rate of Actualization**
-
-This interplay between the fixed vision and its actualization ultimately defines the soul’s realized destiny, or **Essa**.
-
-### Taxonomic Ranks
-
-Purpose Taxonomy comprises nine hierarchical ranks:
-
-1. **Bin**: Universe
-2. **Basin**: Dimension
-3. **Eco**: Plane
-4. **Kingdom**: Inhabitant (by Empire Function)
-5. **Phylum**: Ideology
-6. **Class**: Government
-7. **Order**: Civilization
-8. **Family**: Community
-9. **Essa**: Soul’s Purpose (the realized destiny, influenced by the rate of actualization)
-
-### Creation and Evolution
-
-- **Creation:**  
-    Conceived during the [[Taxotheir Line|Taxotheir Line]] by the Huma of Toma, Purpose Taxonomy was developed to interpret the complex interplay of [[Evolution]], [[Belief]], and [[Anim]] in the Toman Ecoss. Although initially designed as a language for simpler kingdoms, its principles extend to all life—even if categorizations may shift as beliefs evolve.
-    
-- **Social Taxonomy:**  
-    Revised during the [[Line from Few|Line from Few]] after the [[Cel Blindbirth Line|Cel Blindbirth Line]], Social Taxonomy now exists in three forms:
-    
-    1. **Taxotheir Taxonomy** – pre-Blindbirth understanding
-    2. **Current Taxonomy** – reflective of the contemporary timeline
-    3. **Complete Taxonomy** – linking to a broader comprehension of the Scape (macrocosm understanding)
-
-### Classification Template
-
-When recording a note, only the necessary taxons are included. The left-hand labels are bolded (unlinked), while the right-hand entries link to the related notes. For example:
-
-**Classification Template**
-
-- **Bin**: [[Ex. Bin]]
-- **Basin**: [[Ex. Basin]]
-- **Eco**: [[Ex. Eco]] ([[Ex. Location]], [[Ex. Region]], [[Ex. Continent]]) of [[Ex. Ecoss]]
-- **Kingdom**: [[Ex. Kingdom 1]] and [[Ex. Kingdom 2]]
-- **Phylum**: [[Ex. Phylum]]
-- **Class**: [[Ex. Class]]
-- **Order**: [[Ex. Order]]
-- **Family**: [[Ex. Family]]
-- **Essa**: [[Ex. Essa]]
-
-### Exception-Branching
-
-When a creature does not neatly fit a taxon category, its classification is marked as "EB" (Exception-Branching). For example, a human fighter following a unique religious philosophy might be designated "EB" until further evidence supports a more standard categorization.
-
-### Connection to Origin
-
-[[Origin]], found at the center of each basin follows a similar goal of finding each individual's purpose through the development and mapping of the [[Scapia Sangam]], a universal map of all life and its interdependencies.
-
-
-
-
-
 
 # To be implemented
 
 Spira’s reason could be change as they carry time with them and are energy. They also reincarnate or find host in the nonliving elements, the people see this as Natura but it is not its own kingdom.
+
 <!-- obsidian-pull:end -->
 <!-- not-for-live-publishing:end -->

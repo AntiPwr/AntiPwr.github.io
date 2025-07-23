@@ -65,6 +65,7 @@ Essa is the individual's soul—an expression of personality, purpose, and the e
 - **Crea as Core:** At the heart of every Essa is the [[Crea]], the metaphysical engine that binds time, memory, and willpower to existence.
 - **Self-Realization:** To find one's Essa is to achieve self-understanding and to know one's true purpose, no matter the current reality.
 
+## Asceptim and the Essa
 
 ## See Also
 

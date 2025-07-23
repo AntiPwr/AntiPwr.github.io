@@ -32,15 +32,6 @@ Cilladril's people aspire to unite with Hypri, but Hypri's government and native
 
 Among the many wonders of Cilladril is the legendary dung beetle known as **[[Tong]]**, a [[Primordial]] creature said to help maintain the city's balance. Tong is revered as a friend of the Growth, rolling great balls of waste and clearing paths for new growth. Folk tales say he is gentle and wise, only dangerous to those who seek to harm him or the city.
 
-<div class="feathermark">
-    <p class="feathermark-attribution">Corvi's Feathermark</p>
-    <p>
-    <b>Tiny's Tale of Tong:</b><br>
-    "I once rode atop Tong, the biggest beetle you ever did see! His shell sparkled with bits of Hypri glass, and his horns were tangled with grass and wire. We rolled a mountain of trash together, laughing as the city cheered us on. Tong only gets cross if you poke his belly or steal his dung-ball—otherwise, he's the best friend a halfling could have. When the grass sings at dusk, that's Tong humming along, keeping the city clean and the stories rolling."<br>
-    <i>—Tiny, halfling storyteller</i>
-    </p>
-</div>
-
 ## Related Wiki Pages
 
 - [[Sibannac]]

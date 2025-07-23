@@ -492,6 +492,15 @@
     "file": "Ceremony of His Eye.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma (Wyldere) of Toman Ecoss",
+    "Kingdom": "Huma, Automata, Natura, Bluma, Ferra",
+    "Phylum": "Klesn",
+    "Class": "Chain of Delta",
+    "Order": null,
+    "Family": null,
+    "Essa": null,
     "file": "Chain of Delta.md"
   },
   {
@@ -702,6 +711,18 @@
     "file": "Deicelia.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma (Wyldere, Vokar) of Toman Ecoss",
+    "Kingdom": "Huma, Automata, Natura, Bluma, Ferra, Celia",
+    "Phylum": "Klesn",
+    "Class": "Chain of Delta",
+    "Order": null,
+    "Family": null,
+    "Essa": null,
+    "file": "Delta.md"
+  },
+  {
     "file": "Dianett Sanct.md"
   },
   {
@@ -828,7 +849,7 @@
     "Bin": "Scape",
     "Basin": "Sacrus",
     "Eco": "Toma (Wyldere, Vokar) of Toman Ecoss",
-    "Kingdom": "Huma",
+    "Kingdom": "Monstra",
     "Phylum": "Klesn",
     "Class": "Chain of Delta",
     "Order": "Delta",
@@ -1213,6 +1234,9 @@
     "Family": null,
     "Essa": null,
     "file": "Metageography.md"
+  },
+  {
+    "file": "Mimidry.md"
   },
   {
     "file": "Mohrsmünt.md"

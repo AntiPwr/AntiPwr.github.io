@@ -173,7 +173,7 @@
   },
   "Chain of Delta": {
     "image": null,
-    "intro": ""
+    "intro": "The Chain of Delta is a dominant and authoritarian government power throughout Wyldere, with its capital order, Delta, located in the southern territory of Vokar. Led by the calculating and enigmatic Fuscia Lustin, the regime maintains control through a combination of his personal leadership and the rule of Chain Triarch|autocrats who govern the three Omep regions with an iron fist. The Chain enforces strict social hierarchy, uses photometal implants to suppress dissent, and relies on both military force and substance distribution to maintain order. Its influence shapes all of Wyldere, especially in Vokar, where the state's power is most deeply entrenched."
   },
   "Chantae": {
     "image": "wiki_images/Chantae.png",
@@ -254,6 +254,10 @@
   "Deicelia": {
     "image": "wiki_images/Deicelia.png",
     "intro": "Deicelia are the leader mushrooms of the Celia kingdom, usually massive and carrying the most spores. They are central to the spread of Chantae's influence and play a key role in the process of Inoculation. Deicelia often serve as focal points for Celia communities and are associated with the most powerful expressions of Chantae's will."
+  },
+  "Delta": {
+    "image": null,
+    "intro": "Delta is a technologically advanced yet deeply corrupt order in the Vokar floodplains, ruled by the totalitarian Chain of Delta|Chain. The city prioritizes efficiency, productivity, and narrative above all else, at the cost of its citizens’ well-being. Since the Line from Few, electricity has been generated and used in society by abusing and exploiting Natura, fueling rapid industrial growth. Early in the Current Line, Delta and the Chain reaches a new era of hyperindustry (frostpunk/cyberpunk) and ethnonationalism."
   },
   "Dianett Sanct": {
     "image": null,

@@ -1,10 +1,175 @@
 <!-- wiki-header-section:start -->
 # Chain of Delta
+_the Lasting Change_
 
+The **Chain of Delta** is a dominant and authoritarian government power throughout [[Wyldere]], with its capital order, [[Delta]], located in the southern territory of [[Vokar]]. Led by the calculating and enigmatic [[Fuscia Lustin]], the regime maintains control through a combination of his personal leadership and the rule of [[Chain Triarch|autocrats]] who govern the three [[Omep regions]] with an iron fist. The Chain enforces strict social hierarchy, uses photometal implants to suppress dissent, and relies on both military force and substance distribution to maintain order. Its influence shapes all of Wyldere, especially in Vokar, where the state's power is most deeply entrenched.
 <!-- wiki-header-section:end -->
+
+<!-- taxonomy-table-section:start -->
+<div class="taxonomy-table">
+  <table>
+    <tr>
+      <th colspan="3">Purpose Taxonomy</th>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="../svg/bin.svg" class="taxon-icon">Bin:</td>
+      <td class="taxon-content" colspan="2">[[Scape]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="../svg/basin.svg" class="taxon-icon">Basin:</td>
+      <td class="taxon-content" colspan="2">[[Sacrus]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="../svg/eco.svg" class="taxon-icon">Eco:</td>
+      <td class="taxon-content" colspan="2">[[Toma]] ([[Wyldere]]) of [[Toman Ecoss]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="../svg/kingdom.svg" class="taxon-icon">Kingdom:</td>
+      <td class="taxon-content" colspan="2">[[Huma]], [[Automata]], [[Natura]], [[Bluma]], [[Ferra]] </td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="../svg/phylum.svg" class="taxon-icon">Phylum:</td>
+      <td class="taxon-content" colspan="2">[[Klesn]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="../svg/class.svg" class="taxon-icon">Class:</td>
+      <td class="taxon-content" colspan="2"><b>Chain of Delta</b></td>
+    </tr>
+  </table>
+</div>
+<!-- taxonomy-table-section:end -->
+
+
+
+
+## Structure and Governance
+### Capital Order: Delta
+[[Delta]] is a technologically advanced yet deeply corrupt Order within the Toman Ecoss, ruled by the totalitarian regime known as the Chain of Delta. Delta prioritizes efficiency and productivity above all else, often at the cost of its citizens’ well-being. The state uses Natura to generate electricity, fueling rapid industrial growth while creating pollution pits and environmental hazards. Governance is heavily militarized, especially within its three Omep Region sectors, each ruled by autocrats aligned with Fuscia Lustin. The poorest sector, Rasm, lies at the northern edge, while Almalek borders the Swirling Sea to the south. The eastern sector is a militarized zone reserved for government and military operations, strictly controlled and requiring enhanced Photometal implants for entry. This sector also houses one of Delta’s two exits, a heavily guarded route only accessible with explicit government permission.
+
+Delta operates a tightly controlled society where citizens must apply for jobs through the government, which dictates their place of residence and social standing. The edge of the plane is used as an artificial border to conserve resources, with the poorest regions forced to live near this inhospitable boundary. Photometal implants are integral to this control, used extensively to track and monitor the population. These implants are taught as a religious rite of Klesn, symbolizing a ward against societal pollution, but in truth serve as tools for government surveillance, binding citizens to the state and suppressing dissent.
+
+Estal Link is the affluent region of Delta, stretching from the port to the city center, where the Illid Munis is located. This area is the only part of Delta that engages in both import and export trade, with its open market accessible only to those with citizenship in the Chain of Delta. During specific times of the year, Estal Link opens to global trade, presenting Delta as a prosperous and well-ordered city. In reality, the wealth of Estal Link is built on the suffering and exploitation of the Omep Region regions, which are closed off to outsiders.
+
+A key aspect of Delta’s internal economy and social control is the secret operation known as MExtrema. Under this program, the government produces and distributes various drugs through third-party vendors, perceived as unaffiliated with the state. This operation controls the population by fostering addiction and identifies the most successful drug users in society, who are studied to replicate their traits in others, much like Fuscia Lustin has done with his own drug use.
+
+Delta’s military is infamous for its use of drugs in combat, making its soldiers unpredictable and terrifying. The drugs administered enhance endurance, aggression, and pain tolerance, giving them a significant advantage. This chemically enhanced force is a cornerstone of Delta’s security, deterring threats and maintaining dominance in the region.
+
+Beneath the surface, Delta is a society built on deception, control, and exploitation. The power grid, seen as a marvel of Fuscia Lustin's leadership, is actually a product of extreme cruelty towards the Electricity Natura. The leader's public persona as a champion of progress and innovation masks the horrific truth of how the city's power is maintained. Delta appears to thrive, but is rotting from within due to the corruption and moral decay of its leadership.
+
+### Chain Triarch
+The Chain Triarch is the ruling body composed of three autocrats, each governing one of the Omep Regions. While they appear to operate independently, they are closely aligned and communicate constantly to enforce the will of Fuscia Lustin. The Triarch’s structure is designed to maintain a firm grip on the population, with each region strategically positioned to reinforce the regime’s control. The Triarch also plays a key role in the perpetuation of myths and the orchestration of political events, such as the Stallach coup.
+
+### The Role of the Medan
+The Medan is the supreme leader of the Chain Triarch, responsible for overseeing the entire operation and ensuring the regime’s stability. The Medan secures domestic ties, manages the distribution of power among the Triarch, and acts as the central authority in Delta. This position is crucial for maintaining the clandestine government and orchestrating the manipulation of both the population and the Triarch members themselves.
+
+### Omep Regions
+The Omep Regions are three militarized districts outside of Estal Link, all within the territory of Delta. These regions are heavily controlled by autocrats loyal to Fuscia Lustin, each governing their respective sectors with an iron fist. The Omep Regions are a stark contrast to the wealth and prosperity of Estal Link, with the people living under constant surveillance, control, and fear. The government's use of Photometal to track and monitor the population ensures that no one can escape their grip.
+
+#### Rasm
+The northwestern and poorest region, bordered by the edge of the plane to the west and the Vok Wall to the north. Rasm is a harsh, desolate area where survival is a daily struggle. The people of Rasm live in extreme poverty, with little access to resources or opportunities. The government’s control over Rasm is absolute, with the region being heavily militarized to prevent any attempts at rebellion or escape. This is the production center of Delta.
+
+#### Almalek
+The second poorest region, located to the southwest of the Estal Link and bordered by the ocean to the south. Almalek is ruled by Isaheim Maddows, a necromancer who uses a skeletal military force to maintain control. The people of Almalek live in fear of Isaheim and his undead soldiers, with many having resigned themselves to a life of oppression and despair. This region maintains agricultural and resource-harvesting requirements.
+
+#### Kleznit
+The northeastern Omep region, reserved for government and military operations. This area is strictly controlled, with access granted only to those with 3rd level Photometal implants. The Military District houses one of Delta’s two exits, a heavily guarded route that is only accessible with explicit government permission. This region serves as the nerve center of Delta’s military power, with its soldiers being heavily drugged and conditioned to obey orders without question.
+
+### Chain Triarch
+The Chain Triarch are the three Omep Region rulers, excluding Fuscia Lustin. Each Chain ruler is known as an Arch:
+- [[Isaheim Maddows]] ([[Almalek]])
+- [[Selman Oth]] ([[Rasm]])
+- [[Aj'iru]] ([[Kleznit]])
+
+#### Arch
+An Arch is an Omep Region Chain Triarch leader within the Chain of Delta.
+
+#### Almalek
+Almalek is the Omep Region focused on extraction, agriculture, basic materials, storage, processing trade, and shipmaking. While shipmakers generally come from Rasm, they use blueprints designed in Almalek. The region is home to the largest amount of saltwater rivers in the Vokar Delta, with brackish water throughout most of Almalek except for the sea touching the Mans Sea. Almalek's Delta hosts forced labor camps, primarily for agriculture and basic materials. The region contains dangerous wilderness sections, including river beasts, ogres, Monstra, and enraged natura, which society finds ways to avoid. Delta claims this territory and uses the dangers within the region to better control and motivate society. This is similar to the use of the Novelli within urban zones of Almalek and Rasm, as well as for an upward flow of information and surveillance for Kleznit and ultimately Fuscia.
+
+## Social Hierarchy and Control
+### Photometal Implants and Citizenship
+Citizenship in the Chain of Delta is marked by photometal implants, which suppress free speech and prevent the spread of the truth about Delta’s condition. These beads are upgraded to their strongest belief containment capability before a civilian is released to Estal Link, ensuring that dissent is minimized and control is maintained. The O-Cog, a type of photometal implant, becomes less noticeable over time and is most commonly found on the ventral side of the forearm.
+
+### Social Mobility, Freedoms, and Legal System
+Social mobility within the Chain of Delta is strictly regulated. Citizens earn their freedoms through a process of climbing through the Omep Regions: starting in Almalek (least freedoms, government and private labor only), then Rasm (privatized career specialization and state-aligned production goals), and finally Kleznit (military protection of infrastructure, resources, and ideology). Advancement is possible, but regression can occur from Kleznit to Rasm, never back to Almalek. In Delta's Omep Regions, it is legal to commit a crime so long as you are loyal to Fuscia's vision of the state. The government enables illegal activities to benefit from their effect on people, perpetuating the Klesn phylum belief that government is a cleansing, revitalizing force against evil.
+
+### Hallid and Clol: The Novelli
+Hallid (Yeast) and Clol (Mold) are Subcelia integrated into the governance of Delta, collectively known as the Novelli. These entities are instrumental in enforcing the state’s control, with Hallid spreading slow decay and Clol causing sudden destruction. Their opposing methods ensure that the population remains in a constant state of fear and dependency, unable to rise against Fuscia’s rule.
+
+## Myth and Manipulation
+### The Myth of Stallach
+A significant aspect of the Chain of Delta’s control is the perpetuation of the Stallach myth. Stallach is a fabricated historical event used to spread misinformation and promote the leadership of Fuscia Lustin. The myth claims that Delta suffered economic chaos due to an open port, justifying strict control and restrictive policies. In reality, Stallach was a subtle coup, involving the assassination of a Triarch member and the installation of a Mimic general, consolidating Fuscia’s power.
+
+### Keane and Propaganda
+Keane are crow huma resonants evolved to serve as a force of misinformation under the guidance of Kee and her phylum Klesn. These crows work as journalists, artists, and propagandists, spreading the regime’s narrative and absorbing natural hatred. Keane are jingoistic, promoting the Chain Triarch and Fuscia as saviors, while misguiding the population away from the regime’s true intentions.
+
+## Military and Security
+### Military Districts
+Delta’s military district is heavily fortified and serves as the only official exit from the capital order. Access is tightly controlled, and the district is designed to prevent dissent and maintain order. The military is a cornerstone of Delta’s security, with service seen as a path to economic stability and social elevation.
+
+### Drug Use in Combat
+Delta’s military is notorious for its reliance on drug use in combat, making its soldiers unpredictable and formidable. These drugs enhance endurance, aggression, and pain tolerance, giving Delta's military a significant edge. The chemically enhanced force is a key element of the regime’s control, and families often encourage enlistment for the benefits it brings.
+
+### Death Marches
+Death marches are a common tactic used on the plane’s Shelf to minimize the risk of dissent and prevent independence outside the chain. These brutal marches serve as a deterrent to rebellion and reinforce the regime’s dominance over its population.
+
+## Economy and Living Conditions
+### Economic Instability and Willed-Mecha Towns
+Delta’s economy is highly unstable, with rapid price fluctuations for goods and services. Stores do not have fixed prices; instead, customers must check with Willed-Mecha Automata workers, who display current prices on screens embedded in their metallic frames. Willed-Mecha towns benefit from tourism and trade, operating under the control of the Chain of Delta but do not openly share their relation to the state. These towns are designed to attract huma and sell a false image of Wyldere, especially during harsh winters, as a result of the regime's propaganda. Sanctans generally avoid these towns, but many Wylderans are enticed by the false information propagated throughout the region. Willed-Mecha towns are a tool for the regime to shape perception and economic flow, while hiding their true connection to the state.
+
+### Estal Link: Landing Strip
+Estal Link is Delta’s facade of prosperity, a region that opens to foreign trade during specific times of the year. During these periods, Delta presents itself as a thriving city, hiding the corruption and suffering that fuel Estal’s wealth. The Omep regions outside Estal are only allowed to export goods into Estal, sustaining its market. After the trade period ends, Estal closes to outsiders, and Delta’s true conditions remain hidden.
+
+## Social Engineering and Oppression
+### Mold and Infrastructure Collapse
+The Chain of Delta employs extensive social engineering to maintain its grip on power. The mold Clol is released through a complex sewer system, targeting specific areas at specific times. This causes infrastructure failures and societal collapse in targeted regions, forcing residents to seek refuge in more prosperous parts of the city. Access to these areas is tightly controlled, requiring government permission and the implantation of photometal beads, which suppress free speech and prevent the spread of the truth about Delta’s condition.
+
+### Controlled Opposition
+The regime uses controlled opposition to reinforce its legitimacy. The Triarch, ruling autocrats of the Omep regions, are complicit in clandestine government programs like MExtrema, which distributes drugs to foster addiction and control. Their feigned opposition bolsters Fuscia’s image as the only capable leader, while subtly flawed campaigns create a sense of dissent that is carefully managed and contained.
+
+## Path to Freedom
+### Almalek, Rasm, Kleznit Hierarchy
+For a citizen of Delta to achieve the most freedom (short of escape), they must reach Estal Link. This is done by climbing through a hierarchy: starting in Almalek (least freedoms, government and private labor only), then Rasm (privatized career specialization and state-aligned production goals), and finally Kleznit (military protection of infrastructure, resources, and ideology). Advancement is possible, but regression can occur from Kleznit to Rasm, although never back to Almalek. The process breeds strong, capable individuals, but is designed to serve the state’s interests.
+
+### Citizenship and Market Access
+Citizenship is marked by photometal implants, which are upgraded before release to Estal Link. These implants grant access to the open market but suppress free speech. Only those who have climbed the hierarchy and passed government tests are permitted to enter Estal Link, where trade and relative prosperity are possible. The system ensures that only the most loyal and controlled citizens gain market access.
+
+## Cultural and Magical Aspects
+### Types of Magic and Propaganda
+Delta has a higher concentration of magic users than any other major public-facing order, resulting in a society where magic is deeply woven into daily life and governance. This abundance of magic practitioners drives rapid development in fields such as artisanship, political maneuvering, and the leveraging of power. Artisanship magic enables individuals to achieve social mobility through skilled craft and innovation, while political and economic magics are used to accumulate influence, manipulate value, and maintain the regime’s control. The Chain of Delta’s magical culture fosters both advancement and competition, making it a center for magical progress and social transformation.
+
+### Education and Social Taxonomy
+Public education in Delta uses a hierarchical version of social taxonomy, justifying the actions of the state and society. This system spread through oral storytelling and those who fled, surviving even after the repeal of similar systems in other regions. The Chain of Delta created Social Taxonomy as a means to influence future generations and maintain control over societal information, especially during the Cel Blindbirth Line.
+
+## Notable Locations and Outposts
+### S'thresh, Ihnost
+[[Ihnost]] is the largest cliff face of the [[Summons Mountain Range]] and a significant landmark within the northern territories claimed by the Chain of Delta. Beneath Ihnost lies [[S'thresh]], a vast network of weeping caverns that serve as the hidden front of the Chain’s war against the vastless hordes of [[Decara]]. This conflict, kept entirely under wraps, is known only to the highest echelons of the regime and will later be remembered as the [[Second Endemic War]]. The Chain of Delta expends enormous resources and exploits its population to fulfill the military quotas necessary to resist the Decaran onslaught, all while maintaining secrecy from the wider world. S'thresh is riddled with battle stations and therium extraction facilities, built to fuel the regime’s war effort and resource acquisition. The caverns themselves are a symbol of the regime’s reach, the ongoing conflict, and the sacrifices demanded of its people to maintain power and resist the Decara’s attempts to reclaim the mother plane, [[Toma]], through [[Endem]].
+
+#### War with Decara: The Second Endemic War
+The war beneath Ihnost, waged in the caverns of S'thresh, is a clandestine struggle that the Chain of Delta keeps hidden from its citizens and the outside world. Known in future histories as the [[Second Endemic War]], this conflict is marked by relentless battles against Decaran forces seeking to catalyze the revitalization of their kind by breaching into [[Endem]].
+
+Unlike most wars, the Second Endemic War directly benefits the administrative drive to increase capita and resources for the regime. The people, unaware of the war’s existence, are nonetheless motivated by Fuscia Lustin’s cult of personality and the regime’s propaganda, which channels their labor and loyalty toward unseen military quotas. The war is not a unifying cause for the population, but rather a hidden engine for exploitation and resource extraction.
+
+The Second Endemic War began not long after the [[First Endemic War]], which broke out into public view by accident. The failure to cover up the First War’s existence was a major factor in Fuscia Lustin’s rise to power prior to the [[Current Line]]. Learning from the mistakes of previous rulers, Fuscia initiated the Second Endemic War with a focus on secrecy and operational efficiency, determined to achieve therium extraction without risking the esteem of the people. To Fuscia, the failures of the past were not mere errors, but signs of weakness.
+
+The First Endemic War only received its name after it became public knowledge, having started as a covert operation by the Chain before the casualty count spiked due to the increasing Decaran onslaught. The war ended with the defeat of the Decara by imploding one of the main Decaran tunnels into Endem, using baiting techniques and implosive weapons that risked military personnel for strategic gain.
+
+Casualty ratios between the two wars highlight the regime’s growing efficiency: during the Second Endemic War, casualties are 3:1 in favor of the Chain, whereas by the end of the First War, casualties were 1:2 in favor of the Decarans. Fuscia’s political rise brought a dramatic increase in the effectiveness of therium extraction operations and military strategy, solidifying his control and the regime’s dominance in the hidden war beneath S'thresh.
+
+### Isle of Kysilka
+[[Kysilka]] is a military outpost located on an rocky isle in the South Vokari [[Mans Sea]]. It serves as a strategic point for the regime, reinforcing its control over strict port access, and extending their steady naval expansion. The Chain's military operations, such as this stronghold, further isolates the population from external influence.
+
+### Propaganda and Comparative Messaging
+The Chain of Delta propagates a positive message despite suffering, using state-controlled media and social engineering to maintain morale and loyalty. In contrast, Sol Unita propagates a healthy society and hides suffering, presenting a different model of governance and public messaging.
+
+
+
+
 
 <!-- not-for-live-publishing:start -->
 <!-- obsidian-pull:start -->
+_the Lasting Change (Line from Few Sanctan Lineage)_
+
 **Bin**: [[Scape]]  
 **Basin**: [[Sacrus]]  
 **Eco**: [[Scape (TTRPG)/1 Purpose Taxonomy/Complete Taxonomy/02 Eco/01 Toman Ecoss/02 Toma/Toma]] ([[Vokar]], [[Wyldere]]) of [[Toman Ecoss]] 
@@ -108,7 +273,7 @@ PTSD and other mental health issues are often overlooked, but are incredibly com
 Death marches are a common tactic used on the plane's [[Shelf]] to minimalize the risk of dissent and the seeking of independence outside the chain.
 
 
-[[Keane]] are the name for both Zothros and Anthros crow huma resonants that were purposefully evolved to serve as a force of misinformation under the guidance of [[Kee]] and her phylum [[Klesn]]. These crows are seen as truthful by many individuals that believe in the Chain of Delta false advertisements and operations, which pretend to value the lives of the people but really only value the protection of the state and its current power structure. These crow people may work as journalists, graphic artists, or whatever other occupations spreading political propaganda sided with the Chain of Delta's three Omep regions (Each ruled by one of three Archs) or Kee's religious influence. Keane are jingoistic, whereas most inhabitants side with Fuscia, as he is seen as the savior of the common people. Of course, this is not true. This is what Fuscia wants the people to believe so that he is continuously elected and slowly gauges his people with the help of Kee, her Keane, the [[Chain Triarch]], and all the misguided citizens of Delta's regions. The Keane serve as an absorption of natural hatred, in order to misguide the people away from ever revealing the fact that Fuscia could be the orchestrator of the Chain's entire power scheme.
+[[Keane]] are the name for both Zothros and Anthros crow huma resonants that were purposefully evolved to serve as a force of misinformation under the guidance of [[Kee]] and her phylum [[Klesn]]. These crows are seen as truthful by many individuals that believe in the Chain of Delta false advertisements and operations, which pretend to value the lives of the people but really only value the protection of the state and its current power structure. These crow people may work as journalists, artists embedded into mainstream culture, or whatever other occupations spreading political propaganda sided with the Chain of Delta's three Omep regions (Each ruled by one of three Archs), as well as Kee's religious influence as of [[Fuscia Lustin| Fuscia]]'s reign. Keane are jingoistic, whereas most inhabitants side with Fuscia, as he is seen as the savior of the common people. Of course, this is not true. This is what Fuscia wants the people to believe so that he is continuously elected and slowly gauges his people with the help of Kee, her Keane, the [[Chain Triarch]], and all the misguided citizens of Delta's regions. The Keane serve as an absorption of natural hatred, in order to misguide the people away from ever revealing the fact that Fuscia could be the orchestrator of the Chain's entire power scheme.
 
 The Chain Triarch serve as scapegoats for Fuscia's public influence, but still benefit from the power scheme immensely, especially when isolated from the people they rule.
 
@@ -132,7 +297,7 @@ Chain of Delta public education uses a hierarchal version of social taxonomy, wh
 Chain of Delta has unique types of magic present, 
 Economic Magic - Focused on influencing value. Resource Magic, Therium Magic
 Industrial Magic - Focused on influencing production. Water, Electricity, Pressure, Oil, Fuel, automation, automata, etc.
-Political Magic - Backstabbing, accumulating influence, propaganda, power.
+Political Magic - Backstabbing, accumulating influence, propaganda, power, compromise.
 
 Spell idea, 
 "You summon 15 sheets of paper, distributed rather evenly, within a mile radius. These papers can be found attached to tavern doors, trees, quest boards, and other similar locations. Each paper contain the exact same information decided by the caster.. Choose up to 25 words to put on this page. This may include up to a single image or drawing, as well as other design explanations if necessary and allowed by the DM."
@@ -143,7 +308,7 @@ Upcasting this spell increases the amount of sheets of paper by 15 and the radiu
 
 
 
-
+The Chain of Delta is at constant war with the Decara in the caverns below Ihnost, where battle stations and therium extraction facilities are constructed. This infrastructure is built to extract therium from [[S'thresh]]. These are large, weeping caverns where hell rains down onto the hordes of Decara fighting for leverage into Endem, then Toma.
 
 
 
@@ -164,13 +329,20 @@ Automata in Delta come by the many, as a collective uprising against the regime,
 
 
 
-It is illegal to do drugs on the continent of Wyldere (according to the Chain’s national law). 
+It is illegal to do drugs on the continent of Wyldere (according to the Chain’s national law). This law is loosely followed and rarely a cause for arrest due to the widespread drug usage in society. However, it is used to ease the imprisonment process. Charges are often exaggerated, this is the bureaucrat's doing (Fuscia blames), but when the exaggerated claims turn out to be true, the population believes that Fuscia caused it to happen, meaning society blames a scapegoat, then rewards itself by perceiving it as a communal accomplishment rather than an injustice or failure of the judicial system.
 
 
 
 [[Kysilka]] as a name for a military outpost outside of Delta in the sea.
 
 
+In Delta's Omep Regions, it is legal to commit a crime so long as you are loyal to one's vision of the state. The government enables illegal activites to benefit from their effect on people. This leads to the belief, perpetuated in the [[Klesn]] phylum, that government is a cleansing, revitalizing force of power against evil.
+
+
+
+Willed-Mecha towns which benefit from tourism and trade, operating under the control of the Chain of Delta, but do not share their relation to the state. These towns aim to attract huma, to benefit the economy of the state. These are essentially cities that are hardcoded to be a certain way in order to benefit and sell a lie of what Wyldere is really like under the Chain's guidance. Sanctans, generally know not to enter these towns if traveling to Wyldere. Many Wylderans are enticed into these towns, especially during harsh winters, due to the false information propagated throughout the region by the chain. 
+
+The Chain of Delta propagates a positive message despite suffering, whereas Sol Unita propagates a healthy society and hides suffering.
 
 
 # Songs
@@ -179,5 +351,7 @@ It is illegal to do drugs on the continent of Wyldere (according to the Chain’
 <!-- obsidian-pull:end -->
 <!--
 The Chain of Delta created Social Taxonomy. While all Huma societies were underground, Delta planted archeological sites to influence the next generation of huma societal information This occurred during the Cel Blindbirth Line as a massive project to revitalize society through the sabotage of future nations which would compete with Delta following the dark ages caused by [[Alwa]]'s rise to power.
+
+In the Chain, people who understand and utilize the societal game being played in Delta are called Knoire (amongst Knoire). These people tend to visit or reside in Estal Link or in positions of power under Fuscia. There are plenty of people in Delta who live completely outside of reality, and instead follow the narrative of Fuscia. There are also populations who saw the leader prior to Fuscia better, but these were people in Estal Link, who received the most surveillance, as these people are outward and public-facing. In Estal Link, people tend to go missing for having "errors" in their language or sometimes are returned to the Omep Regions.  
 -->
 <!-- not-for-live-publishing:end -->
