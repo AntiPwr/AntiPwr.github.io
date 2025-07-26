@@ -89,6 +89,11 @@ Defines the individual's purpose or destiny and essence of creation representing
 
 
 Essa is based upon personality and purpose of creation. Essa is the goal of purpose taxonomy and serves as the final taxon that can be described by a few words that carry the weight of plethoric meaning.
+
+
+
+
+Essa, by some, is thought of as a collective energy that is born or created by the components of a faith, such as in Sol Unita. Essa, by others, is thought of as an individual's purpose in disregard to other lifeforms and their supposed purpose, such as in the Chain of Delta. This taxon is the largest academic point of contention between the Toman classes. 
 <!-- obsidian-pull:end -->
 <!--
 This section is for content, lore, or discoveries that are NOT meant for live publishing to the site. 

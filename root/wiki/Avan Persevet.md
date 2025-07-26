@@ -9,7 +9,7 @@ My soul is, and will be, taught a universal truth—
 as I have lived with eyes unclosed, even in the nourishment of sleep.
 This endless surge of thoughts I bear are mere dreams sent unto the world;
 only in life's banish am I now aware:
-my mind did not once brandish.
+my mind I did not once brandish.
 Thus, this is my drop of truth, the only I declare."_
 > **- Avan Persevet, [[Letter to the Lost]]**
 

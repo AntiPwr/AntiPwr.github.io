@@ -792,6 +792,18 @@
     "file": "Essnt.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma (Wyldere, Vokar) of Toman Ecoss",
+    "Kingdom": "Huma (Estalfolk)",
+    "Phylum": "Klesn",
+    "Class": "Chain of Delta",
+    "Order": "Delta (Estal Link)",
+    "Family": null,
+    "Essa": null,
+    "file": "Estal Link.md"
+  },
+  {
     "file": "Ester Slate.md"
   },
   {
@@ -1208,6 +1220,18 @@
   {
     "Bin": "Scape",
     "Basin": "Sacrus",
+    "Eco": "Toman Ecoss",
+    "Kingdom": "All",
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
+    "file": "Manifestation.md"
+  },
+  {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
     "Eco": "Toma (various aquatic locations) of Toman Ecoss",
     "Kingdom": null,
     "Phylum": null,
@@ -1216,6 +1240,18 @@
     "Family": null,
     "Essa": null,
     "file": "Manrotter.md"
+  },
+  {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma (Wyldere, Vokar) of Toman Ecoss",
+    "Kingdom": "Huma-Monstra",
+    "Phylum": "Klesn",
+    "Class": "Chain of Delta (Medan)",
+    "Order": null,
+    "Family": null,
+    "Essa": null,
+    "file": "Medan.md"
   },
   {
     "file": "Mellifera Tulscip.md"
@@ -1794,6 +1830,15 @@
     "file": "Soul Arts.md"
   },
   {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Soul Fields of Toman Ecoss",
+    "Kingdom": null,
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
     "file": "Soul Fields.md"
   },
   {

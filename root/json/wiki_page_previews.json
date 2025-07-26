@@ -173,7 +173,7 @@
   },
   "Chain of Delta": {
     "image": null,
-    "intro": "The Chain of Delta is a dominant and authoritarian government power throughout Wyldere, with its capital order, Delta, located in the southern territory of Vokar. Led by the calculating and enigmatic Fuscia Lustin, the regime maintains control through a combination of his personal leadership and the rule of Chain Triarch|autocrats who govern the three Omep regions with an iron fist. The Chain enforces strict social hierarchy, uses photometal implants to suppress dissent, and relies on both military force and substance distribution to maintain order. Its influence shapes all of Wyldere, especially in Vokar, where the state's power is most deeply entrenched."
+    "intro": "The Chain of Delta is a dominant and authoritarian government power throughout Wyldere, with its capital order, Delta, located in the southern territory of Vokar. Led by the calculating and enigmatic Fuscia Lustin, the regime maintains control through a combination of his personal leadership as Medan (Archangel) and the rule of the Chain Triarch who govern the three Omep regions with an iron fist. The Chain enforces strict social hierarchy, uses photometal implants to suppress dissent, and relies on both military force and substance distribution to maintain order. Its influence shapes all of Wyldere, especially in Vokar, where the state's power is most deeply entrenched."
   },
   "Chantae": {
     "image": "wiki_images/Chantae.png",
@@ -283,6 +283,10 @@
     "image": "wiki/wiki_images/Essnt.png",
     "intro": "An Essnt is a unique classification of Resonant that embodies both the Huma and Natura kingdoms. Essnts are uncommon, but have existed through all periods of recorded history as a minority of hybrid entities whose existence bridges the gap between humanity and the natural world, granting them abilities, perspectives, and traits from both realities. The most notable Essnts in the Current Line are the three sisters of the Ahdom Few, each collectivizing their power with a different aspect of the physical world: water, land, and sky."
   },
+  "Estal Link": {
+    "image": null,
+    "intro": "Estal Link is the most affluent region of Delta, stretching from the Mans Sea saltrivers to Delta's primary port and city center, where the Illid Munis—the stronghold of the Medan—is located. Estal Link is the only area within Delta that engages engage in direct import and export trade, making it a vital economic hub. In the Current Line under Medan Fuscia Lustin|Fuscia, the region is meticulously maintained and serves as the public face of Delta during its scheduled trade periods when the city opens to global commerce."
+  },
   "Ester Slate": {
     "image": null,
     "intro": ""
@@ -304,8 +308,8 @@
     "intro": ""
   },
   "Fuscia Lustin": {
-    "image": null,
-    "intro": ""
+    "image": "wiki/wiki_images/Fuscia Lustin 4.png",
+    "intro": "Fuscia Lustin is the enigmatic and calculating Medan (leader) of the Chain of Delta, a regime marked by totalitarian control, technological advancement, and psychological manipulation. Known by many names throughout the Toman Ecoss|ecoss, Fuscia maintains his grip on Delta through a blend of charisma, ruthless governance, and secret operations, which ultimately aims to secure a people's purpose. His leadership is defined by a relentless pursuit of power, mastery of social engineering, and a carefully constructed public persona that conceals his true nature and ambitions."
   },
   "Gaia": {
     "image": "wiki_images/.png",
@@ -507,9 +511,17 @@
     "image": "wiki/wiki_images/Malgasta.png",
     "intro": ""
   },
+  "Manifestation": {
+    "image": null,
+    "intro": "A Manifestation a type of Source Surge in the Toman Ecoss and is one of the defining pathological behaviors of the Nesa Kingdom.  Manifestation"
+  },
   "Manrotter": {
     "image": "wiki_images/Manrotter.png",
     "intro": "A Manrotter is a type of CeliaSubcelia|subcelia mushroom found in aquatic environments across Toma. Manrotters are known for their predatory, corpse-consuming behavior: they bend their wide, flexible caps to envelop and digest animal remains—either forming a dome underwater or a capsule above water. Beyond their role in decomposition and nutrient cycling, manrotters are infamous for their seductive influence on Huma and other sentient beings. Through bioluminescent displays, heated waters, and (according to folklore) even hallucinatory or psychic lures, manrotters can entice weakened or despairing individuals to willingly offer themselves to the mushroom's collective, furthering the growth of their hivemind."
+  },
+  "Medan": {
+    "image": null,
+    "intro": "The term Medan is the title given to the supreme leader of the Chain of Delta. In the context of Delta, Medan translates to \"Archangel,\" signifying both spiritual and political authority. The Medan is responsible for the governance, security, and ideological direction of Delta, wielding power above the three regional rulers known as the Chain Triarch."
   },
   "Mellifera Tulscip": {
     "image": "wiki/wiki_images/Mellifera Tulscip.png",

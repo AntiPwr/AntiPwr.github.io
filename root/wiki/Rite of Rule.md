@@ -68,7 +68,7 @@ This belief is reflected in Sol Unita’s political structure, where leadership 
 
 One of the most well-known adherents to this rite is [[Ophelia Necesse]], who follows its principles through her unguarded walks through [[Scender]]. Disguised and without protection, she ventures into the city to speak with citizens directly, listening to their concerns and learning from their struggles. These walks, often referred to as "the pilgrimage within one's own domain," are a direct expression of the Rite of Rule.
 
-Citizens who encounter Ophelia during these walks often describe strange [[Source Surges|belief events]], where their emotions and clarity of thought are subtly influenced. Whether this is a psychological phenomenon or an aspect of her connection to the divine remains a topic of speculation.
+Citizens who encounter Ophelia during these walks often describe strange [[Source Surge|belief events]], where their emotions and clarity of thought are subtly influenced. Whether this is a psychological phenomenon or an aspect of her connection to the divine remains a topic of speculation.
 
 ## Expectations of Authority
 

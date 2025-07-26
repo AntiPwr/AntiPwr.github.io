@@ -562,6 +562,7 @@
       "Kleznit",
       "Chain Triarch",
       "Arch",
+      "The Banality of Evil",
       "Almalek",
       "Social Hierarchy and Control",
       "Photometal Implants and Citizenship",
@@ -587,22 +588,10 @@
       "Types of Magic and Propaganda",
       "Education and Social Taxonomy",
       "Notable Locations and Outposts",
-      "S'thresh, Ihnost",
+      "S'thresh, Indhost",
       "War with Decara: The Second Endemic War",
       "Isle of Kysilka",
-      "Propaganda and Comparative Messaging",
-      "Structure and Governance",
-      "The Myth of Stallach",
-      "MExtrema: Social Panacea",
-      "Military Power and Drug Use",
-      "Economic System and Social Conditions",
-      "Estal Link: Landing Strip",
-      "Social Engineering and Control",
-      "Hallid and Clol: Forces of Oppression",
-      "The Slow Path to Perfection",
-      "The Role of the Klesn Phylum",
-      "The Triarch and the Omep Regions",
-      "Songs"
+      "Propaganda and Comparative Messaging"
     ]
   },
   {
@@ -994,6 +983,7 @@
     "headings": [
       "Essa",
       "What is Essa?",
+      "Asceptim and the Essa",
       "See Also"
     ]
   },
@@ -1005,6 +995,18 @@
       "Essnt Triarchy: Ahdom Few",
       "Nature and Role",
       "Related Wiki Pages"
+    ]
+  },
+  {
+    "file": "Estal Link.html",
+    "title": "Estal Link",
+    "headings": [
+      "Estal Link",
+      "Open Market and Trade Periods",
+      "Economic Control and Social Engineering",
+      "Estalfolk and Okogs",
+      "Open Market and Trade Periods",
+      "Economic Control and Social Engineering"
     ]
   },
   {
@@ -1083,11 +1085,25 @@
     "title": "Fuscia Lustin",
     "headings": [
       "Fuscia Lustin",
-      "Summary",
-      "The Ring Leader",
-      "Governance and Control",
-      "MExtrema and Secret Operations",
-      "The True Color Conflict"
+      "Medan of Delta: Leadership and Authority",
+      "Psychological Manipulation and Social Engineering",
+      "The Ring Leader: Public Persona and Masks",
+      "Bloodstream Gauntlet and Substance Mastery",
+      "Relationship with Kee and Corvi",
+      "Purpose Marking and Hidden Identity",
+      "The True Color Conflict",
+      "Influence on Delta’s Governance and Economy",
+      "Legacy and Symbolism",
+      "Fuscia Lustin",
+      "The Ring Leader: Public Persona and Masks",
+      "Medan of Delta: Leadership and Authority",
+      "Psychological Manipulation and Social Engineering",
+      "Bloodstream Gauntlet and Substance Mastery",
+      "Relationship with Kee and Corvi",
+      "Purpose Marking and Hidden Identity",
+      "The True Color Conflict",
+      "Influence on Delta’s Governance and Economy",
+      "Legacy and Symbolism"
     ]
   },
   {
@@ -1668,6 +1684,13 @@
     ]
   },
   {
+    "file": "Manifestation.html",
+    "title": "Manifestation",
+    "headings": [
+      "Manifestation"
+    ]
+  },
+  {
     "file": "Manrotter.html",
     "title": "Manrotter",
     "headings": [
@@ -1678,6 +1701,17 @@
       "Rituals and Folklore",
       "Notable Varieties",
       "Related Wiki Pages"
+    ]
+  },
+  {
+    "file": "Medan.html",
+    "title": "Medan",
+    "headings": [
+      "Medan",
+      "Etymology and Symbolism",
+      "Role in Delta",
+      "Notable Medan",
+      "The Medan Line and Democratic Function"
     ]
   },
   {
@@ -2106,12 +2140,15 @@
       "From Social to Purpose Taxonomy",
       "Exception-Branching",
       "Contested Claims",
+      "Specimen and Chain Political Philosophy",
+      "Purpose Taxonomy",
       "Taxonomic Ranks",
+      "Classification Example",
       "Creation and Evolution",
-      "Classification Template",
+      "From Social to Purpose Taxonomy",
       "Exception-Branching",
-      "Connection to Origin",
-      "To be implemented"
+      "Contested Claims",
+      "Specimen and Chain Political Philosophy"
     ]
   },
   {

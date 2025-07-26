@@ -2,7 +2,43 @@
 # Soul Fields
 <!-- wiki-header-section:end -->
 
+<!-- taxonomy-table-section:start -->
+<div class="taxonomy-table">
+  <table>
+    <tr>
+      <th colspan="3">Purpose Taxonomy</th>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="../svg/bin.svg" class="taxon-icon">Bin:</td>
+      <td class="taxon-content" colspan="2">[[Scape]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="../svg/basin.svg" class="taxon-icon">Basin:</td>
+      <td class="taxon-content" colspan="2">[[Sacrus]]</td>
+    </tr>
+    <tr>
+      <td class="taxon-label"><img src="../svg/eco.svg" class="taxon-icon">Eco:</td>
+      <td class="taxon-content" colspan="2"><b>Soul Fields</b> of [[Toman Ecoss]]</td>
+    </tr>
+  </table>
+</div>
+<!-- taxonomy-table-section:end -->
+
 <!-- not-for-live-publishing:start -->
+
+
+
+Through studies of Spira in the Soul Fields, the idea of a creature's "scape" came to be (Now, [[Closescape]] and [[Openscape]]).
+
+A creature's scape can be defined as a soul's vision into the future. Closescape is all future's unavailable to a soul within their life.Openscape is all future's available to a soul within their life.
+
+There are many versions of this thought experiment, the most fundamental using an all-powerful creature as the example. This created a necessary paradox which moved the thought experiment to a creature that is "as powerful as they can be". In this version, the creature's scape is perfect, but not infinite. This caused arguments, as some views of God were omnipotent and beyond such a framework. This is where the idea of Automata came in during the
+
+
+
+
+
+
 <!-- obsidian-pull:start -->
 **Bin**: [[Scape]]  
 **Basin**: [[Sacrus]]  
