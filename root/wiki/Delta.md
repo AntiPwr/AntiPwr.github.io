@@ -46,7 +46,7 @@
 ## Society and Governance
 Delta’s governance is heavily militarized, especially within its three Omep Regions, each ruled by autocrats loyal to Fuscia Lustin and known as the Chain Triarch or Archs. The Omep Regions are:
 
-- **Rasm**: The northwestern and poorest region, bordered by the edge of the plane to the west and the Vok Wall to the north. Rasm is a harsh, desolate area where survival is a daily struggle. The people of Rasm live in extreme poverty, with little access to resources or opportunities. The government’s control over Rasm is absolute, with the region being heavily militarized to prevent any attempts at rebellion or escape. This is the production center of Delta. Ruled by **Selman Oth**.
+- **Rasm**: The northwestern and poorest region, bordered by the edge of the plane to the west and the Vok Wall to the north. Rasm is a harsh, desolate area where survival is a daily struggle. The people of Rasm live in extreme poverty, with little access to resources or opportunities. The government’s control over Rasm is absolute, with the region being heavily militarized to prevent any attempts at rebellion or escape. This is the production center of Delta. Ruled by **Selyman Oth**.
 
 - **Almalek**: The second poorest region, located to the southwest of Estal Link and bordered by the ocean to the south. Almalek is ruled by **Isaheim Maddows**, a necromancer who uses a skeletal military force to maintain control. The people of Almalek live in fear of Isaheim and his undead soldiers, with many having resigned themselves to a life of oppression and despair. This region maintains agricultural and resource-harvesting requirements.
 
@@ -56,7 +56,7 @@ The Omep Regions are a stark contrast to the wealth and prosperity of Estal Link
 
 The Chain Triarch are the three Omep Region rulers, excluding Fuscia Lustin. Each Chain ruler is known as an Arch:
 - **Isaheim Maddows** (Almalek)
-- **Selman Oth** (Rasm)
+- **Selyman Oth** (Rasm)
 - **Kleznit Leader** (Kleznit)
 
 An Arch is an Omep Region Chain Triarch leader within the Chain of Delta.

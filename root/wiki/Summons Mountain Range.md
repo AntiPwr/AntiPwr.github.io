@@ -28,23 +28,7 @@ _Add nicknames or alternative titles here_
     </tr>
     <tr>
       <td class="taxon-label"><img src="../svg/eco.svg" class="taxon-icon">Eco:</td>
-      <td class="taxon-content" colspan="2">[[Toma]] of [[Toman Ecoss]]</td>
-    </tr>
-    <tr>
-      <td class="taxon-label"><img src="../svg/kingdom.svg" class="taxon-icon">Kingdom:</td>
-      <td class="taxon-content" colspan="2"></td>
-    </tr>
-    <tr>
-      <td class="taxon-label"><img src="../svg/phylum.svg" class="taxon-icon">Phylum:</td>
-      <td class="taxon-content" colspan="2"></td>
-    </tr>
-    <tr>
-      <td class="taxon-label"><img src="../svg/class.svg" class="taxon-icon">Class:</td>
-      <td class="taxon-content" colspan="2"></td>
-    </tr>
-    <tr>
-      <td class="taxon-label"><img src="../svg/order.svg" class="taxon-icon">Order:</td>
-      <td class="taxon-content" colspan="2"></td>
+      <td class="taxon-content" colspan="2">[[Toma]] ([[Wyldere]], <b>Summons Mountain Range</b>) of [[Toman Ecoss]]</td>
     </tr>
   </table>
 </div>
@@ -76,6 +60,9 @@ Continue with more sections as needed.
 <!-- not-for-live-publishing:start -->
 <!-- obsidian-pull:start -->
 
-The Summons is an [[Dance of Spira#Mountains and Trenches|angled mountain range]] surrounding the north of [[Vokar]], [[Gaunte Lake]],  and spanning across the entire continent of [[Wyldere]].
+The Summons is an [[angled mountain range]] surrounding the north of [[Vokar]], [[Gaunte Lake]],  and spanning across the entire continent of [[Wyldere]].
+
+Another nickname for Indhost is (Universe Collider, Plane Collider, God-touched Mountain Peak)
+
 <!-- obsidian-pull:end -->
 <!-- not-for-live-publishing:end -->

@@ -119,6 +119,18 @@
   {
     "Bin": "Scape",
     "Basin": "Sacrus",
+    "Eco": "Toma (Wyldere, Vokar) of Toman Ecoss",
+    "Kingdom": "Monstra",
+    "Phylum": "Klesn",
+    "Class": "Chain of Delta",
+    "Order": "Delta (Omep Region, Kleznit)",
+    "Family": "Unknown",
+    "Essa": "Aj'iru's Soul",
+    "file": "Aj'iru.md"
+  },
+  {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
     "Eco": "Soul Fields of Toman Ecoss",
     "Kingdom": "Nesa",
     "Phylum": null,
@@ -224,6 +236,18 @@
   {
     "Bin": "Scape",
     "Basin": "Sacrus",
+    "Eco": "Toma (Wyldere) of Toman Ecoss",
+    "Kingdom": "Monstra",
+    "Phylum": "Klesn",
+    "Class": "Chain of Delta (Chain Triarchy, Arch)",
+    "Order": null,
+    "Family": null,
+    "Essa": null,
+    "file": "Arch.md"
+  },
+  {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
     "Eco": "Toma (Arkon) of Toman Ecoss",
     "Kingdom": null,
     "Phylum": null,
@@ -295,6 +319,18 @@
     "Family": "Unknown",
     "Essa": "Reno Astalt's Soul (ATK)",
     "file": "Astalt's Theory of the Kingdoms.md"
+  },
+  {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma (Wyldere, Summons Mountain Range, Indhost, Sutresh) of Toman Ecoss",
+    "Kingdom": "Nadie, Natura, Automata",
+    "Phylum": null,
+    "Class": null,
+    "Order": null,
+    "Family": null,
+    "Essa": null,
+    "file": "Autom Liberation.md"
   },
   {
     "Bin": "Scape",
@@ -494,7 +530,7 @@
   {
     "Bin": "Scape",
     "Basin": "Sacrus",
-    "Eco": "Toma (Wyldere) of Toman Ecoss",
+    "Eco": "Toma (Wyldere, Vokar) of Toman Ecoss",
     "Kingdom": "Huma, Automata, Natura, Bluma, Ferra",
     "Phylum": "Klesn",
     "Class": "Chain of Delta",
@@ -502,6 +538,18 @@
     "Family": null,
     "Essa": null,
     "file": "Chain of Delta.md"
+  },
+  {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma (Wyldere) of Toman Ecoss",
+    "Kingdom": "Monstra",
+    "Phylum": "Klesn",
+    "Class": "Chain of Delta (Chain Triarch)",
+    "Order": null,
+    "Family": null,
+    "Essa": null,
+    "file": "Chain Triarch.md"
   },
   {
     "Bin": "Scape",
@@ -721,6 +769,9 @@
     "Family": null,
     "Essa": null,
     "file": "Delta.md"
+  },
+  {
+    "file": "Development - Download and Upload.md"
   },
   {
     "file": "Dianett Sanct.md"
@@ -1106,6 +1157,18 @@
   {
     "Bin": "Scape",
     "Basin": "Sacrus",
+    "Eco": "Toma (Wyldere, Vokar) of Toman Ecoss",
+    "Kingdom": "Monstra",
+    "Phylum": "Klesn",
+    "Class": "Chain of Delta",
+    "Order": "Delta (Omep Region, Almalek)",
+    "Family": "Unknown",
+    "Essa": "Isaheim Maddows's Soul",
+    "file": "Isaheim Maddows.md"
+  },
+  {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
     "Eco": "Toma (Usaka) of Toman Ecoss",
     "Kingdom": "Huma",
     "Phylum": "Subjectivism",
@@ -1155,10 +1218,22 @@
     "Kingdom": "Huma, Automata (Willed-Mecha)",
     "Phylum": "Klesn",
     "Class": "Chain of Delta",
-    "Order": "Delta (Kleznit)",
+    "Order": "Delta (Omep Region, Kleznit)",
     "Family": null,
     "Essa": null,
     "file": "Kleznit Advance.md"
+  },
+  {
+    "Bin": "Scape",
+    "Basin": "Sacrus",
+    "Eco": "Toma (Wyldere, Vokar) of Toman Ecoss",
+    "Kingdom": "Huma, Automata, Feignedfolk",
+    "Phylum": "Klesn",
+    "Class": "Chain of Delta",
+    "Order": "Delta (Omep Region, Kleznit)",
+    "Family": null,
+    "Essa": null,
+    "file": "Kleznit.md"
   },
   {
     "file": "Kro'Tan.md"
@@ -1877,7 +1952,7 @@
   {
     "Bin": "Scape",
     "Basin": "Sacrus",
-    "Eco": "Toma of Toman Ecoss",
+    "Eco": "Toma (Wyldere, Summons Mountain Range) of Toman Ecoss",
     "Kingdom": null,
     "Phylum": null,
     "Class": null,

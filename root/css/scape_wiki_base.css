@@ -1,3 +1,88 @@
+/* Dev Unlock Screen Styling (applies to all dev-only pages) */
+.dev-unlock-wrapper {
+    min-height: 60vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    flex: 1 0 auto;
+}
+
+body.dev-unlock-active {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.dev-unlock-active main.content {
+    flex: 1 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 0;
+}
+.dev-unlock-active footer.footer {
+    margin-top: auto;
+    position: relative;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.dev-unlock-wrapper input[type="password"] {
+    padding: 0.7em 1.2em;
+    font-size: 1.1em;
+    border-radius: 6px;
+    border: 1px solid #888;
+    margin-bottom: 1em;
+    background: #181a1b;
+    color: #f3f3f3;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    outline: none;
+    transition: border 0.2s;
+}
+.dev-unlock-wrapper input[type="password"]:focus {
+    border: 1.5px solid #4e8cff;
+}
+.dev-unlock-wrapper button {
+    padding: 0.6em 2em;
+    font-size: 1.1em;
+    border-radius: 6px;
+    border: none;
+    background: #4e8cff;
+    color: #fff;
+    cursor: pointer;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    margin-bottom: 0.5em;
+    transition: background 0.2s;
+}
+.dev-unlock-wrapper button:hover {
+    background: #2566c7;
+}
+.dev-unlock-wrapper .dev-unlock-msg {
+    color: #ff4e4e;
+    text-align: center;
+    min-height: 1.5em;
+    font-size: 1em;
+    margin-top: 0.5em;
+}
+.dev-tag {
+    display: inline-block;
+    background: #5D3FD3;
+    color: #fff;
+    font-size: 1em;
+    font-family: 'kallisto', sans-serif;
+    font-weight: 600;
+    border-radius: 8px;
+    padding: 0.3em 1.1em;
+    margin: 1.5em auto 1em auto;
+    text-align: center;
+    letter-spacing: 0.08em;
+    box-shadow: 0 2px 8px rgba(93,63,211,0.10);
+    width: fit-content;
+}
 
 /* --- Scape Wiki Preview Box Styles (Streamlined) --- */
 #wiki-preview-box {

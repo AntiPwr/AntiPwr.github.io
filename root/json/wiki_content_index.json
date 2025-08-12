@@ -60,6 +60,23 @@
     ]
   },
   {
+    "file": "Aj'iru.html",
+    "title": "Aj'iru",
+    "headings": [
+      "Aj'iru",
+      "Rank and Command",
+      "Dual Forms and Spirituality",
+      "Ancestral Spirits and Cultural Heritage",
+      "Relationship with Faith and the Chain",
+      "Combat Style and Public Persona",
+      "Relationship with Fuscia Lustin and Other Leaders",
+      "Legacy and Symbolism",
+      "Jarami",
+      "Varo",
+      "Notable Exploits and Influence"
+    ]
+  },
+  {
     "file": "Albumaiyhet.html",
     "title": "Albumaiyhet",
     "headings": [
@@ -179,6 +196,16 @@
     ]
   },
   {
+    "file": "Arch.html",
+    "title": "Arch",
+    "headings": [
+      "Arch",
+      "Role and Authority",
+      "Relationship with the Chain Triarch",
+      "Notable Arches"
+    ]
+  },
+  {
     "file": "Arkon.html",
     "title": "Arkon",
     "headings": [
@@ -295,6 +322,19 @@
     "headings": [
       "Astalt's Theory of the Kingdoms",
       "Impact"
+    ]
+  },
+  {
+    "file": "Autom Liberation.html",
+    "title": "Autom Liberation",
+    "headings": [
+      "Autom Liberation",
+      "An Unlikely Alliance",
+      "Formation of Thressle: The Birth of Nadie",
+      "Delta in Crisis: Economic and Political Shockwaves",
+      "War on Thressle and the Exodus of Free-Mecha",
+      "Legacy and Enduring Influence",
+      "Related Wiki Pages"
     ]
   },
   {
@@ -560,6 +600,56 @@
       "Rasm",
       "Almalek",
       "Kleznit",
+      "Command Structure, Military Ranks, Chain Population Terminology",
+      "Tier I — Divine Authority",
+      "Tier II — Judgment Command",
+      "Tier III — Chain Captains & Mech Armor Ranks",
+      "Tier V — Rank-and-File",
+      "Tier Null — Unofficial/Shadow Ranks",
+      "Will-Suppression, Social Engineering, and Feignedfolk",
+      "Feignedfolk",
+      "Necromancy",
+      "Robotics",
+      "Necrorobotics",
+      "Credomancy",
+      "The Banality of Evil",
+      "Social Hierarchy and Control",
+      "Photometal Implants and Citizenship",
+      "Social Mobility, Freedoms, and Legal System",
+      "Hallid and Clol: The Novelli",
+      "Myth and Manipulation",
+      "The Myth of Stallach",
+      "Keane and Propaganda",
+      "Military and Security",
+      "Military Districts",
+      "Drug Use in Combat",
+      "Death Marches",
+      "Economy and Living Conditions",
+      "Economic Instability and Willed-Mecha Towns",
+      "Estal Link: Landing Strip",
+      "Social Engineering and Oppression",
+      "Mold and Infrastructure Collapse",
+      "Controlled Opposition",
+      "Path to Freedom",
+      "Almalek, Rasm, Kleznit Hierarchy",
+      "Citizenship and Market Access",
+      "Cultural and Magical Aspects",
+      "Types of Magic and Propaganda",
+      "Education and Social Taxonomy",
+      "Notable Locations and Outposts",
+      "Sutresh, Indhost",
+      "War with Decara: The Second Endemic War",
+      "Isle of Kysilka",
+      "Propaganda and Comparative Messaging",
+      "Chain of Delta",
+      "Structure and Governance",
+      "Capital Order: Delta",
+      "Chain Triarch",
+      "The Role of the Medan",
+      "Omep Regions",
+      "Rasm",
+      "Almalek",
+      "Kleznit",
       "Chain Triarch",
       "Arch",
       "The Banality of Evil",
@@ -592,6 +682,17 @@
       "War with Decara: The Second Endemic War",
       "Isle of Kysilka",
       "Propaganda and Comparative Messaging"
+    ]
+  },
+  {
+    "file": "Chain Triarch.html",
+    "title": "Chain Triarch",
+    "headings": [
+      "Chain Triarch",
+      "Structure and Function",
+      "Relationship with the Medan",
+      "Notable Members",
+      "Influence and Legacy"
     ]
   },
   {
@@ -916,6 +1017,15 @@
     ]
   },
   {
+    "file": "Development - Download and Upload.html",
+    "title": "Development - Download and Upload",
+    "headings": [
+      "Development - Download and Upload",
+      "Download Links",
+      "Related Wiki Pages"
+    ]
+  },
+  {
     "file": "Dianett Sanct.html",
     "title": "Dianett Sanct",
     "headings": [
@@ -1004,9 +1114,7 @@
       "Estal Link",
       "Open Market and Trade Periods",
       "Economic Control and Social Engineering",
-      "Estalfolk and Okogs",
-      "Open Market and Trade Periods",
-      "Economic Control and Social Engineering"
+      "Estalfolk and Okogs"
     ]
   },
   {
@@ -1476,6 +1584,13 @@
     ]
   },
   {
+    "file": "Isaheim Maddows.html",
+    "title": "Isaheim Maddows",
+    "headings": [
+      "Isaheim Maddows"
+    ]
+  },
+  {
     "file": "Jarma Konich.html",
     "title": "Jarma Konich",
     "headings": [
@@ -1559,11 +1674,30 @@
     "title": "Kleznit Advance",
     "headings": [
       "Kleznit Advance",
+      "Overview and Command",
+      "Will-Suppression, Social Engineering, and Feignedfolk",
+      "Military Ranks of the Kleznit Advance",
+      "Tier I — Divine Authority",
+      "Tier II — Judgment Command",
+      "Tier III — Chain Captains",
+      "Mech Armor Ranks",
+      "Tier V — Rank-and-File",
+      "Tier Null — Unofficial/Shadow Ranks**",
       "Continental Operations and Military Execution Line",
       "Imperial Imagery and Attire",
       "Helmets and Mask Visages",
       "Grand Officers and Augmented Mask Visages",
-      "Fuscia Lustin’s Distinction",
+      "Related Wiki Pages"
+    ]
+  },
+  {
+    "file": "Kleznit.html",
+    "title": "Kleznit",
+    "headings": [
+      "Kleznit",
+      "Leadership",
+      "Military and Social Structure",
+      "Role in Delta’s Hierarchy",
       "Related Wiki Pages"
     ]
   },
@@ -2693,7 +2827,16 @@
     "file": "Source Surge.html",
     "title": "Source Surge",
     "headings": [
-      "Source Surge"
+      "Source Surge",
+      "Passive Surges",
+      "Controlled Surges",
+      "Claim Boxes",
+      "Activating a Controlled Surge",
+      "Forming an Avatar of Belief",
+      "Restorative Meditation",
+      "Extended Rest",
+      "Meditative Practices",
+      "Role-Playing Meditation"
     ]
   },
   {
@@ -3005,7 +3148,7 @@
     "headings": [
       "Vokar",
       "Geography and Environment",
-      "The Chain of Delta (Southern Vokar)",
+      "Southern Vokar",
       "Central and Northern Vokar: Foothills and Highlands",
       "The Summons Mountain Range",
       "Climate and Seasons",

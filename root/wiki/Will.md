@@ -1,14 +1,9 @@
 <!-- wiki-header-section:start -->
 # Will
-_Also known as WIL, Mental Reserve, or Spirit Pool_
+_WIL (5e), Reserve_
 
 <img src="wiki_images/Will.png"><i></i></img>
 
-> _"The mind is a fortress, but every wall has its cracks."_
-> **—Unknown Scholar of Toma**
-
-> _"The greatest battles are fought within."_
-> **—Real World Proverb**
 
 <!-- wiki-header-section:end -->
 

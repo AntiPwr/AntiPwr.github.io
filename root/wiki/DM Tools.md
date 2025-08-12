@@ -64,10 +64,8 @@
 - python "C:/Users/broki/OneDrive/Desktop/Sea Level Website/AntiPwr.github.io/root/python/regen_wiki_html.py"
 
 ## Gitbash | NodeJS | not_for_live_publishing_manager.js
-**Ensures every .md wiki page has a <!-- not-for-live-publishing:start -->
-<!-- obsidian-pull:start -->
+**Ensures every .md wiki page has a not-for-live-publishing:start, obsidian-pull:start, obsidian-pull:end, and not-for-live-publishing:end block at the end, and manages an inner obsidian-pull:start to obsidian-pull:end section.**
 
-<!-- obsidian-pull:end --> ... <!-- not-for-live-publishing:end --> block at the end, and manages an inner <!-- obsidian-pull:start --> ... <!-- obsidian-pull:end --> section.**
 - If the not-for-live-publishing block is missing, it is created at the end of the file.
 - If the obsidian-pull section is missing, it is created inside the not-for-live-publishing block.
 - The obsidian-pull section is always updated with content pulled from your Obsidian vault (matching file names).
@@ -75,6 +73,11 @@
 - Only the obsidian-pull section is overwritten each run.
 
 - node "C:/Users/broki/OneDrive/Desktop/Sea Level Website/AntiPwr.github.io/root/js/not_for_live_publishing_manager.js"
+
+Example Copilot Prompt:
+
+> ***Read the (File Name) obsidian-pull and compare it to the main content of the document. If there are any differences, notate them in the not-for-live-publishing section for further implementation of ideas into the file. Do not replace any information within the not-for-live-publishing, unless refining it with the newer supplemental information from the obsidian-pull. This process will maintain file preservation, ensuring no fresh content is rewritten or lost when using the not_for_live_publishing_manager.js script on its own or as part of the Wiki Update Collection script.***
+
 
 # Collections
 
@@ -87,6 +90,7 @@ node "C:/Users/broki/OneDrive/Desktop/Sea Level Website/AntiPwr.github.io/root/j
 node "C:/Users/broki/OneDrive/Desktop/Sea Level Website/AntiPwr.github.io/root/js/generate_taxonomy_index.js"
 node "C:/Users/broki/OneDrive/Desktop/Sea Level Website/AntiPwr.github.io/root/js/generate_cardinal_arts_index.js"
 node "C:/Users/broki/OneDrive/Desktop/Sea Level Website/AntiPwr.github.io/root/js/generate_wiki_previews.js"
+
 node "C:/Users/broki/OneDrive/Desktop/Sea Level Website/AntiPwr.github.io/root/js/not_for_live_publishing_manager.js"
 
 

@@ -91,6 +91,10 @@
     "image": null,
     "intro": "Astalt's Theory of the Kingdoms (ATK) is a foundational work in the theology and philosophy of the Current Line, particularly under Sol Unita|Sol Unita's domination over Sanctan culture. The theory is a set of observations, studies, trials, and commentaries on the nature and structure of the various kingdoms of Toma."
   },
+  "Autom Liberation": {
+    "image": null,
+    "intro": "Bin: Scape"
+  },
   "Automata": {
     "image": null,
     "intro": ""
@@ -258,6 +262,10 @@
   "Delta": {
     "image": null,
     "intro": "Delta is a technologically advanced yet deeply corrupt order in the Vokar floodplains, ruled by the totalitarian Chain of Delta|Chain. The city prioritizes efficiency, productivity, and narrative above all else, at the cost of its citizens’ well-being. Since the Line from Few, electricity has been generated and used in society by abusing and exploiting Natura, fueling rapid industrial growth. Early in the Current Line, Delta and the Chain reaches a new era of hyperindustry (frostpunk/cyberpunk) and ethnonationalism."
+  },
+  "Development - Download and Upload": {
+    "image": null,
+    "intro": "This page is not intended for live publishing or general user access, and is thus password-protected. This password can be found on Sea Level Discord server"
   },
   "Dianett Sanct": {
     "image": null,
@@ -461,7 +469,11 @@
   },
   "Kleznit Advance": {
     "image": "wiki/wiki_images/Kleznit Advance.png",
-    "intro": "The Kleznit Advance is the Imperial Army of the Chain of Delta, renowned for its discipline, power, and distinctive appearance. The military is based out of the third Omep Region of Delta, Kleznit."
+    "intro": "The Kleznit Advance is the imperial army of the Chain of Delta, renowned for its discipline and power over west Wyldere. The military is based out of the third Omep Region of Delta, Kleznit."
+  },
+  "Kleznit": {
+    "image": null,
+    "intro": "Kleznit is the northeastern Omep Region of the Delta, reserved for government and military operations. It is the most secure and strictly controlled region, requiring advanced photometal implants for access. Kleznit serves as the nerve center of Delta’s military power, housing the headquarters of the Kleznit Advance and the region’s most elite forces."
   },
   "Kro'Tan": {
     "image": null,
@@ -920,8 +932,8 @@
     "intro": ""
   },
   "Vokar": {
-    "image": "wiki_images/Vokar.png",
-    "intro": "Vokar is the westernmost region of Wyldere, defined by its vast river delta, fertile plains, and the dramatic rise of the Summons Mountain Range to the north. The region is a land of contrasts—lush wetlands in the south, alpine valleys in the center, and icy mountains in the north. Vokar’s unique geography and climate shape its culture, economy, and way of life."
+    "image": null,
+    "intro": "Vokar is the westernmost region of Wyldere, defined by its vast brackish river delta, fertile plains, and the dramatic rise of the Summons Mountain Range to the north. The region is a land of contrasts—lush wetlands in the south, alpine valleys in the center, and icy mountains in the north. Vokar’s unique geography and climate shape its culture, economy, and way of life."
   },
   "Walkers of Duality": {
     "image": null,

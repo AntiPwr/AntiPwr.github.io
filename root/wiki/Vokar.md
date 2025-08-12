@@ -1,13 +1,8 @@
 <!-- wiki-header-section:start -->
 # Vokar
-_Summons Riverplains_
+_Riverplains_
 
-<img src="wiki_images/Vokar.png"><i>The Chain of Delta in southern Vokar, Wyldere's westernmost region.</i></img>
-
-> "Where salt rivers never freeze and the land is reborn each spring, Vokar is a realm of abundance and endurance."
-> —Scape Wiki
-
-Vokar is the westernmost region of [[Wyldere]], defined by its vast river delta, fertile plains, and the dramatic rise of the Summons Mountain Range to the north. The region is a land of contrasts—lush wetlands in the south, alpine valleys in the center, and icy mountains in the north. Vokar’s unique geography and climate shape its culture, economy, and way of life.
+Vokar is the westernmost region of [[Wyldere]], defined by its vast brackish river delta, fertile plains, and the dramatic rise of the Summons Mountain Range to the north. The region is a land of contrasts—lush wetlands in the south, alpine valleys in the center, and icy mountains in the north. Vokar’s unique geography and climate shape its culture, economy, and way of life.
 <!-- wiki-header-section:end -->
 
 <!-- taxonomy-table-section:start -->
@@ -35,8 +30,8 @@ Vokar is the westernmost region of [[Wyldere]], defined by its vast river delta,
 
 ## Geography and Environment
 
-### The Chain of Delta (Southern Vokar)
-Vokar’s southern expanse is a vast river delta known as the “Chain of Delta.” Fertile flatlands are shaped by countless braided saltwater rivers that never freeze, even in winter. The delta is lush and green in spring and summer, with abundant crops and wildlife. Winters are long and snowy, but the rivers continue to flow, providing vital navigation and fishing year-round. Mist rises from the rivers on cold mornings, and the wetlands attract waterfowl and other wildlife.
+### Southern Vokar
+Vokar’s southern expanse is a vast river delta. Fertile flatlands are shaped by countless braided saltwater rivers that never freeze, even in winter. The delta is lush and green in spring and summer, with abundant crops and wildlife. Winters are long and snowy, but the rivers continue to flow, providing vital navigation and fishing year-round. Mist rises from the rivers on cold mornings, and the wetlands attract waterfowl and other wildlife.
 
 ### Central and Northern Vokar: Foothills and Highlands
 As one travels north, the delta gives way to rolling flatlands, then foothills, and finally sharp mountain inclines. Spring brings alpine flowers and birch groves to the valleys, while autumn brings early frosts and snow. The far north, called Vokaris, endures arctic cold, permafrost, and patches of tundra vegetation.
@@ -59,5 +54,7 @@ Vokar’s people are shaped by the land’s abundance and challenges. Settlement
 <!-- not-for-live-publishing:start -->
 <!-- obsidian-pull:start -->
 Vokar is a snowy plains region in northwest [[Wyldere]]. This region is home to the largest mountains in the [[Summons Mountain Range|Summons Range]].
+
+Beaked raptors, plainstriders, bipedal large flightless birds. This species is related to a past age of dragons under Hidraal reign over the [[Ferra]].
 <!-- obsidian-pull:end -->
 <!-- not-for-live-publishing:end -->
